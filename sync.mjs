@@ -88,8 +88,19 @@ const PAGE_SIZE = 24
  */
 const REPO_LIMIT_GB = Number(process.env.MIRROR_REPO_LIMIT_GB || 20)
 
-/** GitHub tek dosyada 100 MB'ı reddediyor. Payla birlikte 95 MB'ta kesiyoruz. */
-const MAX_FILE_BYTES = 95 * 1024 * 1024
+/**
+ * Blob API'sinin pratik dosya sınırı.
+ *
+ * GitHub'ın belgelenmiş sert sınırı dosya başına 100 MB ama o, git ile
+ * push edilen dosyalar için. Blob API'sinde içerik base64 gönderiliyor
+ * (%33 şişme) ve istek gövdesi çok daha erken doluyor: sahada 422
+ * "Sorry, your input was too large to process" alındı.
+ *
+ * 25 MB güvenli tarafta kalıyor (base64 sonrası ~33 MB). Üstündekiler
+ * manifeste `too_large` yazılıp atlanıyor ve site onlar için kaynağın
+ * adresine düşüyor.
+ */
+const MAX_FILE_BYTES = Number(process.env.MIRROR_MAX_FILE_MB || 25) * 1024 * 1024
 
 const API = 'https://api.github.com'
 const TOKEN = process.env.GITHUB_TOKEN || ''
@@ -328,6 +339,7 @@ async function commitFiles(repo, entries, message) {
   const base = `/repos/${OWNER}/${repo}`
 
   let lastSha = null
+  const rejected = []
 
   // 265 girdilik tek ağaç denendi, GitHub 502 döndü. Parçalara bölüp
   // her parçayı kendi commit'inde işliyoruz; her parça bir öncekinin
@@ -335,15 +347,30 @@ async function commitFiles(repo, entries, message) {
   for (let i = 0; i < entries.length; i += TREE_CHUNK) {
     const chunk = entries.slice(i, i + TREE_CHUNK)
 
-    const tree = await mapLimit(chunk, UP_CONCURRENCY, async (e) => {
-      const blob = await retry(() =>
-        gh(`${base}/git/blobs`, {
-          method: 'POST',
-          body: JSON.stringify({ content: e.contentBase64, encoding: 'base64' }),
-        }),
-      )
-      return { path: e.path, mode: '100644', type: 'blob', sha: blob.sha }
+    /*
+     * Tek bir dosyanın reddedilmesi bütün turu öldürmemeli.
+     *
+     * Sahada bu oldu: 250 dosya / 2,3 GB indirildi, bir tanesi 422 verdi
+     * ve turun tamamı çöpe gitti. Artık sorunlu dosya atlanıp geri kalan
+     * yazılıyor; atlananlar çağırana bildiriliyor.
+     */
+    const results = await mapLimit(chunk, UP_CONCURRENCY, async (e) => {
+      try {
+        const blob = await retry(() =>
+          gh(`${base}/git/blobs`, {
+            method: 'POST',
+            body: JSON.stringify({ content: e.contentBase64, encoding: 'base64' }),
+          }),
+        )
+        return { path: e.path, mode: '100644', type: 'blob', sha: blob.sha }
+      } catch (err) {
+        log(`    atlandı (yüklenemedi): ${e.path} — ${String(err.message).split('\n')[0]}`)
+        rejected.push(e.path)
+        return null
+      }
     })
+    const tree = results.filter(Boolean)
+    if (!tree.length) continue
 
     // Dal ucunu her parçada yeniden oku: bir önceki parça onu ilerletti.
     const ref = await retry(() => gh(`${base}/git/ref/heads/${BRANCH}`))
@@ -377,7 +404,7 @@ async function commitFiles(repo, entries, message) {
     }
   }
 
-  return lastSha
+  return { sha: lastSha, rejected }
 }
 
 /**
@@ -496,14 +523,17 @@ async function syncImages(manifest) {
   if (!batch.length) return missing.length
 
   log(`${batch.length} resim / ${mb(bytes)} yükleniyor → ${repo}`)
-  await commitFiles(
+  const res = await commitFiles(
     repo,
     batch.map((b) => ({ path: IMAGE_DIR + b.key, contentBase64: b.buffer.toString('base64') })),
     `arşiv: ${batch.length} yeni kapak resmi`,
   )
 
+  // Yüklenemeyenleri manifeste yazma; sonraki turda tekrar denensin.
+  const failed = new Set((res.rejected || []).map((p) => p.slice(IMAGE_DIR.length)))
   const now = new Date().toISOString()
   for (const b of batch) {
+    if (failed.has(b.key)) continue
     manifest.images[b.key] = {
       repo,
       size: b.buffer.length,
@@ -546,6 +576,15 @@ async function main() {
   if (!has('skip-images')) {
     try {
       await syncImages(manifest)
+      /*
+       * Manifesti HEMEN kaydet.
+       *
+       * Eskiden yalnızca tur sonunda kaydediliyordu: dosya aşaması
+       * çöktüğünde resimler depoya yazılmış ama manifeste işlenmemiş
+       * oluyordu ve sonraki tur hepsini baştan indiriyordu. Sahada 400
+       * resim böyle iki kez indirildi.
+       */
+      if (!DRY_RUN) await saveManifest(manifest)
     } catch (e) {
       // Resim aşaması patlarsa dosya aşaması yine de çalışsın.
       log('resim aşaması hata verdi: ' + e.message)
@@ -650,15 +689,31 @@ async function main() {
 
   log(`\n${batch.length} dosya / ${mb(bytes)} yükleniyor → ${repo}`)
 
-  const sha = await commitFiles(
+  const res = await commitFiles(
     repo,
     batch.map((b) => ({ path: b.path, contentBase64: b.buffer.toString('base64') })),
     `arşiv: ${batch.length} yeni mod`,
   )
-  log(`commit: ${sha?.slice(0, 8)}`)
+  log(`commit: ${res.sha?.slice(0, 8)}`)
 
+  /*
+   * Yüklenemeyen dosyalar manifeste `too_large` yazılıyor: boyut
+   * eşiğini geçtikleri için değil, API onları kabul etmediği için.
+   * Böylece her turda tekrar indirilmiyorlar ve site bu modlar için
+   * kaynağın adresine düşüyor.
+   */
+  const failed = new Set(res.rejected || [])
   const now = new Date().toISOString()
   for (const b of batch) {
+    if (failed.has(b.path)) {
+      known[b.path] = {
+        size: b.buffer.length,
+        too_large: true,
+        source_url: SOURCE_RAW + b.path.split('/').map(encodeURIComponent).join('/'),
+        first_seen: now,
+      }
+      continue
+    }
     known[b.path] = {
       repo,
       path: b.path,
