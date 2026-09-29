@@ -282,6 +282,114 @@ async function commitFiles(repo, entries, message) {
   return lastSha
 }
 
+/**
+ * API'yi sayfalayarak bütün kapak resmi anahtarlarını toplar.
+ * Sayfa boyutu sabit 24; `limit` parametresi yok sayılıyor, `page` çalışıyor.
+ */
+async function fetchAllThumbnailKeys() {
+  const keys = new Set()
+  let page = 1
+  let total = null
+
+  while (true) {
+    let data
+    try {
+      data = await retry(async () => {
+        const r = await fetch(`${SOURCE_API}?page=${page}`, {
+          headers: { 'User-Agent': 'autrex-mod-mirror' },
+        })
+        if (!r.ok) throw new Error(`api ${r.status}`)
+        return r.json()
+      }, 2, 1500)
+    } catch (e) {
+      /*
+       * Son sayfanın ötesini isteyince API 500 "Requested range not
+       * satisfiable" dönüyor — hata değil, liste bitti demek. `total`
+       * sayfa boyutuna tam bölünmediği için hesapla durmak güvenilir
+       * değil (129. sayfada 1 kayıt var, 130 patlıyor).
+       */
+      log(`  sayfa ${page} alınamadı (${e.message}), liste bitti sayılıyor`)
+      break
+    }
+
+    const mods = Array.isArray(data.mods) ? data.mods : []
+    if (total === null) total = Number(data.total || 0)
+    if (!mods.length) break
+
+    for (const m of mods) {
+      const k = String(m.thumbnailKey || '').trim()
+      if (k && !/^https?:\/\//i.test(k)) keys.add(k.replace(/^\/+/, ''))
+    }
+
+    if (mods.length < PAGE_SIZE) break
+    page++
+    if (page > 1000) break
+  }
+  return { keys: [...keys], total }
+}
+
+/** Kapak resimlerini aynala. Mod dosyalarından ayrı, kendi bütçesiyle. */
+async function syncImages(manifest) {
+  log('\n── kapak resimleri ──')
+  const { keys, total } = await fetchAllThumbnailKeys()
+  log(`API: ${total} mod | benzersiz kapak: ${keys.length} | arşivde: ${Object.keys(manifest.images).length}`)
+
+  const missing = keys.filter((k) => !manifest.images[k])
+  if (!missing.length) {
+    log('kapak resimleri güncel.')
+    return 0
+  }
+  log(`eksik: ${missing.length}`)
+  if (DRY_RUN) return missing.length
+
+  const repo = pickRepo(manifest)
+  const batch = []
+  let bytes = 0
+
+  for (const key of missing) {
+    if (batch.length >= MAX_FILES || bytes >= MAX_BYTES) break
+    const url = SOURCE_IMG + key.split('/').map(encodeURIComponent).join('/')
+    let buf
+    try {
+      buf = await retry(async () => {
+        const r = await fetch(url, { headers: { 'User-Agent': 'autrex-mod-mirror' } })
+        if (!r.ok) throw new Error(`indirilemedi ${r.status}`)
+        return Buffer.from(await r.arrayBuffer())
+      }, 2, 1500)
+    } catch (e) {
+      log(`  atlandı: ${key} — ${e.message}`)
+      continue
+    }
+    if (buf.length > MAX_FILE_BYTES) continue
+    batch.push({ key, buffer: buf })
+    bytes += buf.length
+  }
+
+  if (!batch.length) return missing.length
+
+  log(`${batch.length} resim / ${mb(bytes)} yükleniyor → ${repo}`)
+  await commitFiles(
+    repo,
+    batch.map((b) => ({ path: IMAGE_DIR + b.key, contentBase64: b.buffer.toString('base64') })),
+    `arşiv: ${batch.length} yeni kapak resmi`,
+  )
+
+  const now = new Date().toISOString()
+  for (const b of batch) {
+    manifest.images[b.key] = {
+      repo,
+      size: b.buffer.length,
+      first_seen: now,
+      raw_url: `https://raw.githubusercontent.com/${OWNER}/${repo}/${BRANCH}/${IMAGE_DIR}${encodeURIComponent(b.key)}`,
+      // Küçük dosyalar için jsDelivr gerçek bir CDN; hız sınırı derdi yok.
+      cdn_url: `https://cdn.jsdelivr.net/gh/${OWNER}/${repo}@${BRANCH}/${IMAGE_DIR}${encodeURIComponent(b.key)}`,
+    }
+  }
+  manifest.repo_bytes[repo] = (manifest.repo_bytes[repo] || 0) + bytes
+  log(`kalan resim: ${missing.length - batch.length}`)
+  return missing.length - batch.length
+}
+
 // ── Ana akış ─────────────────────────────────────────────────────────
 async function main() {
   if (!TOKEN && !DRY_RUN) {
