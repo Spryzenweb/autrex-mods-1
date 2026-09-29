@@ -1,0 +1,65 @@
+name: Arşiv senkronu
+
+# Kaynaktaki yeni mod dosyalarını ve kapak resimlerini bu depoya kopyalar.
+# Kaynaktan SİLİNEN hiçbir şey buradan silinmez — arşivin amacı bu.
+#
+# Actions'ın kendi GITHUB_TOKEN'i bu depoya yazabildiği için ayrıca
+# kişisel erişim jetonu üretmeye gerek yok.
+
+on:
+  schedule:
+    # Her pazartesi 04:00 UTC
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+    inputs:
+      rounds:
+        description: 'Kaç tur çalışsın (ilk doldurmada artır)'
+        required: false
+        default: '20'
+      mode:
+        description: 'images | files | all'
+        required: false
+        default: 'all'
+
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Senkron
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MIRROR_OWNER: ${{ github.repository_owner }}
+          MIRROR_REPOS: ${{ github.event.repository.name }}
+        run: |
+          rounds="${{ github.event.inputs.rounds || '4' }}"
+          mode="${{ github.event.inputs.mode || 'all' }}"
+          case "$mode" in
+            images) extra="--only-images" ;;
+            files)  extra="--skip-images" ;;
+            *)      extra="" ;;
+          esac
+
+          for i in $(seq 1 "$rounds"); do
+            echo "─── tur $i / $rounds ───"
+            set +e
+            node sync.mjs $extra --max-files 150 --max-bytes 600MB
+            code=$?
+            set -e
+            if [ "$code" -eq 2 ]; then echo "arşiv güncel, duruluyor"; break; fi
+            if [ "$code" -ne 0 ]; then echo "senkron hata verdi ($code)"; exit "$code"; fi
+            sleep 3
+          done
