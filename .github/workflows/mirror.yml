@@ -65,7 +65,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MOD_MIRROR_TOKEN || secrets.GITHUB_TOKEN }}
           MIRROR_OWNER: ${{ github.repository_owner }}
           MIRROR_REPOS: ${{ vars.MIRROR_REPOS || github.event.repository.name }}
-          MIRROR_REPO_LIMIT_GB: ${{ vars.MIRROR_REPO_LIMIT_GB || '20' }}
+          # Tek depoda büyümesi kabul edildi — kaynak deponun kendisi de
+          # 56 GB ile çalışıyor. Bu eşik pratikte devreye girmiyor; yalnızca
+          # kaynak beklenmedik şekilde büyürse yeni depo denemesi tetiklenir.
+          MIRROR_REPO_LIMIT_GB: ${{ vars.MIRROR_REPO_LIMIT_GB || '90' }}
+          # Sıralı indirme/yükleme en büyük darboğazdı; paralel çalışıyor.
+          MIRROR_DL_CONCURRENCY: '10'
+          MIRROR_UP_CONCURRENCY: '6'
         run: |
           rounds="${{ github.event.inputs.rounds || '60' }}"
           mode="${{ github.event.inputs.mode || 'all' }}"
@@ -78,7 +84,7 @@ jobs:
           for i in $(seq 1 "$rounds"); do
             echo "─── tur $i / $rounds ───"
             set +e
-            node sync.mjs $extra --max-files 150 --max-bytes 600MB
+            node sync.mjs $extra --max-files 400 --max-bytes 2GB
             code=$?
             set -e
             if [ "$code" -eq 2 ]; then echo "arşiv güncel, duruluyor"; break; fi
