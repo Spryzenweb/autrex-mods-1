@@ -84,7 +84,7 @@ jobs:
           for i in $(seq 1 "$rounds"); do
             echo "─── tur $i / $rounds ───"
             set +e
-            node sync.mjs $extra --max-files 400 --max-bytes 2GB
+            node sync.mjs $extra --max-files 250 --max-bytes 1200MB
             code=$?
             set -e
             if [ "$code" -eq 2 ]; then echo "arşiv güncel, duruluyor"; break; fi
