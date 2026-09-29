@@ -96,11 +96,16 @@ const REPO_LIMIT_GB = Number(process.env.MIRROR_REPO_LIMIT_GB || 20)
  * (%33 şişme) ve istek gövdesi çok daha erken doluyor: sahada 422
  * "Sorry, your input was too large to process" alındı.
  *
- * 25 MB güvenli tarafta kalıyor (base64 sonrası ~33 MB). Üstündekiler
- * manifeste `too_large` yazılıp atlanıyor ve site onlar için kaynağın
- * adresine düşüyor.
+ * Sınırı ölçtük: 37 MB geçiyor, 40 MB geçmiyor — yani gövde sınırı
+ * base64 şişmesiyle ~50 MB'a denk geliyor. 36 MB güvenli payla altında
+ * kalıyor. Üstündekiler manifeste `too_large` yazılıp atlanıyor ve site
+ * onlar için kaynağın adresine düşüyor.
+ *
+ * Bu sınır YALNIZCA API yolu için geçerli. Git ile push edilen dosyalarda
+ * böyle bir kısıt yok (orada sert sınır 100 MB), o yüzden 36 MB üstü
+ * dosyalar ancak yerel bir klon + push geçişiyle arşive girebilir.
  */
-const MAX_FILE_BYTES = Number(process.env.MIRROR_MAX_FILE_MB || 25) * 1024 * 1024
+const MAX_FILE_BYTES = Number(process.env.MIRROR_MAX_FILE_MB || 36) * 1024 * 1024
 
 const API = 'https://api.github.com'
 const TOKEN = process.env.GITHUB_TOKEN || ''
@@ -608,6 +613,21 @@ async function main() {
     }
   }
   if (gone) log(`${gone} dosya kaynaktan kalkmış — arşivde bırakıldı\n`)
+
+  /*
+   * Sınır yükseldiyse eski "çok büyük" kayıtlarını unut.
+   *
+   * Sınır 25 MB'tan 36 MB'a çıkarıldığında, daha önce atlanmış ama artık
+   * sığan dosyalar manifeste takılı kalıyordu ve bir daha hiç denenmiyordu.
+   */
+  let revived = 0
+  for (const [path, rec] of Object.entries(known)) {
+    if (rec.too_large && (rec.size || 0) <= MAX_FILE_BYTES) {
+      delete known[path]
+      revived++
+    }
+  }
+  if (revived) log(`${revived} dosya yeni sınıra sığıyor, tekrar denenecek`)
 
   const missing = srcFiles.filter((p) => !known[p])
   log(`kaynak: ${srcFiles.length} dosya | arşiv: ${Object.keys(known).length} | eksik: ${missing.length}\n`)
