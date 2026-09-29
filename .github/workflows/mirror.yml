@@ -4,18 +4,30 @@ name: Arşiv senkronu
 # Kaynaktan SİLİNEN hiçbir şey buradan silinmez — arşivin amacı bu.
 #
 # Actions'ın kendi GITHUB_TOKEN'i bu depoya yazabildiği için ayrıca
-# kişisel erişim jetonu üretmeye gerek yok.
+# kişisel erişim jetonu üretmeye ya da saklamaya gerek yok. Süresi dolan
+# bir kimlik bilgisi olmadığı için sistem kendi başına ayakta kalıyor.
+#
+# ZAMANLAMA
+#
+# Günde üç kez. Kulağa sık gelebilir ama iş bittiğinde maliyeti yok:
+# betik yapacak yeni iş kalmadığında 2 koduyla çıkıyor ve çalıştırma
+# bir-iki dakikada bitiyor. Buna karşılık ilk doldurma (56 GB)
+# kendiliğinden tamamlanıyor ve yeni modlar bir hafta yerine birkaç
+# saat içinde arşive giriyor.
+#
+# NOT: GitHub, 60 gün boyunca hiç hareket görmeyen depolarda zamanlanmış
+# iş akışlarını devre dışı bırakıyor. Bu iş akışı her çalışmada manifesti
+# commit'lediği için hareket hiç kesilmiyor, o yüzden kapanmaz.
 
 on:
   schedule:
-    # Her pazartesi 04:00 UTC
-    - cron: '0 4 * * 1'
+    - cron: '0 2,10,18 * * *'
   workflow_dispatch:
     inputs:
       rounds:
-        description: 'Kaç tur çalışsın (ilk doldurmada artır)'
+        description: 'Kaç tur çalışsın'
         required: false
-        default: '20'
+        default: '60'
       mode:
         description: 'images | files | all'
         required: false
@@ -31,7 +43,11 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    # Actions işleri 6 saatte kesiliyor. Kesilirse sorun değil: manifest
+    # neyin yüklendiğini biliyor, bir sonraki çalıştırma kaldığı yerden
+    # devam ediyor.
     timeout-minutes: 350
+
     steps:
       - uses: actions/checkout@v4
 
@@ -45,7 +61,7 @@ jobs:
           MIRROR_OWNER: ${{ github.repository_owner }}
           MIRROR_REPOS: ${{ github.event.repository.name }}
         run: |
-          rounds="${{ github.event.inputs.rounds || '4' }}"
+          rounds="${{ github.event.inputs.rounds || '60' }}"
           mode="${{ github.event.inputs.mode || 'all' }}"
           case "$mode" in
             images) extra="--only-images" ;;
@@ -63,3 +79,27 @@ jobs:
             if [ "$code" -ne 0 ]; then echo "senkron hata verdi ($code)"; exit "$code"; fi
             sleep 3
           done
+
+      - name: Durum özeti
+        if: always()
+        run: |
+          # Depo sayfasında ve iş akışı özetinde görünsün; bir şeyin
+          # sessizce durduğunu fark etmek için tek yer burası.
+          curl -sSL "https://raw.githubusercontent.com/${{ github.repository }}/main/manifest.json" \
+            -o m.json 2>/dev/null || echo '{}' > m.json
+          node -e "
+            const m = require('./m.json');
+            const f = Object.keys(m.files || {}).length;
+            const i = Object.keys(m.images || {}).length;
+            const g = Object.values(m.files || {}).filter(x => x.gone_from_source).length;
+            const out = [
+              '## Arşiv durumu', '',
+              '| | |', '|---|---|',
+              \`| Mod dosyası | \${f} / 7679 |\`,
+              \`| Kapak resmi | \${i} / 3064 |\`,
+              \`| Kaynaktan kalkmış (bizde duruyor) | \${g} |\`,
+              \`| Son güncelleme | \${m.updated_at || '-'} |\`,
+            ].join('\n');
+            require('fs').appendFileSync(process.env.GITHUB_STEP_SUMMARY, out);
+            console.log(out);
+          "
