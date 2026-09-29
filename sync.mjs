@@ -135,15 +135,51 @@ async function gh(path, options = {}) {
   return res.status === 204 ? null : res.json()
 }
 
+/**
+ * Sınırlı eşzamanlılıkla eşle.
+ *
+ * Her şey sıralıydı: bir dosya inip bitmeden sonraki başlamıyor, bir blob
+ * yüklenmeden sonraki gitmiyordu. İş tamamen ağ beklemesi olduğu için
+ * bu, boşa geçen zaman demekti. Eşzamanlılık sınırlı tutuluyor: GitHub'ın
+ * ikincil hız sınırları (çok hızlı içerik oluşturma) tetiklenmesin.
+ */
+async function mapLimit(items, limit, fn) {
+  const out = new Array(items.length)
+  let next = 0
+  const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (true) {
+      const i = next++
+      if (i >= items.length) return
+      out[i] = await fn(items[i], i)
+    }
+  })
+  await Promise.all(workers)
+  return out
+}
+
+/** Kaynaktan indirme eşzamanlılığı. */
+const DL_CONCURRENCY = Number(process.env.MIRROR_DL_CONCURRENCY || 10)
+/** GitHub'a blob yükleme eşzamanlılığı — ikincil sınırlar için daha düşük. */
+const UP_CONCURRENCY = Number(process.env.MIRROR_UP_CONCURRENCY || 6)
+
 /** Ağ hataları geçici olabiliyor; birkaç kez dene. */
-async function retry(fn, tries = 3, waitMs = 2000) {
+async function retry(fn, tries = 4, waitMs = 2000) {
   let last
   for (let i = 0; i < tries; i++) {
     try {
       return await fn()
     } catch (e) {
       last = e
-      if (i < tries - 1) await new Promise((r) => setTimeout(r, waitMs * (i + 1)))
+      if (i === tries - 1) break
+      /*
+       * GitHub ikincil hız sınırına takıldığında 403/429 dönüyor.
+       * Bunlarda normalden çok daha uzun beklemek gerekiyor, yoksa
+       * arka arkaya aynı duvara çarpıyoruz.
+       */
+      const msg = String(e?.message || '')
+      const throttled = msg.includes('403') || msg.includes('429') || /rate limit/i.test(msg)
+      const wait = throttled ? 20000 * (i + 1) : waitMs * (i + 1)
+      await new Promise((r) => setTimeout(r, wait))
     }
   }
   throw last
@@ -157,6 +193,9 @@ const emptyManifest = () => ({
   repo_bytes: {},   // depo adı → yaklaşık bayt
   files: {},        // kaynak yolu → kayıt
   images: {},       // thumbnailKey → kayıt
+  image_keys: [],   // API taramasının önbelleği
+  image_total: 0,
+  images_crawled_at: null,
 })
 
 async function loadManifest() {
@@ -296,16 +335,15 @@ async function commitFiles(repo, entries, message) {
   for (let i = 0; i < entries.length; i += TREE_CHUNK) {
     const chunk = entries.slice(i, i + TREE_CHUNK)
 
-    const tree = []
-    for (const e of chunk) {
+    const tree = await mapLimit(chunk, UP_CONCURRENCY, async (e) => {
       const blob = await retry(() =>
         gh(`${base}/git/blobs`, {
           method: 'POST',
           body: JSON.stringify({ content: e.contentBase64, encoding: 'base64' }),
         }),
       )
-      tree.push({ path: e.path, mode: '100644', type: 'blob', sha: blob.sha })
-    }
+      return { path: e.path, mode: '100644', type: 'blob', sha: blob.sha }
+    })
 
     // Dal ucunu her parçada yeniden oku: bir önceki parça onu ilerletti.
     const ref = await retry(() => gh(`${base}/git/ref/heads/${BRANCH}`))
@@ -391,7 +429,31 @@ async function fetchAllThumbnailKeys() {
 /** Kapak resimlerini aynala. Mod dosyalarından ayrı, kendi bütçesiyle. */
 async function syncImages(manifest) {
   log('\n── kapak resimleri ──')
-  const { keys, total } = await fetchAllThumbnailKeys()
+
+  /*
+   * Anahtar listesi manifestte saklanıyor.
+   *
+   * Tarama 129 sayfa istek demek ve her turda baştan yapılıyordu: 60 turluk
+   * bir çalıştırmada ~7.700 gereksiz istek. Liste saatlerce değişmediği için
+   * 3 saatten taze olanı yeniden kullanıyoruz. Yeni modları kaçırmamak için
+   * süre dolunca yine taranıyor.
+   */
+  const CRAWL_TTL_MS = 3 * 60 * 60 * 1000
+  const cachedAt = manifest.images_crawled_at ? Date.parse(manifest.images_crawled_at) : 0
+  const fresh = Date.now() - cachedAt < CRAWL_TTL_MS && Array.isArray(manifest.image_keys)
+
+  let keys, total
+  if (fresh) {
+    keys = manifest.image_keys
+    total = manifest.image_total || keys.length
+    log(`anahtar listesi önbellekten (${keys.length} kapak)`)
+  } else {
+    ;({ keys, total } = await fetchAllThumbnailKeys())
+    manifest.image_keys = keys
+    manifest.image_total = total
+    manifest.images_crawled_at = new Date().toISOString()
+  }
+
   log(`API: ${total} mod | benzersiz kapak: ${keys.length} | arşivde: ${Object.keys(manifest.images).length}`)
 
   const missing = keys.filter((k) => !manifest.images[k])
@@ -406,23 +468,29 @@ async function syncImages(manifest) {
   const batch = []
   let bytes = 0
 
-  for (const key of missing) {
+  const queue = missing.slice(0, MAX_FILES * 2)
+  for (let i = 0; i < queue.length; i += DL_CONCURRENCY) {
     if (batch.length >= MAX_FILES || bytes >= MAX_BYTES) break
-    const url = SOURCE_IMG + key.split('/').map(encodeURIComponent).join('/')
-    let buf
-    try {
-      buf = await retry(async () => {
-        const r = await fetch(url, { headers: { 'User-Agent': 'autrex-mod-mirror' } })
-        if (!r.ok) throw new Error(`indirilemedi ${r.status}`)
-        return Buffer.from(await r.arrayBuffer())
-      }, 2, 1500)
-    } catch (e) {
-      log(`  atlandı: ${key} — ${e.message}`)
-      continue
+    const slice = queue.slice(i, i + DL_CONCURRENCY)
+    const results = await mapLimit(slice, DL_CONCURRENCY, async (key) => {
+      const url = SOURCE_IMG + key.split('/').map(encodeURIComponent).join('/')
+      try {
+        const buf = await retry(async () => {
+          const r = await fetch(url, { headers: { 'User-Agent': 'autrex-mod-mirror' } })
+          if (!r.ok) throw new Error(`indirilemedi ${r.status}`)
+          return Buffer.from(await r.arrayBuffer())
+        }, 2, 1500)
+        return { key, buf }
+      } catch (e) {
+        return { key, error: e.message }
+      }
+    })
+    for (const r of results) {
+      if (r.error) { log(`  atlandı: ${r.key} — ${r.error}`); continue }
+      if (r.buf.length > MAX_FILE_BYTES) continue
+      batch.push({ key: r.key, buffer: r.buf })
+      bytes += r.buf.length
     }
-    if (buf.length > MAX_FILE_BYTES) continue
-    batch.push({ key, buffer: buf })
-    bytes += buf.length
   }
 
   if (!batch.length) return missing.length
@@ -520,44 +588,58 @@ async function main() {
   const repo = await pickRepo(manifest)
   log(`bu turda hedef depo: ${repo}\n`)
 
+  /*
+   * Kaç dosya indireceğimizi önden kestiremiyoruz (boyutlar indeks'te yok),
+   * o yüzden bütçeyi aşmamak için partiler hâlinde ilerliyoruz: her partide
+   * DL_CONCURRENCY kadar dosya paralel iniyor, sonra bütçe kontrol ediliyor.
+   * Sıralı indirmeye göre kabaca on kat hızlı.
+   */
   const batch = []
   let bytes = 0
   let skipped = 0
 
-  for (const path of missing) {
+  const queue = missing.slice(0, MAX_FILES * 2)   // bütçe yetmezse fazlası kullanılmaz
+  for (let i = 0; i < queue.length; i += DL_CONCURRENCY) {
     if (batch.length >= MAX_FILES || bytes >= MAX_BYTES) break
 
-    const url = SOURCE_RAW + path.split('/').map(encodeURIComponent).join('/')
-    let buf
-    try {
-      buf = await retry(async () => {
-        const r = await fetch(url, { headers: { 'User-Agent': 'autrex-mod-mirror' } })
-        if (!r.ok) throw new Error(`indirilemedi ${r.status}`)
-        return Buffer.from(await r.arrayBuffer())
-      })
-    } catch (e) {
-      log(`  atlandı (indirilemedi): ${path} — ${e.message}`)
-      skipped++
-      continue
-    }
-
-    if (buf.length > MAX_FILE_BYTES) {
-      // GitHub 100 MB üstünü reddediyor. Kaydı manifeste "çok büyük" diye
-      // yazıyoruz ki her turda tekrar indirmeye çalışmayalım.
-      log(`  atlandı (çok büyük, ${mb(buf.length)}): ${path}`)
-      known[path] = {
-        size: buf.length,
-        too_large: true,
-        source_url: url,
-        first_seen: new Date().toISOString(),
+    const slice = queue.slice(i, i + DL_CONCURRENCY)
+    const results = await mapLimit(slice, DL_CONCURRENCY, async (path) => {
+      const url = SOURCE_RAW + path.split('/').map(encodeURIComponent).join('/')
+      try {
+        const buf = await retry(async () => {
+          const r = await fetch(url, { headers: { 'User-Agent': 'autrex-mod-mirror' } })
+          if (!r.ok) throw new Error(`indirilemedi ${r.status}`)
+          return Buffer.from(await r.arrayBuffer())
+        })
+        return { path, url, buf }
+      } catch (e) {
+        return { path, url, error: e.message }
       }
-      skipped++
-      continue
-    }
+    })
 
-    batch.push({ path, buffer: buf })
-    bytes += buf.length
-    log(`  + ${mb(buf.length).padStart(9)}  ${path}`)
+    for (const r of results) {
+      if (r.error) {
+        log(`  atlandı (indirilemedi): ${r.path} — ${r.error}`)
+        skipped++
+        continue
+      }
+      if (r.buf.length > MAX_FILE_BYTES) {
+        // GitHub 100 MB üstünü reddediyor. Manifeste "çok büyük" diye
+        // yazıyoruz ki her turda tekrar indirmeye çalışmayalım.
+        log(`  atlandı (çok büyük, ${mb(r.buf.length)}): ${r.path}`)
+        known[r.path] = {
+          size: r.buf.length,
+          too_large: true,
+          source_url: r.url,
+          first_seen: new Date().toISOString(),
+        }
+        skipped++
+        continue
+      }
+      batch.push({ path: r.path, buffer: r.buf })
+      bytes += r.buf.length
+    }
+    log(`  indirildi: ${batch.length} dosya / ${mb(bytes)}`)
   }
 
   if (!batch.length) {
