@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-09-29T22:50:09.616Z",
+ "updated_at": "2026-09-29T22:50:56.720Z",
  "repo_bytes": {
-  "autrex-mods-1": 16524371295
+  "autrex-mods-1": 15146274428
  },
  "files": {
   "RF_Storage1/Part1/2B zaahen/2b-zaahen.fantome": {
@@ -15697,1486 +15697,6 @@
    "first_seen": "2026-09-29T22:47:28.537Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Saul%20Goodman%20Ezreal/saul-goodman-ezreal_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Shadow the Hedgehog (Ekko)/shadow-ekko.fantome": {
-   "size": 49183817,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Shadow%20the%20Hedgehog%20(Ekko)/shadow-ekko.fantome",
-   "first_seen": "2026-09-29T22:48:42.786Z"
-  },
-  "RF_Storage1/Part1/Shadow the Hedgehog (Ekko)/shadow-the-hedgehog-ekko_1.1.0.fantome": {
-   "size": 52119080,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Shadow%20the%20Hedgehog%20(Ekko)/shadow-the-hedgehog-ekko_1.1.0.fantome",
-   "first_seen": "2026-09-29T22:48:42.786Z"
-  },
-  "RF_Storage1/Part1/Shadow the Hedgehog (Ekko)/shadow-the-hedgehog-ekko_1.1.1.fantome": {
-   "size": 51401375,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Shadow%20the%20Hedgehog%20(Ekko)/shadow-the-hedgehog-ekko_1.1.1.fantome",
-   "first_seen": "2026-09-29T22:48:42.786Z"
-  },
-  "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_3.1.1.fantome": {
-   "size": 27191619,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Shockblade%20Talon/shockblade-talon_3.1.1.fantome",
-   "first_seen": "2026-09-29T22:48:44.082Z"
-  },
-  "RF_Storage1/Part1/Shogun Yasuo/shogun-yasuo.fantome": {
-   "size": 35259957,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Shogun%20Yasuo/shogun-yasuo.fantome",
-   "first_seen": "2026-09-29T22:48:44.933Z"
-  },
-  "RF_Storage1/Part1/Shut the Fuck Up/shut-the-fuck-up-by-moga-v16-3-0-4-56.fantome": {
-   "size": 42712070,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Shut%20the%20Fuck%20Up/shut-the-fuck-up-by-moga-v16-3-0-4-56.fantome",
-   "first_seen": "2026-09-29T22:48:46.057Z"
-  },
-  "RF_Storage1/Part1/Shut the Fuck Up/shut-the-fuck-up-by-moga-v16-6-0-5-62.fantome": {
-   "size": 44710614,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Shut%20the%20Fuck%20Up/shut-the-fuck-up-by-moga-v16-6-0-5-62.fantome",
-   "first_seen": "2026-09-29T22:48:46.057Z"
-  },
-  "RF_Storage1/Part1/Shut the Fuck Up/shut-the-fuck-up_1520.0.2.fantome": {
-   "size": 38577402,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Shut%20the%20Fuck%20Up/shut-the-fuck-up_1520.0.2.fantome",
-   "first_seen": "2026-09-29T22:48:46.057Z"
-  },
-  "RF_Storage1/Part1/Skarner Crystal Sovereign/skarner-crystal-sovereign_2.0.2.fantome": {
-   "size": 27477969,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Skarner%20Crystal%20Sovereign/skarner-crystal-sovereign_2.0.2.fantome",
-   "first_seen": "2026-09-29T22:48:47.599Z"
-  },
-  "RF_Storage1/Part1/Soul Fighter Viego chroma VFX/soul-fighter-viego-chroma-vfx-by-suriin.fantome": {
-   "size": 37862089,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Soul%20Fighter%20Viego%20chroma%20VFX/soul-fighter-viego-chroma-vfx-by-suriin.fantome",
-   "first_seen": "2026-09-29T22:48:50.671Z"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Irelia chroma VFX/spirit-blossom-irelia-chroma-vfx-by-suriin.fantome": {
-   "size": 30600740,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Spirit%20Blossom%20Irelia%20chroma%20VFX/spirit-blossom-irelia-chroma-vfx-by-suriin.fantome",
-   "first_seen": "2026-09-29T22:48:51.507Z"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-11-2-24-0.fantome": {
-   "size": 26985382,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-11-2-24-0.fantome",
-   "first_seen": "2026-09-29T22:48:52.559Z"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-12-2-24-0.fantome": {
-   "size": 27030804,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-12-2-24-0.fantome",
-   "first_seen": "2026-09-29T22:48:52.559Z"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-14-2-24-0.fantome": {
-   "size": 27117605,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-14-2-24-0.fantome",
-   "first_seen": "2026-09-29T22:48:52.559Z"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-14-2-25-0.fantome": {
-   "size": 27120561,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-14-2-25-0.fantome",
-   "first_seen": "2026-09-29T22:48:53.708Z"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-15-2-26-0.fantome": {
-   "size": 28310283,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-15-2-26-0.fantome",
-   "first_seen": "2026-09-29T22:48:53.708Z"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-16-2-26-0.fantome": {
-   "size": 28304309,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-16-2-26-0.fantome",
-   "first_seen": "2026-09-29T22:48:53.708Z"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-4-2-19-0.fantome": {
-   "size": 44359903,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-4-2-19-0.fantome",
-   "first_seen": "2026-09-29T22:48:53.708Z"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Urgot/spirit-blossom-urgot_1.3.0.fantome": {
-   "size": 41008843,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Spirit%20Blossom%20Urgot/spirit-blossom-urgot_1.3.0.fantome",
-   "first_seen": "2026-09-29T22:48:57.008Z"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Urgot/spirit-blossom-urgot_1.3.1.fantome": {
-   "size": 42393568,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Spirit%20Blossom%20Urgot/spirit-blossom-urgot_1.3.1.fantome",
-   "first_seen": "2026-09-29T22:48:57.008Z"
-  },
-  "RF_Storage1/Part1/Saul Goodman Ezreal/saul-goodman-ezreal_1.1.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Saul Goodman Ezreal/saul-goodman-ezreal_1.1.0.fantome",
-   "size": 24766144,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Saul%20Goodman%20Ezreal/saul-goodman-ezreal_1.1.0.fantome"
-  },
-  "RF_Storage1/Part1/Scorpion brand/scorpion-brand_1.0.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Scorpion brand/scorpion-brand_1.0.1.fantome",
-   "size": 2826882,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Scorpion%20brand/scorpion-brand_1.0.1.fantome"
-  },
-  "RF_Storage1/Part1/Season 1 Summoner Icons/season-1-summoner-icons_1524.1.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 1 Summoner Icons/season-1-summoner-icons_1524.1.0.fantome",
-   "size": 81179,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%201%20Summoner%20Icons/season-1-summoner-icons_1524.1.0.fantome"
-  },
-  "RF_Storage1/Part1/Season 1 Summoner Spell Icons/season-1-summoner-spell-icons_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 1 Summoner Spell Icons/season-1-summoner-spell-icons_1.0.0.fantome",
-   "size": 1191974,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%201%20Summoner%20Spell%20Icons/season-1-summoner-spell-icons_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Season 3 HUD/season-3-hud-16-2-5-2-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 3 HUD/season-3-hud-16-2-5-2-0.fantome",
-   "size": 3611049,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%203%20HUD/season-3-hud-16-2-5-2-0.fantome"
-  },
-  "RF_Storage1/Part1/Season 3 HUD/season-3-hud-by-soul-v16-07-5-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 3 HUD/season-3-hud-by-soul-v16-07-5-0-0.fantome",
-   "size": 3611398,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%203%20HUD/season-3-hud-by-soul-v16-07-5-0-0.fantome"
-  },
-  "RF_Storage1/Part1/Season 3 HUD/season-3-hud-by-soul-v16-08-5-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 3 HUD/season-3-hud-by-soul-v16-08-5-0-0.fantome",
-   "size": 3610919,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%203%20HUD/season-3-hud-by-soul-v16-08-5-0-0.fantome"
-  },
-  "RF_Storage1/Part1/Season 3 HUD/season-3-hud-by-soul-v16-08-6-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 3 HUD/season-3-hud-by-soul-v16-08-6-0-0.fantome",
-   "size": 4644880,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%203%20HUD/season-3-hud-by-soul-v16-08-6-0-0.fantome"
-  },
-  "RF_Storage1/Part1/Season 3 HUD/season-3-hud-by-soul-v16-08-6-2-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 3 HUD/season-3-hud-by-soul-v16-08-6-2-0.fantome",
-   "size": 4645705,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%203%20HUD/season-3-hud-by-soul-v16-08-6-2-0.fantome"
-  },
-  "RF_Storage1/Part1/Season 3 HUD/season-3-hud_1517.5.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 3 HUD/season-3-hud_1517.5.0.fantome",
-   "size": 2951833,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%203%20HUD/season-3-hud_1517.5.0.fantome"
-  },
-  "RF_Storage1/Part1/Season 3 HUD/season-3-hud_152.5.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 3 HUD/season-3-hud_152.5.0.fantome",
-   "size": 2951357,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%203%20HUD/season-3-hud_152.5.0.fantome"
-  },
-  "RF_Storage1/Part1/Season 3 HUD/season-3-hud_152.5.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 3 HUD/season-3-hud_152.5.1.fantome",
-   "size": 2951357,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%203%20HUD/season-3-hud_152.5.1.fantome"
-  },
-  "RF_Storage1/Part1/Season 3 HUD/season-3-hud_1521.5.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 3 HUD/season-3-hud_1521.5.1.fantome",
-   "size": 2951745,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%203%20HUD/season-3-hud_1521.5.1.fantome"
-  },
-  "RF_Storage1/Part1/Season 8 Loading Screen (With Mastery Icons)/season-8-loading-screen-mastery-icons-by-moga-v16-10-1-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 8 Loading Screen (With Mastery Icons)/season-8-loading-screen-mastery-icons-by-moga-v16-10-1-0-0.fantome",
-   "size": 12079479,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%208%20Loading%20Screen%20(With%20Mastery%20Icons)/season-8-loading-screen-mastery-icons-by-moga-v16-10-1-0-0.fantome"
-  },
-  "RF_Storage1/Part1/Season 8 Loading Screen (With Mastery Icons)/season-8-loading-screen-w-ith-mastery-icons_1517.1.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 8 Loading Screen (With Mastery Icons)/season-8-loading-screen-w-ith-mastery-icons_1517.1.0.fantome",
-   "size": 7006599,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%208%20Loading%20Screen%20(With%20Mastery%20Icons)/season-8-loading-screen-w-ith-mastery-icons_1517.1.0.fantome"
-  },
-  "RF_Storage1/Part1/Season 8 Loading Screen (With Mastery Icons)/season-8-loading-screen-with-mastery-icons_1517.1.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 8 Loading Screen (With Mastery Icons)/season-8-loading-screen-with-mastery-icons_1517.1.1.fantome",
-   "size": 7012164,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%208%20Loading%20Screen%20(With%20Mastery%20Icons)/season-8-loading-screen-with-mastery-icons_1517.1.1.fantome"
-  },
-  "RF_Storage1/Part1/Season 8 Loading Screen (With Mastery Icons)/season-8-loading-screen-with-mastery-icons_1520.1.2.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 8 Loading Screen (With Mastery Icons)/season-8-loading-screen-with-mastery-icons_1520.1.2.fantome",
-   "size": 7012165,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%208%20Loading%20Screen%20(With%20Mastery%20Icons)/season-8-loading-screen-with-mastery-icons_1520.1.2.fantome"
-  },
-  "RF_Storage1/Part1/Season 8 Loading Screen (With Mastery Icons)/season-8-loading-screen-with-mastery-icons_1524.1.3.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 8 Loading Screen (With Mastery Icons)/season-8-loading-screen-with-mastery-icons_1524.1.3.fantome",
-   "size": 7111445,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%208%20Loading%20Screen%20(With%20Mastery%20Icons)/season-8-loading-screen-with-mastery-icons_1524.1.3.fantome"
-  },
-  "RF_Storage1/Part1/Season 8 Loading Screen/season-8-loading-screen-by-moga-v16-10-1-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 8 Loading Screen/season-8-loading-screen-by-moga-v16-10-1-0-0.fantome",
-   "size": 11990239,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%208%20Loading%20Screen/season-8-loading-screen-by-moga-v16-10-1-0-0.fantome"
-  },
-  "RF_Storage1/Part1/Season 8 Loading Screen/season-8-loading-screen_1517.1.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 8 Loading Screen/season-8-loading-screen_1517.1.0.fantome",
-   "size": 7152055,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%208%20Loading%20Screen/season-8-loading-screen_1517.1.0.fantome"
-  },
-  "RF_Storage1/Part1/Season 8 Loading Screen/season-8-loading-screen_1517.1.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 8 Loading Screen/season-8-loading-screen_1517.1.1.fantome",
-   "size": 7158476,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%208%20Loading%20Screen/season-8-loading-screen_1517.1.1.fantome"
-  },
-  "RF_Storage1/Part1/Season 8 Loading Screen/season-8-loading-screen_1520.1.2.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 8 Loading Screen/season-8-loading-screen_1520.1.2.fantome",
-   "size": 7158472,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%208%20Loading%20Screen/season-8-loading-screen_1520.1.2.fantome"
-  },
-  "RF_Storage1/Part1/Season 8 Loading Screen/season-8-loading-screen_1524.1.3.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Season 8 Loading Screen/season-8-loading-screen_1524.1.3.fantome",
-   "size": 7257409,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Season%208%20Loading%20Screen/season-8-loading-screen_1524.1.3.fantome"
-  },
-  "RF_Storage1/Part1/Secret Agent Kaisa/secret-agent-kaisa_1.1.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Secret Agent Kaisa/secret-agent-kaisa_1.1.0.fantome",
-   "size": 9694425,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Secret%20Agent%20Kaisa/secret-agent-kaisa_1.1.0.fantome"
-  },
-  "RF_Storage1/Part1/Selena S.T.U.N Ahri/selena-s-t-u-n-ahri-1-0-by-matthilobo_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Selena S.T.U.N Ahri/selena-s-t-u-n-ahri-1-0-by-matthilobo_large_file.txt",
-   "size": 374,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Selena%20S.T.U.N%20Ahri/selena-s-t-u-n-ahri-1-0-by-matthilobo_large_file.txt"
-  },
-  "RF_Storage1/Part1/Selena S.T.U.N Ahri/selena-stun-ahri-1-0-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Selena S.T.U.N Ahri/selena-stun-ahri-1-0-0_large_file.txt",
-   "size": 329,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Selena%20S.T.U.N%20Ahri/selena-stun-ahri-1-0-0_large_file.txt"
-  },
-  "RF_Storage1/Part1/Selena S.T.U.N Ahri/selena-stun-ahri-1-0-by-matthilobo_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Selena S.T.U.N Ahri/selena-stun-ahri-1-0-by-matthilobo_large_file.txt",
-   "size": 365,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Selena%20S.T.U.N%20Ahri/selena-stun-ahri-1-0-by-matthilobo_large_file.txt"
-  },
-  "RF_Storage1/Part1/Senator Armstrong Sett/senator-armstrong-sett_25.24.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Senator Armstrong Sett/senator-armstrong-sett_25.24.0.fantome",
-   "size": 8336778,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Senator%20Armstrong%20Sett/senator-armstrong-sett_25.24.0.fantome"
-  },
-  "RF_Storage1/Part1/Set Nasus - SMITE/set-nasus-smite_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Set Nasus - SMITE/set-nasus-smite_1.0.0.fantome",
-   "size": 4884365,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Set%20Nasus%20-%20SMITE/set-nasus-smite_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Sett as Saitama/sett-as-saitama-v1-0-0-by-ceerel.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Sett as Saitama/sett-as-saitama-v1-0-0-by-ceerel.fantome",
-   "size": 1629345,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Sett%20as%20Saitama/sett-as-saitama-v1-0-0-by-ceerel.fantome"
-  },
-  "RF_Storage1/Part1/Shaco The Magizian/shaco-the-magizian.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shaco The Magizian/shaco-the-magizian.fantome",
-   "size": 20663383,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shaco%20The%20Magizian/shaco-the-magizian.fantome"
-  },
-  "RF_Storage1/Part1/Shadow & Delta - nunu skin/shadow-and-delta_1.0.0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shadow & Delta - nunu skin/shadow-and-delta_1.0.0_large_file.txt",
-   "size": 336,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shadow%20%26%20Delta%20-%20nunu%20skin/shadow-and-delta_1.0.0_large_file.txt"
-  },
-  "RF_Storage1/Part1/Shadow Demon Vladimir - Dota 2/dota-2_1.0.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shadow Demon Vladimir - Dota 2/dota-2_1.0.1.fantome",
-   "size": 18240180,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shadow%20Demon%20Vladimir%20-%20Dota%202/dota-2_1.0.1.fantome"
-  },
-  "RF_Storage1/Part1/Shadow Demon Vladimir - Dota 2/shadow-demon-vladimir_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shadow Demon Vladimir - Dota 2/shadow-demon-vladimir_1.0.0.fantome",
-   "size": 18172914,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shadow%20Demon%20Vladimir%20-%20Dota%202/shadow-demon-vladimir_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Shadow from EITS as Talon/shadow-from-eits-as-talon_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shadow from EITS as Talon/shadow-from-eits-as-talon_1.0.0.fantome",
-   "size": 537855,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shadow%20from%20EITS%20as%20Talon/shadow-from-eits-as-talon_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Shamrock Akshan/shamrock-akshan_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shamrock Akshan/shamrock-akshan_1.0.0.fantome",
-   "size": 3525194,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shamrock%20Akshan/shamrock-akshan_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Shia Mel (Stella Sora)/shia-mel-by-ascilia.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shia Mel (Stella Sora)/shia-mel-by-ascilia.fantome",
-   "size": 19545391,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shia%20Mel%20(Stella%20Sora)/shia-mel-by-ascilia.fantome"
-  },
-  "RF_Storage1/Part1/Shimmerstriker Kha'Zix/shimmerstriker-kha-zix.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shimmerstriker Kha'Zix/shimmerstriker-kha-zix.fantome",
-   "size": 529912,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shimmerstriker%20Kha'Zix/shimmerstriker-kha-zix.fantome"
-  },
-  "RF_Storage1/Part1/Shimmerstriker Kha'Zix/shimmerstriker-kha-zix_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shimmerstriker Kha'Zix/shimmerstriker-kha-zix_1.0.0.fantome",
-   "size": 530017,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shimmerstriker%20Kha'Zix/shimmerstriker-kha-zix_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_0.0.9.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_0.0.9.fantome",
-   "size": 16026998,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shockblade%20Talon/shockblade-talon_0.0.9.fantome"
-  },
-  "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_2.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_2.0.0.fantome",
-   "size": 16026998,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shockblade%20Talon/shockblade-talon_2.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_3.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_3.0.0.fantome",
-   "size": 16026998,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shockblade%20Talon/shockblade-talon_3.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_3.1.2.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_3.1.2.fantome",
-   "size": 16169694,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shockblade%20Talon/shockblade-talon_3.1.2.fantome"
-  },
-  "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_3.1.3.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shockblade Talon/shockblade-talon_3.1.3.fantome",
-   "size": 2348847,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shockblade%20Talon/shockblade-talon_3.1.3.fantome"
-  },
-  "RF_Storage1/Part1/Shockblade Zed Chroma VFX (NOT A SKINHACK YOU NEED TO OWN AND CHOOSE A CHROMA FO/vfx-not-a-skinhack-you-need-to-own-and-choose-a-chroma-for-this-mod-to-work_1.0.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shockblade Zed Chroma VFX (NOT A SKINHACK YOU NEED TO OWN AND CHOOSE A CHROMA FO/vfx-not-a-skinhack-you-need-to-own-and-choose-a-chroma-for-this-mod-to-work_1.0.1.fantome",
-   "size": 11782478,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shockblade%20Zed%20Chroma%20VFX%20(NOT%20A%20SKINHACK%20YOU%20NEED%20TO%20OWN%20AND%20CHOOSE%20A%20CHROMA%20FO/vfx-not-a-skinhack-you-need-to-own-and-choose-a-chroma-for-this-mod-to-work_1.0.1.fantome"
-  },
-  "RF_Storage1/Part1/Shockblade Zed Chroma VFX (NOT A SKINHACK YOU NEED TO OWN AND CHOOSE A CHROMA FO/vfx_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shockblade Zed Chroma VFX (NOT A SKINHACK YOU NEED TO OWN AND CHOOSE A CHROMA FO/vfx_1.0.0.fantome",
-   "size": 11782550,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shockblade%20Zed%20Chroma%20VFX%20(NOT%20A%20SKINHACK%20YOU%20NEED%20TO%20OWN%20AND%20CHOOSE%20A%20CHROMA%20FO/vfx_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Shockblade Zed Chroma VFX (NOT A SKINHACK YOU NEED TO OWN AND CHOOSE A CHROMA FO/zed-shockblade-chroma-colored-vfx-v1-1-0-by-aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shockblade Zed Chroma VFX (NOT A SKINHACK YOU NEED TO OWN AND CHOOSE A CHROMA FO/zed-shockblade-chroma-colored-vfx-v1-1-0-by-aropatnik.fantome",
-   "size": 11774634,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shockblade%20Zed%20Chroma%20VFX%20(NOT%20A%20SKINHACK%20YOU%20NEED%20TO%20OWN%20AND%20CHOOSE%20A%20CHROMA%20FO/zed-shockblade-chroma-colored-vfx-v1-1-0-by-aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Shockblade Zed Chroma VFX (NOT A SKINHACK YOU NEED TO OWN AND CHOOSE A CHROMA FO/zed-shockblade-chroma-colored-vfx-v1-2-0-by-aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shockblade Zed Chroma VFX (NOT A SKINHACK YOU NEED TO OWN AND CHOOSE A CHROMA FO/zed-shockblade-chroma-colored-vfx-v1-2-0-by-aropatnik.fantome",
-   "size": 20604511,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shockblade%20Zed%20Chroma%20VFX%20(NOT%20A%20SKINHACK%20YOU%20NEED%20TO%20OWN%20AND%20CHOOSE%20A%20CHROMA%20FO/zed-shockblade-chroma-colored-vfx-v1-2-0-by-aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Shredder Zed/shredder-zed_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shredder Zed/shredder-zed_1.0.0.fantome",
-   "size": 2462503,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shredder%20Zed/shredder-zed_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Shrek Rift Reborn/SR Shrek Rift V1.5.0 by Aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shrek Rift Reborn/SR Shrek Rift V1.5.0 by Aropatnik.fantome",
-   "size": 2352019,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shrek%20Rift%20Reborn/SR%20Shrek%20Rift%20V1.5.0%20by%20Aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Shrek Rift Reborn/SR Shrek Rift V1.6.0 by Aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shrek Rift Reborn/SR Shrek Rift V1.6.0 by Aropatnik.fantome",
-   "size": 2352019,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shrek%20Rift%20Reborn/SR%20Shrek%20Rift%20V1.6.0%20by%20Aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Shrek Rift Reborn/SR Shrek Rift V26.17.0 by Aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shrek Rift Reborn/SR Shrek Rift V26.17.0 by Aropatnik.fantome",
-   "size": 2352019,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shrek%20Rift%20Reborn/SR%20Shrek%20Rift%20V26.17.0%20by%20Aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Shrek Rift Reborn/SR Shrek Rift V26.9.1 by Aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shrek Rift Reborn/SR Shrek Rift V26.9.1 by Aropatnik.fantome",
-   "size": 2352019,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shrek%20Rift%20Reborn/SR%20Shrek%20Rift%20V26.9.1%20by%20Aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Shrek Rift Reborn/sr-shrek-rift-v1-6-0-by-aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shrek Rift Reborn/sr-shrek-rift-v1-6-0-by-aropatnik.fantome",
-   "size": 2348888,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shrek%20Rift%20Reborn/sr-shrek-rift-v1-6-0-by-aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Shrek Rift Reborn/sr-shrek-rift-v26-17-0-by-aropatnik_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shrek Rift Reborn/sr-shrek-rift-v26-17-0-by-aropatnik_large_file.txt",
-   "size": 366,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shrek%20Rift%20Reborn/sr-shrek-rift-v26-17-0-by-aropatnik_large_file.txt"
-  },
-  "RF_Storage1/Part1/Shrek Rift Reborn/sr-shrek-rift-v26-9-1-by-aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shrek Rift Reborn/sr-shrek-rift-v26-9-1-by-aropatnik.fantome",
-   "size": 2348997,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shrek%20Rift%20Reborn/sr-shrek-rift-v26-9-1-by-aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Shuriman Sylas/shuriman-sylas-1-0-4.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shuriman Sylas/shuriman-sylas-1-0-4.fantome",
-   "size": 12328246,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shuriman%20Sylas/shuriman-sylas-1-0-4.fantome"
-  },
-  "RF_Storage1/Part1/Shuriman Sylas/shuriman-sylas_1.0.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shuriman Sylas/shuriman-sylas_1.0.1.fantome",
-   "size": 11211474,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shuriman%20Sylas/shuriman-sylas_1.0.1.fantome"
-  },
-  "RF_Storage1/Part1/Shuriman Sylas/shuriman-sylas_1.2.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shuriman Sylas/shuriman-sylas_1.2.0.fantome",
-   "size": 11211404,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shuriman%20Sylas/shuriman-sylas_1.2.0.fantome"
-  },
-  "RF_Storage1/Part1/Shuriman Sylas/shuriman-sylas_1.3.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shuriman Sylas/shuriman-sylas_1.3.0.fantome",
-   "size": 11446034,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shuriman%20Sylas/shuriman-sylas_1.3.0.fantome"
-  },
-  "RF_Storage1/Part1/Shut the Fuck Up/shut-the-fuck-up_1517.1.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shut the Fuck Up/shut-the-fuck-up_1517.1.0.fantome",
-   "size": 22776799,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shut%20the%20Fuck%20Up/shut-the-fuck-up_1517.1.0.fantome"
-  },
-  "RF_Storage1/Part1/Shyvana - Yuumadin/shyv-yuumadin.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Shyvana - Yuumadin/shyv-yuumadin.fantome",
-   "size": 1199760,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shyvana%20-%20Yuumadin/shyv-yuumadin.fantome"
-  },
-  "RF_Storage1/Part1/Simon Henriksson over Jhin/book-simon-1-1-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simon Henriksson over Jhin/book-simon-1-1-1_large_file.txt",
-   "size": 318,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simon%20Henriksson%20over%20Jhin/book-simon-1-1-1_large_file.txt"
-  },
-  "RF_Storage1/Part1/Simon Henriksson over Jhin/booksimonversion-1-0-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simon Henriksson over Jhin/booksimonversion-1-0-0_large_file.txt",
-   "size": 336,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simon%20Henriksson%20over%20Jhin/booksimonversion-1-0-0_large_file.txt"
-  },
-  "RF_Storage1/Part1/Simon Henriksson over Jhin/jhin_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simon Henriksson over Jhin/jhin_1.0.0.fantome",
-   "size": 14339468,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simon%20Henriksson%20over%20Jhin/jhin_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Simon Henriksson over Jhin/jhin_1.1.1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simon Henriksson over Jhin/jhin_1.1.1_large_file.txt",
-   "size": 300,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simon%20Henriksson%20over%20Jhin/jhin_1.1.1_large_file.txt"
-  },
-  "RF_Storage1/Part1/Simon Henriksson over Jhin/simon-henriksson-2-0-1-0-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simon Henriksson over Jhin/simon-henriksson-2-0-1-0-0_large_file.txt",
-   "size": 348,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simon%20Henriksson%20over%20Jhin/simon-henriksson-2-0-1-0-0_large_file.txt"
-  },
-  "RF_Storage1/Part1/Simon Henriksson over Jhin/simon-henriksson-2-1-1-1-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simon Henriksson over Jhin/simon-henriksson-2-1-1-1-0_large_file.txt",
-   "size": 348,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simon%20Henriksson%20over%20Jhin/simon-henriksson-2-1-1-1-0_large_file.txt"
-  },
-  "RF_Storage1/Part1/Simon Henriksson over Jhin/simon-henriksson-2-2-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simon Henriksson over Jhin/simon-henriksson-2-2-0_large_file.txt",
-   "size": 336,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simon%20Henriksson%20over%20Jhin/simon-henriksson-2-2-0_large_file.txt"
-  },
-  "RF_Storage1/Part1/Simple Cursor/cursor-simple-v1-1-0-by-aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simple Cursor/cursor-simple-v1-1-0-by-aropatnik.fantome",
-   "size": 15272,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simple%20Cursor/cursor-simple-v1-1-0-by-aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Simple Cursor/simple-cursor_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simple Cursor/simple-cursor_1.0.0.fantome",
-   "size": 15272,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simple%20Cursor/simple-cursor_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Simple Health Bar Colors/Simple Health Bar Colors by Moga v16.1.1.4.13.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simple Health Bar Colors/Simple Health Bar Colors by Moga v16.1.1.4.13.fantome",
-   "size": 1613667,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simple%20Health%20Bar%20Colors/Simple%20Health%20Bar%20Colors%20by%20Moga%20v16.1.1.4.13.fantome"
-  },
-  "RF_Storage1/Part1/Simple Health Bar Colors/health-bar-colors_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simple Health Bar Colors/health-bar-colors_1.0.0.fantome",
-   "size": 262759,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simple%20Health%20Bar%20Colors/health-bar-colors_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Simple Health Bar Colors/health-bar-colors_1.0.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simple Health Bar Colors/health-bar-colors_1.0.1.fantome",
-   "size": 262751,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simple%20Health%20Bar%20Colors/health-bar-colors_1.0.1.fantome"
-  },
-  "RF_Storage1/Part1/Simple Health Bar Colors/health-bar-colors_1.1.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simple Health Bar Colors/health-bar-colors_1.1.0.fantome",
-   "size": 35024,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simple%20Health%20Bar%20Colors/health-bar-colors_1.1.0.fantome"
-  },
-  "RF_Storage1/Part1/Simple Health Bar Colors/health-bar-colors_1.2.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simple Health Bar Colors/health-bar-colors_1.2.0.fantome",
-   "size": 1230170,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simple%20Health%20Bar%20Colors/health-bar-colors_1.2.0.fantome"
-  },
-  "RF_Storage1/Part1/Simple Health Bar Colors/health-bar-colors_1.3.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Simple Health Bar Colors/health-bar-colors_1.3.0.fantome",
-   "size": 1526290,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Simple%20Health%20Bar%20Colors/health-bar-colors_1.3.0.fantome"
-  },
-  "RF_Storage1/Part1/Singed Gragas/singed-gragas-2-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Singed Gragas/singed-gragas-2-0-0.fantome",
-   "size": 317726,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Singed%20Gragas/singed-gragas-2-0-0.fantome"
-  },
-  "RF_Storage1/Part1/Singed Gragas/singed-gragas_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Singed Gragas/singed-gragas_1.0.0.fantome",
-   "size": 738355,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Singed%20Gragas/singed-gragas_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Singed with missing pings/singed-missing-ping-on-q-v1-0-0-by-aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Singed with missing pings/singed-missing-ping-on-q-v1-0-0-by-aropatnik.fantome",
-   "size": 3676723,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Singed%20with%20missing%20pings/singed-missing-ping-on-q-v1-0-0-by-aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Singed with missing pings/singed-missing-ping-on-q-v1-1-0-by-aropatnik.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Singed with missing pings/singed-missing-ping-on-q-v1-1-0-by-aropatnik.fantome",
-   "size": 3552967,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Singed%20with%20missing%20pings/singed-missing-ping-on-q-v1-1-0-by-aropatnik.fantome"
-  },
-  "RF_Storage1/Part1/Sion Vegeta Dragon Ball Super/vegeta-sion-en-us-auto-v1-0-by-sirdy_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Sion Vegeta Dragon Ball Super/vegeta-sion-en-us-auto-v1-0-by-sirdy_large_file.txt",
-   "size": 381,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Sion%20Vegeta%20Dragon%20Ball%20Super/vegeta-sion-en-us-auto-v1-0-by-sirdy_large_file.txt"
-  },
-  "RF_Storage1/Part1/Sion Vegeta Dragon Ball Super/vegeta-sion-en-us-manual-v1-0-by-sirdy_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Sion Vegeta Dragon Ball Super/vegeta-sion-en-us-manual-v1-0-by-sirdy_large_file.txt",
-   "size": 387,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Sion%20Vegeta%20Dragon%20Ball%20Super/vegeta-sion-en-us-manual-v1-0-by-sirdy_large_file.txt"
-  },
-  "RF_Storage1/Part1/Sion Vegeta Dragon Ball Super/vegeta-sion-pt-br-auto-dragon-ball-v1-0-by-sirdy_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Sion Vegeta Dragon Ball Super/vegeta-sion-pt-br-auto-dragon-ball-v1-0-by-sirdy_large_file.txt",
-   "size": 417,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Sion%20Vegeta%20Dragon%20Ball%20Super/vegeta-sion-pt-br-auto-dragon-ball-v1-0-by-sirdy_large_file.txt"
-  },
-  "RF_Storage1/Part1/Sion Vegeta Dragon Ball Super/vegeta-sion-pt-br-manual-dragon-ball-v1-0-by-sirdy_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Sion Vegeta Dragon Ball Super/vegeta-sion-pt-br-manual-dragon-ball-v1-0-by-sirdy_large_file.txt",
-   "size": 423,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Sion%20Vegeta%20Dragon%20Ball%20Super/vegeta-sion-pt-br-manual-dragon-ball-v1-0-by-sirdy_large_file.txt"
-  },
-  "RF_Storage1/Part1/Sir Daniel Fortesque (Hecarim)/sir-daniel-fortesque-hecarim_1.9.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Sir Daniel Fortesque (Hecarim)/sir-daniel-fortesque-hecarim_1.9.0.fantome",
-   "size": 5859489,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Sir%20Daniel%20Fortesque%20(Hecarim)/sir-daniel-fortesque-hecarim_1.9.0.fantome"
-  },
-  "RF_Storage1/Part1/Sir Daniel Fortesque (Hecarim)/sir-daniel-fortesque-hecarim_1.9.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Sir Daniel Fortesque (Hecarim)/sir-daniel-fortesque-hecarim_1.9.1.fantome",
-   "size": 9078465,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Sir%20Daniel%20Fortesque%20(Hecarim)/sir-daniel-fortesque-hecarim_1.9.1.fantome"
-  },
-  "RF_Storage1/Part1/Skarner Crystal Sovereign/skarner-crystal-sovereign_2.0.3.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Skarner Crystal Sovereign/skarner-crystal-sovereign_2.0.3.fantome",
-   "size": 18901122,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Skarner%20Crystal%20Sovereign/skarner-crystal-sovereign_2.0.3.fantome"
-  },
-  "RF_Storage1/Part1/Skitterbreak Kog'Maw/skitterbreak-kog-maw_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Skitterbreak Kog'Maw/skitterbreak-kog-maw_1.0.0.fantome",
-   "size": 382430,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Skitterbreak%20Kog'Maw/skitterbreak-kog-maw_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-default-champs-minimap-icons-by-moga-v16-3-1-10-138.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-default-champs-minimap-icons-by-moga-v16-3-1-10-138.fantome",
-   "size": 26214,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-default-champs-minimap-icons-by-moga-v16-3-1-10-138.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons-by-moga-v16-09-1-12-160.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons-by-moga-v16-09-1-12-160.fantome",
-   "size": 26146,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons-by-moga-v16-09-1-12-160.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons-by-moga-v16-12-1-12-161.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons-by-moga-v16-12-1-12-161.fantome",
-   "size": 26025,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons-by-moga-v16-12-1-12-161.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons-by-moga-v16-17-1-13-165.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons-by-moga-v16-17-1-13-165.fantome",
-   "size": 25529,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons-by-moga-v16-17-1-13-165.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons-by-moga-v16-18-1-14-166.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons-by-moga-v16-18-1-14-166.fantome",
-   "size": 25514,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons-by-moga-v16-18-1-14-166.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons-by-moga-v16-3-1-10-138.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons-by-moga-v16-3-1-10-138.fantome",
-   "size": 26074,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons-by-moga-v16-3-1-10-138.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1.0.0.fantome",
-   "size": 34092,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1.2.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1.2.0.fantome",
-   "size": 34213,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons_1.2.0.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1.3.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1.3.0.fantome",
-   "size": 6130,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons_1.3.0.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1.4.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1.4.0.fantome",
-   "size": 6294,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons_1.4.0.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1.4.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1.4.1.fantome",
-   "size": 6305,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons_1.4.1.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1517.1.7.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1517.1.7.fantome",
-   "size": 6698,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons_1517.1.7.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1520.1.8.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_1520.1.8.fantome",
-   "size": 6626,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons_1520.1.8.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_159.1.5.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_159.1.5.fantome",
-   "size": 6169,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons_159.1.5.fantome"
-  },
-  "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_159.1.6.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smaller Minimap Icons/smaller-minimap-icons_159.1.6.fantome",
-   "size": 6316,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smaller%20Minimap%20Icons/smaller-minimap-icons_159.1.6.fantome"
-  },
-  "RF_Storage1/Part1/Smite Megatron Jhin/smite-megatron-jhin-v1-0-by-blaster.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smite Megatron Jhin/smite-megatron-jhin-v1-0-by-blaster.fantome",
-   "size": 16901960,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smite%20Megatron%20Jhin/smite-megatron-jhin-v1-0-by-blaster.fantome"
-  },
-  "RF_Storage1/Part1/Smol Inferno Ibaraki Douji Sett/smol-inferno-ibaraki-douji-sett_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smol Inferno Ibaraki Douji Sett/smol-inferno-ibaraki-douji-sett_1.0.0.fantome",
-   "size": 5528771,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smol%20Inferno%20Ibaraki%20Douji%20Sett/smol-inferno-ibaraki-douji-sett_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Smol Inferno Ibaraki Douji Sett/smol-inferno-ibaraki-douji-sett_1.1.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smol Inferno Ibaraki Douji Sett/smol-inferno-ibaraki-douji-sett_1.1.0.fantome",
-   "size": 16489203,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smol%20Inferno%20Ibaraki%20Douji%20Sett/smol-inferno-ibaraki-douji-sett_1.1.0.fantome"
-  },
-  "RF_Storage1/Part1/Smol Inferno Ibaraki Douji Sett/smol-inferno-ibaraki-douji-sett_2.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smol Inferno Ibaraki Douji Sett/smol-inferno-ibaraki-douji-sett_2.0.0.fantome",
-   "size": 17161410,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smol%20Inferno%20Ibaraki%20Douji%20Sett/smol-inferno-ibaraki-douji-sett_2.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Smolder [ Yuumadin ]/smolder-yuumadin-0-0-4.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smolder [ Yuumadin ]/smolder-yuumadin-0-0-4.fantome",
-   "size": 13175948,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smolder%20%5B%20Yuumadin%20%5D/smolder-yuumadin-0-0-4.fantome"
-  },
-  "RF_Storage1/Part1/Smolder [ Yuumadin ]/smolder-yuumadin_0.0.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smolder [ Yuumadin ]/smolder-yuumadin_0.0.1.fantome",
-   "size": 4799421,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smolder%20%5B%20Yuumadin%20%5D/smolder-yuumadin_0.0.1.fantome"
-  },
-  "RF_Storage1/Part1/Smolder [ Yuumadin ]/smolder-yuumi.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smolder [ Yuumadin ]/smolder-yuumi.fantome",
-   "size": 6220693,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smolder%20%5B%20Yuumadin%20%5D/smolder-yuumi.fantome"
-  },
-  "RF_Storage1/Part1/Smolder [WR Port]/smolder-wild-rift-port-v1-0-by-p1mek.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Smolder [WR Port]/smolder-wild-rift-port-v1-0-by-p1mek.fantome",
-   "size": 3982895,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Smolder%20%5BWR%20Port%5D/smolder-wild-rift-port-v1-0-by-p1mek.fantome"
-  },
-  "RF_Storage1/Part1/Snake HUD/snake-hud.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snake HUD/snake-hud.fantome",
-   "size": 2083515,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snake%20HUD/snake-hud.fantome"
-  },
-  "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas-1-1-3.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas-1-1-3.fantome",
-   "size": 9421036,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snorlax%20Gragas/snorlax-gragas-1-1-3.fantome"
-  },
-  "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas-v1-1-2-by-nyht.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas-v1-1-2-by-nyht.fantome",
-   "size": 8965591,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snorlax%20Gragas/snorlax-gragas-v1-1-2-by-nyht.fantome"
-  },
-  "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.0.0.fantome",
-   "size": 7355316,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snorlax%20Gragas/snorlax-gragas_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.0.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.0.1.fantome",
-   "size": 7227064,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snorlax%20Gragas/snorlax-gragas_1.0.1.fantome"
-  },
-  "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.0.2.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.0.2.fantome",
-   "size": 7194486,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snorlax%20Gragas/snorlax-gragas_1.0.2.fantome"
-  },
-  "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.0.3.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.0.3.fantome",
-   "size": 6714555,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snorlax%20Gragas/snorlax-gragas_1.0.3.fantome"
-  },
-  "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.0.4.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.0.4.fantome",
-   "size": 6694515,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snorlax%20Gragas/snorlax-gragas_1.0.4.fantome"
-  },
-  "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.1.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.1.0.fantome",
-   "size": 8035046,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snorlax%20Gragas/snorlax-gragas_1.1.0.fantome"
-  },
-  "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.1.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snorlax Gragas/snorlax-gragas_1.1.1.fantome",
-   "size": 8976369,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snorlax%20Gragas/snorlax-gragas_1.1.1.fantome"
-  },
-  "RF_Storage1/Part1/Snow Bunny Nidalee Custom SFX/snowbunnynidsfx-livevo.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snow Bunny Nidalee Custom SFX/snowbunnynidsfx-livevo.fantome",
-   "size": 7477962,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snow%20Bunny%20Nidalee%20Custom%20SFX/snowbunnynidsfx-livevo.fantome"
-  },
-  "RF_Storage1/Part1/Snow Bunny Nidalee Custom SFX/snowbunnynidsfx-oldvo.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snow Bunny Nidalee Custom SFX/snowbunnynidsfx-oldvo.fantome",
-   "size": 11720335,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snow%20Bunny%20Nidalee%20Custom%20SFX/snowbunnynidsfx-oldvo.fantome"
-  },
-  "RF_Storage1/Part1/Snow Moon Smolder by Ronni/smolder-snow-moon-by-ronni-v16-01-1-3.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snow Moon Smolder by Ronni/smolder-snow-moon-by-ronni-v16-01-1-3.fantome",
-   "size": 5895842,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snow%20Moon%20Smolder%20by%20Ronni/smolder-snow-moon-by-ronni-v16-01-1-3.fantome"
-  },
-  "RF_Storage1/Part1/Snowflake HUD Reborn/snowflake-hud-reborn-v2-7-1-by-tyre-4770.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snowflake HUD Reborn/snowflake-hud-reborn-v2-7-1-by-tyre-4770.fantome",
-   "size": 7316784,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snowflake%20HUD%20Reborn/snowflake-hud-reborn-v2-7-1-by-tyre-4770.fantome"
-  },
-  "RF_Storage1/Part1/Snowflake HUD Reborn/snowflake-hud-reborn-v2-7-2-by-tyre-4770.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snowflake HUD Reborn/snowflake-hud-reborn-v2-7-2-by-tyre-4770.fantome",
-   "size": 7740517,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snowflake%20HUD%20Reborn/snowflake-hud-reborn-v2-7-2-by-tyre-4770.fantome"
-  },
-  "RF_Storage1/Part1/Snowflake HUD Reborn/snowflake-hud-reborn_2.5.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snowflake HUD Reborn/snowflake-hud-reborn_2.5.0.fantome",
-   "size": 7349755,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snowflake%20HUD%20Reborn/snowflake-hud-reborn_2.5.0.fantome"
-  },
-  "RF_Storage1/Part1/Snowflake HUD Reborn/snowflake-hud-reborn_2.6.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snowflake HUD Reborn/snowflake-hud-reborn_2.6.0.fantome",
-   "size": 7576916,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snowflake%20HUD%20Reborn/snowflake-hud-reborn_2.6.0.fantome"
-  },
-  "RF_Storage1/Part1/Snowflake HUD Reborn/snowflake-hud-reborn_2.7.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snowflake HUD Reborn/snowflake-hud-reborn_2.7.0.fantome",
-   "size": 7309094,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snowflake%20HUD%20Reborn/snowflake-hud-reborn_2.7.0.fantome"
-  },
-  "RF_Storage1/Part1/Snowmoon Evelynn/snowmoon-evelynn_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Snowmoon Evelynn/snowmoon-evelynn_1.0.0.fantome",
-   "size": 11131703,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Snowmoon%20Evelynn/snowmoon-evelynn_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Sol Heredit - Pantheon/sol-heredit-pantheon.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Sol Heredit - Pantheon/sol-heredit-pantheon.fantome",
-   "size": 6529955,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Sol%20Heredit%20-%20Pantheon/sol-heredit-pantheon.fantome"
-  },
-  "RF_Storage1/Part1/Soul Fighter Killstreak/soul-fighter-killstreak_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Soul Fighter Killstreak/soul-fighter-killstreak_1.0.0.fantome",
-   "size": 2182287,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Soul%20Fighter%20Killstreak/soul-fighter-killstreak_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Soul Fighter Viego chroma VFX/sf-viego-fix.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Soul Fighter Viego chroma VFX/sf-viego-fix.fantome",
-   "size": 16127647,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Soul%20Fighter%20Viego%20chroma%20VFX/sf-viego-fix.fantome"
-  },
-  "RF_Storage1/Part1/Soul Fighter Viego chroma VFX/sf-viegochromavfx.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Soul Fighter Viego chroma VFX/sf-viegochromavfx.fantome",
-   "size": 16127761,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Soul%20Fighter%20Viego%20chroma%20VFX/sf-viegochromavfx.fantome"
-  },
-  "RF_Storage1/Part1/Soul Fighter Viego chroma VFX/soul-fighter-viego-chroma-vfx_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Soul Fighter Viego chroma VFX/soul-fighter-viego-chroma-vfx_1.0.0.fantome",
-   "size": 16128500,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Soul%20Fighter%20Viego%20chroma%20VFX/soul-fighter-viego-chroma-vfx_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Soultaker Hades Karthus - SMITE/soultaker-hades-karthus-smite_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Soultaker Hades Karthus - SMITE/soultaker-hades-karthus-smite_1.0.0.fantome",
-   "size": 6687583,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Soultaker%20Hades%20Karthus%20-%20SMITE/soultaker-hades-karthus-smite_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Spartan Smite/spartan-smite_25.24.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spartan Smite/spartan-smite_25.24.0.fantome",
-   "size": 8280803,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spartan%20Smite/spartan-smite_25.24.0.fantome"
-  },
-  "RF_Storage1/Part1/Spawn Darius/spawn-darius_1.0.4.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spawn Darius/spawn-darius_1.0.4.fantome",
-   "size": 2380494,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spawn%20Darius/spawn-darius_1.0.4.fantome"
-  },
-  "RF_Storage1/Part1/Spawn sylas/spawn-sylas-1-0-8.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spawn sylas/spawn-sylas-1-0-8.fantome",
-   "size": 14584265,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spawn%20sylas/spawn-sylas-1-0-8.fantome"
-  },
-  "RF_Storage1/Part1/Specimen 10 - Parasite (Spooky's Jump Scare Mansion)/specimen10.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Specimen 10 - Parasite (Spooky's Jump Scare Mansion)/specimen10.fantome",
-   "size": 683965,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Specimen%2010%20-%20Parasite%20(Spooky's%20Jump%20Scare%20Mansion)/specimen10.fantome"
-  },
-  "RF_Storage1/Part1/Specimen 12 - Old man (Spooky's Jump Scare Mansion)/kayn-specimen-12.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Specimen 12 - Old man (Spooky's Jump Scare Mansion)/kayn-specimen-12.fantome",
-   "size": 1351520,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Specimen%2012%20-%20Old%20man%20(Spooky's%20Jump%20Scare%20Mansion)/kayn-specimen-12.fantome"
-  },
-  "RF_Storage1/Part1/Specimen 5 - Bab (Spooky's Jump Scare Mansion)/specimen-5-bab-spookys-jumpscare-mansion_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Specimen 5 - Bab (Spooky's Jump Scare Mansion)/specimen-5-bab-spookys-jumpscare-mansion_1.0.0.fantome",
-   "size": 474726,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Specimen%205%20-%20Bab%20(Spooky's%20Jump%20Scare%20Mansion)/specimen-5-bab-spookys-jumpscare-mansion_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Aphelios - Dark Blue Chroma/spirit-blossom-aphelios-dark-blue-chroma_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Aphelios - Dark Blue Chroma/spirit-blossom-aphelios-dark-blue-chroma_1.0.0.fantome",
-   "size": 12046915,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Aphelios%20-%20Dark%20Blue%20Chroma/spirit-blossom-aphelios-dark-blue-chroma_1.0.0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom BGM for MOGA Map/spirit-blossom-bgm-for-moga-map_15.23.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom BGM for MOGA Map/spirit-blossom-bgm-for-moga-map_15.23.0.fantome",
-   "size": 25548665,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20BGM%20for%20MOGA%20Map/spirit-blossom-bgm-for-moga-map_15.23.0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom BGM/spirit-blossom-bgm-by-aurecueil.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom BGM/spirit-blossom-bgm-by-aurecueil.fantome",
-   "size": 25549042,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20BGM/spirit-blossom-bgm-by-aurecueil.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom BGM/spirit-blossom-bgm_15.23.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom BGM/spirit-blossom-bgm_15.23.0.fantome",
-   "size": 25548970,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20BGM/spirit-blossom-bgm_15.23.0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Draven/spirit-blossom-draven_1.6.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Draven/spirit-blossom-draven_1.6.0.fantome",
-   "size": 13769768,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Draven/spirit-blossom-draven_1.6.0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Draven/spirit-blossom-draven_1.7.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Draven/spirit-blossom-draven_1.7.0.fantome",
-   "size": 13756594,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Draven/spirit-blossom-draven_1.7.0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Irelia chroma VFX/spirit-blossom-ireliachroma-vfx.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Irelia chroma VFX/spirit-blossom-ireliachroma-vfx.fantome",
-   "size": 22543478,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Irelia%20chroma%20VFX/spirit-blossom-ireliachroma-vfx.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Lillia HUD V1.1.2/hud-v1-1-2_1.1.2.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Lillia HUD V1.1.2/hud-v1-1-2_1.1.2.fantome",
-   "size": 7488603,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Lillia%20HUD%20V1.1.2/hud-v1-1-2_1.1.2.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-2025_1524.2.14.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-2025_1524.2.14.fantome",
-   "size": 21549922,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-2025_1524.2.14.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-2025_1524.2.15.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-2025_1524.2.15.fantome",
-   "size": 22317954,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-2025_1524.2.15.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-2025_161.2.15.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-2025_161.2.15.fantome",
-   "size": 22336119,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-2025_161.2.15.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-10-2-24-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-10-2-24-0.fantome",
-   "size": 24826482,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-10-2-24-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-13-2-24-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-13-2-24-0.fantome",
-   "size": 24826917,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-13-2-24-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-15-2-25-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-15-2-25-0_large_file.txt",
-   "size": 393,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-15-2-25-0_large_file.txt"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-2-2-16-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-2-2-16-0.fantome",
-   "size": 22298714,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-2-2-16-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-3-2-17-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-3-2-17-0.fantome",
-   "size": 22304636,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-3-2-17-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-4-2-18-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-4-2-18-0.fantome",
-   "size": 22652077,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-4-2-18-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-5-2-20-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-5-2-20-0.fantome",
-   "size": 25150630,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-5-2-20-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-5-2-22-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-5-2-22-0.fantome",
-   "size": 24824823,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-5-2-22-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-6-2-23-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-6-2-23-0.fantome",
-   "size": 24835986,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-6-2-23-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-7-2-24-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-7-2-24-0.fantome",
-   "size": 24847953,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-7-2-24-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-8-2-24-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-8-2-24-0.fantome",
-   "size": 24831448,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-8-2-24-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-9-2-24-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Rift (2025)/spirit-blossom-rift-by-moga-v16-9-2-24-0.fantome",
-   "size": 24921370,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Rift%20(2025)/spirit-blossom-rift-by-moga-v16-9-2-24-0.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Yone chroma VFX/spirit-blossom-yone-chroma-vfx-by-surin.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Yone chroma VFX/spirit-blossom-yone-chroma-vfx-by-surin.fantome",
-   "size": 16151628,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Yone%20chroma%20VFX/spirit-blossom-yone-chroma-vfx-by-surin.fantome"
-  },
-  "RF_Storage1/Part1/Spirit Blossom Yone chroma VFX/spirit-blossom-yone-chroma-vfx.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spirit Blossom Yone chroma VFX/spirit-blossom-yone-chroma-vfx.fantome",
-   "size": 13487372,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spirit%20Blossom%20Yone%20chroma%20VFX/spirit-blossom-yone-chroma-vfx.fantome"
-  },
-  "RF_Storage1/Part1/Spy vs spy jhin/spy-vs-spy-jhin-1-0-3.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Spy vs spy jhin/spy-vs-spy-jhin-1-0-3.fantome",
-   "size": 15365842,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Spy%20vs%20spy%20jhin/spy-vs-spy-jhin-1-0-3.fantome"
-  },
-  "RF_Storage1/Part1/Squidtooth Vel'Koz/squidtooth-vel-koz.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Squidtooth Vel'Koz/squidtooth-vel-koz.fantome",
-   "size": 391188,
-   "first_seen": "2026-09-29T22:50:09.616Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Squidtooth%20Vel'Koz/squidtooth-vel-koz.fantome"
   }
  },
  "images": {
@@ -37483,1148 +36003,1148 @@
   "9151ea66-1e25-4078-15b4-cd19b69bbe00.png": {
    "repo": "autrex-mods-1",
    "size": 952139,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9151ea66-1e25-4078-15b4-cd19b69bbe00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9151ea66-1e25-4078-15b4-cd19b69bbe00.png"
   },
   "d1a5f0a3-ce7e-4203-761a-7aaebe181600.png": {
    "repo": "autrex-mods-1",
    "size": 2146861,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d1a5f0a3-ce7e-4203-761a-7aaebe181600.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d1a5f0a3-ce7e-4203-761a-7aaebe181600.png"
   },
   "db65d68f-7d56-4e1a-217c-f9d5707f4b00.png": {
    "repo": "autrex-mods-1",
    "size": 280502,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/db65d68f-7d56-4e1a-217c-f9d5707f4b00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/db65d68f-7d56-4e1a-217c-f9d5707f4b00.png"
   },
   "bd202426-c40e-4fd9-ef50-d7af3c0de800.png": {
    "repo": "autrex-mods-1",
    "size": 687200,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/bd202426-c40e-4fd9-ef50-d7af3c0de800.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/bd202426-c40e-4fd9-ef50-d7af3c0de800.png"
   },
   "56fa9ac9-1ac3-4921-866d-bafad327e300.png": {
    "repo": "autrex-mods-1",
    "size": 5128793,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/56fa9ac9-1ac3-4921-866d-bafad327e300.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/56fa9ac9-1ac3-4921-866d-bafad327e300.png"
   },
   "914ef9c2-b111-41fd-9e3b-046f708e5b00.webp": {
    "repo": "autrex-mods-1",
    "size": 169188,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/914ef9c2-b111-41fd-9e3b-046f708e5b00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/914ef9c2-b111-41fd-9e3b-046f708e5b00.webp"
   },
   "ba35a2a4-5d71-4ed5-04d2-0c84f3559500.webp": {
    "repo": "autrex-mods-1",
    "size": 109982,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/ba35a2a4-5d71-4ed5-04d2-0c84f3559500.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/ba35a2a4-5d71-4ed5-04d2-0c84f3559500.webp"
   },
   "799f9b8b-fd26-4f20-44cf-aa27f01ea300.webp": {
    "repo": "autrex-mods-1",
    "size": 271758,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/799f9b8b-fd26-4f20-44cf-aa27f01ea300.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/799f9b8b-fd26-4f20-44cf-aa27f01ea300.webp"
   },
   "81393767-e66d-441c-352b-149cd42b2f00.webp": {
    "repo": "autrex-mods-1",
    "size": 157534,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/81393767-e66d-441c-352b-149cd42b2f00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/81393767-e66d-441c-352b-149cd42b2f00.webp"
   },
   "0a9eed7d-6f38-414d-411a-e56c788f8800.webp": {
    "repo": "autrex-mods-1",
    "size": 36630,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/0a9eed7d-6f38-414d-411a-e56c788f8800.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/0a9eed7d-6f38-414d-411a-e56c788f8800.webp"
   },
   "c6a56c87-0dca-478e-fdc0-76e7944dd700.png": {
    "repo": "autrex-mods-1",
    "size": 177456,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/c6a56c87-0dca-478e-fdc0-76e7944dd700.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/c6a56c87-0dca-478e-fdc0-76e7944dd700.png"
   },
   "20eccd4a-76a1-42f1-a208-8e5f604d7c00.png": {
    "repo": "autrex-mods-1",
    "size": 237945,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/20eccd4a-76a1-42f1-a208-8e5f604d7c00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/20eccd4a-76a1-42f1-a208-8e5f604d7c00.png"
   },
   "2207878d-8653-40be-cfb9-84a2823caf00.webp": {
    "repo": "autrex-mods-1",
    "size": 37132,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/2207878d-8653-40be-cfb9-84a2823caf00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/2207878d-8653-40be-cfb9-84a2823caf00.webp"
   },
   "75be9b52-dc70-40ff-d303-ea9c356a7a00.webp": {
    "repo": "autrex-mods-1",
    "size": 29276,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/75be9b52-dc70-40ff-d303-ea9c356a7a00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/75be9b52-dc70-40ff-d303-ea9c356a7a00.webp"
   },
   "be5aee74-4b2b-466e-5ea5-9e1635ede400.webp": {
    "repo": "autrex-mods-1",
    "size": 16130,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/be5aee74-4b2b-466e-5ea5-9e1635ede400.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/be5aee74-4b2b-466e-5ea5-9e1635ede400.webp"
   },
   "6e4d8d4e-1cdb-4308-3c69-05c3f6adce00.png": {
    "repo": "autrex-mods-1",
    "size": 856484,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/6e4d8d4e-1cdb-4308-3c69-05c3f6adce00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/6e4d8d4e-1cdb-4308-3c69-05c3f6adce00.png"
   },
   "8b733e1f-db5d-430f-f316-7d5b46ce7800.png": {
    "repo": "autrex-mods-1",
    "size": 393722,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/8b733e1f-db5d-430f-f316-7d5b46ce7800.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/8b733e1f-db5d-430f-f316-7d5b46ce7800.png"
   },
   "3271257b-96f8-4b7e-4610-99ac0af64200.jpg": {
    "repo": "autrex-mods-1",
    "size": 1896477,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/3271257b-96f8-4b7e-4610-99ac0af64200.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/3271257b-96f8-4b7e-4610-99ac0af64200.jpg"
   },
   "6702c1b2-56c1-46d3-c434-f60cf5ec3900.jpg": {
    "repo": "autrex-mods-1",
    "size": 1634963,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/6702c1b2-56c1-46d3-c434-f60cf5ec3900.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/6702c1b2-56c1-46d3-c434-f60cf5ec3900.jpg"
   },
   "0aa39225-a7a9-4a6a-0e9f-3b0624fa0600.jpg": {
    "repo": "autrex-mods-1",
    "size": 1812003,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/0aa39225-a7a9-4a6a-0e9f-3b0624fa0600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/0aa39225-a7a9-4a6a-0e9f-3b0624fa0600.jpg"
   },
   "2991eaba-5c35-40d4-72fa-d0f6d30a6800.jpg": {
    "repo": "autrex-mods-1",
    "size": 734877,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/2991eaba-5c35-40d4-72fa-d0f6d30a6800.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/2991eaba-5c35-40d4-72fa-d0f6d30a6800.jpg"
   },
   "ecd73467-6338-46fe-f3fc-3ad9d0efc400.jpg": {
    "repo": "autrex-mods-1",
    "size": 459989,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/ecd73467-6338-46fe-f3fc-3ad9d0efc400.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/ecd73467-6338-46fe-f3fc-3ad9d0efc400.jpg"
   },
   "19fe896e-fe11-44d6-4f88-d8b8379b8e00.jpg": {
    "repo": "autrex-mods-1",
-   "size": 1739435,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1535302,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/19fe896e-fe11-44d6-4f88-d8b8379b8e00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/19fe896e-fe11-44d6-4f88-d8b8379b8e00.jpg"
   },
   "8fe778c0-9c7e-4096-1918-4105a4fb0500.jpg": {
    "repo": "autrex-mods-1",
    "size": 1753105,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/8fe778c0-9c7e-4096-1918-4105a4fb0500.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/8fe778c0-9c7e-4096-1918-4105a4fb0500.jpg"
   },
   "7fbaa14f-2b72-41ac-d165-e433e2fa1b00.jpg": {
    "repo": "autrex-mods-1",
    "size": 2139619,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/7fbaa14f-2b72-41ac-d165-e433e2fa1b00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/7fbaa14f-2b72-41ac-d165-e433e2fa1b00.jpg"
   },
   "7361a633-3b47-42fa-ec08-4b753c94a500.jpg": {
    "repo": "autrex-mods-1",
    "size": 1589288,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/7361a633-3b47-42fa-ec08-4b753c94a500.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/7361a633-3b47-42fa-ec08-4b753c94a500.jpg"
   },
   "1a33ab58-0e8e-4a51-cac4-24ad228ade00.jpg": {
    "repo": "autrex-mods-1",
    "size": 1835531,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/1a33ab58-0e8e-4a51-cac4-24ad228ade00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/1a33ab58-0e8e-4a51-cac4-24ad228ade00.jpg"
   },
   "fec93554-eabb-400e-0fc0-52fd7e63c900.webp": {
    "repo": "autrex-mods-1",
    "size": 85470,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/fec93554-eabb-400e-0fc0-52fd7e63c900.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/fec93554-eabb-400e-0fc0-52fd7e63c900.webp"
   },
   "518cf0be-320d-4691-f723-21c09865ec00.jpg": {
    "repo": "autrex-mods-1",
    "size": 1697825,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/518cf0be-320d-4691-f723-21c09865ec00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/518cf0be-320d-4691-f723-21c09865ec00.jpg"
   },
   "0ddad9e5-54e3-4ee8-d71e-a211e1bba800.jpg": {
    "repo": "autrex-mods-1",
    "size": 243698,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/0ddad9e5-54e3-4ee8-d71e-a211e1bba800.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/0ddad9e5-54e3-4ee8-d71e-a211e1bba800.jpg"
   },
   "9cc73e1f-22ce-4d0b-fc76-ebb703b5d200.webp": {
    "repo": "autrex-mods-1",
    "size": 45800,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9cc73e1f-22ce-4d0b-fc76-ebb703b5d200.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9cc73e1f-22ce-4d0b-fc76-ebb703b5d200.webp"
   },
   "691fc907-d3b0-46b1-a5f4-75ac7b923400.png": {
    "repo": "autrex-mods-1",
    "size": 2120672,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/691fc907-d3b0-46b1-a5f4-75ac7b923400.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/691fc907-d3b0-46b1-a5f4-75ac7b923400.png"
   },
   "745e4383-403b-4c58-103a-1cd5a7be2d00.webp": {
    "repo": "autrex-mods-1",
    "size": 22248,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/745e4383-403b-4c58-103a-1cd5a7be2d00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/745e4383-403b-4c58-103a-1cd5a7be2d00.webp"
   },
   "b400db02-f913-4ddf-a87a-cb7058d8fe00.png": {
    "repo": "autrex-mods-1",
    "size": 478465,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/b400db02-f913-4ddf-a87a-cb7058d8fe00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/b400db02-f913-4ddf-a87a-cb7058d8fe00.png"
   },
   "45e305d7-5d71-4c34-b2ae-21a724059200.png": {
    "repo": "autrex-mods-1",
    "size": 1289128,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/45e305d7-5d71-4c34-b2ae-21a724059200.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/45e305d7-5d71-4c34-b2ae-21a724059200.png"
   },
   "ffd40291-9039-4f60-96b2-135565213700.webp": {
    "repo": "autrex-mods-1",
    "size": 49390,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/ffd40291-9039-4f60-96b2-135565213700.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/ffd40291-9039-4f60-96b2-135565213700.webp"
   },
   "aea7d861-af37-4186-b8af-15ff83f5b900.webp": {
    "repo": "autrex-mods-1",
    "size": 75496,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/aea7d861-af37-4186-b8af-15ff83f5b900.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/aea7d861-af37-4186-b8af-15ff83f5b900.webp"
   },
   "9ac5cee0-0b84-48f8-a19e-b73b9a433f00.jpg": {
    "repo": "autrex-mods-1",
-   "size": 266452,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 143247,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9ac5cee0-0b84-48f8-a19e-b73b9a433f00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9ac5cee0-0b84-48f8-a19e-b73b9a433f00.jpg"
   },
   "1e52b680-8191-4784-fadb-38692f93f900.png": {
    "repo": "autrex-mods-1",
    "size": 3214717,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/1e52b680-8191-4784-fadb-38692f93f900.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/1e52b680-8191-4784-fadb-38692f93f900.png"
   },
   "b64ab36c-8263-4c95-40aa-d13da5d57800.png": {
    "repo": "autrex-mods-1",
-   "size": 856312,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 775967,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/b64ab36c-8263-4c95-40aa-d13da5d57800.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/b64ab36c-8263-4c95-40aa-d13da5d57800.png"
   },
   "17425647-8fd7-4f69-89f7-fc40eb908a00.jpg": {
    "repo": "autrex-mods-1",
    "size": 314492,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/17425647-8fd7-4f69-89f7-fc40eb908a00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/17425647-8fd7-4f69-89f7-fc40eb908a00.jpg"
   },
   "4bade407-6a97-4180-b867-25865c2df800.png": {
    "repo": "autrex-mods-1",
    "size": 1034019,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/4bade407-6a97-4180-b867-25865c2df800.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/4bade407-6a97-4180-b867-25865c2df800.png"
   },
   "4e594cbe-dceb-4521-47b2-6e8573153a00.png": {
    "repo": "autrex-mods-1",
    "size": 1162949,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/4e594cbe-dceb-4521-47b2-6e8573153a00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/4e594cbe-dceb-4521-47b2-6e8573153a00.png"
   },
   "ca1c8f4d-9214-48ee-4196-1472a1baea00.png": {
    "repo": "autrex-mods-1",
    "size": 2275753,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/ca1c8f4d-9214-48ee-4196-1472a1baea00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/ca1c8f4d-9214-48ee-4196-1472a1baea00.png"
   },
   "1ce8bef1-961a-49cb-34a7-da83ba501d00.png": {
    "repo": "autrex-mods-1",
    "size": 3463232,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/1ce8bef1-961a-49cb-34a7-da83ba501d00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/1ce8bef1-961a-49cb-34a7-da83ba501d00.png"
   },
   "5ce66cf1-b968-43a5-927f-59764ab5c100.png": {
    "repo": "autrex-mods-1",
-   "size": 1991269,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1731139,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/5ce66cf1-b968-43a5-927f-59764ab5c100.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/5ce66cf1-b968-43a5-927f-59764ab5c100.png"
   },
   "0494fad7-8f3f-4426-4547-c95e33d4a400.jpg": {
    "repo": "autrex-mods-1",
    "size": 317494,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/0494fad7-8f3f-4426-4547-c95e33d4a400.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/0494fad7-8f3f-4426-4547-c95e33d4a400.jpg"
   },
   "bef4633d-220d-42f8-ac2d-f329232dba00.webp": {
    "repo": "autrex-mods-1",
    "size": 203804,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/bef4633d-220d-42f8-ac2d-f329232dba00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/bef4633d-220d-42f8-ac2d-f329232dba00.webp"
   },
   "3754a9a5-8ea6-48f2-a3a4-b57356665500.png": {
    "repo": "autrex-mods-1",
-   "size": 1319315,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 941514,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/3754a9a5-8ea6-48f2-a3a4-b57356665500.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/3754a9a5-8ea6-48f2-a3a4-b57356665500.png"
   },
   "3f55144d-8ffa-4877-0b6d-2ff10011a300.png": {
    "repo": "autrex-mods-1",
    "size": 1801183,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/3f55144d-8ffa-4877-0b6d-2ff10011a300.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/3f55144d-8ffa-4877-0b6d-2ff10011a300.png"
   },
   "02dde77e-7e03-4d91-c346-1d254cc8e200.png": {
    "repo": "autrex-mods-1",
    "size": 324503,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/02dde77e-7e03-4d91-c346-1d254cc8e200.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/02dde77e-7e03-4d91-c346-1d254cc8e200.png"
   },
   "aca2befe-2f49-40d6-2929-f1949addc800.webp": {
    "repo": "autrex-mods-1",
    "size": 253966,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/aca2befe-2f49-40d6-2929-f1949addc800.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/aca2befe-2f49-40d6-2929-f1949addc800.webp"
   },
   "d80d80e0-c86f-4572-3c1c-5c2bb71e4d00.webp": {
    "repo": "autrex-mods-1",
    "size": 395454,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d80d80e0-c86f-4572-3c1c-5c2bb71e4d00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d80d80e0-c86f-4572-3c1c-5c2bb71e4d00.webp"
   },
   "433fd1fa-f5a6-4d91-9eb5-4fb5067d5e00.webp": {
    "repo": "autrex-mods-1",
    "size": 212802,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/433fd1fa-f5a6-4d91-9eb5-4fb5067d5e00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/433fd1fa-f5a6-4d91-9eb5-4fb5067d5e00.webp"
   },
   "4f11cc06-0563-448a-5adf-fd55dbc89000.jpg": {
    "repo": "autrex-mods-1",
    "size": 159813,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/4f11cc06-0563-448a-5adf-fd55dbc89000.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/4f11cc06-0563-448a-5adf-fd55dbc89000.jpg"
   },
   "d86833fe-05a2-4987-1675-ba5d5f408f00.png": {
    "repo": "autrex-mods-1",
-   "size": 1184340,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1084615,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d86833fe-05a2-4987-1675-ba5d5f408f00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d86833fe-05a2-4987-1675-ba5d5f408f00.png"
   },
   "f2723c2b-5d2d-49ca-7bfa-912087479f00.png": {
    "repo": "autrex-mods-1",
    "size": 2150462,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/f2723c2b-5d2d-49ca-7bfa-912087479f00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/f2723c2b-5d2d-49ca-7bfa-912087479f00.png"
   },
   "3177b55e-e8e0-418f-a1ae-00543a5b0100.webp": {
    "repo": "autrex-mods-1",
    "size": 36612,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/3177b55e-e8e0-418f-a1ae-00543a5b0100.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/3177b55e-e8e0-418f-a1ae-00543a5b0100.webp"
   },
   "06006dec-5ca4-4394-f3c7-16c21a896000.webp": {
    "repo": "autrex-mods-1",
    "size": 39562,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/06006dec-5ca4-4394-f3c7-16c21a896000.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/06006dec-5ca4-4394-f3c7-16c21a896000.webp"
   },
   "7bee3e2e-bc37-4bc4-f587-69e937cfd600.webp": {
    "repo": "autrex-mods-1",
    "size": 17530,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/7bee3e2e-bc37-4bc4-f587-69e937cfd600.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/7bee3e2e-bc37-4bc4-f587-69e937cfd600.webp"
   },
   "228be7f5-2368-4559-85ac-e8cc162a7f00.webp": {
    "repo": "autrex-mods-1",
    "size": 38310,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/228be7f5-2368-4559-85ac-e8cc162a7f00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/228be7f5-2368-4559-85ac-e8cc162a7f00.webp"
   },
   "8af41e4a-d546-4374-e6b8-682a27513b00.webp": {
    "repo": "autrex-mods-1",
    "size": 57816,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/8af41e4a-d546-4374-e6b8-682a27513b00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/8af41e4a-d546-4374-e6b8-682a27513b00.webp"
   },
   "cd55c173-fa86-4f0f-18e6-cf2fd7580900.webp": {
    "repo": "autrex-mods-1",
    "size": 58600,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/cd55c173-fa86-4f0f-18e6-cf2fd7580900.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/cd55c173-fa86-4f0f-18e6-cf2fd7580900.webp"
   },
   "f4b8013f-e2d7-4924-6662-e326ab5fb600.webp": {
    "repo": "autrex-mods-1",
    "size": 68532,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/f4b8013f-e2d7-4924-6662-e326ab5fb600.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/f4b8013f-e2d7-4924-6662-e326ab5fb600.webp"
   },
   "61f97ec4-0121-408f-4548-bc706958f300.webp": {
    "repo": "autrex-mods-1",
    "size": 130032,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/61f97ec4-0121-408f-4548-bc706958f300.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/61f97ec4-0121-408f-4548-bc706958f300.webp"
   },
   "9f15a8a5-c9b6-4643-60b7-5f145497df00.webp": {
    "repo": "autrex-mods-1",
    "size": 57426,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9f15a8a5-c9b6-4643-60b7-5f145497df00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9f15a8a5-c9b6-4643-60b7-5f145497df00.webp"
   },
   "4636bf96-acbd-45b9-3381-e09172428000.webp": {
    "repo": "autrex-mods-1",
    "size": 26810,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/4636bf96-acbd-45b9-3381-e09172428000.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/4636bf96-acbd-45b9-3381-e09172428000.webp"
   },
   "43cdba4d-7692-44b7-f3bc-7bdffcb6c300.webp": {
    "repo": "autrex-mods-1",
    "size": 43596,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/43cdba4d-7692-44b7-f3bc-7bdffcb6c300.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/43cdba4d-7692-44b7-f3bc-7bdffcb6c300.webp"
   },
   "dab2578c-5a32-4f8e-5e77-5c3b4cef0200.webp": {
    "repo": "autrex-mods-1",
    "size": 29606,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/dab2578c-5a32-4f8e-5e77-5c3b4cef0200.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/dab2578c-5a32-4f8e-5e77-5c3b4cef0200.webp"
   },
   "8911715f-7690-41a2-ef0a-620e2bce2d00.webp": {
    "repo": "autrex-mods-1",
    "size": 31384,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/8911715f-7690-41a2-ef0a-620e2bce2d00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/8911715f-7690-41a2-ef0a-620e2bce2d00.webp"
   },
   "b0215a40-f494-4acb-4e68-f30ecee79100.webp": {
    "repo": "autrex-mods-1",
    "size": 47824,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/b0215a40-f494-4acb-4e68-f30ecee79100.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/b0215a40-f494-4acb-4e68-f30ecee79100.webp"
   },
   "ba29c4f1-e206-4d3f-88bf-a7574fc24600.webp": {
    "repo": "autrex-mods-1",
    "size": 66916,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/ba29c4f1-e206-4d3f-88bf-a7574fc24600.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/ba29c4f1-e206-4d3f-88bf-a7574fc24600.webp"
   },
   "183504c5-7716-483b-2d5f-9bfb21e0b600.jpg": {
    "repo": "autrex-mods-1",
    "size": 461616,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/183504c5-7716-483b-2d5f-9bfb21e0b600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/183504c5-7716-483b-2d5f-9bfb21e0b600.jpg"
   },
   "498b0274-c550-4e3d-730b-19cd8fe3e600.jpg": {
    "repo": "autrex-mods-1",
    "size": 264700,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/498b0274-c550-4e3d-730b-19cd8fe3e600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/498b0274-c550-4e3d-730b-19cd8fe3e600.jpg"
   },
   "70e90c84-f104-42fd-1902-8069a777b100.jpg": {
    "repo": "autrex-mods-1",
-   "size": 1417160,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 203487,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/70e90c84-f104-42fd-1902-8069a777b100.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/70e90c84-f104-42fd-1902-8069a777b100.jpg"
   },
   "95a80e82-5aa2-4a3a-a5ba-2b3532ba6a00.png": {
    "repo": "autrex-mods-1",
-   "size": 1103161,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 943458,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/95a80e82-5aa2-4a3a-a5ba-2b3532ba6a00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/95a80e82-5aa2-4a3a-a5ba-2b3532ba6a00.png"
   },
   "26749672-a0f0-4c32-d242-a864dfbff400.png": {
    "repo": "autrex-mods-1",
    "size": 1764179,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/26749672-a0f0-4c32-d242-a864dfbff400.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/26749672-a0f0-4c32-d242-a864dfbff400.png"
   },
   "793de5e6-ed53-4d9d-469c-d3ab29844500.png": {
    "repo": "autrex-mods-1",
-   "size": 189128,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 123309,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/793de5e6-ed53-4d9d-469c-d3ab29844500.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/793de5e6-ed53-4d9d-469c-d3ab29844500.png"
   },
   "94da5eee-40bd-43fa-c01a-3fce5d2ee000.png": {
    "repo": "autrex-mods-1",
    "size": 1256073,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/94da5eee-40bd-43fa-c01a-3fce5d2ee000.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/94da5eee-40bd-43fa-c01a-3fce5d2ee000.png"
   },
   "eabb1b18-02f2-402c-3f99-b901b4c79a00.png": {
    "repo": "autrex-mods-1",
    "size": 2289291,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/eabb1b18-02f2-402c-3f99-b901b4c79a00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/eabb1b18-02f2-402c-3f99-b901b4c79a00.png"
   },
   "df55f307-e692-4564-e556-6d7eabade600.png": {
    "repo": "autrex-mods-1",
    "size": 987016,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/df55f307-e692-4564-e556-6d7eabade600.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/df55f307-e692-4564-e556-6d7eabade600.png"
   },
   "33c85d0c-0e41-4602-0eff-4eb1b4c40b00.png": {
    "repo": "autrex-mods-1",
-   "size": 982375,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 875969,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/33c85d0c-0e41-4602-0eff-4eb1b4c40b00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/33c85d0c-0e41-4602-0eff-4eb1b4c40b00.png"
   },
   "850ecc61-4e86-46d7-d364-cfa8baa37a00.png": {
    "repo": "autrex-mods-1",
-   "size": 960084,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 873148,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/850ecc61-4e86-46d7-d364-cfa8baa37a00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/850ecc61-4e86-46d7-d364-cfa8baa37a00.png"
   },
   "3fa6d43d-2219-4b8f-f105-d0cf3c3d4a00.png": {
    "repo": "autrex-mods-1",
-   "size": 1410491,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1103753,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/3fa6d43d-2219-4b8f-f105-d0cf3c3d4a00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/3fa6d43d-2219-4b8f-f105-d0cf3c3d4a00.png"
   },
   "64f1bdc5-3f18-4149-f8b0-e0c634936400.jpg": {
    "repo": "autrex-mods-1",
    "size": 218230,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/64f1bdc5-3f18-4149-f8b0-e0c634936400.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/64f1bdc5-3f18-4149-f8b0-e0c634936400.jpg"
   },
   "de54b4bf-daf8-46d9-9e73-ca4b8f249400.png": {
    "repo": "autrex-mods-1",
    "size": 863788,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/de54b4bf-daf8-46d9-9e73-ca4b8f249400.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/de54b4bf-daf8-46d9-9e73-ca4b8f249400.png"
   },
   "c3021eb3-dd68-42cf-ea5f-46a699a5af00.png": {
    "repo": "autrex-mods-1",
    "size": 651290,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/c3021eb3-dd68-42cf-ea5f-46a699a5af00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/c3021eb3-dd68-42cf-ea5f-46a699a5af00.png"
   },
   "d4f77cfe-7cc7-4f9c-8adb-6ae9d61e4d00.png": {
    "repo": "autrex-mods-1",
    "size": 760541,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d4f77cfe-7cc7-4f9c-8adb-6ae9d61e4d00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d4f77cfe-7cc7-4f9c-8adb-6ae9d61e4d00.png"
   },
   "75482088-c423-4fed-af2a-9c5893c2bf00.png": {
    "repo": "autrex-mods-1",
-   "size": 799784,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 617881,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/75482088-c423-4fed-af2a-9c5893c2bf00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/75482088-c423-4fed-af2a-9c5893c2bf00.png"
   },
   "805d2020-6b4d-4d81-423e-c9b1d8b99500.png": {
    "repo": "autrex-mods-1",
    "size": 698611,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/805d2020-6b4d-4d81-423e-c9b1d8b99500.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/805d2020-6b4d-4d81-423e-c9b1d8b99500.png"
   },
   "a430887f-2ffd-4e22-d864-9856c97e9500.png": {
    "repo": "autrex-mods-1",
    "size": 777770,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/a430887f-2ffd-4e22-d864-9856c97e9500.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/a430887f-2ffd-4e22-d864-9856c97e9500.png"
   },
   "197f61a7-8282-4e87-0b86-630b789bc400.png": {
    "repo": "autrex-mods-1",
    "size": 843407,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/197f61a7-8282-4e87-0b86-630b789bc400.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/197f61a7-8282-4e87-0b86-630b789bc400.png"
   },
   "8bc551bf-f6f1-4a96-a6c2-71c4ff429700.webp": {
    "repo": "autrex-mods-1",
    "size": 28160,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/8bc551bf-f6f1-4a96-a6c2-71c4ff429700.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/8bc551bf-f6f1-4a96-a6c2-71c4ff429700.webp"
   },
   "2d80a848-c132-41f0-ccd8-0415ac9fbb00.webp": {
    "repo": "autrex-mods-1",
    "size": 39516,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/2d80a848-c132-41f0-ccd8-0415ac9fbb00.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/2d80a848-c132-41f0-ccd8-0415ac9fbb00.webp"
   },
   "55df7080-901f-425c-dd1a-d95032a93b00.png": {
    "repo": "autrex-mods-1",
    "size": 690182,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/55df7080-901f-425c-dd1a-d95032a93b00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/55df7080-901f-425c-dd1a-d95032a93b00.png"
   },
   "a702c8dd-8e1e-461b-e7cf-a986340f6a00.jpg": {
    "repo": "autrex-mods-1",
    "size": 1777560,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/a702c8dd-8e1e-461b-e7cf-a986340f6a00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/a702c8dd-8e1e-461b-e7cf-a986340f6a00.jpg"
   },
   "16a174c2-8686-4fc2-eb87-04cd1f599100.jpg": {
    "repo": "autrex-mods-1",
    "size": 689133,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/16a174c2-8686-4fc2-eb87-04cd1f599100.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/16a174c2-8686-4fc2-eb87-04cd1f599100.jpg"
   },
   "0261fd4a-425d-4ea7-4601-97a986bbd200.jpg": {
    "repo": "autrex-mods-1",
-   "size": 2105658,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1824158,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/0261fd4a-425d-4ea7-4601-97a986bbd200.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/0261fd4a-425d-4ea7-4601-97a986bbd200.jpg"
   },
   "36b68f45-9b24-49d0-09d0-d4111d55e400.jpg": {
    "repo": "autrex-mods-1",
-   "size": 79465,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 72050,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/36b68f45-9b24-49d0-09d0-d4111d55e400.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/36b68f45-9b24-49d0-09d0-d4111d55e400.jpg"
   },
   "da54119c-42d9-4f18-b334-d19d2f9fd300.jpg": {
    "repo": "autrex-mods-1",
    "size": 254604,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/da54119c-42d9-4f18-b334-d19d2f9fd300.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/da54119c-42d9-4f18-b334-d19d2f9fd300.jpg"
   },
   "bef19df0-45a8-4794-8dc3-357139ba3400.jpg": {
    "repo": "autrex-mods-1",
    "size": 173157,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/bef19df0-45a8-4794-8dc3-357139ba3400.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/bef19df0-45a8-4794-8dc3-357139ba3400.jpg"
   },
   "d80a9939-de15-4341-3427-c871d2d35600.jpg": {
    "repo": "autrex-mods-1",
    "size": 1957778,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d80a9939-de15-4341-3427-c871d2d35600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d80a9939-de15-4341-3427-c871d2d35600.jpg"
   },
   "e5b5d1fd-6617-46a6-e939-ca4c07470c00.jpg": {
    "repo": "autrex-mods-1",
    "size": 1412114,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/e5b5d1fd-6617-46a6-e939-ca4c07470c00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/e5b5d1fd-6617-46a6-e939-ca4c07470c00.jpg"
   },
   "6b5d147a-2cff-445e-b8b9-7e1a90067700.jpg": {
    "repo": "autrex-mods-1",
    "size": 210764,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/6b5d147a-2cff-445e-b8b9-7e1a90067700.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/6b5d147a-2cff-445e-b8b9-7e1a90067700.jpg"
   },
   "cb3a21a2-4b4e-4ad9-3916-47ffd1697500.jpg": {
    "repo": "autrex-mods-1",
    "size": 75701,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/cb3a21a2-4b4e-4ad9-3916-47ffd1697500.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/cb3a21a2-4b4e-4ad9-3916-47ffd1697500.jpg"
   },
   "7077c9eb-367c-4b2d-6b27-41c7590b5100.jpg": {
    "repo": "autrex-mods-1",
    "size": 1131581,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/7077c9eb-367c-4b2d-6b27-41c7590b5100.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/7077c9eb-367c-4b2d-6b27-41c7590b5100.jpg"
   },
   "d7218c9d-c0d9-45be-e4b2-ced314665200.jpg": {
    "repo": "autrex-mods-1",
    "size": 1014784,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d7218c9d-c0d9-45be-e4b2-ced314665200.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d7218c9d-c0d9-45be-e4b2-ced314665200.jpg"
   },
   "9de811aa-de74-45de-4d35-d52fd0fd5500.jpg": {
    "repo": "autrex-mods-1",
-   "size": 1250955,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1084297,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9de811aa-de74-45de-4d35-d52fd0fd5500.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9de811aa-de74-45de-4d35-d52fd0fd5500.jpg"
   },
   "4a6f0d82-2b73-49c2-3fa6-65f4341f9600.jpg": {
    "repo": "autrex-mods-1",
    "size": 1187571,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/4a6f0d82-2b73-49c2-3fa6-65f4341f9600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/4a6f0d82-2b73-49c2-3fa6-65f4341f9600.jpg"
   },
   "60b19b7e-17be-4f0f-0d1d-f363a555b800.jpg": {
    "repo": "autrex-mods-1",
    "size": 14106,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/60b19b7e-17be-4f0f-0d1d-f363a555b800.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/60b19b7e-17be-4f0f-0d1d-f363a555b800.jpg"
   },
   "560dcfd7-7ae9-4b32-0835-5c3fa63f5600.jpg": {
    "repo": "autrex-mods-1",
    "size": 1771934,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/560dcfd7-7ae9-4b32-0835-5c3fa63f5600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/560dcfd7-7ae9-4b32-0835-5c3fa63f5600.jpg"
   },
   "013047db-f6ca-42e9-421f-9b7ea2481b00.jpg": {
    "repo": "autrex-mods-1",
    "size": 1049655,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/013047db-f6ca-42e9-421f-9b7ea2481b00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/013047db-f6ca-42e9-421f-9b7ea2481b00.jpg"
   },
   "28a4548a-8316-4252-933b-adc81030bc00.jpg": {
    "repo": "autrex-mods-1",
    "size": 888371,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/28a4548a-8316-4252-933b-adc81030bc00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/28a4548a-8316-4252-933b-adc81030bc00.jpg"
   },
   "de7873ca-8b01-488a-b04d-2248bce79300.jpg": {
    "repo": "autrex-mods-1",
-   "size": 1249190,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1102422,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/de7873ca-8b01-488a-b04d-2248bce79300.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/de7873ca-8b01-488a-b04d-2248bce79300.jpg"
   },
   "ac429086-698d-4baa-69a2-5d74e8023600.jpg": {
    "repo": "autrex-mods-1",
    "size": 140179,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/ac429086-698d-4baa-69a2-5d74e8023600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/ac429086-698d-4baa-69a2-5d74e8023600.jpg"
   },
   "2f429b0d-c315-485e-a678-7e7d9fb5aa00.jpg": {
    "repo": "autrex-mods-1",
    "size": 1303331,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/2f429b0d-c315-485e-a678-7e7d9fb5aa00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/2f429b0d-c315-485e-a678-7e7d9fb5aa00.jpg"
   },
   "ba26cc7c-523d-4467-98e7-c8163c4f5300.jpg": {
    "repo": "autrex-mods-1",
    "size": 1297360,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/ba26cc7c-523d-4467-98e7-c8163c4f5300.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/ba26cc7c-523d-4467-98e7-c8163c4f5300.jpg"
   },
   "373eb6a1-bebf-4b4b-c5c1-e09d97480400.jpg": {
    "repo": "autrex-mods-1",
-   "size": 844388,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 714429,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/373eb6a1-bebf-4b4b-c5c1-e09d97480400.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/373eb6a1-bebf-4b4b-c5c1-e09d97480400.jpg"
   },
   "596462f5-1d48-496e-0f19-7c8924d54c00.jpg": {
    "repo": "autrex-mods-1",
-   "size": 627751,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 550123,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/596462f5-1d48-496e-0f19-7c8924d54c00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/596462f5-1d48-496e-0f19-7c8924d54c00.jpg"
   },
   "5cf961ec-bfca-439e-ba92-ea8b96738700.jpg": {
    "repo": "autrex-mods-1",
    "size": 1095806,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/5cf961ec-bfca-439e-ba92-ea8b96738700.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/5cf961ec-bfca-439e-ba92-ea8b96738700.jpg"
   },
   "e9f9176f-f205-4099-e939-bd7b643b6000.jpg": {
    "repo": "autrex-mods-1",
    "size": 1805972,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/e9f9176f-f205-4099-e939-bd7b643b6000.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/e9f9176f-f205-4099-e939-bd7b643b6000.jpg"
   },
   "13743f08-ff4f-4126-2f7b-c874732d6300.jpg": {
    "repo": "autrex-mods-1",
-   "size": 332216,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 274382,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/13743f08-ff4f-4126-2f7b-c874732d6300.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/13743f08-ff4f-4126-2f7b-c874732d6300.jpg"
   },
   "90ddcb71-37e3-4af4-f441-fb66fce24600.jpg": {
    "repo": "autrex-mods-1",
    "size": 1280079,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/90ddcb71-37e3-4af4-f441-fb66fce24600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/90ddcb71-37e3-4af4-f441-fb66fce24600.jpg"
   },
   "6745f5a5-1cc0-45ed-3a80-cf59c1291500.jpg": {
    "repo": "autrex-mods-1",
    "size": 1266076,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/6745f5a5-1cc0-45ed-3a80-cf59c1291500.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/6745f5a5-1cc0-45ed-3a80-cf59c1291500.jpg"
   },
   "d613b091-a078-44f0-fdec-24238808cd00.jpg": {
    "repo": "autrex-mods-1",
    "size": 1258179,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d613b091-a078-44f0-fdec-24238808cd00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d613b091-a078-44f0-fdec-24238808cd00.jpg"
   },
   "1e6ff7da-f63a-47af-20e2-2d2b01842600.jpg": {
    "repo": "autrex-mods-1",
    "size": 862477,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/1e6ff7da-f63a-47af-20e2-2d2b01842600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/1e6ff7da-f63a-47af-20e2-2d2b01842600.jpg"
   },
   "8a534b2b-73e1-4183-4fa0-62f081b0d600.jpg": {
    "repo": "autrex-mods-1",
    "size": 1674655,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/8a534b2b-73e1-4183-4fa0-62f081b0d600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/8a534b2b-73e1-4183-4fa0-62f081b0d600.jpg"
   },
   "7a9bbbbb-8ab2-4ba7-960b-9542aa1f1500.jpg": {
    "repo": "autrex-mods-1",
    "size": 1784447,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/7a9bbbbb-8ab2-4ba7-960b-9542aa1f1500.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/7a9bbbbb-8ab2-4ba7-960b-9542aa1f1500.jpg"
   },
   "3f93d92c-99c9-4f96-8684-6de67c0b9600.jpg": {
    "repo": "autrex-mods-1",
    "size": 1806521,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/3f93d92c-99c9-4f96-8684-6de67c0b9600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/3f93d92c-99c9-4f96-8684-6de67c0b9600.jpg"
   },
   "deac4721-29cc-4b24-f51e-906136c65b00.jpg": {
    "repo": "autrex-mods-1",
    "size": 1165421,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/deac4721-29cc-4b24-f51e-906136c65b00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/deac4721-29cc-4b24-f51e-906136c65b00.jpg"
   },
   "52ddb986-48be-44ed-994a-b545c628a200.jpg": {
    "repo": "autrex-mods-1",
-   "size": 245309,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 102302,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/52ddb986-48be-44ed-994a-b545c628a200.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/52ddb986-48be-44ed-994a-b545c628a200.jpg"
   },
   "2347946d-d380-4d52-837d-4027816ac700.png": {
    "repo": "autrex-mods-1",
-   "size": 750306,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 596852,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/2347946d-d380-4d52-837d-4027816ac700.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/2347946d-d380-4d52-837d-4027816ac700.png"
   },
   "cb7b2041-a70b-49b5-81bd-fe5a11f97e00.jpg": {
    "repo": "autrex-mods-1",
    "size": 1558964,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/cb7b2041-a70b-49b5-81bd-fe5a11f97e00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/cb7b2041-a70b-49b5-81bd-fe5a11f97e00.jpg"
   },
   "53bbc824-bc85-41fd-bd03-d1dcb65e1c00.jpg": {
    "repo": "autrex-mods-1",
-   "size": 2471756,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1756252,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/53bbc824-bc85-41fd-bd03-d1dcb65e1c00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/53bbc824-bc85-41fd-bd03-d1dcb65e1c00.jpg"
   },
   "343a7694-c2fc-4a29-92fc-213219c50600.jpg": {
    "repo": "autrex-mods-1",
    "size": 760661,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/343a7694-c2fc-4a29-92fc-213219c50600.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/343a7694-c2fc-4a29-92fc-213219c50600.jpg"
   },
   "b82ec95e-76fb-4b37-5ba2-131dfed16b00.jpg": {
    "repo": "autrex-mods-1",
    "size": 340725,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/b82ec95e-76fb-4b37-5ba2-131dfed16b00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/b82ec95e-76fb-4b37-5ba2-131dfed16b00.jpg"
   },
   "9531cf81-95bd-46d7-7725-ea5a93f4be00.png": {
    "repo": "autrex-mods-1",
    "size": 2348350,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9531cf81-95bd-46d7-7725-ea5a93f4be00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9531cf81-95bd-46d7-7725-ea5a93f4be00.png"
   },
   "fb69f3e9-8bb6-442e-18ae-c4f3cd263500.jpg": {
    "repo": "autrex-mods-1",
    "size": 194256,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/fb69f3e9-8bb6-442e-18ae-c4f3cd263500.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/fb69f3e9-8bb6-442e-18ae-c4f3cd263500.jpg"
   },
   "2927f3e8-cf3e-410b-b1fd-fd71a0970d00.jpg": {
    "repo": "autrex-mods-1",
-   "size": 253019,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 119570,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/2927f3e8-cf3e-410b-b1fd-fd71a0970d00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/2927f3e8-cf3e-410b-b1fd-fd71a0970d00.jpg"
   },
   "fadc5efb-06b7-4d36-4ae6-6b05a1300800.png": {
    "repo": "autrex-mods-1",
-   "size": 2298549,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1940608,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/fadc5efb-06b7-4d36-4ae6-6b05a1300800.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/fadc5efb-06b7-4d36-4ae6-6b05a1300800.png"
   },
   "581c5d3f-9373-424f-debf-a5f8e574bf00.png": {
    "repo": "autrex-mods-1",
-   "size": 854606,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 472456,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/581c5d3f-9373-424f-debf-a5f8e574bf00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/581c5d3f-9373-424f-debf-a5f8e574bf00.png"
   },
   "81b4af77-d876-4387-8b6c-07e66306b500.png": {
    "repo": "autrex-mods-1",
    "size": 853777,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/81b4af77-d876-4387-8b6c-07e66306b500.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/81b4af77-d876-4387-8b6c-07e66306b500.png"
   },
   "6c1a4a36-0d45-4a07-e6b7-41826b710900.png": {
    "repo": "autrex-mods-1",
-   "size": 996000,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 869802,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/6c1a4a36-0d45-4a07-e6b7-41826b710900.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/6c1a4a36-0d45-4a07-e6b7-41826b710900.png"
   },
   "b3489b69-2f14-4343-b5c2-179953d5af00.png": {
    "repo": "autrex-mods-1",
-   "size": 5127173,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 3281152,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/b3489b69-2f14-4343-b5c2-179953d5af00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/b3489b69-2f14-4343-b5c2-179953d5af00.png"
   },
   "862c0b0d-8863-4fe3-7ece-360a94306600.png": {
    "repo": "autrex-mods-1",
-   "size": 4557254,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 2584496,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/862c0b0d-8863-4fe3-7ece-360a94306600.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/862c0b0d-8863-4fe3-7ece-360a94306600.png"
   },
   "fea5663c-a6a6-45c4-e39e-5093239c2200.png": {
    "repo": "autrex-mods-1",
-   "size": 1911221,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1209589,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/fea5663c-a6a6-45c4-e39e-5093239c2200.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/fea5663c-a6a6-45c4-e39e-5093239c2200.png"
   },
   "844ec270-cece-4aca-a947-6ef999239900.png": {
    "repo": "autrex-mods-1",
    "size": 3131833,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/844ec270-cece-4aca-a947-6ef999239900.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/844ec270-cece-4aca-a947-6ef999239900.png"
   },
   "ee0f19ca-d675-4381-297b-9f0e8dd10400.png": {
    "repo": "autrex-mods-1",
-   "size": 2077987,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1192486,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/ee0f19ca-d675-4381-297b-9f0e8dd10400.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/ee0f19ca-d675-4381-297b-9f0e8dd10400.png"
   },
   "3746ce6a-2c6f-4521-9d3a-ebf538876b00.png": {
    "repo": "autrex-mods-1",
-   "size": 981729,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 745887,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/3746ce6a-2c6f-4521-9d3a-ebf538876b00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/3746ce6a-2c6f-4521-9d3a-ebf538876b00.png"
   },
   "4af4a4af-c0d2-440f-729f-b8ea3e01eb00.png": {
    "repo": "autrex-mods-1",
-   "size": 1607144,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1157878,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/4af4a4af-c0d2-440f-729f-b8ea3e01eb00.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/4af4a4af-c0d2-440f-729f-b8ea3e01eb00.png"
   },
   "1d08283c-dc7d-4665-68d7-f41824812200.jpg": {
    "repo": "autrex-mods-1",
    "size": 17908,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/1d08283c-dc7d-4665-68d7-f41824812200.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/1d08283c-dc7d-4665-68d7-f41824812200.jpg"
   },
   "0d9c6072-da62-4138-394a-c03252f0d500.jpg": {
    "repo": "autrex-mods-1",
    "size": 20914,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/0d9c6072-da62-4138-394a-c03252f0d500.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/0d9c6072-da62-4138-394a-c03252f0d500.jpg"
   },
   "99c9547b-62c2-4b6f-d6ca-24d7fdc72100.jpg": {
    "repo": "autrex-mods-1",
    "size": 348330,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/99c9547b-62c2-4b6f-d6ca-24d7fdc72100.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/99c9547b-62c2-4b6f-d6ca-24d7fdc72100.jpg"
   },
   "f5550171-bcb0-492c-b835-e47bcb4bf300.jpg": {
    "repo": "autrex-mods-1",
-   "size": 173166,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 149996,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/f5550171-bcb0-492c-b835-e47bcb4bf300.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/f5550171-bcb0-492c-b835-e47bcb4bf300.jpg"
   },
   "d8841ab9-e18d-4a31-9da9-af7567c94100.jpg": {
    "repo": "autrex-mods-1",
-   "size": 254727,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 211051,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d8841ab9-e18d-4a31-9da9-af7567c94100.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d8841ab9-e18d-4a31-9da9-af7567c94100.jpg"
   },
   "9d5b784f-9078-4990-1f22-574b17755f00.jpg": {
    "repo": "autrex-mods-1",
    "size": 1382603,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9d5b784f-9078-4990-1f22-574b17755f00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9d5b784f-9078-4990-1f22-574b17755f00.jpg"
   },
   "c07c405f-93d5-475d-ffaf-a9d2af0c4f00.jpg": {
    "repo": "autrex-mods-1",
-   "size": 478578,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 414938,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/c07c405f-93d5-475d-ffaf-a9d2af0c4f00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/c07c405f-93d5-475d-ffaf-a9d2af0c4f00.jpg"
   },
   "9506296e-525f-4f2d-f031-32bb5167e700.jpg": {
    "repo": "autrex-mods-1",
-   "size": 1901766,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "size": 1724316,
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9506296e-525f-4f2d-f031-32bb5167e700.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9506296e-525f-4f2d-f031-32bb5167e700.jpg"
   },
   "1f69437a-2700-4f37-eb71-930f094da200.jpg": {
    "repo": "autrex-mods-1",
    "size": 1125882,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/1f69437a-2700-4f37-eb71-930f094da200.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/1f69437a-2700-4f37-eb71-930f094da200.jpg"
   },
   "901c8b73-2ca7-4759-a659-e8c3a9dd0500.jpg": {
    "repo": "autrex-mods-1",
    "size": 25024,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/901c8b73-2ca7-4759-a659-e8c3a9dd0500.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/901c8b73-2ca7-4759-a659-e8c3a9dd0500.jpg"
   },
   "499e07f5-4af4-4007-915d-4485049bf000.jpg": {
    "repo": "autrex-mods-1",
    "size": 372540,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/499e07f5-4af4-4007-915d-4485049bf000.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/499e07f5-4af4-4007-915d-4485049bf000.jpg"
   },
   "70949370-4d51-4fc9-2090-d33fe04dcb00.jpg": {
    "repo": "autrex-mods-1",
    "size": 305872,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/70949370-4d51-4fc9-2090-d33fe04dcb00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/70949370-4d51-4fc9-2090-d33fe04dcb00.jpg"
   },
   "3672d22d-3de0-453c-ba30-466d1fe32a00.jpg": {
    "repo": "autrex-mods-1",
    "size": 41662,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/3672d22d-3de0-453c-ba30-466d1fe32a00.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/3672d22d-3de0-453c-ba30-466d1fe32a00.jpg"
   },
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg": {
    "repo": "autrex-mods-1",
    "size": 111872,
-   "first_seen": "2026-09-29T22:48:35.184Z",
+   "first_seen": "2026-09-29T22:50:56.719Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9dee21a2-280d-426d-4945-1bbde48c3700.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
   }
