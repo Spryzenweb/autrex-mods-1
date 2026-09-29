@@ -57,9 +57,15 @@ jobs:
 
       - name: Senkron
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # MOD_MIRROR_TOKEN tanımlıysa kullanılır: birden çok depoya
+          # yazmayı ve dolunca yeni depo AÇMAYI sağlar. Tanımlı değilse
+          # Actions'ın kendi jetonuna düşülür — o da yalnızca bu depoya
+          # yazabildiği için arşiv tek depoda büyür. İkisi de çalışır,
+          # ikincisi sadece daha sınırlı.
+          GITHUB_TOKEN: ${{ secrets.MOD_MIRROR_TOKEN || secrets.GITHUB_TOKEN }}
           MIRROR_OWNER: ${{ github.repository_owner }}
-          MIRROR_REPOS: ${{ github.event.repository.name }}
+          MIRROR_REPOS: ${{ vars.MIRROR_REPOS || github.event.repository.name }}
+          MIRROR_REPO_LIMIT_GB: ${{ vars.MIRROR_REPO_LIMIT_GB || '20' }}
         run: |
           rounds="${{ github.event.inputs.rounds || '60' }}"
           mode="${{ github.event.inputs.mode || 'all' }}"
