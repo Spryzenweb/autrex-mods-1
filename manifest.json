@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-09-29T22:40:02.979Z",
+ "updated_at": "2026-09-29T22:41:40.762Z",
  "repo_bytes": {
-  "autrex-mods-1": 12222625789
+  "autrex-mods-1": 13445917028
  },
  "files": {
   "RF_Storage1/Part1/2B zaahen/2b-zaahen.fantome": {
@@ -11949,6 +11949,2194 @@
    "first_seen": "2026-09-29T22:35:00.665Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Draktharr%20is%20Back/old-draktharr-is-back_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-item-sum-spells-champs-hud-s1-to-5-muhfack-edit-feets-t3-boots-15-19-patch-25-19_1.25.19.fantome": {
+   "size": 38751650,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-item-sum-spells-champs-hud-s1-to-5-muhfack-edit-feets-t3-boots-15-19-patch-25-19_1.25.19.fantome",
+   "first_seen": "2026-09-29T22:40:07.810Z"
+  },
+  "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-item-sum-spells-champs-hud-s1-to-5-muhfack-edit-feets-t3-boots-15-19-patch-25-19_2.25.19.fantome": {
+   "size": 38856964,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-item-sum-spells-champs-hud-s1-to-5-muhfack-edit-feets-t3-boots-15-19-patch-25-19_2.25.19.fantome",
+   "first_seen": "2026-09-29T22:40:07.811Z"
+  },
+  "RF_Storage1/Part1/Old Pulsefire Ezreal/og-pulsefire-ezreal_1.0.0.fantome": {
+   "size": 31418050,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/og-pulsefire-ezreal_1.0.0.fantome",
+   "first_seen": "2026-09-29T22:40:09.697Z"
+  },
+  "RF_Storage1/Part1/Old Pulsefire Ezreal/old-pulsefire-ezreal_4.0.0.fantome": {
+   "size": 31702502,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/old-pulsefire-ezreal_4.0.0.fantome",
+   "first_seen": "2026-09-29T22:40:10.555Z"
+  },
+  "RF_Storage1/Part1/Old Pulsefire Ezreal/primefire-ezreal_2.0.0.fantome": {
+   "size": 31508132,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/primefire-ezreal_2.0.0.fantome",
+   "first_seen": "2026-09-29T22:40:10.555Z"
+  },
+  "RF_Storage1/Part1/Old Pulsefire Ezreal/primefire-ezreal_2.1.0.fantome": {
+   "size": 31511778,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/primefire-ezreal_2.1.0.fantome",
+   "first_seen": "2026-09-29T22:40:10.555Z"
+  },
+  "RF_Storage1/Part1/Old Pulsefire Ezreal/primefire-ezreal_3.0.0.fantome": {
+   "size": 33281215,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/primefire-ezreal_3.0.0.fantome",
+   "first_seen": "2026-09-29T22:40:10.555Z"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.0.fantome": {
+   "size": 29246885,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr_1.0.0.fantome",
+   "first_seen": "2026-09-29T22:40:12.591Z"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.1.fantome": {
+   "size": 29430847,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr_1.0.1.fantome",
+   "first_seen": "2026-09-29T22:40:12.591Z"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.2.fantome": {
+   "size": 29134713,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr_1.0.2.fantome",
+   "first_seen": "2026-09-29T22:40:12.591Z"
+  },
+  "RF_Storage1/Part1/Overlimit Katarina/bw-overlimit-katarina-v1-0-0-by-p1mek.fantome": {
+   "size": 28815843,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/bw-overlimit-katarina-v1-0-0-by-p1mek.fantome",
+   "first_seen": "2026-09-29T22:40:14.314Z"
+  },
+  "RF_Storage1/Part1/Overlimit Katarina/bw-overlimit-katarina-v1-0-by-p1mek.fantome": {
+   "size": 27007544,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/bw-overlimit-katarina-v1-0-by-p1mek.fantome",
+   "first_seen": "2026-09-29T22:40:14.314Z"
+  },
+  "RF_Storage1/Part1/Overlimit Katarina/gold-katarina-v1-0-by-p1mek.fantome": {
+   "size": 26393995,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/gold-katarina-v1-0-by-p1mek.fantome",
+   "first_seen": "2026-09-29T22:40:14.314Z"
+  },
+  "RF_Storage1/Part1/Overlimit Katarina/gold-overlimit-katarina-v1-0-by-p1mek.fantome": {
+   "size": 26447523,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/gold-overlimit-katarina-v1-0-by-p1mek.fantome",
+   "first_seen": "2026-09-29T22:40:14.314Z"
+  },
+  "RF_Storage1/Part1/Overlimit Katarina/green-overlimit-katarina-v1-0-by-p1mek.fantome": {
+   "size": 29011482,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/green-overlimit-katarina-v1-0-by-p1mek.fantome",
+   "first_seen": "2026-09-29T22:40:14.314Z"
+  },
+  "RF_Storage1/Part1/Overlimit Katarina/overlimit-katarina-v1-0-by-p1mek-1.fantome": {
+   "size": 29184735,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/overlimit-katarina-v1-0-by-p1mek-1.fantome",
+   "first_seen": "2026-09-29T22:40:14.984Z"
+  },
+  "RF_Storage1/Part1/Overlimit Katarina/overlimit-katarina-v1-0-by-p1mek.fantome": {
+   "size": 29131178,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/overlimit-katarina-v1-0-by-p1mek.fantome",
+   "first_seen": "2026-09-29T22:40:14.984Z"
+  },
+  "RF_Storage1/Part1/Pandora MMZX(ANNIE)/pandora-mega-man-zx-original-by-lan789-sound-test-solucionado.fantome": {
+   "size": 45525813,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Pandora%20MMZX(ANNIE)/pandora-mega-man-zx-original-by-lan789-sound-test-solucionado.fantome",
+   "first_seen": "2026-09-29T22:40:16.003Z"
+  },
+  "RF_Storage1/Part1/Pandora MMZX(ANNIE)/pandora-mmzx-annie_v1.0.7.fantome": {
+   "size": 41686959,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Pandora%20MMZX(ANNIE)/pandora-mmzx-annie_v1.0.7.fantome",
+   "first_seen": "2026-09-29T22:40:16.003Z"
+  },
+  "RF_Storage1/Part1/Petals of Spring - Seraphine (WR Port) VFX ADDED!/petals-of-spring-seraphine-v1-0-1-by-beyonce.fantome": {
+   "size": 29431046,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Petals%20of%20Spring%20-%20Seraphine%20(WR%20Port)%20VFX%20ADDED!/petals-of-spring-seraphine-v1-0-1-by-beyonce.fantome",
+   "first_seen": "2026-09-29T22:40:16.625Z"
+  },
+  "RF_Storage1/Part1/Piranha Plant Briar/piranha-plant-briar-2-0-4.fantome": {
+   "size": 51933646,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Piranha%20Plant%20Briar/piranha-plant-briar-2-0-4.fantome",
+   "first_seen": "2026-09-29T22:40:17.685Z"
+  },
+  "RF_Storage1/Part1/Piranha Plant Briar/piranha-plant-briar_2.0.0.fantome": {
+   "size": 48059519,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Piranha%20Plant%20Briar/piranha-plant-briar_2.0.0.fantome",
+   "first_seen": "2026-09-29T22:40:18.761Z"
+  },
+  "RF_Storage1/Part1/Piranha Plant Briar/piranha-plant-briar_2.0.1.fantome": {
+   "size": 48059519,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Piranha%20Plant%20Briar/piranha-plant-briar_2.0.1.fantome",
+   "first_seen": "2026-09-29T22:40:18.761Z"
+  },
+  "RF_Storage1/Part1/Piranha Plant Briar/piranha-plant-briar_2.0.2.fantome": {
+   "size": 48038256,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Piranha%20Plant%20Briar/piranha-plant-briar_2.0.2.fantome",
+   "first_seen": "2026-09-29T22:40:18.761Z"
+  },
+  "RF_Storage1/Part1/Piranha Plant Briar/piranha-plant-briar_2.0.3.fantome": {
+   "size": 37380724,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Piranha%20Plant%20Briar/piranha-plant-briar_2.0.3.fantome",
+   "first_seen": "2026-09-29T22:40:18.761Z"
+  },
+  "RF_Storage1/Part1/Pool Party Twitch/pool-party-twitch_1.0.0.fantome": {
+   "size": 50030503,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Pool%20Party%20Twitch/pool-party-twitch_1.0.0.fantome",
+   "first_seen": "2026-09-29T22:40:18.761Z"
+  },
+  "RF_Storage1/Part1/Old Graves/old-graves_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Graves/old-graves_1.0.0.fantome",
+   "size": 507955,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Graves/old-graves_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Old HUD Icons/old-hud-icons_1510.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old HUD Icons/old-hud-icons_1510.1.0.fantome",
+   "size": 310845,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20HUD%20Icons/old-hud-icons_1510.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Old HUD Icons/old-hud-icons_1601.1.2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old HUD Icons/old-hud-icons_1601.1.2.fantome",
+   "size": 498362,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20HUD%20Icons/old-hud-icons_1601.1.2.fantome"
+  },
+  "RF_Storage1/Part1/Old HUD Icons/pre-2025-hud-icons-by-moga-v16-12-1-5-15.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old HUD Icons/pre-2025-hud-icons-by-moga-v16-12-1-5-15.fantome",
+   "size": 447991,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20HUD%20Icons/pre-2025-hud-icons-by-moga-v16-12-1-5-15.fantome"
+  },
+  "RF_Storage1/Part1/Old HUD Icons/pre-2025-hud-icons-by-moga-v16-18-1-6-19.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old HUD Icons/pre-2025-hud-icons-by-moga-v16-18-1-6-19.fantome",
+   "size": 447992,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20HUD%20Icons/pre-2025-hud-icons-by-moga-v16-18-1-6-19.fantome"
+  },
+  "RF_Storage1/Part1/Old HUD Icons/pre-2025-hud-icons-by-moga-v16-2-1-3-13.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old HUD Icons/pre-2025-hud-icons-by-moga-v16-2-1-3-13.fantome",
+   "size": 613700,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20HUD%20Icons/pre-2025-hud-icons-by-moga-v16-2-1-3-13.fantome"
+  },
+  "RF_Storage1/Part1/Old HUD Icons/pre-2025-hud-icons-by-moga-v16-7-1-4-14.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old HUD Icons/pre-2025-hud-icons-by-moga-v16-7-1-4-14.fantome",
+   "size": 448151,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20HUD%20Icons/pre-2025-hud-icons-by-moga-v16-7-1-4-14.fantome"
+  },
+  "RF_Storage1/Part1/Old Ignite VFX/old-ignite-vfx_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Ignite VFX/old-ignite-vfx_1.0.0.fantome",
+   "size": 945873,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Ignite%20VFX/old-ignite-vfx_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/items-old-icons-v1-22-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/items-old-icons-v1-22-0-by-aropatnik.fantome",
+   "size": 3552438,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/items-old-icons-v1-22-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/items-old-icons-v1-23-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/items-old-icons-v1-23-0-by-aropatnik.fantome",
+   "size": 2989110,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/items-old-icons-v1-23-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/items-old-icons-v1-24-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/items-old-icons-v1-24-0-by-aropatnik.fantome",
+   "size": 4140326,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/items-old-icons-v1-24-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/items-old-icons-v1-25-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/items-old-icons-v1-25-0-by-aropatnik.fantome",
+   "size": 5219309,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/items-old-icons-v1-25-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/old-items-v1-19-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/old-items-v1-19-0-by-aropatnik.fantome",
+   "size": 3014383,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/old-items-v1-19-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/old-items-v1-20-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/old-items-v1-20-0-by-aropatnik.fantome",
+   "size": 3738973,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/old-items-v1-20-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/old-items-v1-21-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/old-items-v1-21-0-by-aropatnik.fantome",
+   "size": 3348747,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/old-items-v1-21-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/old-items_1.15.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/old-items_1.15.0.fantome",
+   "size": 2196075,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/old-items_1.15.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/old-items_1.16.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/old-items_1.16.0.fantome",
+   "size": 2146609,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/old-items_1.16.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/old-items_1.17.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/old-items_1.17.0.fantome",
+   "size": 2058881,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/old-items_1.17.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Items/old-items_1.18.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Items/old-items_1.18.0.fantome",
+   "size": 2226998,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Items/old-items_1.18.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Karthus/old-karthus-v2-0-0-by-aryas-demise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Karthus/old-karthus-v2-0-0-by-aryas-demise.fantome",
+   "size": 12445863,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Karthus/old-karthus-v2-0-0-by-aryas-demise.fantome"
+  },
+  "RF_Storage1/Part1/Old Karthus/old-karthus-v2-0-1-by-aryas-demise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Karthus/old-karthus-v2-0-1-by-aryas-demise.fantome",
+   "size": 12453428,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Karthus/old-karthus-v2-0-1-by-aryas-demise.fantome"
+  },
+  "RF_Storage1/Part1/Old Karthus/old-karthus.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Karthus/old-karthus.fantome",
+   "size": 12453298,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Karthus/old-karthus.fantome"
+  },
+  "RF_Storage1/Part1/Old Karthus/old-karthus_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Karthus/old-karthus_1.0.0.fantome",
+   "size": 17285463,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Karthus/old-karthus_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Karthus/old-karthus_1.0.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Karthus/old-karthus_1.0.1.fantome",
+   "size": 17285463,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Karthus/old-karthus_1.0.1.fantome"
+  },
+  "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-item-season-1-to-5-muhfack-edit-with-feets-tier-3-boots-15-17-patch-25-17_1.25.17.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-item-season-1-to-5-muhfack-edit-with-feets-tier-3-boots-15-17-patch-25-17_1.25.17.fantome",
+   "size": 3852188,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-item-season-1-to-5-muhfack-edit-with-feets-tier-3-boots-15-17-patch-25-17_1.25.17.fantome"
+  },
+  "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league-26-03-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league-26-03-1_large_file.txt",
+   "size": 380,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-league-26-03-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league-26-03-2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league-26-03-2_large_file.txt",
+   "size": 380,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-league-26-03-2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league-26-03_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league-26-03_large_file.txt",
+   "size": 374,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-league-26-03_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league_26.1.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league_26.1.0_large_file.txt",
+   "size": 377,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-league_26.1.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league_3.25.23_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league_3.25.23_large_file.txt",
+   "size": 380,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-league_3.25.23_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league_3.25.24_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league_3.25.24_large_file.txt",
+   "size": 380,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-league_3.25.24_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league_4.25.24_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅/old-league_4.25.24_large_file.txt",
+   "size": 380,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-league_4.25.24_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-1-1-2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-1-1-2_large_file.txt",
+   "size": 346,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%202018%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-2018-1-1-2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-1-1-3_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-1-1-3_large_file.txt",
+   "size": 346,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%202018%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-2018-1-1-3_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-1-2-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-1-2-0_large_file.txt",
+   "size": 346,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%202018%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-2018-1-2-0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-1-2-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-1-2-1_large_file.txt",
+   "size": 346,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%202018%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-2018-1-2-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-by-muhfack-25-23_1.0.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-by-muhfack-25-23_1.0.0_large_file.txt",
+   "size": 397,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%202018%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-2018-by-muhfack-25-23_1.0.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-by-muhfack-25-23_1.1.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018-by-muhfack-25-23_1.1.0_large_file.txt",
+   "size": 397,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%202018%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-2018-by-muhfack-25-23_1.1.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018_1.1.1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin 2018 - Old muay thai Lee sin/old-leesin-2018_1.1.1_large_file.txt",
+   "size": 346,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%202018%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-2018_1.1.1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfack-edit-1-1-2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfack-edit-1-1-2_large_file.txt",
+   "size": 378,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Muhfack%20edit%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-muhfack-edit-1-1-2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfack-edit-1-1-3_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfack-edit-1-1-3_large_file.txt",
+   "size": 378,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Muhfack%20edit%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-muhfack-edit-1-1-3_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfack-edit-1-2-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfack-edit-1-2-0_large_file.txt",
+   "size": 378,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Muhfack%20edit%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-muhfack-edit-1-2-0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfack-edit-1-2-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfack-edit-1-2-1_large_file.txt",
+   "size": 378,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Muhfack%20edit%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-muhfack-edit-1-2-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfack-edit_1.1.1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfack-edit_1.1.1_large_file.txt",
+   "size": 378,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Muhfack%20edit%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-muhfack-edit_1.1.1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfacks-edit-25-23_1.0.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfacks-edit-25-23_1.0.0_large_file.txt",
+   "size": 399,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Muhfack%20edit%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-muhfacks-edit-25-23_1.0.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfacks-edit-25-23_1.1.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Muhfack edit - Old muay thai Lee sin/old-leesin-muhfacks-edit-25-23_1.1.0_large_file.txt",
+   "size": 399,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Muhfack%20edit%20-%20Old%20muay%20thai%20Lee%20sin/old-leesin-muhfacks-edit-25-23_1.1.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/old-leesin-old-old-s1-s8-1-1-2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/old-leesin-old-old-s1-s8-1-1-2_large_file.txt",
+   "size": 386,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Old%20Old%20(s1%20-%20s8)%20-%20Old%20Muay%20Thai%20Lee%20sin/old-leesin-old-old-s1-s8-1-1-2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/old-leesin-old-old-s1-s8-1-1-3_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/old-leesin-old-old-s1-s8-1-1-3_large_file.txt",
+   "size": 386,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Old%20Old%20(s1%20-%20s8)%20-%20Old%20Muay%20Thai%20Lee%20sin/old-leesin-old-old-s1-s8-1-1-3_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/old-leesin-old-old-s1-s8-1-2-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/old-leesin-old-old-s1-s8-1-2-0_large_file.txt",
+   "size": 386,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Old%20Old%20(s1%20-%20s8)%20-%20Old%20Muay%20Thai%20Lee%20sin/old-leesin-old-old-s1-s8-1-2-0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/old-leesin-old-old-s1-s8-1-2-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/old-leesin-old-old-s1-s8-1-2-1_large_file.txt",
+   "size": 386,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Old%20Old%20(s1%20-%20s8)%20-%20Old%20Muay%20Thai%20Lee%20sin/old-leesin-old-old-s1-s8-1-2-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/s8-by-muhfack-25-23_1.0.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/s8-by-muhfack-25-23_1.0.0_large_file.txt",
+   "size": 371,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Old%20Old%20(s1%20-%20s8)%20-%20Old%20Muay%20Thai%20Lee%20sin/s8-by-muhfack-25-23_1.0.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/s8-by-muhfack-25-23_1.1.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/s8-by-muhfack-25-23_1.1.0_large_file.txt",
+   "size": 371,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Old%20Old%20(s1%20-%20s8)%20-%20Old%20Muay%20Thai%20Lee%20sin/s8-by-muhfack-25-23_1.1.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/s8_1.1.1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/s8_1.1.1_large_file.txt",
+   "size": 320,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Old%20Old%20(s1%20-%20s8)%20-%20Old%20Muay%20Thai%20Lee%20sin/s8_1.1.1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/test-old-leesin-muhfack-edit-1-1-4_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin/test-old-leesin-muhfack-edit-1-1-4_large_file.txt",
+   "size": 398,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Leesin%20Old%20Old%20(s1%20-%20s8)%20-%20Old%20Muay%20Thai%20Lee%20sin/test-old-leesin-muhfack-edit-1-1-4_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Malzahar/old-malzahar_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Malzahar/old-malzahar_1.0.0.fantome",
+   "size": 2045393,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Malzahar/old-malzahar_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Minions - Day Version/Old Minions by TheKillereyXAryasdemise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Minions - Day Version/Old Minions by TheKillereyXAryasdemise.fantome",
+   "size": 16030692,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Day%20Version/Old%20Minions%20by%20TheKillereyXAryasdemise.fantome"
+  },
+  "RF_Storage1/Part1/Old Minions - Day Version/old-minions-by-the-killerey-x-aryasdemise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Minions - Day Version/old-minions-by-the-killerey-x-aryasdemise.fantome",
+   "size": 5698718,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Day%20Version/old-minions-by-the-killerey-x-aryasdemise.fantome"
+  },
+  "RF_Storage1/Part1/Old Minions - Day Version/old-minions-day-16-18-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Minions - Day Version/old-minions-day-16-18-0.fantome",
+   "size": 5812421,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Day%20Version/old-minions-day-16-18-0.fantome"
+  },
+  "RF_Storage1/Part1/Old Minions - Day Version/old-minions-day-16-18-1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Minions - Day Version/old-minions-day-16-18-1.fantome",
+   "size": 5964162,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Day%20Version/old-minions-day-16-18-1.fantome"
+  },
+  "RF_Storage1/Part1/Old Minions - Day Version/old-minions_1.0.5.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Minions - Day Version/old-minions_1.0.5.fantome",
+   "size": 16058361,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Day%20Version/old-minions_1.0.5.fantome"
+  },
+  "RF_Storage1/Part1/Old Minions - Day Version/old-minions_1.0.6.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Minions - Day Version/old-minions_1.0.6.fantome",
+   "size": 8225013,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Day%20Version/old-minions_1.0.6.fantome"
+  },
+  "RF_Storage1/Part1/Old Minions - Night Version/old-minions-night-16-18-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Minions - Night Version/old-minions-night-16-18-0.fantome",
+   "size": 5481281,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Night%20Version/old-minions-night-16-18-0.fantome"
+  },
+  "RF_Storage1/Part1/Old Minions - Night Version/old-minions-night-16-18-1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Minions - Night Version/old-minions-night-16-18-1.fantome",
+   "size": 5633022,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Night%20Version/old-minions-night-16-18-1.fantome"
+  },
+  "RF_Storage1/Part1/Old Minions - Night Version/old-minions-night-by-the-killerey-x-aryasdemise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Minions - Night Version/old-minions-night-by-the-killerey-x-aryasdemise.fantome",
+   "size": 5418196,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Night%20Version/old-minions-night-by-the-killerey-x-aryasdemise.fantome"
+  },
+  "RF_Storage1/Part1/Old Minions - Night Version/old-minions-night-version_1.0.6.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Minions - Night Version/old-minions-night-version_1.0.6.fantome",
+   "size": 7953532,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Night%20Version/old-minions-night-version_1.0.6.fantome"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-2018-1-1-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-2018-1-1-1_large_file.txt",
+   "size": 354,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/old-leesin-2018-1-1-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-2018-1-1-2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-2018-1-1-2_large_file.txt",
+   "size": 354,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/old-leesin-2018-1-1-2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-2018-1-1-3_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-2018-1-1-3_large_file.txt",
+   "size": 354,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/old-leesin-2018-1-1-3_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-muhfack-edit-1-1-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-muhfack-edit-1-1-1_large_file.txt",
+   "size": 378,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/old-leesin-muhfack-edit-1-1-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-muhfack-edit-1-1-2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-muhfack-edit-1-1-2_large_file.txt",
+   "size": 378,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/old-leesin-muhfack-edit-1-1-2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-muhfack-edit-1-1-3_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-muhfack-edit-1-1-3_large_file.txt",
+   "size": 378,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/old-leesin-muhfack-edit-1-1-3_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-old-old-s1-s8-1-1-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-old-old-s1-s8-1-1-1_large_file.txt",
+   "size": 381,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/old-leesin-old-old-s1-s8-1-1-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-old-old-s1-s8-1-1-2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-old-old-s1-s8-1-1-2_large_file.txt",
+   "size": 381,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/old-leesin-old-old-s1-s8-1-1-2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-old-old-s1-s8-1-1-3_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-leesin-old-old-s1-s8-1-1-3_large_file.txt",
+   "size": 381,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/old-leesin-old-old-s1-s8-1-1-3_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-muay-thai_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/old-muay-thai_1.0.0.fantome",
+   "size": 146,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/old-muay-thai_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/oldmodelonly-muhfack-1-1-3_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/oldmodelonly-muhfack-1-1-3_large_file.txt",
+   "size": 369,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/oldmodelonly-muhfack-1-1-3_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/oldmodelonly-muhfack_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Muay thai Leesin (read description) Lee sin/oldmodelonly-muhfack_large_file.txt",
+   "size": 351,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Muay%20thai%20Leesin%20(read%20description)%20Lee%20sin/oldmodelonly-muhfack_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Pulsefire Ezreal/pulsefire-fix-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Pulsefire Ezreal/pulsefire-fix-1-0-0.fantome",
+   "size": 20918601,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/pulsefire-fix-1-0-0.fantome"
+  },
+  "RF_Storage1/Part1/Old Red Blue Indicators/old-red-blue-indicators-v3-0-by-uygar-exe.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Red Blue Indicators/old-red-blue-indicators-v3-0-by-uygar-exe.fantome",
+   "size": 418953,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Red%20Blue%20Indicators/old-red-blue-indicators-v3-0-by-uygar-exe.fantome"
+  },
+  "RF_Storage1/Part1/Old Red Blue Indicators/old-red-blue-indicators-v3-1-by-uygar-exe.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Red Blue Indicators/old-red-blue-indicators-v3-1-by-uygar-exe.fantome",
+   "size": 452974,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Red%20Blue%20Indicators/old-red-blue-indicators-v3-1-by-uygar-exe.fantome"
+  },
+  "RF_Storage1/Part1/Old Red Blue Indicators/old-red-blue-indicators_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Red Blue Indicators/old-red-blue-indicators_1.0.0.fantome",
+   "size": 1204974,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Red%20Blue%20Indicators/old-red-blue-indicators_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/1-2-1-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/1-2-1-old-rengar-rebirth.fantome",
+   "size": 16831198,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/1-2-1-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/1-2-2-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/1-2-2-old-rengar-rebirth.fantome",
+   "size": 16829408,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/1-2-2-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/1-2-3-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/1-2-3-old-rengar-rebirth.fantome",
+   "size": 16026118,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/1-2-3-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/1-2-4-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/1-2-4-old-rengar-rebirth.fantome",
+   "size": 16397352,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/1-2-4-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/1-2-5-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/1-2-5-old-rengar-rebirth.fantome",
+   "size": 16379631,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/1-2-5-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/1-2-6-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/1-2-6-old-rengar-rebirth.fantome",
+   "size": 16034548,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/1-2-6-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/1-2-7-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/1-2-7-old-rengar-rebirth.fantome",
+   "size": 15924100,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/1-2-7-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/old-rengar-rebirth_1.0.7.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/old-rengar-rebirth_1.0.7.fantome",
+   "size": 17439072,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/old-rengar-rebirth_1.0.7.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/old-rengar-rebirth_1.0.8.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/old-rengar-rebirth_1.0.8.fantome",
+   "size": 17438403,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/old-rengar-rebirth_1.0.8.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/old-rengar-rebirth_1.0.9.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/old-rengar-rebirth_1.0.9.fantome",
+   "size": 17416530,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/old-rengar-rebirth_1.0.9.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/old-rengar-rebirth_1.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/old-rengar-rebirth_1.1.0.fantome",
+   "size": 17421507,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/old-rengar-rebirth_1.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/old-rengar-rebirth_1.2.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/old-rengar-rebirth_1.2.0.fantome",
+   "size": 16868983,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/old-rengar-rebirth_1.2.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/v1-2-8-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/v1-2-8-old-rengar-rebirth.fantome",
+   "size": 13409415,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/v1-2-8-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/v128-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/v128-old-rengar-rebirth.fantome",
+   "size": 13408661,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/v128-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/v129-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/v129-old-rengar-rebirth.fantome",
+   "size": 13222607,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/v129-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/v130-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/v130-old-rengar-rebirth.fantome",
+   "size": 13038518,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/v130-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/v131-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/v131-old-rengar-rebirth.fantome",
+   "size": 12526547,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/v131-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/v132-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/v132-old-rengar-rebirth.fantome",
+   "size": 12515061,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/v132-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/v133-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/v133-old-rengar-rebirth.fantome",
+   "size": 12429933,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/v133-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/v134-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/v134-old-rengar-rebirth.fantome",
+   "size": 13564394,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/v134-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Old Rumble/old-rumble_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rumble/old-rumble_1.0.0.fantome",
+   "size": 1246130,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rumble/old-rumble_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Runes VFX/old-runes-vfx-2-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Runes VFX/old-runes-vfx-2-0-0.fantome",
+   "size": 1705491,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Runes%20VFX/old-runes-vfx-2-0-0.fantome"
+  },
+  "RF_Storage1/Part1/Old Runes VFX/old-runes-vfx_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Runes VFX/old-runes-vfx_1.0.0.fantome",
+   "size": 1697179,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Runes%20VFX/old-runes-vfx_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr-1-0-6.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr-1-0-6.fantome",
+   "size": 24934439,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr-1-0-6.fantome"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr-1-0-7.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr-1-0-7.fantome",
+   "size": 24981400,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr-1-0-7.fantome"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.3.fantome",
+   "size": 21988878,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr_1.0.3.fantome"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.4.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.4.fantome",
+   "size": 24695731,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr_1.0.4.fantome"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.5.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.5.fantome",
+   "size": 24697401,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr_1.0.5.fantome"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-v1-0-7-by-uygar-exe.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-v1-0-7-by-uygar-exe.fantome",
+   "size": 22187387,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-v1-0-7-by-uygar-exe.fantome"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.2.6_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.2.6_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Beach/beach_1.2.6_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.0_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Beach/beach_1.3.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.1_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Beach/beach_1.3.1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.2_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Beach/beach_1.3.2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.4_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.4_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Beach/beach_1.3.4_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.5_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.5_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Beach/beach_1.3.5_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.7_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/beach_1.3.7_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Beach/beach_1.3.7_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/old-sr-v2-beach-16-18-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/old-sr-v2-beach-16-18-0_large_file.txt",
+   "size": 342,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Beach/old-sr-v2-beach-16-18-0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/old-sr-v2-beach-16-18-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/old-sr-v2-beach-16-18-1_large_file.txt",
+   "size": 342,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Beach/old-sr-v2-beach-16-18-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/old-summoners-rift-v2-beach-day-by-the-killerey-x-yurixy_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Beach/old-summoners-rift-v2-beach-day-by-the-killerey-x-yurixy_large_file.txt",
+   "size": 441,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Beach/old-summoners-rift-v2-beach-day-by-the-killerey-x-yurixy_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.2.6_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.2.6_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Cursed/cursed_1.2.6_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.0_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Cursed/cursed_1.3.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.1_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Cursed/cursed_1.3.1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.2_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Cursed/cursed_1.3.2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.4_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.4_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Cursed/cursed_1.3.4_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.5_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.5_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Cursed/cursed_1.3.5_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.7_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/cursed_1.3.7_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Cursed/cursed_1.3.7_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/old-sr-v2-cursed-16-18-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/old-sr-v2-cursed-16-18-0_large_file.txt",
+   "size": 346,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Cursed/old-sr-v2-cursed-16-18-0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/old-sr-v2-cursed-16-18-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/old-sr-v2-cursed-16-18-1_large_file.txt",
+   "size": 346,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Cursed/old-sr-v2-cursed-16-18-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/old-summoners-rift-v2-cursed-rift-night-version-by-the-killerey_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Cursed/old-summoners-rift-v2-cursed-rift-night-version-by-the-killerey_large_file.txt",
+   "size": 463,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Cursed/old-summoners-rift-v2-cursed-rift-night-version-by-the-killerey_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.2.6_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.2.6_large_file.txt",
+   "size": 298,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Day/day_1.2.6_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.0_large_file.txt",
+   "size": 298,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Day/day_1.3.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.1_large_file.txt",
+   "size": 298,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Day/day_1.3.1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.2_large_file.txt",
+   "size": 298,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Day/day_1.3.2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.4_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.4_large_file.txt",
+   "size": 298,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Day/day_1.3.4_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.5_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.5_large_file.txt",
+   "size": 298,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Day/day_1.3.5_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.7_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Day/day_1.3.7_large_file.txt",
+   "size": 298,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Day/day_1.3.7_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Day/old-sr-v2-day-16-18-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Day/old-sr-v2-day-16-18-0_large_file.txt",
+   "size": 334,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Day/old-sr-v2-day-16-18-0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Day/old-sr-v2-day-16-18-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Day/old-sr-v2-day-16-18-1_large_file.txt",
+   "size": 334,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Day/old-sr-v2-day-16-18-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Day/old-summoners-rift-v2-by-the-killerey_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Day/old-summoners-rift-v2-by-the-killerey_large_file.txt",
+   "size": 382,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Day/old-summoners-rift-v2-by-the-killerey_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.2.6_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.2.6_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Night/night_1.2.6_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.0_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Night/night_1.3.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.1_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Night/night_1.3.1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.2_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Night/night_1.3.2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.4_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.4_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Night/night_1.3.4_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.5_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.5_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Night/night_1.3.5_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.7_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Night/night_1.3.7_large_file.txt",
+   "size": 306,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Night/night_1.3.7_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Night/old-sr-v2-night-16-18-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Night/old-sr-v2-night-16-18-0_large_file.txt",
+   "size": 342,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Night/old-sr-v2-night-16-18-0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Night/old-sr-v2-night-16-18-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Night/old-sr-v2-night-16-18-1_large_file.txt",
+   "size": 342,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Night/old-sr-v2-night-16-18-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Night/old-summoners-rift-v2-night-by-the-killerey_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Night/old-summoners-rift-v2-night-by-the-killerey_large_file.txt",
+   "size": 402,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Night/old-summoners-rift-v2-night-by-the-killerey_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/old-rift-of-the-unbound-by-the-killerey_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/old-rift-of-the-unbound-by-the-killerey_large_file.txt",
+   "size": 392,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Unbound/old-rift-of-the-unbound-by-the-killerey_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/old-sr-v2-unbound-16-18-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/old-sr-v2-unbound-16-18-0_large_file.txt",
+   "size": 350,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Unbound/old-sr-v2-unbound-16-18-0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/old-sr-v2-unbound-16-18-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/old-sr-v2-unbound-16-18-1_large_file.txt",
+   "size": 350,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Unbound/old-sr-v2-unbound-16-18-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.2.6_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.2.6_large_file.txt",
+   "size": 314,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Unbound/unbound_1.2.6_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.0_large_file.txt",
+   "size": 314,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Unbound/unbound_1.3.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.1_large_file.txt",
+   "size": 314,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Unbound/unbound_1.3.1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.2_large_file.txt",
+   "size": 314,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Unbound/unbound_1.3.2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.4_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.4_large_file.txt",
+   "size": 314,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Unbound/unbound_1.3.4_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.5_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.5_large_file.txt",
+   "size": 314,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Unbound/unbound_1.3.5_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.7_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Unbound/unbound_1.3.7_large_file.txt",
+   "size": 314,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Unbound/unbound_1.3.7_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/old-sr-v2-winter-16-18-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/old-sr-v2-winter-16-18-0_large_file.txt",
+   "size": 346,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Winter/old-sr-v2-winter-16-18-0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/old-sr-v2-winter-16-18-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/old-sr-v2-winter-16-18-1_large_file.txt",
+   "size": 346,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Winter/old-sr-v2-winter-16-18-1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/old-winters-rift-v2-by-the-killerey_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/old-winters-rift-v2-by-the-killerey_large_file.txt",
+   "size": 379,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Winter/old-winters-rift-v2-by-the-killerey_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.2.6_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.2.6_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Winter/winter_1.2.6_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.0_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Winter/winter_1.3.0_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.1_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Winter/winter_1.3.1_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.2_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Winter/winter_1.3.2_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.4_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.4_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Winter/winter_1.3.4_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.5_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.5_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Winter/winter_1.3.5_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.7_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Summoners Rift V2 - Winter/winter_1.3.7_large_file.txt",
+   "size": 310,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Summoners%20Rift%20V2%20-%20Winter/winter_1.3.7_large_file.txt"
+  },
+  "RF_Storage1/Part1/Old Wards Season 4/old-season-4-wards-by-moga-v16-2-1-1-59.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Wards Season 4/old-season-4-wards-by-moga-v16-2-1-1-59.fantome",
+   "size": 991389,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Wards%20Season%204/old-season-4-wards-by-moga-v16-2-1-1-59.fantome"
+  },
+  "RF_Storage1/Part1/Old Wards Season 4/old-wards-season-4_159.1.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Wards Season 4/old-wards-season-4_159.1.1.fantome",
+   "size": 1012176,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Wards%20Season%204/old-wards-season-4_159.1.1.fantome"
+  },
+  "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod-1-3-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod-1-3-0.fantome",
+   "size": 26992,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Yasuo%20VFX%20Base%20Mod/old-yasuo-vfx-base-mod-1-3-0.fantome"
+  },
+  "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod-1-3-1-2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod-1-3-1-2.fantome",
+   "size": 26611,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Yasuo%20VFX%20Base%20Mod/old-yasuo-vfx-base-mod-1-3-1-2.fantome"
+  },
+  "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod-1-3-1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod-1-3-1.fantome",
+   "size": 26974,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Yasuo%20VFX%20Base%20Mod/old-yasuo-vfx-base-mod-1-3-1.fantome"
+  },
+  "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod_1.0.0.fantome",
+   "size": 26912,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Yasuo%20VFX%20Base%20Mod/old-yasuo-vfx-base-mod_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod_1.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod_1.1.0.fantome",
+   "size": 26917,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Yasuo%20VFX%20Base%20Mod/old-yasuo-vfx-base-mod_1.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod_1.1.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod_1.1.1.fantome",
+   "size": 26917,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Yasuo%20VFX%20Base%20Mod/old-yasuo-vfx-base-mod_1.1.1.fantome"
+  },
+  "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod_1.2.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Yasuo VFX Base Mod/old-yasuo-vfx-base-mod_1.2.0.fantome",
+   "size": 26902,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Yasuo%20VFX%20Base%20Mod/old-yasuo-vfx-base-mod_1.2.0.fantome"
+  },
+  "RF_Storage1/Part1/Old item icons/old-item-icons_15.24.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old item icons/old-item-icons_15.24.1.fantome",
+   "size": 2135053,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20item%20icons/old-item-icons_15.24.1.fantome"
+  },
+  "RF_Storage1/Part1/Old item icons/old-item-icons_16.0.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old item icons/old-item-icons_16.0.1.fantome",
+   "size": 2237102,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20item%20icons/old-item-icons_16.0.1.fantome"
+  },
+  "RF_Storage1/Part1/Old item icons/old-item-icons_25.15.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old item icons/old-item-icons_25.15.1.fantome",
+   "size": 2136643,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20item%20icons/old-item-icons_25.15.1.fantome"
+  },
+  "RF_Storage1/Part1/One True King Mordekaiser/one-true-king-mordekaiser_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/One True King Mordekaiser/one-true-king-mordekaiser_1.0.0.fantome",
+   "size": 19253846,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/One%20True%20King%20Mordekaiser/one-true-king-mordekaiser_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/One True King Mordekaiser/one-true-king-mordekaiser_1.0.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/One True King Mordekaiser/one-true-king-mordekaiser_1.0.1.fantome",
+   "size": 19278319,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/One%20True%20King%20Mordekaiser/one-true-king-mordekaiser_1.0.1.fantome"
+  },
+  "RF_Storage1/Part1/One True King Mordekaiser/the-one-true-king-mordekaiser.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/One True King Mordekaiser/the-one-true-king-mordekaiser.fantome",
+   "size": 19156284,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/One%20True%20King%20Mordekaiser/the-one-true-king-mordekaiser.fantome"
+  },
+  "RF_Storage1/Part1/Overwatch killstreak/overwatch-killstreak_25.24.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Overwatch killstreak/overwatch-killstreak_25.24.0.fantome",
+   "size": 223198,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Overwatch%20killstreak/overwatch-killstreak_25.24.0.fantome"
+  },
+  "RF_Storage1/Part1/Overwatch killstreak/overwatch-killstreak_25.24.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Overwatch killstreak/overwatch-killstreak_25.24.1.fantome",
+   "size": 6181515,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Overwatch%20killstreak/overwatch-killstreak_25.24.1.fantome"
+  },
+  "RF_Storage1/Part1/PORO GUN (NO POROS)/massive-poro-gun-by-moga-v16-5-1-1-23.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PORO GUN (NO POROS)/massive-poro-gun-by-moga-v16-5-1-1-23.fantome",
+   "size": 1634468,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PORO%20GUN%20(NO%20POROS)/massive-poro-gun-by-moga-v16-5-1-1-23.fantome"
+  },
+  "RF_Storage1/Part1/PORO GUN (NO POROS)/poro-gun-no-poros_1523.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PORO GUN (NO POROS)/poro-gun-no-poros_1523.1.0.fantome",
+   "size": 45232,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PORO%20GUN%20(NO%20POROS)/poro-gun-no-poros_1523.1.0.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Jax - Cyber City/project-jax-cyber-city_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Jax - Cyber City/project-jax-cyber-city_1.0.0.fantome",
+   "size": 156115,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Jax%20-%20Cyber%20City/project-jax-cyber-city_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Jhin - Cyber City/project-jhin-cyber-city_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Jhin - Cyber City/project-jhin-cyber-city_1.0.0.fantome",
+   "size": 115545,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Jhin%20-%20Cyber%20City/project-jhin-cyber-city_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Mordekaiser - Cyber City/project-mordekaiser-cyber-city_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Mordekaiser - Cyber City/project-mordekaiser-cyber-city_1.0.0.fantome",
+   "size": 222399,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Mordekaiser%20-%20Cyber%20City/project-mordekaiser-cyber-city_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT NEON YI/project-neon-yi-v1-0-0-by-vision-4-rio.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT NEON YI/project-neon-yi-v1-0-0-by-vision-4-rio.fantome",
+   "size": 2860706,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20NEON%20YI/project-neon-yi-v1-0-0-by-vision-4-rio.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Naafiri - Cyber City/city_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Naafiri - Cyber City/city_1.0.0.fantome",
+   "size": 131012,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Naafiri%20-%20Cyber%20City/city_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Sejuani - Cyber City/city_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Sejuani - Cyber City/city_1.0.0.fantome",
+   "size": 292119,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Sejuani%20-%20Cyber%20City/city_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Urgot/project-urgot_1.5.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Urgot/project-urgot_1.5.0.fantome",
+   "size": 18934869,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Urgot/project-urgot_1.5.0.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Urgot/project-urgot_1.5.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Urgot/project-urgot_1.5.1.fantome",
+   "size": 18934869,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Urgot/project-urgot_1.5.1.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Urgot/project-urgot_1.5.2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Urgot/project-urgot_1.5.2.fantome",
+   "size": 15140496,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Urgot/project-urgot_1.5.2.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Urgot/project-urgot_1.5.3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Urgot/project-urgot_1.5.3.fantome",
+   "size": 16518997,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Urgot/project-urgot_1.5.3.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT VAYNE Mythic Chroma/project-vayne-mythic-chroma_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT VAYNE Mythic Chroma/project-vayne-mythic-chroma_1.0.0.fantome",
+   "size": 490192,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20VAYNE%20Mythic%20Chroma/project-vayne-mythic-chroma_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT VAYNE Mythic Chroma/project-vayne-mythic-chroma_1.0.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT VAYNE Mythic Chroma/project-vayne-mythic-chroma_1.0.1.fantome",
+   "size": 5348520,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20VAYNE%20Mythic%20Chroma/project-vayne-mythic-chroma_1.0.1.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Yasuo - Red/project-yasuo-red_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Yasuo - Red/project-yasuo-red_1.0.0.fantome",
+   "size": 1584742,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Yasuo%20-%20Red/project-yasuo-red_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Yasuo - Red/project-yasuo-red_1.0.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Yasuo - Red/project-yasuo-red_1.0.1.fantome",
+   "size": 1584988,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Yasuo%20-%20Red/project-yasuo-red_1.0.1.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Yasuo - Red/project-yasuo-red_1.0.2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Yasuo - Red/project-yasuo-red_1.0.2.fantome",
+   "size": 1584988,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Yasuo%20-%20Red/project-yasuo-red_1.0.2.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Yasuo - Red/project-yasuo-red_1.0.3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Yasuo - Red/project-yasuo-red_1.0.3.fantome",
+   "size": 1213108,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Yasuo%20-%20Red/project-yasuo-red_1.0.3.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Zeri/project-zeri.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Zeri/project-zeri.fantome",
+   "size": 559291,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Zeri/project-zeri.fantome"
+  },
+  "RF_Storage1/Part1/PROJECT Zeri/project-zeri_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/PROJECT Zeri/project-zeri_1.0.0.fantome",
+   "size": 557827,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/PROJECT%20Zeri/project-zeri_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Pantheon Theme on R/Pantheon Theme on R.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pantheon Theme on R/Pantheon Theme on R.fantome",
+   "size": 5944808,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pantheon%20Theme%20on%20R/Pantheon%20Theme%20on%20R.fantome"
+  },
+  "RF_Storage1/Part1/Peach Cosplay Lux/peach-cosplay-lux_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Peach Cosplay Lux/peach-cosplay-lux_1.0.0.fantome",
+   "size": 16681019,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Peach%20Cosplay%20Lux/peach-cosplay-lux_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Peach Cosplay Lux/peach-cosplay-lux_1.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Peach Cosplay Lux/peach-cosplay-lux_1.1.0.fantome",
+   "size": 17519907,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Peach%20Cosplay%20Lux/peach-cosplay-lux_1.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Pengu Garen/pengu-garen-v1-0-0-by-aryas-demise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pengu Garen/pengu-garen-v1-0-0-by-aryas-demise.fantome",
+   "size": 2251301,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pengu%20Garen/pengu-garen-v1-0-0-by-aryas-demise.fantome"
+  },
+  "RF_Storage1/Part1/Pengu Garen/pengu-garen_15.23.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pengu Garen/pengu-garen_15.23.0.fantome",
+   "size": 8001496,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pengu%20Garen/pengu-garen_15.23.0.fantome"
+  },
+  "RF_Storage1/Part1/Pentakill Superfan Gnar/pentakill-superfan-gnar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pentakill Superfan Gnar/pentakill-superfan-gnar.fantome",
+   "size": 2106498,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pentakill%20Superfan%20Gnar/pentakill-superfan-gnar.fantome"
+  },
+  "RF_Storage1/Part1/Pentakill Superfan Gnar/pentakill-superfan-gnar_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pentakill Superfan Gnar/pentakill-superfan-gnar_1.0.0.fantome",
+   "size": 2114495,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pentakill%20Superfan%20Gnar/pentakill-superfan-gnar_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Perry the Platypus Kennen/perry-the-platypus-kennen_1.1.3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Perry the Platypus Kennen/perry-the-platypus-kennen_1.1.3.fantome",
+   "size": 282477,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Perry%20the%20Platypus%20Kennen/perry-the-platypus-kennen_1.1.3.fantome"
+  },
+  "RF_Storage1/Part1/Persona 3 BGM/persona-3-bgm-by-aurecueil_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Persona 3 BGM/persona-3-bgm-by-aurecueil_large_file.txt",
+   "size": 335,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Persona%203%20BGM/persona-3-bgm-by-aurecueil_large_file.txt"
+  },
+  "RF_Storage1/Part1/Persona 3 BGM/persona-3-reload-bgm-by-aurecueil_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Persona 3 BGM/persona-3-reload-bgm-by-aurecueil_large_file.txt",
+   "size": 356,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Persona%203%20BGM/persona-3-reload-bgm-by-aurecueil_large_file.txt"
+  },
+  "RF_Storage1/Part1/Petals of Spring - Seraphine (WR Port) VFX ADDED!/petals-of-spring-seraphine-v1-by-beyonce.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Petals of Spring - Seraphine (WR Port) VFX ADDED!/petals-of-spring-seraphine-v1-by-beyonce.fantome",
+   "size": 22325999,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Petals%20of%20Spring%20-%20Seraphine%20(WR%20Port)%20VFX%20ADDED!/petals-of-spring-seraphine-v1-by-beyonce.fantome"
+  },
+  "RF_Storage1/Part1/Petals of Spring Katarina VFX Fix/petals-of-spring-katarina-fix-v1-0-by-bearded-shepherd.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Petals of Spring Katarina VFX Fix/petals-of-spring-katarina-fix-v1-0-by-bearded-shepherd.fantome",
+   "size": 4650515,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Petals%20of%20Spring%20Katarina%20VFX%20Fix/petals-of-spring-katarina-fix-v1-0-by-bearded-shepherd.fantome"
+  },
+  "RF_Storage1/Part1/Petricite Rek'Sai/petricite-rek-sai.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Petricite Rek'Sai/petricite-rek-sai.fantome",
+   "size": 2251241,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Petricite%20Rek'Sai/petricite-rek-sai.fantome"
+  },
+  "RF_Storage1/Part1/Petricite Rek'Sai/petricite-rek-sai_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Petricite Rek'Sai/petricite-rek-sai_1.0.0.fantome",
+   "size": 2210485,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Petricite%20Rek'Sai/petricite-rek-sai_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Petricite Skarner/petricite-skarner.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Petricite Skarner/petricite-skarner.fantome",
+   "size": 1579598,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Petricite%20Skarner/petricite-skarner.fantome"
+  },
+  "RF_Storage1/Part1/Petricite Skarner/petricite-skarner_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Petricite Skarner/petricite-skarner_1.0.0.fantome",
+   "size": 1338740,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Petricite%20Skarner/petricite-skarner_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Petricite Skarner/petricite-skarner_2.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Petricite Skarner/petricite-skarner_2.0.0.fantome",
+   "size": 1287227,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Petricite%20Skarner/petricite-skarner_2.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Petricite Skarner/petricite-skarner_2.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Petricite Skarner/petricite-skarner_2.1.0.fantome",
+   "size": 1579567,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Petricite%20Skarner/petricite-skarner_2.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Pharaoh Nidalee Custom SFX/pharaoh-nidalee-sfx-live-vo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pharaoh Nidalee Custom SFX/pharaoh-nidalee-sfx-live-vo.fantome",
+   "size": 2359092,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pharaoh%20Nidalee%20Custom%20SFX/pharaoh-nidalee-sfx-live-vo.fantome"
+  },
+  "RF_Storage1/Part1/Pharaoh Nidalee Custom SFX/pharaoh-nidalee-sfx-old-vo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pharaoh Nidalee Custom SFX/pharaoh-nidalee-sfx-old-vo.fantome",
+   "size": 11341854,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pharaoh%20Nidalee%20Custom%20SFX/pharaoh-nidalee-sfx-old-vo.fantome"
+  },
+  "RF_Storage1/Part1/Pharaoh Nidalee Custom SFX/pharohnidsfx-livevo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pharaoh Nidalee Custom SFX/pharohnidsfx-livevo.fantome",
+   "size": 15054269,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pharaoh%20Nidalee%20Custom%20SFX/pharohnidsfx-livevo.fantome"
+  },
+  "RF_Storage1/Part1/Pharaoh Nidalee Custom SFX/pharohnidsfx-oldvo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pharaoh Nidalee Custom SFX/pharohnidsfx-oldvo.fantome",
+   "size": 11341819,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pharaoh%20Nidalee%20Custom%20SFX/pharohnidsfx-oldvo.fantome"
+  },
+  "RF_Storage1/Part1/Pool Party Cait No Shirt No Hat/pp-cait-no-hat-no-jacket-v1-0-by-unknown.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pool Party Cait No Shirt No Hat/pp-cait-no-hat-no-jacket-v1-0-by-unknown.fantome",
+   "size": 296063,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pool%20Party%20Cait%20No%20Shirt%20No%20Hat/pp-cait-no-hat-no-jacket-v1-0-by-unknown.fantome"
+  },
+  "RF_Storage1/Part1/Pool Party Illaoi/pool-party-illaoi_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pool Party Illaoi/pool-party-illaoi_1.0.0.fantome",
+   "size": 20270560,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pool%20Party%20Illaoi/pool-party-illaoi_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Pool Party Illaoi/pool-party-illaoi_1.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pool Party Illaoi/pool-party-illaoi_1.1.0.fantome",
+   "size": 22071638,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pool%20Party%20Illaoi/pool-party-illaoi_1.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Pool Party Illaoi/pool-party-illaoi_1.2.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pool Party Illaoi/pool-party-illaoi_1.2.0.fantome",
+   "size": 22071638,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pool%20Party%20Illaoi/pool-party-illaoi_1.2.0.fantome"
+  },
+  "RF_Storage1/Part1/Pool Party Twitch/pool-party-twitch-rework-v1-0-by-p1mek_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pool Party Twitch/pool-party-twitch-rework-v1-0-by-p1mek_large_file.txt",
+   "size": 375,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pool%20Party%20Twitch/pool-party-twitch-rework-v1-0-by-p1mek_large_file.txt"
+  },
+  "RF_Storage1/Part1/Pool Party Yunara/pool-party-yunara_1514.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pool Party Yunara/pool-party-yunara_1514.1.0.fantome",
+   "size": 1184641,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pool%20Party%20Yunara/pool-party-yunara_1514.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Pool Party Yunara/yunara-pool-party-by-moga-v16-09-1-4-45.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pool Party Yunara/yunara-pool-party-by-moga-v16-09-1-4-45.fantome",
+   "size": 7822845,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pool%20Party%20Yunara/yunara-pool-party-by-moga-v16-09-1-4-45.fantome"
+  },
+  "RF_Storage1/Part1/Pool Party Yunara/yunara-pool-party-by-moga-v16-4-1-1-23.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pool Party Yunara/yunara-pool-party-by-moga-v16-4-1-1-23.fantome",
+   "size": 4404039,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pool%20Party%20Yunara/yunara-pool-party-by-moga-v16-4-1-1-23.fantome"
+  },
+  "RF_Storage1/Part1/Pool Party Yunara/yunara-pool-party-by-moga-v16-4-1-2-26.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pool Party Yunara/yunara-pool-party-by-moga-v16-4-1-2-26.fantome",
+   "size": 4392620,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pool%20Party%20Yunara/yunara-pool-party-by-moga-v16-4-1-2-26.fantome"
+  },
+  "RF_Storage1/Part1/Pool Party Yunara/yunara-pool-party-by-moga-v16-4-1-3-44.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pool Party Yunara/yunara-pool-party-by-moga-v16-4-1-3-44.fantome",
+   "size": 8498996,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pool%20Party%20Yunara/yunara-pool-party-by-moga-v16-4-1-3-44.fantome"
+  },
+  "RF_Storage1/Part1/Poppy Martelo/poppy-martelo_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Poppy Martelo/poppy-martelo_1.0.0.fantome",
+   "size": 2304517,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Poppy%20Martelo/poppy-martelo_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Porcelain Protector Aurelion Sol chroma VFX/porcelain-aurelion-sol-chroma-vfx.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Porcelain Protector Aurelion Sol chroma VFX/porcelain-aurelion-sol-chroma-vfx.fantome",
+   "size": 14192379,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Porcelain%20Protector%20Aurelion%20Sol%20chroma%20VFX/porcelain-aurelion-sol-chroma-vfx.fantome"
+  },
+  "RF_Storage1/Part1/Porcelain Protector Aurelion Sol chroma VFX/porcelain-protector-aurelion-sol-chroma-vfx-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Porcelain Protector Aurelion Sol chroma VFX/porcelain-protector-aurelion-sol-chroma-vfx-by-suriin.fantome",
+   "size": 17478930,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Porcelain%20Protector%20Aurelion%20Sol%20chroma%20VFX/porcelain-protector-aurelion-sol-chroma-vfx-by-suriin.fantome"
+  },
+  "RF_Storage1/Part1/Porcelain Protector Ezreal chroma VFX/porcelain-ezreal-chroma-vfx.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Porcelain Protector Ezreal chroma VFX/porcelain-ezreal-chroma-vfx.fantome",
+   "size": 18445260,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Porcelain%20Protector%20Ezreal%20chroma%20VFX/porcelain-ezreal-chroma-vfx.fantome"
+  },
+  "RF_Storage1/Part1/Porcelain Protector Ezreal chroma VFX/porcelain-protector-ezreal-chroma-vfx-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Porcelain Protector Ezreal chroma VFX/porcelain-protector-ezreal-chroma-vfx-by-suriin.fantome",
+   "size": 22298832,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Porcelain%20Protector%20Ezreal%20chroma%20VFX/porcelain-protector-ezreal-chroma-vfx-by-suriin.fantome"
+  },
+  "RF_Storage1/Part1/Poro Rift - Minions/poro-minions-v1-0-by-p1mek.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Poro Rift - Minions/poro-minions-v1-0-by-p1mek.fantome",
+   "size": 20026029,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Poro%20Rift%20-%20Minions/poro-minions-v1-0-by-p1mek.fantome"
+  },
+  "RF_Storage1/Part1/Poro Rift - Minions/poro-rift-minions-v1-0-by-p1mek.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Poro Rift - Minions/poro-rift-minions-v1-0-by-p1mek.fantome",
+   "size": 4391054,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Poro%20Rift%20-%20Minions/poro-rift-minions-v1-0-by-p1mek.fantome"
+  },
+  "RF_Storage1/Part1/Poro Rift - Minions/poro-rift-minions_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Poro Rift - Minions/poro-rift-minions_1.0.0.fantome",
+   "size": 19700218,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Poro%20Rift%20-%20Minions/poro-rift-minions_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Poro Rift - Minions/poro-rift-minions_1.0.2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Poro Rift - Minions/poro-rift-minions_1.0.2.fantome",
+   "size": 19409568,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Poro%20Rift%20-%20Minions/poro-rift-minions_1.0.2.fantome"
+  },
+  "RF_Storage1/Part1/Pre-Release Hecarim/pre-release-hecarim.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pre-Release Hecarim/pre-release-hecarim.fantome",
+   "size": 1249668,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pre-Release%20Hecarim/pre-release-hecarim.fantome"
+  },
+  "RF_Storage1/Part1/Pre-Release Hecarim/pre-release-hecarim_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pre-Release Hecarim/pre-release-hecarim_1.0.0.fantome",
+   "size": 1246535,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pre-Release%20Hecarim/pre-release-hecarim_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Pre-Release Hired Gun Graves/graves_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pre-Release Hired Gun Graves/graves_1.0.0.fantome",
+   "size": 647724,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pre-Release%20Hired%20Gun%20Graves/graves_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Pre-rework base Diana particles/pre-rework-base-diana-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pre-rework base Diana particles/pre-rework-base-diana-by-suriin.fantome",
+   "size": 3388555,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pre-rework%20base%20Diana%20particles/pre-rework-base-diana-by-suriin.fantome"
+  },
+  "RF_Storage1/Part1/Pre-rework base Diana particles/pre-rework-diana.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Pre-rework base Diana particles/pre-rework-diana.fantome",
+   "size": 3410353,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Pre-rework%20base%20Diana%20particles/pre-rework-diana.fantome"
+  },
+  "RF_Storage1/Part1/Prestige Firecracker Soraka/prestige-firecracker-soraka-v1-0-by-lordks-op.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Prestige Firecracker Soraka/prestige-firecracker-soraka-v1-0-by-lordks-op.fantome",
+   "size": 15925576,
+   "first_seen": "2026-09-29T22:41:40.762Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Prestige%20Firecracker%20Soraka/prestige-firecracker-soraka-v1-0-by-lordks-op.fantome"
   }
  },
  "images": {
