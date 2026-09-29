@@ -75,8 +75,18 @@ const IMAGE_DIR = 'images/'
 /** API sayfa boyutu sabit 24; `limit` parametresi yok sayılıyor. */
 const PAGE_SIZE = 24
 
-/** Depo başına hedef üst sınır. GitHub'ın tavsiyesi 5 GB; biraz üstünde kalıyoruz. */
-const REPO_LIMIT_GB = Number(process.env.MIRROR_REPO_LIMIT_GB || 12)
+/**
+ * Depo başına hedef üst sınır.
+ *
+ * GitHub'ın SERT sınırı yalnızca dosya başına 100 MB. Depo boyutu için
+ * 5 GB tavsiye ediliyor ve üstüne çıkınca dostane bir e-posta gelebiliyor,
+ * ama yayınlanmış bir kesme noktası yok — kaynak depo 56 GB ile çalışıyor.
+ *
+ * 20 GB, tavsiyenin makul üstünde kalırken kaynağın tamamının (56 GB)
+ * üç depoya sığmasını sağlıyor. Yine de yetmezse aşağıdaki otomatik
+ * depo açma devreye giriyor.
+ */
+const REPO_LIMIT_GB = Number(process.env.MIRROR_REPO_LIMIT_GB || 20)
 
 /** GitHub tek dosyada 100 MB'ı reddediyor. Payla birlikte 95 MB'ta kesiyoruz. */
 const MAX_FILE_BYTES = 95 * 1024 * 1024
@@ -165,14 +175,64 @@ async function loadManifest() {
   }
 }
 
-/** Sırada yeri olan ilk depo. Hepsi doluysa son depoya yazmaya devam eder. */
-function pickRepo(manifest) {
+/**
+ * Sırada yeri olan ilk depo.
+ *
+ * Hepsi dolduysa sıradakini KENDİSİ AÇMAYA çalışır (autrex-mods-4, -5…).
+ * Bu yalnızca depo açma yetkisi olan bir jetonla mümkün: Actions'ın kendi
+ * GITHUB_TOKEN'i ne yeni depo açabiliyor ne de başka depoya yazabiliyor.
+ * Jeton yoksa son depoya yazmaya devam edilir ve neden olduğu loglanır —
+ * arşiv durmaz, sadece tek depoda büyür.
+ */
+async function pickRepo(manifest) {
   const limit = REPO_LIMIT_GB * 1024 ** 3
+
   for (const repo of TARGET_REPOS) {
     if ((manifest.repo_bytes[repo] || 0) < limit) return repo
   }
-  log(`UYARI: tüm depolar ${REPO_LIMIT_GB} GB sınırını aştı, ${TARGET_REPOS.at(-1)} kullanılmaya devam ediyor`)
-  return TARGET_REPOS.at(-1)
+
+  // Hepsi dolu: sıradakini aç
+  const next = nextRepoName(TARGET_REPOS.at(-1))
+  if (!next) {
+    log(`UYARI: depo adı türetilemedi, ${TARGET_REPOS.at(-1)} kullanılmaya devam ediyor`)
+    return TARGET_REPOS.at(-1)
+  }
+
+  try {
+    await gh(`/repos/${OWNER}/${next}`)
+    log(`depolar doldu → ${next} zaten var, oraya geçiliyor`)
+  } catch {
+    log(`depolar doldu → ${next} açılıyor`)
+    try {
+      await gh('/user/repos', {
+        method: 'POST',
+        body: JSON.stringify({
+          name: next,
+          private: false,
+          description: 'Autrex mod arşivi — sadece büyür, silinmez',
+          auto_init: false,
+        }),
+      })
+    } catch (e) {
+      log(
+        `yeni depo açılamadı (${e.message.split('\n')[0]}). ` +
+          `Depo açma yetkisi olan bir jeton gerekiyor; ` +
+          `${TARGET_REPOS.at(-1)} kullanılmaya devam ediyor.`,
+      )
+      return TARGET_REPOS.at(-1)
+    }
+  }
+
+  TARGET_REPOS.push(next)
+  manifest.repo_bytes[next] = manifest.repo_bytes[next] || 0
+  return next
+}
+
+/** "autrex-mods-3" → "autrex-mods-4" */
+function nextRepoName(name) {
+  const m = String(name || '').match(/^(.*?)(\d+)$/)
+  if (!m) return null
+  return m[1] + (Number(m[2]) + 1)
 }
 
 // ── Git Data API ile toplu yazma ─────────────────────────────────────
@@ -342,7 +402,7 @@ async function syncImages(manifest) {
   log(`eksik: ${missing.length}`)
   if (DRY_RUN) return missing.length
 
-  const repo = pickRepo(manifest)
+  const repo = await pickRepo(manifest)
   const batch = []
   let bytes = 0
 
@@ -457,7 +517,7 @@ async function main() {
     return
   }
 
-  const repo = pickRepo(manifest)
+  const repo = await pickRepo(manifest)
   log(`bu turda hedef depo: ${repo}\n`)
 
   const batch = []
