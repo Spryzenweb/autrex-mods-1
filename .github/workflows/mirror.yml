@@ -49,7 +49,26 @@ jobs:
     timeout-minutes: 350
 
     steps:
+      # Arşivin KENDİSİNİ indirmeden yalnızca betiği al.
+      #
+      # Düz checkout burada ölümcül: depo arşivin ta kendisi (~40 GB) ve
+      # her tur onu baştan klonluyordu. Arşiv büyüdükçe süre uzuyor,
+      # yani kendini boğan bir tasarım. Sahada checkout 33 DAKİKA sürüp
+      # bitmedi; Senkron adımı hiç başlamadı ve tur boşa gitti.
+      #
+      # sync.mjs hiç dosya sistemi çağrısı yapmıyor — her şeyi GitHub
+      # API'siyle yapıyor, manifesti bile raw adresten çekiyor. Yani
+      # diskte tek gereken şey betiğin kendisi.
+      #
+      #   filter: blob:none  -> hiçbir dosya içeriği indirilmez
+      #   sparse-checkout    -> yalnızca sync.mjs getirilir
+      #
+      # Böylece checkout süresi arşivin boyutundan bağımsız hale geliyor.
       - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: sync.mjs
+          sparse-checkout-cone-mode: false
 
       - uses: actions/setup-node@v4
         with:
