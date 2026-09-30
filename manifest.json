@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-09-30T05:07:25.526Z",
+ "updated_at": "2026-09-30T05:10:00.986Z",
  "repo_bytes": {
-  "autrex-mods-1": 54730561436
+  "autrex-mods-1": 56065374932
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -52939,6 +52939,1026 @@
    "first_seen": "2026-09-30T05:07:25.526Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Coffin%20of%20Andy%20and%20Leyley%20BGM/the-coffin-of-andy-and-leyley-bgm-by-aurecueil.fantome"
+  },
+  "RF_Storage1/Part4/Coronis Kayn (Stella Sora)/coronis-kayn-by-archlyris-1.fantome": {
+   "size": 43078959,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Coronis%20Kayn%20(Stella%20Sora)/coronis-kayn-by-archlyris-1.fantome",
+   "first_seen": "2026-09-30T05:07:44.955Z"
+  },
+  "RF_Storage1/Part4/Coronis Kayn (Stella Sora)/coronis-kayn-by-archlyris.fantome": {
+   "size": 43078959,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Coronis%20Kayn%20(Stella%20Sora)/coronis-kayn-by-archlyris.fantome",
+   "first_seen": "2026-09-30T05:07:44.955Z"
+  },
+  "RF_Storage1/Part4/Coven Diana/coven-diana-v1-0-by-p1mek.fantome": {
+   "size": 48258280,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Coven%20Diana/coven-diana-v1-0-by-p1mek.fantome",
+   "first_seen": "2026-09-30T05:07:46.741Z"
+  },
+  "RF_Storage1/Part4/Dark Star Kassadin/dark-star-kassadin-v1-0-by-p1mek.fantome": {
+   "size": 48028207,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Dark%20Star%20Kassadin/dark-star-kassadin-v1-0-by-p1mek.fantome",
+   "first_seen": "2026-09-30T05:07:48.618Z"
+  },
+  "RF_Storage1/Part4/Deltarune BGM/deltarune-bgm-1-0-0.fantome": {
+   "size": 40487539,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Deltarune%20BGM/deltarune-bgm-1-0-0.fantome",
+   "first_seen": "2026-09-30T05:07:50.449Z"
+  },
+  "RF_Storage1/Part4/Dream Kingdoms Seraphine/dream-kingdoms-seraphine-v1-3-by-lordks-op.fantome": {
+   "size": 40737945,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Dream%20Kingdoms%20Seraphine/dream-kingdoms-seraphine-v1-3-by-lordks-op.fantome",
+   "first_seen": "2026-09-30T05:07:51.966Z"
+  },
+  "RF_Storage1/Part4/Cold of Heart Ashe/cold-of-heart-ashe-v3-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cold of Heart Ashe/cold-of-heart-ashe-v3-0-0-by-dear-agony.fantome",
+   "size": 30935421,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cold%20of%20Heart%20Ashe/cold-of-heart-ashe-v3-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Cold of Heart Ashe/dread-retribution-ashe-v2-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cold of Heart Ashe/dread-retribution-ashe-v2-0-0-by-dear-agony.fantome",
+   "size": 30935305,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cold%20of%20Heart%20Ashe/dread-retribution-ashe-v2-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Commander Ledros Leona/ledros-leona-v1-0-0-by-aryas-demise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Commander Ledros Leona/ledros-leona-v1-0-0-by-aryas-demise.fantome",
+   "size": 8516031,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Commander%20Ledros%20Leona/ledros-leona-v1-0-0-by-aryas-demise.fantome"
+  },
+  "RF_Storage1/Part4/Cosmic Astral  Galaxy Slayer Zed/cosmic-astral-galaxy-slayer.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cosmic Astral  Galaxy Slayer Zed/cosmic-astral-galaxy-slayer.fantome",
+   "size": 2613866,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cosmic%20Astral%20%20Galaxy%20Slayer%20Zed/cosmic-astral-galaxy-slayer.fantome"
+  },
+  "RF_Storage1/Part4/Cosmic Destiny Nami chroma VFX/cosmic-destiny-nami-chroma-vfx-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cosmic Destiny Nami chroma VFX/cosmic-destiny-nami-chroma-vfx-by-suriin.fantome",
+   "size": 13370726,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cosmic%20Destiny%20Nami%20chroma%20VFX/cosmic-destiny-nami-chroma-vfx-by-suriin.fantome"
+  },
+  "RF_Storage1/Part4/Cosmic Destiny Nami chroma VFX/cosmic-destiny-nami-chroma-vfx-v1-0-1-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cosmic Destiny Nami chroma VFX/cosmic-destiny-nami-chroma-vfx-v1-0-1-by-suriin.fantome",
+   "size": 13161412,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cosmic%20Destiny%20Nami%20chroma%20VFX/cosmic-destiny-nami-chroma-vfx-v1-0-1-by-suriin.fantome"
+  },
+  "RF_Storage1/Part4/Cosmic Matriarch Bel'Veth Chroma VFX/cosmic-matriarch-bel-veth-chroma-vfx.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cosmic Matriarch Bel'Veth Chroma VFX/cosmic-matriarch-bel-veth-chroma-vfx.fantome",
+   "size": 12980079,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cosmic%20Matriarch%20Bel'Veth%20Chroma%20VFX/cosmic-matriarch-bel-veth-chroma-vfx.fantome"
+  },
+  "RF_Storage1/Part4/Cosmic Matriarch Bel'Veth Chroma VFX/cosmic-matriarch-belveth-chroma-vfx.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cosmic Matriarch Bel'Veth Chroma VFX/cosmic-matriarch-belveth-chroma-vfx.fantome",
+   "size": 19809763,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cosmic%20Matriarch%20Bel'Veth%20Chroma%20VFX/cosmic-matriarch-belveth-chroma-vfx.fantome"
+  },
+  "RF_Storage1/Part4/Cosmic Princess Kassadin/pink-cosmic-kassadin-v2-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cosmic Princess Kassadin/pink-cosmic-kassadin-v2-0-0.fantome",
+   "size": 1823307,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cosmic%20Princess%20Kassadin/pink-cosmic-kassadin-v2-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Cosmic Reaver Kassadin - Magic n' Mayhem/magic-and-mayhem-cosmic-kassadin-v1-0-0-by-aryas-demise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cosmic Reaver Kassadin - Magic n' Mayhem/magic-and-mayhem-cosmic-kassadin-v1-0-0-by-aryas-demise.fantome",
+   "size": 113373,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cosmic%20Reaver%20Kassadin%20-%20Magic%20n'%20Mayhem/magic-and-mayhem-cosmic-kassadin-v1-0-0-by-aryas-demise.fantome"
+  },
+  "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v100-cottontail-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v100-cottontail-rengar.fantome",
+   "size": 8259299,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cottontail%20Rengar%20%5BRebirth%5D/v100-cottontail-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v110-cottontail-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v110-cottontail-rengar.fantome",
+   "size": 8077663,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cottontail%20Rengar%20%5BRebirth%5D/v110-cottontail-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v111-cottontail-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v111-cottontail-rengar.fantome",
+   "size": 8844014,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cottontail%20Rengar%20%5BRebirth%5D/v111-cottontail-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v112-cottontail-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v112-cottontail-rengar.fantome",
+   "size": 8779963,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cottontail%20Rengar%20%5BRebirth%5D/v112-cottontail-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v113-cottontail-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v113-cottontail-rengar.fantome",
+   "size": 7022247,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cottontail%20Rengar%20%5BRebirth%5D/v113-cottontail-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v114-cottontail-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v114-cottontail-rengar.fantome",
+   "size": 6262602,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cottontail%20Rengar%20%5BRebirth%5D/v114-cottontail-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v133-cottontail-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v133-cottontail-rengar.fantome",
+   "size": 6262419,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cottontail%20Rengar%20%5BRebirth%5D/v133-cottontail-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Country Girl Akali - Classic/country-girl-akali.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Country Girl Akali - Classic/country-girl-akali.fantome",
+   "size": 2443897,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Country%20Girl%20Akali%20-%20Classic/country-girl-akali.fantome"
+  },
+  "RF_Storage1/Part4/Crabgot  chromas/carbgot-gold-and-black-chroma-v1-0-0-by-raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crabgot  chromas/carbgot-gold-and-black-chroma-v1-0-0-by-raka.fantome",
+   "size": 1185678,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crabgot%20%20chromas/carbgot-gold-and-black-chroma-v1-0-0-by-raka.fantome"
+  },
+  "RF_Storage1/Part4/Crabgot  chromas/crabfor-scuttlecrab-chroma-v1-0-0-by-raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crabgot  chromas/crabfor-scuttlecrab-chroma-v1-0-0-by-raka.fantome",
+   "size": 1119218,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crabgot%20%20chromas/crabfor-scuttlecrab-chroma-v1-0-0-by-raka.fantome"
+  },
+  "RF_Storage1/Part4/Crabgot  chromas/crabgot-pearl-chroma-v1-0-0-by-raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crabgot  chromas/crabgot-pearl-chroma-v1-0-0-by-raka.fantome",
+   "size": 1574013,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crabgot%20%20chromas/crabgot-pearl-chroma-v1-0-0-by-raka.fantome"
+  },
+  "RF_Storage1/Part4/Crabgot  chromas/crabgot-riftherald-chroma-v1-0-0-by-raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crabgot  chromas/crabgot-riftherald-chroma-v1-0-0-by-raka.fantome",
+   "size": 1128661,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crabgot%20%20chromas/crabgot-riftherald-chroma-v1-0-0-by-raka.fantome"
+  },
+  "RF_Storage1/Part4/Crabgot  chromas/crabgot-rose-quartz-v1-0-0-by-raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crabgot  chromas/crabgot-rose-quartz-v1-0-0-by-raka.fantome",
+   "size": 1422064,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crabgot%20%20chromas/crabgot-rose-quartz-v1-0-0-by-raka.fantome"
+  },
+  "RF_Storage1/Part4/Crabgot  chromas/urgot-serraphine-v1-0-0-by-raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crabgot  chromas/urgot-serraphine-v1-0-0-by-raka.fantome",
+   "size": 1155607,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crabgot%20%20chromas/urgot-serraphine-v1-0-0-by-raka.fantome"
+  },
+  "RF_Storage1/Part4/Crimson Demon Shockblade Zed/crimson-demon-shockblade-zed-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crimson Demon Shockblade Zed/crimson-demon-shockblade-zed-1-0-0.fantome",
+   "size": 10801861,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crimson%20Demon%20Shockblade%20Zed/crimson-demon-shockblade-zed-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Crimson Holo Divine God King Darius/crisom-holo-divine-god-king-darius-v1-0-by-konari.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crimson Holo Divine God King Darius/crisom-holo-divine-god-king-darius-v1-0-by-konari.fantome",
+   "size": 6985545,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crimson%20Holo%20Divine%20God%20King%20Darius/crisom-holo-divine-god-king-darius-v1-0-by-konari.fantome"
+  },
+  "RF_Storage1/Part4/Crimson Holo Divine God King Darius/crisom-holo-divine-god-king-darius-v1-1-by-konari.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crimson Holo Divine God King Darius/crisom-holo-divine-god-king-darius-v1-1-by-konari.fantome",
+   "size": 7058794,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crimson%20Holo%20Divine%20God%20King%20Darius/crisom-holo-divine-god-king-darius-v1-1-by-konari.fantome"
+  },
+  "RF_Storage1/Part4/Crimson Locke/crimson-locke.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crimson Locke/crimson-locke.fantome",
+   "size": 4054771,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crimson%20Locke/crimson-locke.fantome"
+  },
+  "RF_Storage1/Part4/Crimson Regalia  Battle Queen Qiyana/crimson-regalia-battle-queen.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crimson Regalia  Battle Queen Qiyana/crimson-regalia-battle-queen.fantome",
+   "size": 8125923,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crimson%20Regalia%20%20Battle%20Queen%20Qiyana/crimson-regalia-battle-queen.fantome"
+  },
+  "RF_Storage1/Part4/Crystal Rose Evelynn/crystal-rose-evelynn-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crystal Rose Evelynn/crystal-rose-evelynn-1-0-0.fantome",
+   "size": 5637995,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crystal%20Rose%20Evelynn/crystal-rose-evelynn-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Crystal Rose Evelynn/crystal-rose-evelynn-1-0-1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crystal Rose Evelynn/crystal-rose-evelynn-1-0-1.fantome",
+   "size": 5637862,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crystal%20Rose%20Evelynn/crystal-rose-evelynn-1-0-1.fantome"
+  },
+  "RF_Storage1/Part4/Crystal Rose Nami/crystal-rose-nami-v1-0-0-by-p1mek.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crystal Rose Nami/crystal-rose-nami-v1-0-0-by-p1mek.fantome",
+   "size": 18718559,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crystal%20Rose%20Nami/crystal-rose-nami-v1-0-0-by-p1mek.fantome"
+  },
+  "RF_Storage1/Part4/Cubic Derby minions (wuthering waves)/cubic-derby-minions-by-ass-ill-ya.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cubic Derby minions (wuthering waves)/cubic-derby-minions-by-ass-ill-ya.fantome",
+   "size": 19243753,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cubic%20Derby%20minions%20(wuthering%20waves)/cubic-derby-minions-by-ass-ill-ya.fantome"
+  },
+  "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/blue-cat-ears-v1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/blue-cat-ears-v1-0-0.fantome",
+   "size": 549940,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cute%20Cat%20Ears%20-%20Champion%20Icon/blue-cat-ears-v1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/dark-blue-ears-v1-1-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/dark-blue-ears-v1-1-0.fantome",
+   "size": 544301,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cute%20Cat%20Ears%20-%20Champion%20Icon/dark-blue-ears-v1-1-0.fantome"
+  },
+  "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/green-ears-v1-1-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/green-ears-v1-1-0.fantome",
+   "size": 543530,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cute%20Cat%20Ears%20-%20Champion%20Icon/green-ears-v1-1-0.fantome"
+  },
+  "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/grey-ears-v1-1-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/grey-ears-v1-1-0.fantome",
+   "size": 548470,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cute%20Cat%20Ears%20-%20Champion%20Icon/grey-ears-v1-1-0.fantome"
+  },
+  "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/light-blue-ears-v1-1-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/light-blue-ears-v1-1-0.fantome",
+   "size": 549940,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cute%20Cat%20Ears%20-%20Champion%20Icon/light-blue-ears-v1-1-0.fantome"
+  },
+  "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/pink-ears-v1-1-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/pink-ears-v1-1-0.fantome",
+   "size": 552964,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cute%20Cat%20Ears%20-%20Champion%20Icon/pink-ears-v1-1-0.fantome"
+  },
+  "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/red-ears-v1-1-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cute Cat Ears - Champion Icon/red-ears-v1-1-0.fantome",
+   "size": 550879,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cute%20Cat%20Ears%20-%20Champion%20Icon/red-ears-v1-1-0.fantome"
+  },
+  "RF_Storage1/Part4/Cyan Heaven  Galaxy Slayer Zed/cyan-heaven-galaxy-slayer.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cyan Heaven  Galaxy Slayer Zed/cyan-heaven-galaxy-slayer.fantome",
+   "size": 3864147,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cyan%20Heaven%20%20Galaxy%20Slayer%20Zed/cyan-heaven-galaxy-slayer.fantome"
+  },
+  "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v100-dragon-dagger-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v100-dragon-dagger-rengar.fantome",
+   "size": 8113785,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dagger%20of%20the%20Dragon%20Rengar%20%5BRebirth%5D/v100-dragon-dagger-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v110-dragon-dagger-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v110-dragon-dagger-rengar.fantome",
+   "size": 7932149,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dagger%20of%20the%20Dragon%20Rengar%20%5BRebirth%5D/v110-dragon-dagger-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v111-dragon-dagger-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v111-dragon-dagger-rengar.fantome",
+   "size": 7857759,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dagger%20of%20the%20Dragon%20Rengar%20%5BRebirth%5D/v111-dragon-dagger-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v112-dragon-dagger-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v112-dragon-dagger-rengar.fantome",
+   "size": 8448080,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dagger%20of%20the%20Dragon%20Rengar%20%5BRebirth%5D/v112-dragon-dagger-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v113-dragon-dagger-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v113-dragon-dagger-rengar.fantome",
+   "size": 6971165,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dagger%20of%20the%20Dragon%20Rengar%20%5BRebirth%5D/v113-dragon-dagger-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v114-dragon-dagger-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v114-dragon-dagger-rengar.fantome",
+   "size": 6951110,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dagger%20of%20the%20Dragon%20Rengar%20%5BRebirth%5D/v114-dragon-dagger-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v133-dragon-dagger-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v133-dragon-dagger-rengar.fantome",
+   "size": 6950780,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dagger%20of%20the%20Dragon%20Rengar%20%5BRebirth%5D/v133-dragon-dagger-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Dark Crimson  Cosmic Reaver Kassadin/dark-crimson-cosmic-reaver.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Crimson  Cosmic Reaver Kassadin/dark-crimson-cosmic-reaver.fantome",
+   "size": 2611981,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Crimson%20%20Cosmic%20Reaver%20Kassadin/dark-crimson-cosmic-reaver.fantome"
+  },
+  "RF_Storage1/Part4/Dark Lady Ambessa/dark-lady-ambessa-v1-0-0-by-aryas-demise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Lady Ambessa/dark-lady-ambessa-v1-0-0-by-aryas-demise.fantome",
+   "size": 369112,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Lady%20Ambessa/dark-lady-ambessa-v1-0-0-by-aryas-demise.fantome"
+  },
+  "RF_Storage1/Part4/Dark Matter Genesis Yasuo/dark-matter-by-reza.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Matter Genesis Yasuo/dark-matter-by-reza.fantome",
+   "size": 9740441,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Matter%20Genesis%20Yasuo/dark-matter-by-reza.fantome"
+  },
+  "RF_Storage1/Part4/Dark Matter Genesis Yasuo/dark-matter.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Matter Genesis Yasuo/dark-matter.fantome",
+   "size": 9285250,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Matter%20Genesis%20Yasuo/dark-matter.fantome"
+  },
+  "RF_Storage1/Part4/Dark Star Rhaast Announcer (RU)/dark-star-rhaast-announcer-ru-v1-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Star Rhaast Announcer (RU)/dark-star-rhaast-announcer-ru-v1-0-0-by-dear-agony.fantome",
+   "size": 18582733,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Star%20Rhaast%20Announcer%20(RU)/dark-star-rhaast-announcer-ru-v1-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dark Star Rhaast x Dota 2 Killstreaks Announcer/dark-star-rhaast-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Star Rhaast x Dota 2 Killstreaks Announcer/dark-star-rhaast-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome",
+   "size": 11793301,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Star%20Rhaast%20x%20Dota%202%20Killstreaks%20Announcer/dark-star-rhaast-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dark Star Thresh x Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Star Thresh x Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome",
+   "size": 8615708,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Star%20Thresh%20x%20Dota%202%20Killstreaks%20Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dark Star Thresh x Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v2-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Star Thresh x Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v2-0-0-by-dear-agony.fantome",
+   "size": 8943269,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Star%20Thresh%20x%20Dota%202%20Killstreaks%20Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v2-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dark Star Thresh × Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Star Thresh × Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome",
+   "size": 8615708,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Star%20Thresh%20%C3%97%20Dota%202%20Killstreaks%20Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dark Star Thresh × Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v2-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Star Thresh × Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v2-0-0-by-dear-agony.fantome",
+   "size": 8943269,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Star%20Thresh%20%C3%97%20Dota%202%20Killstreaks%20Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v2-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dark Star Thresh × Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v3-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Star Thresh × Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v3-0-0-by-dear-agony.fantome",
+   "size": 8913778,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Star%20Thresh%20%C3%97%20Dota%202%20Killstreaks%20Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v3-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dark matter Sett/dark-matter-sett.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark matter Sett/dark-matter-sett.fantome",
+   "size": 7573496,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20matter%20Sett/dark-matter-sett.fantome"
+  },
+  "RF_Storage1/Part4/DarkKnightBlueYone/dark-knight.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/DarkKnightBlueYone/dark-knight.fantome",
+   "size": 9530002,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/DarkKnightBlueYone/dark-knight.fantome"
+  },
+  "RF_Storage1/Part4/DarkSkye Yone/blue-night-skye-yone.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/DarkSkye Yone/blue-night-skye-yone.fantome",
+   "size": 11538339,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/DarkSkye%20Yone/blue-night-skye-yone.fantome"
+  },
+  "RF_Storage1/Part4/Darth Maul Wukong/darth-maul-wukong-v1-1-0-by-yigit-vercetti.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Darth Maul Wukong/darth-maul-wukong-v1-1-0-by-yigit-vercetti.fantome",
+   "size": 23126688,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Darth%20Maul%20Wukong/darth-maul-wukong-v1-1-0-by-yigit-vercetti.fantome"
+  },
+  "RF_Storage1/Part4/Darth Maul Wukong/darth-maul-wukong.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Darth Maul Wukong/darth-maul-wukong.fantome",
+   "size": 19668598,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Darth%20Maul%20Wukong/darth-maul-wukong.fantome"
+  },
+  "RF_Storage1/Part4/Daughter of the Enchanted Lake Katarina/daughter-of-the-enchanted-lake-katarina-v0-1-by-lordks-op.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Daughter of the Enchanted Lake Katarina/daughter-of-the-enchanted-lake-katarina-v0-1-by-lordks-op.fantome",
+   "size": 25197947,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Daughter%20of%20the%20Enchanted%20Lake%20Katarina/daughter-of-the-enchanted-lake-katarina-v0-1-by-lordks-op.fantome"
+  },
+  "RF_Storage1/Part4/Dawnbringer Draven/dawnbringer-draven-v1-0-0-by-p1mek.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dawnbringer Draven/dawnbringer-draven-v1-0-0-by-p1mek.fantome",
+   "size": 11902893,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dawnbringer%20Draven/dawnbringer-draven-v1-0-0-by-p1mek.fantome"
+  },
+  "RF_Storage1/Part4/Dawnbringer Irelia/dawnbringer-irelia-1-1-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dawnbringer Irelia/dawnbringer-irelia-1-1-0.fantome",
+   "size": 29037097,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dawnbringer%20Irelia/dawnbringer-irelia-1-1-0.fantome"
+  },
+  "RF_Storage1/Part4/Dawnbringer Irelia/dawnbringer-irelia-v1-0-0-by-soul.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dawnbringer Irelia/dawnbringer-irelia-v1-0-0-by-soul.fantome",
+   "size": 31028654,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dawnbringer%20Irelia/dawnbringer-irelia-v1-0-0-by-soul.fantome"
+  },
+  "RF_Storage1/Part4/Dawnbringer Irelia/dawnbringer-irelia-v1-1-0-by-soul.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dawnbringer Irelia/dawnbringer-irelia-v1-1-0-by-soul.fantome",
+   "size": 32133458,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dawnbringer%20Irelia/dawnbringer-irelia-v1-1-0-by-soul.fantome"
+  },
+  "RF_Storage1/Part4/Dawnbringer Irelia/dawnbringer-irelia-v1-2-0-by-soul.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dawnbringer Irelia/dawnbringer-irelia-v1-2-0-by-soul.fantome",
+   "size": 33119618,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dawnbringer%20Irelia/dawnbringer-irelia-v1-2-0-by-soul.fantome"
+  },
+  "RF_Storage1/Part4/Dawnbringer Irelia/dawnbringer-irelia.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dawnbringer Irelia/dawnbringer-irelia.fantome",
+   "size": 29037097,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dawnbringer%20Irelia/dawnbringer-irelia.fantome"
+  },
+  "RF_Storage1/Part4/Daxter Fizz/daxter-fizz-v1-1-0-by-jaku3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Daxter Fizz/daxter-fizz-v1-1-0-by-jaku3.fantome",
+   "size": 2556310,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Daxter%20Fizz/daxter-fizz-v1-1-0-by-jaku3.fantome"
+  },
+  "RF_Storage1/Part4/Daxter Fizz/daxter-fizz-v1-1-1-by-jaku3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Daxter Fizz/daxter-fizz-v1-1-1-by-jaku3.fantome",
+   "size": 2556946,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Daxter%20Fizz/daxter-fizz-v1-1-1-by-jaku3.fantome"
+  },
+  "RF_Storage1/Part4/Daxter Fizz/fizz-wad-client.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Daxter Fizz/fizz-wad-client.fantome",
+   "size": 2556778,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Daxter%20Fizz/fizz-wad-client.fantome"
+  },
+  "RF_Storage1/Part4/Demon Font/demon-font-v1-0-by-demon.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Demon Font/demon-font-v1-0-by-demon.fantome",
+   "size": 40836,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Demon%20Font/demon-font-v1-0-by-demon.fantome"
+  },
+  "RF_Storage1/Part4/Devil May Cry Fiora/devil-may-cry-fiora.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Devil May Cry Fiora/devil-may-cry-fiora.fantome",
+   "size": 5467062,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Devil%20May%20Cry%20Fiora/devil-may-cry-fiora.fantome"
+  },
+  "RF_Storage1/Part4/Dialyn Qiyana/dialyn-qiyana-1-1-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dialyn Qiyana/dialyn-qiyana-1-1-0.fantome",
+   "size": 15880899,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dialyn%20Qiyana/dialyn-qiyana-1-1-0.fantome"
+  },
+  "RF_Storage1/Part4/Dialyn Qiyana/dialyn-qiyana-v1-0-0-by-rorotea.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dialyn Qiyana/dialyn-qiyana-v1-0-0-by-rorotea.fantome",
+   "size": 13885564,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dialyn%20Qiyana/dialyn-qiyana-v1-0-0-by-rorotea.fantome"
+  },
+  "RF_Storage1/Part4/Diana Shikimori/diana-shikimori.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Diana Shikimori/diana-shikimori.fantome",
+   "size": 12204711,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Diana%20Shikimori/diana-shikimori.fantome"
+  },
+  "RF_Storage1/Part4/Disable Honor Recall/disable-honor-recall.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Disable Honor Recall/disable-honor-recall.fantome",
+   "size": 396942,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Disable%20Honor%20Recall/disable-honor-recall.fantome"
+  },
+  "RF_Storage1/Part4/Don Quixote Wards/wards-don-quixote-v1-0-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Don Quixote Wards/wards-don-quixote-v1-0-0-by-aropatnik.fantome",
+   "size": 1161115,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Don%20Quixote%20Wards/wards-don-quixote-v1-0-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part4/Donkey Kong and Diddy Kong Nunu - Classic/donkey-kong-nunu-alt.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Donkey Kong and Diddy Kong Nunu - Classic/donkey-kong-nunu-alt.fantome",
+   "size": 2634719,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Donkey%20Kong%20and%20Diddy%20Kong%20Nunu%20-%20Classic/donkey-kong-nunu-alt.fantome"
+  },
+  "RF_Storage1/Part4/Donkey Kong and Diddy Kong Nunu - Classic/donkey-kong-nunu.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Donkey Kong and Diddy Kong Nunu - Classic/donkey-kong-nunu.fantome",
+   "size": 2629561,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Donkey%20Kong%20and%20Diddy%20Kong%20Nunu%20-%20Classic/donkey-kong-nunu.fantome"
+  },
+  "RF_Storage1/Part4/Dota 2 Cavernite Lane Creeps/dota-2-cavernite-lane-creeps-v4-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dota 2 Cavernite Lane Creeps/dota-2-cavernite-lane-creeps-v4-0-0-by-dear-agony.fantome",
+   "size": 7593675,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dota%202%20Cavernite%20Lane%20Creeps/dota-2-cavernite-lane-creeps-v4-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v1-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v1-0-0-by-dear-agony.fantome",
+   "size": 10377656,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dota%202%20Lane%20Creeps/dota-2-lane-creeps-v1-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v1-0-1-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v1-0-1-by-dear-agony.fantome",
+   "size": 10135123,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dota%202%20Lane%20Creeps/dota-2-lane-creeps-v1-0-1-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v2-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v2-0-0-by-dear-agony.fantome",
+   "size": 9532597,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dota%202%20Lane%20Creeps/dota-2-lane-creeps-v2-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v3-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v3-0-0-by-dear-agony.fantome",
+   "size": 7995964,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dota%202%20Lane%20Creeps/dota-2-lane-creeps-v3-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v4-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v4-0-0-by-dear-agony.fantome",
+   "size": 7985727,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dota%202%20Lane%20Creeps/dota-2-lane-creeps-v4-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dragon Ball Flash SFX - Classic/dragon-ball-flash-sfx-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dragon Ball Flash SFX - Classic/dragon-ball-flash-sfx-classic.fantome",
+   "size": 27366136,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dragon%20Ball%20Flash%20SFX%20-%20Classic/dragon-ball-flash-sfx-classic.fantome"
+  },
+  "RF_Storage1/Part4/Dragonslayer Kayle Chroma VFX/dragonslayer-kayle-chroma-vfx.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dragonslayer Kayle Chroma VFX/dragonslayer-kayle-chroma-vfx.fantome",
+   "size": 6324023,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dragonslayer%20Kayle%20Chroma%20VFX/dragonslayer-kayle-chroma-vfx.fantome"
+  },
+  "RF_Storage1/Part4/Dread Retribution Ashe/dread-retribution-ashe-v1-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dread Retribution Ashe/dread-retribution-ashe-v1-0-0-by-dear-agony.fantome",
+   "size": 29433385,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dread%20Retribution%20Ashe/dread-retribution-ashe-v1-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dread Retribution Ashe/dread-retribution-ashe-v2-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dread Retribution Ashe/dread-retribution-ashe-v2-0-0-by-dear-agony.fantome",
+   "size": 30935305,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dread%20Retribution%20Ashe/dread-retribution-ashe-v2-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-1-by-haigblo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-1-by-haigblo.fantome",
+   "size": 10839523,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dreamybull%20Announcer/dreamybull-announcer-v1-1-by-haigblo.fantome"
+  },
+  "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-3-by-haigblo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-3-by-haigblo.fantome",
+   "size": 9225486,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dreamybull%20Announcer/dreamybull-announcer-v1-3-by-haigblo.fantome"
+  },
+  "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-4-by-haigblo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-4-by-haigblo.fantome",
+   "size": 9233326,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dreamybull%20Announcer/dreamybull-announcer-v1-4-by-haigblo.fantome"
+  },
+  "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-5-by-haigblo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-5-by-haigblo.fantome",
+   "size": 9273942,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dreamybull%20Announcer/dreamybull-announcer-v1-5-by-haigblo.fantome"
+  },
+  "RF_Storage1/Part4/Drifter Zed/drifter-zed-v1-0-0-by-aryas-demise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Drifter Zed/drifter-zed-v1-0-0-by-aryas-demise.fantome",
+   "size": 15370209,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Drifter%20Zed/drifter-zed-v1-0-0-by-aryas-demise.fantome"
+  },
+  "RF_Storage1/Part4/Dry Rift/dry-rift-by-zero_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dry Rift/dry-rift-by-zero_large_file.txt",
+   "size": 300,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dry%20Rift/dry-rift-by-zero_large_file.txt"
+  },
+  "RF_Storage1/Part4/Durandal Leona/durandal-leona-1-0-1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Durandal Leona/durandal-leona-1-0-1.fantome",
+   "size": 11038046,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Durandal%20Leona/durandal-leona-1-0-1.fantome"
+  },
+  "RF_Storage1/Part4/Durandal Leona/durandal-leona-v1-0-0-by-rorotea.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Durandal Leona/durandal-leona-v1-0-0-by-rorotea.fantome",
+   "size": 17737598,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Durandal%20Leona/durandal-leona-v1-0-0-by-rorotea.fantome"
+  },
+  "RF_Storage1/Part4/Durandal‌ Rell/durandal-rell-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Durandal‌ Rell/durandal-rell-1-0-0.fantome",
+   "size": 21432676,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Durandal%E2%80%8C%20Rell/durandal-rell-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Eclipse Eternal Aspect Diana form change tweak/eclipse-eternal-aspect-diana-form-tweak-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eclipse Eternal Aspect Diana form change tweak/eclipse-eternal-aspect-diana-form-tweak-by-suriin.fantome",
+   "size": 15109903,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eclipse%20Eternal%20Aspect%20Diana%20form%20change%20tweak/eclipse-eternal-aspect-diana-form-tweak-by-suriin.fantome"
+  },
+  "RF_Storage1/Part4/Ekko Isagi Yoichi/ekko-isagi-yoichi.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Ekko Isagi Yoichi/ekko-isagi-yoichi.fantome",
+   "size": 11555124,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Ekko%20Isagi%20Yoichi/ekko-isagi-yoichi.fantome"
+  },
+  "RF_Storage1/Part4/Elder Dragon Smolder/elder-dragon-smolder.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Elder Dragon Smolder/elder-dragon-smolder.fantome",
+   "size": 623894,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Elder%20Dragon%20Smolder/elder-dragon-smolder.fantome"
+  },
+  "RF_Storage1/Part4/Elder Riftwalker Kassadin/elder-riftwalker-kassadin-v1-0-0-by-aryas-demise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Elder Riftwalker Kassadin/elder-riftwalker-kassadin-v1-0-0-by-aryas-demise.fantome",
+   "size": 2104632,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Elder%20Riftwalker%20Kassadin/elder-riftwalker-kassadin-v1-0-0-by-aryas-demise.fantome"
+  },
+  "RF_Storage1/Part4/Empyrean × Mythmaker × Dark Cosmic Jhin Announcer (Beta)/empyrean-x-dark-cosmic-x-mythmaker-jhin-announcer-v1-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Empyrean × Mythmaker × Dark Cosmic Jhin Announcer (Beta)/empyrean-x-dark-cosmic-x-mythmaker-jhin-announcer-v1-0-0-by-dear-agony.fantome",
+   "size": 9714147,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Empyrean%20%C3%97%20Mythmaker%20%C3%97%20Dark%20Cosmic%20Jhin%20Announcer%20(Beta)/empyrean-x-dark-cosmic-x-mythmaker-jhin-announcer-v1-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Empyrean × Mythmaker × Dark Cosmic Jhin Announcer (Beta)/empyrean-x-dark-cosmic-x-mythmaker-jhin-announcer-v2-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Empyrean × Mythmaker × Dark Cosmic Jhin Announcer (Beta)/empyrean-x-dark-cosmic-x-mythmaker-jhin-announcer-v2-0-0-by-dear-agony.fantome",
+   "size": 9690085,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Empyrean%20%C3%97%20Mythmaker%20%C3%97%20Dark%20Cosmic%20Jhin%20Announcer%20(Beta)/empyrean-x-dark-cosmic-x-mythmaker-jhin-announcer-v2-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Empyrean × Mythmaker × Dark Cosmic Jhin Announcer/empyrean-x-dark-cosmic-x-mythmaker-jhin-announcer-v1-0-0-by-dear-agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Empyrean × Mythmaker × Dark Cosmic Jhin Announcer/empyrean-x-dark-cosmic-x-mythmaker-jhin-announcer-v1-0-0-by-dear-agony.fantome",
+   "size": 9714147,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Empyrean%20%C3%97%20Mythmaker%20%C3%97%20Dark%20Cosmic%20Jhin%20Announcer/empyrean-x-dark-cosmic-x-mythmaker-jhin-announcer-v1-0-0-by-dear-agony.fantome"
+  },
+  "RF_Storage1/Part4/Enough Echo Killsounds/enough-echo-killsounds-v1-0-by-streak.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Enough Echo Killsounds/enough-echo-killsounds-v1-0-by-streak.fantome",
+   "size": 20719684,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Enough%20Echo%20Killsounds/enough-echo-killsounds-v1-0-by-streak.fantome"
+  },
+  "RF_Storage1/Part4/Eren Renekton/eren-renekton-1-0-1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eren Renekton/eren-renekton-1-0-1.fantome",
+   "size": 5358158,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eren%20Renekton/eren-renekton-1-0-1.fantome"
+  },
+  "RF_Storage1/Part4/Eren Renekton/eren-renekton-v1-0-0-by-rorotea.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eren Renekton/eren-renekton-v1-0-0-by-rorotea.fantome",
+   "size": 7295440,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eren%20Renekton/eren-renekton-v1-0-0-by-rorotea.fantome"
+  },
+  "RF_Storage1/Part4/Eternal Aspect Diana chroma VFX/easpect-diana-chroma-vfx-form-death-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eternal Aspect Diana chroma VFX/easpect-diana-chroma-vfx-form-death-by-suriin.fantome",
+   "size": 25800715,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eternal%20Aspect%20Diana%20chroma%20VFX/easpect-diana-chroma-vfx-form-death-by-suriin.fantome"
+  },
+  "RF_Storage1/Part4/Eternal Aspect Diana chroma VFX/easpect-diana-chroma-vfx-form-death-recall-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eternal Aspect Diana chroma VFX/easpect-diana-chroma-vfx-form-death-recall-by-suriin.fantome",
+   "size": 25800663,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eternal%20Aspect%20Diana%20chroma%20VFX/easpect-diana-chroma-vfx-form-death-recall-by-suriin.fantome"
+  },
+  "RF_Storage1/Part4/Eternal Aspect Diana chroma VFX/easpect-diana-chroma-vfx-form-death-toggle-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eternal Aspect Diana chroma VFX/easpect-diana-chroma-vfx-form-death-toggle-by-suriin.fantome",
+   "size": 25801404,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eternal%20Aspect%20Diana%20chroma%20VFX/easpect-diana-chroma-vfx-form-death-toggle-by-suriin.fantome"
+  },
+  "RF_Storage1/Part4/Eternal Aspect Diana chroma VFX/eternal-aspect-diana-chroma-vfx-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eternal Aspect Diana chroma VFX/eternal-aspect-diana-chroma-vfx-by-suriin.fantome",
+   "size": 22343691,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eternal%20Aspect%20Diana%20chroma%20VFX/eternal-aspect-diana-chroma-vfx-by-suriin.fantome"
+  },
+  "RF_Storage1/Part4/Eternal Aspect Diana form change tweak/eternal-diana-on-death-on-recall.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eternal Aspect Diana form change tweak/eternal-diana-on-death-on-recall.fantome",
+   "size": 22315878,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eternal%20Aspect%20Diana%20form%20change%20tweak/eternal-diana-on-death-on-recall.fantome"
+  },
+  "RF_Storage1/Part4/Eternal Aspect Diana form change tweak/eternal-diana-on-death-toggle.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eternal Aspect Diana form change tweak/eternal-diana-on-death-toggle.fantome",
+   "size": 22316601,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eternal%20Aspect%20Diana%20form%20change%20tweak/eternal-diana-on-death-toggle.fantome"
+  },
+  "RF_Storage1/Part4/Eternal Aspect Diana form change tweak/eternal-diana-on-death.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eternal Aspect Diana form change tweak/eternal-diana-on-death.fantome",
+   "size": 22315957,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eternal%20Aspect%20Diana%20form%20change%20tweak/eternal-diana-on-death.fantome"
+  },
+  "RF_Storage1/Part4/Eternal Aspect LeBlanc/eternal-aspect-le-blanc-v1-0-0-by-aryas-demise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eternal Aspect LeBlanc/eternal-aspect-le-blanc-v1-0-0-by-aryas-demise.fantome",
+   "size": 10622639,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eternal%20Aspect%20LeBlanc/eternal-aspect-le-blanc-v1-0-0-by-aryas-demise.fantome"
+  },
+  "RF_Storage1/Part4/Eternal Aspect LeBlanc/eternal-aspect-le-blanc.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eternal Aspect LeBlanc/eternal-aspect-le-blanc.fantome",
+   "size": 15034885,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eternal%20Aspect%20LeBlanc/eternal-aspect-le-blanc.fantome"
+  },
+  "RF_Storage1/Part4/Eternal Aspect LeBlanc/eternal-aspect-leblanc.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eternal Aspect LeBlanc/eternal-aspect-leblanc.fantome",
+   "size": 15746921,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eternal%20Aspect%20LeBlanc/eternal-aspect-leblanc.fantome"
+  },
+  "RF_Storage1/Part4/Evanescia over Samira/evanescia-samira-v1-0-0-by-keithly.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Evanescia over Samira/evanescia-samira-v1-0-0-by-keithly.fantome",
+   "size": 16727661,
+   "first_seen": "2026-09-30T05:10:00.986Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Evanescia%20over%20Samira/evanescia-samira-v1-0-0-by-keithly.fantome"
   }
  },
  "images": {
