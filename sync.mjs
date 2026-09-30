@@ -163,6 +163,7 @@ const writeTimes = []
  * elle güncellemek gerekmiyor.
  */
 const rateState = { remaining: null, reset: 0 }
+let writeCount = 0
 
 function noteRateHeaders(res) {
   const rem = res.headers.get('x-ratelimit-remaining')
@@ -189,25 +190,39 @@ async function throttleWrite() {
     await new Promise((r) => setTimeout(r, wait))
   }
 
-  // Birincil sınır: saatlik bütçeyi resete kalan süreye yay
+  /*
+   * Birincil sınır: TAM HIZDA git, bütçe bitince resete kadar bekle.
+   *
+   * Önce bütçeyi resete kalan süreye yaymayı denedim (kalan azaldıkça
+   * yazmalar arasını aç). Yanlış fikirdi: kalan 100 ve resete 55 dk
+   * varken yazma arası 30 saniyeye çıkıyor, 40 bloblu tek bir parça
+   * 20 dakika sürüyor. Sahada tam bunu gördüm — iş ayaktaydı ama 32
+   * dakikada hiç commit atmadı.
+   *
+   * Yayarak gitmenin bir kazancı yok: saatlik bütçe ne olursa olsun
+   * aynı, sadece daha yavaş harcanıyor. Hızlı harcayıp beklemek aynı
+   * saatte aynı işi bitiriyor ve arada commit attığı için ilerleme
+   * görünür kalıyor. Kesilirse manifest nerede kaldığını biliyor.
+   */
   const left = rateState.remaining
-  if (left !== null && rateState.reset > Date.now()) {
-    if (left <= 5) {
-      await waitForReset('yazma')
-    } else if (left < 150) {
-      /*
-       * Bütçe azaldıkça yavaşla. Sert durup beklemek yerine hızı
-       * kısmak, işin akmaya devam etmesini sağlıyor: kalan istek
-       * sayısını kalan süreye bölünce gereken aralık çıkıyor.
-       */
-      const gap = (rateState.reset - Date.now()) / left
-      if (gap > 1000) {
-        await new Promise((r) => setTimeout(r, Math.min(gap, 30000)))
-      }
-    }
+  if (left !== null && left <= 5 && rateState.reset > Date.now()) {
+    await waitForReset('yazma')
   }
 
   writeTimes.push(Date.now())
+
+  /*
+   * Bütçe durumunu belli aralıkla yaz. Gerekçesi: bir tur takıldığında
+   * Actions çalışan bir işin logunu vermiyor (gh run view --log boş
+   * dönüyor, jobs/<id>/logs 404), yani tek teşhis kaynağı bitmiş
+   * çalıştırmanın logu. Hızın neden düştüğünü sonradan anlayabilmek
+   * için kalan bütçeyi kayda geçiriyoruz.
+   */
+  writeCount++
+  if (writeCount % 50 === 0 && rateState.remaining !== null) {
+    const dk = Math.max(0, Math.round((rateState.reset - Date.now()) / 60000))
+    log(`  bütçe: kalan ${rateState.remaining}, reset ${dk} dk sonra`)
+  }
 }
 
 async function gh(path, options = {}) {
