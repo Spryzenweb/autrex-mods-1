@@ -145,7 +145,42 @@ const log = (...a) => console.log(...a)
 const WRITE_PER_MIN = Number(process.env.MIRROR_WRITE_PER_MIN || 65)
 const writeTimes = []
 
+/*
+ * BİRİNCİL sınır ayrı bir duvar ve sabit bir hızla aşılamıyor.
+ *
+ * Yukarıdaki 65/dk ikincil sınıra göre ayarlıydı. Ama Actions'ın
+ * GITHUB_TOKEN'ı ayrıca SAATTE 1000 istekle sınırlı (depo başına) —
+ * 65/dk bunun 3,9 katı. Senkron sahada tam olarak buradan öldü:
+ *
+ *   HATA: GitHub 403 .../git/commits
+ *   "API rate limit exceeded for installation"
+ *
+ * Sabit bir sayıya inmek yerine GitHub'ın her yanıtta gönderdiği
+ * x-ratelimit-remaining / -reset başlıklarına göre hızı kendimiz
+ * ayarlıyoruz: kalan bütçeyi resete kalan süreye bölüp aradaki
+ * boşluğu ona göre açıyoruz. Böylece jeton GITHUB_TOKEN (1000/sa) da
+ * olsa kişisel jeton (5000/sa) da olsa doğru hızda gidiyor ve ayarı
+ * elle güncellemek gerekmiyor.
+ */
+const rateState = { remaining: null, reset: 0 }
+
+function noteRateHeaders(res) {
+  const rem = res.headers.get('x-ratelimit-remaining')
+  const rst = res.headers.get('x-ratelimit-reset')
+  if (rem !== null) rateState.remaining = Number(rem)
+  if (rst) rateState.reset = Number(rst) * 1000
+}
+
+/** Birincil bütçe bittiyse resete kadar bekle. */
+async function waitForReset(why) {
+  const wait = Math.min(Math.max(rateState.reset - Date.now() + 2000, 5000), 65 * 60 * 1000)
+  log(`  ${why}: saatlik bütçe doldu, ${Math.ceil(wait / 60000)} dk bekleniyor`)
+  await new Promise((r) => setTimeout(r, wait))
+  rateState.remaining = null
+}
+
 async function throttleWrite() {
+  // İkincil sınır: dakika penceresi
   const now = Date.now()
   while (writeTimes.length && now - writeTimes[0] > 60000) writeTimes.shift()
   if (writeTimes.length >= WRITE_PER_MIN) {
@@ -153,6 +188,25 @@ async function throttleWrite() {
     log(`  hız sınırı için ${Math.ceil(wait / 1000)} sn bekleniyor`)
     await new Promise((r) => setTimeout(r, wait))
   }
+
+  // Birincil sınır: saatlik bütçeyi resete kalan süreye yay
+  const left = rateState.remaining
+  if (left !== null && rateState.reset > Date.now()) {
+    if (left <= 5) {
+      await waitForReset('yazma')
+    } else if (left < 150) {
+      /*
+       * Bütçe azaldıkça yavaşla. Sert durup beklemek yerine hızı
+       * kısmak, işin akmaya devam etmesini sağlıyor: kalan istek
+       * sayısını kalan süreye bölünce gereken aralık çıkıyor.
+       */
+      const gap = (rateState.reset - Date.now()) / left
+      if (gap > 1000) {
+        await new Promise((r) => setTimeout(r, Math.min(gap, 30000)))
+      }
+    }
+  }
+
   writeTimes.push(Date.now())
 }
 
@@ -169,6 +223,8 @@ async function gh(path, options = {}) {
       ...(options.headers || {}),
     },
   })
+  noteRateHeaders(res)
+
   if (!res.ok) {
     const body = await res.text().catch(() => '')
     /*
@@ -181,7 +237,18 @@ async function gh(path, options = {}) {
       const reset = Number(res.headers.get('x-ratelimit-reset') || 0)
       let wait = ra > 0 ? ra * 1000 : 0
       if (!wait && reset) wait = Math.max(0, reset * 1000 - Date.now())
-      wait = Math.min(Math.max(wait, 30000), 300000)   // 30 sn – 5 dk arası
+
+      /*
+       * Tavan neden 5 dk değil: birincil (saatlik) bütçe dolduğunda
+       * reset 60 dakikaya kadar ileride olabiliyor. 5 dk'lık tavanla
+       * 4 deneme = 20 dk bekleyip yine aynı duvara çarpıyor ve iş
+       * çöküyordu. remaining=0 ise bu birincil sınırdır: resete kadar
+       * bekliyoruz. İş 350 dakikalık bütçeyle çalıştığı için beklemeye
+       * yer var, çökmek ise turu komple kaybettiriyor.
+       */
+      const exhausted = res.headers.get('x-ratelimit-remaining') === '0'
+      const cap = exhausted ? 65 * 60 * 1000 : 300000
+      wait = Math.min(Math.max(wait, 30000), cap)
       log(`  hız sınırına takıldı, ${Math.ceil(wait / 1000)} sn bekleniyor`)
       await new Promise((r) => setTimeout(r, wait))
     }
