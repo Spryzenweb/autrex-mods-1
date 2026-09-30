@@ -134,7 +134,32 @@ const DRY_RUN = has('dry-run')
 const mb = (n) => (n / 1024 / 1024).toFixed(1) + ' MB'
 const log = (...a) => console.log(...a)
 
+/*
+ * GitHub yazma hızı düzenleyici.
+ *
+ * İkincil hız sınırı: içerik üreten istekler (blob/tree/commit) dakikada
+ * ~80, saatte ~500 ile sınırlı. Paralelliği açtığımızda bu sınıra
+ * çarpıldı ve senkron 403 ile durdu. Burada istekler kendiliğinden
+ * yavaşlatılıyor; durmaktansa sabit ve yavaş ilerlemek yeğ.
+ */
+const WRITE_PER_MIN = Number(process.env.MIRROR_WRITE_PER_MIN || 65)
+const writeTimes = []
+
+async function throttleWrite() {
+  const now = Date.now()
+  while (writeTimes.length && now - writeTimes[0] > 60000) writeTimes.shift()
+  if (writeTimes.length >= WRITE_PER_MIN) {
+    const wait = 60000 - (now - writeTimes[0]) + 250
+    log(`  hız sınırı için ${Math.ceil(wait / 1000)} sn bekleniyor`)
+    await new Promise((r) => setTimeout(r, wait))
+  }
+  writeTimes.push(Date.now())
+}
+
 async function gh(path, options = {}) {
+  // Yazma istekleri sayaçtan geçsin
+  if (options.method && options.method !== 'GET') await throttleWrite()
+
   const res = await fetch(path.startsWith('http') ? path : API + path, {
     ...options,
     headers: {
@@ -146,6 +171,20 @@ async function gh(path, options = {}) {
   })
   if (!res.ok) {
     const body = await res.text().catch(() => '')
+    /*
+     * Hız sınırında GitHub ne kadar bekleneceğini söylüyor; tahmin
+     * etmek yerine ona uyuyoruz. retry-after saniye, x-ratelimit-reset
+     * ise unix zaman damgası olarak geliyor.
+     */
+    if (res.status === 403 || res.status === 429) {
+      const ra = Number(res.headers.get('retry-after') || 0)
+      const reset = Number(res.headers.get('x-ratelimit-reset') || 0)
+      let wait = ra > 0 ? ra * 1000 : 0
+      if (!wait && reset) wait = Math.max(0, reset * 1000 - Date.now())
+      wait = Math.min(Math.max(wait, 30000), 300000)   // 30 sn – 5 dk arası
+      log(`  hız sınırına takıldı, ${Math.ceil(wait / 1000)} sn bekleniyor`)
+      await new Promise((r) => setTimeout(r, wait))
+    }
     throw new Error(`GitHub ${res.status} ${path}\n${body.slice(0, 300)}`)
   }
   return res.status === 204 ? null : res.json()
@@ -176,7 +215,7 @@ async function mapLimit(items, limit, fn) {
 /** Kaynaktan indirme eşzamanlılığı. */
 const DL_CONCURRENCY = Number(process.env.MIRROR_DL_CONCURRENCY || 10)
 /** GitHub'a blob yükleme eşzamanlılığı — ikincil sınırlar için daha düşük. */
-const UP_CONCURRENCY = Number(process.env.MIRROR_UP_CONCURRENCY || 6)
+const UP_CONCURRENCY = Number(process.env.MIRROR_UP_CONCURRENCY || 3)
 
 /** Ağ hataları geçici olabiliyor; birkaç kez dene. */
 async function retry(fn, tries = 4, waitMs = 2000) {
