@@ -1,88 +1,16 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-09-29T22:50:56.720Z",
+ "updated_at": "2026-09-30T00:25:42.980Z",
  "repo_bytes": {
-  "autrex-mods-1": 15146274428
+  "autrex-mods-1": 16712476322
  },
  "files": {
-  "RF_Storage1/Part1/2B zaahen/2b-zaahen.fantome": {
-   "size": 26445995,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/2B%20zaahen/2b-zaahen.fantome",
-   "first_seen": "2026-09-29T21:40:31.331Z"
-  },
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
    "size": 40067881,
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Abyssal%20Buccaneer%20Kled/abyssal-kled-repathed.fantome",
    "first_seen": "2026-09-29T21:40:31.331Z"
-  },
-  "RF_Storage1/Part1/Allan Ivern (Smiling Friends)/allan-ivern-smiling-friends_1.0.0.fantome": {
-   "size": 28957428,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Allan%20Ivern%20(Smiling%20Friends)/allan-ivern-smiling-friends_1.0.0.fantome",
-   "first_seen": "2026-09-29T21:40:34.683Z"
-  },
-  "RF_Storage1/Part1/Angela Soraka/angela-soraka-1-0-by-matthilobo.fantome": {
-   "size": 34156404,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Angela%20Soraka/angela-soraka-1-0-by-matthilobo.fantome",
-   "first_seen": "2026-09-29T21:40:35.406Z"
-  },
-  "RF_Storage1/Part1/Anima Squad BGM - Swarm/anima-squad-bgm-swarm.fantome": {
-   "size": 31128013,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Anima%20Squad%20BGM%20-%20Swarm/anima-squad-bgm-swarm.fantome",
-   "first_seen": "2026-09-29T21:40:35.406Z"
-  },
-  "RF_Storage1/Part1/Anima Squad BGM - Swarm/anima-squad-bgm-swarm_1.1.1.fantome": {
-   "size": 27443792,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Anima%20Squad%20BGM%20-%20Swarm/anima-squad-bgm-swarm_1.1.1.fantome",
-   "first_seen": "2026-09-29T21:40:35.406Z"
-  },
-  "RF_Storage1/Part1/Anima Squad BGM - Swarm/anima-squad-bgm_1.1.0.fantome": {
-   "size": 27782912,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Anima%20Squad%20BGM%20-%20Swarm/anima-squad-bgm_1.1.0.fantome",
-   "first_seen": "2026-09-29T21:40:36.277Z"
-  },
-  "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_1.0.0.fantome": {
-   "size": 27571021,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Anima%20Squad%20Swarm%20BGM/anima-squad-swarm-bgm_1.0.0.fantome",
-   "first_seen": "2026-09-29T21:40:36.277Z"
-  },
-  "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_15.17.0.fantome": {
-   "size": 31599727,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Anima%20Squad%20Swarm%20BGM/anima-squad-swarm-bgm_15.17.0.fantome",
-   "first_seen": "2026-09-29T21:40:36.277Z"
-  },
-  "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_15.23.0.fantome": {
-   "size": 31600165,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Anima%20Squad%20Swarm%20BGM/anima-squad-swarm-bgm_15.23.0.fantome",
-   "first_seen": "2026-09-29T21:40:36.277Z"
-  },
-  "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_16.1.0.fantome": {
-   "size": 31600257,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Anima%20Squad%20Swarm%20BGM/anima-squad-swarm-bgm_16.1.0.fantome",
-   "first_seen": "2026-09-29T21:40:36.277Z"
-  },
-  "RF_Storage1/Part1/AstroHUD/astro-hud-v1-0-by-p1mek.fantome": {
-   "size": 32515555,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/AstroHUD/astro-hud-v1-0-by-p1mek.fantome",
-   "first_seen": "2026-09-29T21:40:38.642Z"
-  },
-  "RF_Storage1/Part1/AstroHUD/astro-hud_1.0.0.fantome": {
-   "size": 30687158,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/AstroHUD/astro-hud_1.0.0.fantome",
-   "first_seen": "2026-09-29T21:40:38.642Z"
   },
   "RF_Storage1/Part1/BUGGY Clown/buggy-clown-repathed.fantome": {
    "size": 45294666,
@@ -90,23 +18,11 @@
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/BUGGY%20Clown/buggy-clown-repathed.fantome",
    "first_seen": "2026-09-29T21:40:39.608Z"
   },
-  "RF_Storage1/Part1/Bailu Yasuo/bailu-yasuo-v2-0-by-the-melancholy-of-slime.fantome": {
-   "size": 32137411,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Bailu%20Yasuo/bailu-yasuo-v2-0-by-the-melancholy-of-slime.fantome",
-   "first_seen": "2026-09-29T21:40:39.608Z"
-  },
   "RF_Storage1/Part1/Base Shaco - Valeera Vampire Hunter/base-shaco-valeera-vampire-hunter_0.0.1.fantome": {
    "size": 40741397,
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Base%20Shaco%20-%20Valeera%20Vampire%20Hunter/base-shaco-valeera-vampire-hunter_0.0.1.fantome",
    "first_seen": "2026-09-29T21:40:40.663Z"
-  },
-  "RF_Storage1/Part1/Battle Academia Xayah chroma VFX/battle-academia-xayah-by-suriin.fantome": {
-   "size": 30655742,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Battle%20Academia%20Xayah%20chroma%20VFX/battle-academia-xayah-by-suriin.fantome",
-   "first_seen": "2026-09-29T21:40:40.664Z"
   },
   "RF_Storage1/Part1/Beeko/beeko_1.1.0.fantome": {
    "size": 38976697,
@@ -1532,48 +1448,6 @@
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Blue%20Archives%20BGM/blue-archives-bgm_25.13.0.fantome",
    "first_seen": "2026-09-29T21:46:45.173Z"
   },
-  "RF_Storage1/Part1/Butchers Bridge BGM for SR/butchers-bridge-bgm-for-sr_15.17.0.fantome": {
-   "size": 28955836,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Butchers%20Bridge%20BGM%20for%20SR/butchers-bridge-bgm-for-sr_15.17.0.fantome",
-   "first_seen": "2026-09-29T21:46:46.451Z"
-  },
-  "RF_Storage1/Part1/Butchers Bridge BGM for SR/butchers-bridge-bgm-for-sr_15.23.0.fantome": {
-   "size": 28955971,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Butchers%20Bridge%20BGM%20for%20SR/butchers-bridge-bgm-for-sr_15.23.0.fantome",
-   "first_seen": "2026-09-29T21:46:46.451Z"
-  },
-  "RF_Storage1/Part1/Butchers Bridge BGM for SR/butchers-bridge-bgm-for-sr_16.1.0.fantome": {
-   "size": 28956052,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Butchers%20Bridge%20BGM%20for%20SR/butchers-bridge-bgm-for-sr_16.1.0.fantome",
-   "first_seen": "2026-09-29T21:46:46.451Z"
-  },
-  "RF_Storage1/Part1/Cafe Cuties Lux/cafe-cuties-lux_1.0.0.fantome": {
-   "size": 27639875,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Cafe%20Cuties%20Lux/cafe-cuties-lux_1.0.0.fantome",
-   "first_seen": "2026-09-29T21:46:46.451Z"
-  },
-  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v1-1-3-by-rorotea.fantome": {
-   "size": 28142736,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v1-1-3-by-rorotea.fantome",
-   "first_seen": "2026-09-29T21:46:47.362Z"
-  },
-  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v1-2-0-by-rorotea.fantome": {
-   "size": 33510193,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v1-2-0-by-rorotea.fantome",
-   "first_seen": "2026-09-29T21:46:47.362Z"
-  },
-  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v1-2-1-by-rorotea.fantome": {
-   "size": 34351601,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v1-2-1-by-rorotea.fantome",
-   "first_seen": "2026-09-29T21:46:47.362Z"
-  },
   "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v2-0-0-by-rorotea.fantome": {
    "size": 39132065,
    "too_large": true,
@@ -1586,95 +1460,11 @@
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v2-0-1-by-rorotea-w-no-dragon.fantome",
    "first_seen": "2026-09-29T21:46:47.362Z"
   },
-  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v2-0-1-by-rorotea.fantome": {
-   "size": 30841535,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v2-0-1-by-rorotea.fantome",
-   "first_seen": "2026-09-29T21:46:48.013Z"
-  },
-  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v2-0-2-by-rorotea.fantome": {
-   "size": 34182177,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v2-0-2-by-rorotea.fantome",
-   "first_seen": "2026-09-29T21:46:48.013Z"
-  },
-  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn_1.1.0.fantome": {
-   "size": 27967011,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn_1.1.0.fantome",
-   "first_seen": "2026-09-29T21:46:48.013Z"
-  },
-  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn_1.1.2.fantome": {
-   "size": 28143022,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn_1.1.2.fantome",
-   "first_seen": "2026-09-29T21:46:48.013Z"
-  },
-  "RF_Storage1/Part1/Chen Qianyu Yone ( A9 Endfield )/chen-qianyu-yone-v1-0-by-konari-lab.fantome": {
-   "size": 28124806,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Chen%20Qianyu%20Yone%20(%20A9%20Endfield%20)/chen-qianyu-yone-v1-0-by-konari-lab.fantome",
-   "first_seen": "2026-09-29T21:46:52.012Z"
-  },
-  "RF_Storage1/Part1/Chen Qianyu Yone ( A9 Endfield )/chen-qianyu-yone-v1-1-1-by-konari-lab.fantome": {
-   "size": 28131692,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Chen%20Qianyu%20Yone%20(%20A9%20Endfield%20)/chen-qianyu-yone-v1-1-1-by-konari-lab.fantome",
-   "first_seen": "2026-09-29T21:46:52.013Z"
-  },
-  "RF_Storage1/Part1/Chen Qianyu Yone ( A9 Endfield )/chen-qianyu-yone-v1-1-by-konari-lab.fantome": {
-   "size": 28188580,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Chen%20Qianyu%20Yone%20(%20A9%20Endfield%20)/chen-qianyu-yone-v1-1-by-konari-lab.fantome",
-   "first_seen": "2026-09-29T21:46:52.013Z"
-  },
-  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts-v16-2-1-22-0.fantome": {
-   "size": 32677125,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts-v16-2-1-22-0.fantome",
-   "first_seen": "2026-09-29T21:46:52.955Z"
-  },
-  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts-v16-2-1-24-0.fantome": {
-   "size": 33550938,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts-v16-2-1-24-0.fantome",
-   "first_seen": "2026-09-29T21:46:52.955Z"
-  },
-  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts-v16-3-1-25-0.fantome": {
-   "size": 33556963,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts-v16-3-1-25-0.fantome",
-   "first_seen": "2026-09-29T21:46:52.955Z"
-  },
   "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts-v16-3-1-26-0.fantome": {
    "size": 40407938,
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts-v16-3-1-26-0.fantome",
    "first_seen": "2026-09-29T21:46:52.955Z"
-  },
-  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts_1523.1.19.fantome": {
-   "size": 32672313,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts_1523.1.19.fantome",
-   "first_seen": "2026-09-29T21:46:54.039Z"
-  },
-  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts_1524.1.20.fantome": {
-   "size": 32673384,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts_1524.1.20.fantome",
-   "first_seen": "2026-09-29T21:46:54.039Z"
-  },
-  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts_161.1.22.fantome": {
-   "size": 32674562,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts_161.1.22.fantome",
-   "first_seen": "2026-09-29T21:46:54.039Z"
-  },
-  "RF_Storage1/Part1/Cinematic Accurate Foreseen Yasuo/better-foreseen-yasuo.fantome": {
-   "size": 32714618,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Cinematic%20Accurate%20Foreseen%20Yasuo/better-foreseen-yasuo.fantome",
-   "first_seen": "2026-09-29T21:46:54.349Z"
   },
   "RF_Storage1/Part1/Cinnamorrol HUD [Saniro]/cinnamorrol-hud-saniro_1.0.0.fantome": {
    "size": 47579788,
@@ -1699,12 +1489,6 @@
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Columbina%20x%20Sandrone%20Animated%20Loading%20Screen%20-%20Genshin%20Impact/columbina-x-sandrone-loading-screen.fantome",
    "first_seen": "2026-09-29T21:46:55.266Z"
-  },
-  "RF_Storage1/Part1/Coven Mel/coven-mel_1.0.1.fantome": {
-   "size": 31924671,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Coven%20Mel/coven-mel_1.0.1.fantome",
-   "first_seen": "2026-09-29T21:46:57.021Z"
   },
   "RF_Storage1/Part1/Bewitching Janna chroma VFX/bewitching-janna-chroma-vfx-by-suriin.fantome": {
    "repo": "autrex-mods-1",
@@ -3258,12 +3042,6 @@
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Coven%20Qiyana%20ASU/coven-qiyana-v1-1-by-lordks-op.fantome"
   },
-  "RF_Storage1/Part1/Cyberpunk Urgot/cyberpunk-urgot_1.4.0.fantome": {
-   "size": 30007058,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Cyberpunk%20Urgot/cyberpunk-urgot_1.4.0.fantome",
-   "first_seen": "2026-09-29T21:52:55.796Z"
-  },
   "RF_Storage1/Part1/DECO27 BGM/deco-27-bgm-by-aurecueil.fantome": {
    "size": 40213343,
    "too_large": true,
@@ -3306,101 +3084,17 @@
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/DMC5%20Dante%20as%20Samira/dmc-5-dante-as-samira_1514.1.10.fantome",
    "first_seen": "2026-09-29T21:52:58.462Z"
   },
-  "RF_Storage1/Part1/DVa Lucian/dva-lucian-1-2-1.fantome": {
-   "size": 36269570,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/DVa%20Lucian/dva-lucian-1-2-1.fantome",
-   "first_seen": "2026-09-29T21:52:59.306Z"
-  },
   "RF_Storage1/Part1/Dark Cosmic Diana Chroma VFX/dark-cosmic-diana-chroma-vfx-by-suriin.fantome": {
    "size": 40025209,
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Dark%20Cosmic%20Diana%20Chroma%20VFX/dark-cosmic-diana-chroma-vfx-by-suriin.fantome",
    "first_seen": "2026-09-29T21:53:00.230Z"
   },
-  "RF_Storage1/Part1/Darkrai (Lillia)/darkrai-lillia_1.3.1.fantome": {
-   "size": 36565081,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Darkrai%20(Lillia)/darkrai-lillia_1.3.1.fantome",
-   "first_seen": "2026-09-29T21:53:01.119Z"
-  },
-  "RF_Storage1/Part1/Darkrai (Lillia)/darkrai-lillia_1.4.0.fantome": {
-   "size": 35064517,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Darkrai%20(Lillia)/darkrai-lillia_1.4.0.fantome",
-   "first_seen": "2026-09-29T21:53:01.119Z"
-  },
-  "RF_Storage1/Part1/Darth Vader Yasuo/darth-vader-yasuo-2-0-0.fantome": {
-   "size": 33944020,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Darth%20Vader%20Yasuo/darth-vader-yasuo-2-0-0.fantome",
-   "first_seen": "2026-09-29T21:53:01.882Z"
-  },
   "RF_Storage1/Part1/Death Blossom Elise - Pink/elisedeathblossompink-2-0-0.fantome": {
    "size": 38897831,
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Death%20Blossom%20Elise%20-%20Pink/elisedeathblossompink-2-0-0.fantome",
    "first_seen": "2026-09-29T21:53:02.065Z"
-  },
-  "RF_Storage1/Part1/Default Map BGM/default-map-bgm_15.23.0.fantome": {
-   "size": 32350298,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Default%20Map%20BGM/default-map-bgm_15.23.0.fantome",
-   "first_seen": "2026-09-29T21:53:02.231Z"
-  },
-  "RF_Storage1/Part1/Default Summoner Rift/default-rift-by-the-killerey.fantome": {
-   "size": 32926409,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Default%20Summoner%20Rift/default-rift-by-the-killerey.fantome",
-   "first_seen": "2026-09-29T21:53:02.442Z"
-  },
-  "RF_Storage1/Part1/Default Summoner Rift/default-summoner-rift_16.1.0.fantome": {
-   "size": 31527897,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Default%20Summoner%20Rift/default-summoner-rift_16.1.0.fantome",
-   "first_seen": "2026-09-29T21:53:02.751Z"
-  },
-  "RF_Storage1/Part1/Default Summoner Rift/default-summoner-rift_16.1.1.fantome": {
-   "size": 32443200,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Default%20Summoner%20Rift/default-summoner-rift_16.1.1.fantome",
-   "first_seen": "2026-09-29T21:53:02.751Z"
-  },
-  "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-blue-v1-5-by-lordks-op.fantome": {
-   "size": 31870586,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Divine%20Fox%20Ahri/divine-fox-ahri-blue-v1-5-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:53:03.772Z"
-  },
-  "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-emerald-green-v1-5-by-lordks-op.fantome": {
-   "size": 32150614,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Divine%20Fox%20Ahri/divine-fox-ahri-emerald-green-v1-5-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:53:03.772Z"
-  },
-  "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-purple-v1-5-by-lordks-op.fantome": {
-   "size": 31913561,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Divine%20Fox%20Ahri/divine-fox-ahri-purple-v1-5-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:53:03.772Z"
-  },
-  "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-red-v1-5-by-lordks-op.fantome": {
-   "size": 32025540,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Divine%20Fox%20Ahri/divine-fox-ahri-red-v1-5-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:53:03.772Z"
-  },
-  "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-v1-5-by-lordks-op.fantome": {
-   "size": 34326302,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Divine%20Fox%20Ahri/divine-fox-ahri-v1-5-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:53:03.772Z"
-  },
-  "RF_Storage1/Part1/Dominion BGM/dominion-bgm-by-aurecueil.fantome": {
-   "size": 36543634,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Dominion%20BGM/dominion-bgm-by-aurecueil.fantome",
-   "first_seen": "2026-09-29T21:53:03.772Z"
   },
   "RF_Storage1/Part1/EVELYNN AS LUCY CYBERPUNK EDGERUNNERS/evelynn-as-lucy-cyberpunk-edgerunners_2.0.0.fantome": {
    "size": 41557561,
@@ -5046,48 +4740,6 @@
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Emerald%20Gains%20(Emerald%20Gold)/gold_1.0.0.fantome"
   },
-  "RF_Storage1/Part1/Faerie Court Neeko/faerie-court-neeko-blue-v1-4-by-lordks-op.fantome": {
-   "size": 27362818,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Faerie%20Court%20Neeko/faerie-court-neeko-blue-v1-4-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:59:21.770Z"
-  },
-  "RF_Storage1/Part1/Faerie Court Neeko/faerie-court-neeko-brown-v1-4-by-lordks-op.fantome": {
-   "size": 26439305,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Faerie%20Court%20Neeko/faerie-court-neeko-brown-v1-4-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:59:21.770Z"
-  },
-  "RF_Storage1/Part1/Faerie Court Neeko/faerie-court-neeko-orange-v1-4-by-lordks-op.fantome": {
-   "size": 26295872,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Faerie%20Court%20Neeko/faerie-court-neeko-orange-v1-4-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:59:21.770Z"
-  },
-  "RF_Storage1/Part1/Faerie Court Neeko/faerie-court-neeko-pink-v1-4-by-lordks-op.fantome": {
-   "size": 27203586,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Faerie%20Court%20Neeko/faerie-court-neeko-pink-v1-4-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:59:21.770Z"
-  },
-  "RF_Storage1/Part1/Faerie Court Neeko/faerie-court-neeko-purple-v1-4-by-lordks-op.fantome": {
-   "size": 27856599,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Faerie%20Court%20Neeko/faerie-court-neeko-purple-v1-4-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:59:21.770Z"
-  },
-  "RF_Storage1/Part1/Faerie Court Neeko/faerie-court-neeko-red-v1-4-by-lordks-op.fantome": {
-   "size": 26322005,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Faerie%20Court%20Neeko/faerie-court-neeko-red-v1-4-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:59:21.770Z"
-  },
-  "RF_Storage1/Part1/Faerie Court Neeko/faerie-court-neeko-v1-4-by-lordks-op.fantome": {
-   "size": 27308026,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Faerie%20Court%20Neeko/faerie-court-neeko-v1-4-by-lordks-op.fantome",
-   "first_seen": "2026-09-29T21:59:21.770Z"
-  },
   "RF_Storage1/Part1/Fiora as mitsuru (FIXED)/fiora-as-misturu-v2-0-0-by-ceerel.fantome": {
    "size": 41614760,
    "too_large": true,
@@ -5100,84 +4752,6 @@
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa-1-4-3.fantome",
    "first_seen": "2026-09-29T21:59:24.144Z"
   },
-  "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa-v1-4-0-by-rorotea.fantome": {
-   "size": 33950494,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa-v1-4-0-by-rorotea.fantome",
-   "first_seen": "2026-09-29T21:59:24.144Z"
-  },
-  "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa-v1-4-1-by-rorotea.fantome": {
-   "size": 33895937,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa-v1-4-1-by-rorotea.fantome",
-   "first_seen": "2026-09-29T21:59:24.144Z"
-  },
-  "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa-v1-4-2-by-rorotea.fantome": {
-   "size": 33895934,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa-v1-4-2-by-rorotea.fantome",
-   "first_seen": "2026-09-29T21:59:24.144Z"
-  },
-  "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa_1.2.0.fantome": {
-   "size": 28063564,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa_1.2.0.fantome",
-   "first_seen": "2026-09-29T21:59:24.144Z"
-  },
-  "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa_1.2.1.fantome": {
-   "size": 28063681,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa_1.2.1.fantome",
-   "first_seen": "2026-09-29T21:59:24.723Z"
-  },
-  "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa_1.2.2.fantome": {
-   "size": 28063640,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa_1.2.2.fantome",
-   "first_seen": "2026-09-29T21:59:24.723Z"
-  },
-  "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa_1.2.3.fantome": {
-   "size": 28063714,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa_1.2.3.fantome",
-   "first_seen": "2026-09-29T21:59:24.723Z"
-  },
-  "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa_1.2.4.fantome": {
-   "size": 28128848,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa_1.2.4.fantome",
-   "first_seen": "2026-09-29T21:59:24.723Z"
-  },
-  "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa_1.3.0.fantome": {
-   "size": 28692344,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa_1.3.0.fantome",
-   "first_seen": "2026-09-29T21:59:24.723Z"
-  },
-  "RF_Storage1/Part1/Frieren Lux/frieren-lux-v2-1-2-by-rorotea.fantome": {
-   "size": 34418737,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Frieren%20Lux/frieren-lux-v2-1-2-by-rorotea.fantome",
-   "first_seen": "2026-09-29T21:59:25.074Z"
-  },
-  "RF_Storage1/Part1/Goth Princess Senna/goth-princess-senna_1.1.0.fantome": {
-   "size": 37497314,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Goth%20Princess%20Senna/goth-princess-senna_1.1.0.fantome",
-   "first_seen": "2026-09-29T21:59:26.375Z"
-  },
-  "RF_Storage1/Part1/Graceful Phoenix Seraphine chroma VFX/graceful-phoenix-seraphine-by-suriin.fantome": {
-   "size": 28703038,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Graceful%20Phoenix%20Seraphine%20chroma%20VFX/graceful-phoenix-seraphine-by-suriin.fantome",
-   "first_seen": "2026-09-29T21:59:26.375Z"
-  },
-  "RF_Storage1/Part1/Guts (Aatrox)/guts-aatrox.fantome": {
-   "size": 35512110,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Guts%20(Aatrox)/guts-aatrox.fantome",
-   "first_seen": "2026-09-29T21:59:27.014Z"
-  },
   "RF_Storage1/Part1/Guts (Aatrox)/guts-aatrox_3.0.1.fantome": {
    "size": 47118226,
    "too_large": true,
@@ -5188,18 +4762,6 @@
    "size": 38553257,
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Harpy%20Groove%20Gwen/harpy-groove-gwen_1.0.0.fantome",
-   "first_seen": "2026-09-29T21:59:28.010Z"
-  },
-  "RF_Storage1/Part1/Haru Urara Fizz from Uma Musume/haru-urara-fizz-from-uma-musume_1.1.0.fantome": {
-   "size": 35990060,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Haru%20Urara%20Fizz%20from%20Uma%20Musume/haru-urara-fizz-from-uma-musume_1.1.0.fantome",
-   "first_seen": "2026-09-29T21:59:28.010Z"
-  },
-  "RF_Storage1/Part1/Haru Urara Fizz from Uma Musume/haru-urara-fizz-uma-musume-v1-0-by-davex-nosummoners.fantome": {
-   "size": 28871046,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Haru%20Urara%20Fizz%20from%20Uma%20Musume/haru-urara-fizz-uma-musume-v1-0-by-davex-nosummoners.fantome",
    "first_seen": "2026-09-29T21:59:28.010Z"
   },
   "RF_Storage1/Part1/Emerald Gains (Emerald Gold)/gold_1.0.1.fantome": {
@@ -6754,30 +6316,6 @@
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Hatsune%20Miku%20Smolder/Hatsune%20Miku%20Smolder%20V1.2.1%20by%20Nate.fantome"
   },
-  "RF_Storage1/Part1/Helltaker BGM/helltaker-bgm_15.23.0.fantome": {
-   "size": 35642486,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Helltaker%20BGM/helltaker-bgm_15.23.0.fantome",
-   "first_seen": "2026-09-29T22:18:24.169Z"
-  },
-  "RF_Storage1/Part1/Helltaker BGM/helltaker-bgm_16.1.0.fantome": {
-   "size": 35629860,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Helltaker%20BGM/helltaker-bgm_16.1.0.fantome",
-   "first_seen": "2026-09-29T22:18:24.170Z"
-  },
-  "RF_Storage1/Part1/High Noon Yorick LostHat Cut/hat-cut_1.0.0.fantome": {
-   "size": 28614914,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/High%20Noon%20Yorick%20LostHat%20Cut/hat-cut_1.0.0.fantome",
-   "first_seen": "2026-09-29T22:18:27.640Z"
-  },
-  "RF_Storage1/Part1/High Noon Yorick LostHat Cut/hat-cut_1.0.1.fantome": {
-   "size": 28614963,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/High%20Noon%20Yorick%20LostHat%20Cut/hat-cut_1.0.1.fantome",
-   "first_seen": "2026-09-29T22:18:27.640Z"
-  },
   "RF_Storage1/Part1/High Noon Yorick LostHat Cut/hat-cut_1.0.2.fantome": {
    "size": 45483460,
    "too_large": true,
@@ -6819,36 +6357,6 @@
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Igris%20Kled/igris-kled-repathed.fantome",
    "first_seen": "2026-09-29T22:18:30.914Z"
-  },
-  "RF_Storage1/Part1/Immortal Journey Zaahen chroma VFX/immortal-journey-zaahen-chroma-vfx-by-suriin-no-sparkle.fantome": {
-   "size": 29672631,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Immortal%20Journey%20Zaahen%20chroma%20VFX/immortal-journey-zaahen-chroma-vfx-by-suriin-no-sparkle.fantome",
-   "first_seen": "2026-09-29T22:18:31.698Z"
-  },
-  "RF_Storage1/Part1/Immortal Journey Zaahen chroma VFX/immortal-journey-zaahen-chroma-vfx-by-suriin.fantome": {
-   "size": 29672631,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Immortal%20Journey%20Zaahen%20chroma%20VFX/immortal-journey-zaahen-chroma-vfx-by-suriin.fantome",
-   "first_seen": "2026-09-29T22:18:31.698Z"
-  },
-  "RF_Storage1/Part1/Izuna Akali (Blue Archive)/blue-archive-akali-izuna-by-nhq.fantome": {
-   "size": 34371950,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Izuna%20Akali%20(Blue%20Archive)/blue-archive-akali-izuna-by-nhq.fantome",
-   "first_seen": "2026-09-29T22:18:33.359Z"
-  },
-  "RF_Storage1/Part1/Izuna Akali (Blue Archive)/blue-archive-akali-izuna-v1-25-by-nhq.fantome": {
-   "size": 33654358,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Izuna%20Akali%20(Blue%20Archive)/blue-archive-akali-izuna-v1-25-by-nhq.fantome",
-   "first_seen": "2026-09-29T22:18:33.359Z"
-  },
-  "RF_Storage1/Part1/Izuna Akali (Blue Archive)/izuna-akali-blue-archive_1.0.1.fantome": {
-   "size": 26545926,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Izuna%20Akali%20(Blue%20Archive)/izuna-akali-blue-archive_1.0.1.fantome",
-   "first_seen": "2026-09-29T22:18:34.077Z"
   },
   "RF_Storage1/Part1/Hatsune Miku Smolder/hatsune-miku-smolder-v1-2-0-by-nate.fantome": {
    "repo": "autrex-mods-1",
@@ -7842,12 +7350,6 @@
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Juggernaut%20Yi%20-%20Dota%202/juggernaut-yi.fantome"
   },
-  "RF_Storage1/Part1/Juicy Cupcakke Hwei/juicy-cupcakke-hwei-v2-0-by-zint0s.fantome": {
-   "size": 35060019,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Juicy%20Cupcakke%20Hwei/juicy-cupcakke-hwei-v2-0-by-zint0s.fantome",
-   "first_seen": "2026-09-29T22:25:59.598Z"
-  },
   "RF_Storage1/Part1/Junko Touhou Brand/junko-touhou-brand_1.0.0.fantome": {
    "size": 50722486,
    "too_large": true,
@@ -7890,24 +7392,6 @@
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/KO%20Coliseum%20BGM%20-%20TFT%20set%2015/ko-coliseum-bgm-tft-set-15_3.0.0.fantome",
    "first_seen": "2026-09-29T22:26:01.329Z"
   },
-  "RF_Storage1/Part1/Katarina ASU/katarina-asu_1.5.0.fantome": {
-   "size": 26435406,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Katarina%20ASU/katarina-asu_1.5.0.fantome",
-   "first_seen": "2026-09-29T22:26:01.868Z"
-  },
-  "RF_Storage1/Part1/Klee Ziggs/klee-ziggs-1-1-1.fantome": {
-   "size": 26701066,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Klee%20Ziggs/klee-ziggs-1-1-1.fantome",
-   "first_seen": "2026-09-29T22:26:03.117Z"
-  },
-  "RF_Storage1/Part1/Kokushibo Yasuo/kokushibo-yasuo-2-0-0.fantome": {
-   "size": 28546781,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Kokushibo%20Yasuo/kokushibo-yasuo-2-0-0.fantome",
-   "first_seen": "2026-09-29T22:26:03.508Z"
-  },
   "RF_Storage1/Part1/Kula Diamond Lissandra/kula-diamond-lissandra-1-0-by-matthilobo.fantome": {
    "size": 48451218,
    "too_large": true,
@@ -7944,36 +7428,6 @@
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Kuromi%20HUD%20%5BSaniro%5D/kuromi-hud-v1-0-by-p1mek.fantome",
    "first_seen": "2026-09-29T22:26:05.014Z"
   },
-  "RF_Storage1/Part1/MAGIC 'N MAYHEM! BGM (TFT SET 12)/magic-n-mayhem-bgm-tft-set-12_1.0.0.fantome": {
-   "size": 26340246,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/MAGIC%20'N%20MAYHEM!%20BGM%20(TFT%20SET%2012)/magic-n-mayhem-bgm-tft-set-12_1.0.0.fantome",
-   "first_seen": "2026-09-29T22:26:08.047Z"
-  },
-  "RF_Storage1/Part1/MAGIC 'N MAYHEM! BGM (TFT SET 12)/magic-n-mayhem-bgm-tft-set-12_1.0.1.fantome": {
-   "size": 28131775,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/MAGIC%20'N%20MAYHEM!%20BGM%20(TFT%20SET%2012)/magic-n-mayhem-bgm-tft-set-12_1.0.1.fantome",
-   "first_seen": "2026-09-29T22:26:08.047Z"
-  },
-  "RF_Storage1/Part1/MAGIC 'N MAYHEM! BGM (TFT SET 12)/magic-n-mayhem-bgm-tft-set-12_15.17.0.fantome": {
-   "size": 28108014,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/MAGIC%20'N%20MAYHEM!%20BGM%20(TFT%20SET%2012)/magic-n-mayhem-bgm-tft-set-12_15.17.0.fantome",
-   "first_seen": "2026-09-29T22:26:08.047Z"
-  },
-  "RF_Storage1/Part1/MAGIC 'N MAYHEM! BGM (TFT SET 12)/magic-n-mayhem-bgm-tft-set-12_15.23.0.fantome": {
-   "size": 28107967,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/MAGIC%20'N%20MAYHEM!%20BGM%20(TFT%20SET%2012)/magic-n-mayhem-bgm-tft-set-12_15.23.0.fantome",
-   "first_seen": "2026-09-29T22:26:08.047Z"
-  },
-  "RF_Storage1/Part1/MAGIC 'N MAYHEM! BGM (TFT SET 12)/magic-n-mayhem-bgm-tft-set-12_16.1.0.fantome": {
-   "size": 28108039,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/MAGIC%20'N%20MAYHEM!%20BGM%20(TFT%20SET%2012)/magic-n-mayhem-bgm-tft-set-12_16.1.0.fantome",
-   "first_seen": "2026-09-29T22:26:08.047Z"
-  },
   "RF_Storage1/Part1/Madara Zaahen/madara-zaahen-1-0-by-matthilobo.fantome": {
    "size": 37863802,
    "too_large": true,
@@ -7991,12 +7445,6 @@
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Malphite%20WhatsApp%20V1.5/4-2_1.5.0.fantome",
    "first_seen": "2026-09-29T22:26:09.172Z"
-  },
-  "RF_Storage1/Part1/Malum Caedo (Samira)/malum-caedo-samira_2.7.2.fantome": {
-   "size": 29248222,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Malum%20Caedo%20(Samira)/malum-caedo-samira_2.7.2.fantome",
-   "first_seen": "2026-09-29T22:26:09.780Z"
   },
   "RF_Storage1/Part1/Juicy Cupcakke Hwei/juicy-cupcakke-hwei_1.1.1.fantome": {
    "repo": "autrex-mods-1",
@@ -9734,36 +9182,6 @@
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Metin2%20%20Yasuo/metin2-yasuo-2-0-0.fantome",
    "first_seen": "2026-09-29T22:33:20.682Z"
   },
-  "RF_Storage1/Part1/Milei Darius/milei-darius-1-2-0.fantome": {
-   "size": 28189164,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Milei%20Darius/milei-darius-1-2-0.fantome",
-   "first_seen": "2026-09-29T22:33:21.986Z"
-  },
-  "RF_Storage1/Part1/Minato Aqua Yasuo/minato-aqua-yasuo-1-1-3.fantome": {
-   "size": 26359187,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Minato%20Aqua%20Yasuo/minato-aqua-yasuo-1-1-3.fantome",
-   "first_seen": "2026-09-29T22:33:21.986Z"
-  },
-  "RF_Storage1/Part1/Minato Aqua Yasuo/minato-aqua-yasuo_1.1.1.fantome": {
-   "size": 26359087,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Minato%20Aqua%20Yasuo/minato-aqua-yasuo_1.1.1.fantome",
-   "first_seen": "2026-09-29T22:33:21.986Z"
-  },
-  "RF_Storage1/Part1/Minato Aqua Yasuo/minato-aqua-yasuo_1.1.2.fantome": {
-   "size": 26359176,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Minato%20Aqua%20Yasuo/minato-aqua-yasuo_1.1.2.fantome",
-   "first_seen": "2026-09-29T22:33:21.986Z"
-  },
-  "RF_Storage1/Part1/Minato Aqua Yasuo/minato-nek-aqua-yasuo-v1-2-1-by-the-melancholy-of-slime.fantome": {
-   "size": 27351309,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Minato%20Aqua%20Yasuo/minato-nek-aqua-yasuo-v1-2-1-by-the-melancholy-of-slime.fantome",
-   "first_seen": "2026-09-29T22:33:21.986Z"
-  },
   "RF_Storage1/Part1/Minato Talon/minato-talon-1-0-by-matthilobo.fantome": {
    "size": 51943677,
    "too_large": true,
@@ -9793,12 +9211,6 @@
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Minecrft%20BGM%20Updated/minecrft-bgm-updated_16.1.0.fantome",
    "first_seen": "2026-09-29T22:33:24.041Z"
-  },
-  "RF_Storage1/Part1/Mythmaker Irelia chroma VFX/mythmaker-irelia-chroma-vfx-by-suriin.fantome": {
-   "size": 30616625,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Mythmaker%20Irelia%20chroma%20VFX/mythmaker-irelia-chroma-vfx-by-suriin.fantome",
-   "first_seen": "2026-09-29T22:33:25.628Z"
   },
   "RF_Storage1/Part1/Mythmaker Zoe/mythmaker-zoe_2025.1.0.fantome": {
    "size": 43591495,
@@ -9835,12 +9247,6 @@
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/NIKKE%20BGM/nikke-bgm_16.1.0.fantome",
    "first_seen": "2026-09-29T22:33:26.549Z"
-  },
-  "RF_Storage1/Part1/Nightscar Yone/nightscar-yone-v2-1-2-by-aun0n.fantome": {
-   "size": 31828417,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Nightscar%20Yone/nightscar-yone-v2-1-2-by-aun0n.fantome",
-   "first_seen": "2026-09-29T22:33:28.921Z"
   },
   "RF_Storage1/Part1/Noxus Rift Original/noxus-rift-original-by-moga-v16-10-1-0-0.fantome": {
    "size": 39246928,
@@ -9894,12 +9300,6 @@
    "size": 38265870,
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Noxus%20Rift%20Original/noxus-rift-original-by-moga-v16-3-1-0-0.fantome",
-   "first_seen": "2026-09-29T22:33:34.123Z"
-  },
-  "RF_Storage1/Part1/Noxus Rift Original/noxus-rift-original-by-moga-v16-4-1-0-0.fantome": {
-   "size": 34624499,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Noxus%20Rift%20Original/noxus-rift-original-by-moga-v16-4-1-0-0.fantome",
    "first_seen": "2026-09-29T22:33:34.123Z"
   },
   "RF_Storage1/Part1/Noxus Rift Original/noxus-rift-original-by-moga-v16-5-1-0-0.fantome": {
@@ -11962,96 +11362,6 @@
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20League%20%20Old%20items%2C%20Old%20summoners%20spells%2C%20Old%20champions%20spells%20%20Old%20hud%20%2B.4%20%E2%9C%85/old-item-sum-spells-champs-hud-s1-to-5-muhfack-edit-feets-t3-boots-15-19-patch-25-19_2.25.19.fantome",
    "first_seen": "2026-09-29T22:40:07.811Z"
   },
-  "RF_Storage1/Part1/Old Pulsefire Ezreal/og-pulsefire-ezreal_1.0.0.fantome": {
-   "size": 31418050,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/og-pulsefire-ezreal_1.0.0.fantome",
-   "first_seen": "2026-09-29T22:40:09.697Z"
-  },
-  "RF_Storage1/Part1/Old Pulsefire Ezreal/old-pulsefire-ezreal_4.0.0.fantome": {
-   "size": 31702502,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/old-pulsefire-ezreal_4.0.0.fantome",
-   "first_seen": "2026-09-29T22:40:10.555Z"
-  },
-  "RF_Storage1/Part1/Old Pulsefire Ezreal/primefire-ezreal_2.0.0.fantome": {
-   "size": 31508132,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/primefire-ezreal_2.0.0.fantome",
-   "first_seen": "2026-09-29T22:40:10.555Z"
-  },
-  "RF_Storage1/Part1/Old Pulsefire Ezreal/primefire-ezreal_2.1.0.fantome": {
-   "size": 31511778,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/primefire-ezreal_2.1.0.fantome",
-   "first_seen": "2026-09-29T22:40:10.555Z"
-  },
-  "RF_Storage1/Part1/Old Pulsefire Ezreal/primefire-ezreal_3.0.0.fantome": {
-   "size": 33281215,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Pulsefire%20Ezreal/primefire-ezreal_3.0.0.fantome",
-   "first_seen": "2026-09-29T22:40:10.555Z"
-  },
-  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.0.fantome": {
-   "size": 29246885,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr_1.0.0.fantome",
-   "first_seen": "2026-09-29T22:40:12.591Z"
-  },
-  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.1.fantome": {
-   "size": 29430847,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr_1.0.1.fantome",
-   "first_seen": "2026-09-29T22:40:12.591Z"
-  },
-  "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr_1.0.2.fantome": {
-   "size": 29134713,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/old-spirit-guard-udyr_1.0.2.fantome",
-   "first_seen": "2026-09-29T22:40:12.591Z"
-  },
-  "RF_Storage1/Part1/Overlimit Katarina/bw-overlimit-katarina-v1-0-0-by-p1mek.fantome": {
-   "size": 28815843,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/bw-overlimit-katarina-v1-0-0-by-p1mek.fantome",
-   "first_seen": "2026-09-29T22:40:14.314Z"
-  },
-  "RF_Storage1/Part1/Overlimit Katarina/bw-overlimit-katarina-v1-0-by-p1mek.fantome": {
-   "size": 27007544,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/bw-overlimit-katarina-v1-0-by-p1mek.fantome",
-   "first_seen": "2026-09-29T22:40:14.314Z"
-  },
-  "RF_Storage1/Part1/Overlimit Katarina/gold-katarina-v1-0-by-p1mek.fantome": {
-   "size": 26393995,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/gold-katarina-v1-0-by-p1mek.fantome",
-   "first_seen": "2026-09-29T22:40:14.314Z"
-  },
-  "RF_Storage1/Part1/Overlimit Katarina/gold-overlimit-katarina-v1-0-by-p1mek.fantome": {
-   "size": 26447523,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/gold-overlimit-katarina-v1-0-by-p1mek.fantome",
-   "first_seen": "2026-09-29T22:40:14.314Z"
-  },
-  "RF_Storage1/Part1/Overlimit Katarina/green-overlimit-katarina-v1-0-by-p1mek.fantome": {
-   "size": 29011482,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/green-overlimit-katarina-v1-0-by-p1mek.fantome",
-   "first_seen": "2026-09-29T22:40:14.314Z"
-  },
-  "RF_Storage1/Part1/Overlimit Katarina/overlimit-katarina-v1-0-by-p1mek-1.fantome": {
-   "size": 29184735,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/overlimit-katarina-v1-0-by-p1mek-1.fantome",
-   "first_seen": "2026-09-29T22:40:14.984Z"
-  },
-  "RF_Storage1/Part1/Overlimit Katarina/overlimit-katarina-v1-0-by-p1mek.fantome": {
-   "size": 29131178,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Overlimit%20Katarina/overlimit-katarina-v1-0-by-p1mek.fantome",
-   "first_seen": "2026-09-29T22:40:14.984Z"
-  },
   "RF_Storage1/Part1/Pandora MMZX(ANNIE)/pandora-mega-man-zx-original-by-lan789-sound-test-solucionado.fantome": {
    "size": 45525813,
    "too_large": true,
@@ -12063,12 +11373,6 @@
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Pandora%20MMZX(ANNIE)/pandora-mmzx-annie_v1.0.7.fantome",
    "first_seen": "2026-09-29T22:40:16.003Z"
-  },
-  "RF_Storage1/Part1/Petals of Spring - Seraphine (WR Port) VFX ADDED!/petals-of-spring-seraphine-v1-0-1-by-beyonce.fantome": {
-   "size": 29431046,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Petals%20of%20Spring%20-%20Seraphine%20(WR%20Port)%20VFX%20ADDED!/petals-of-spring-seraphine-v1-0-1-by-beyonce.fantome",
-   "first_seen": "2026-09-29T22:40:16.625Z"
   },
   "RF_Storage1/Part1/Piranha Plant Briar/piranha-plant-briar-2-0-4.fantome": {
    "size": 51933646,
@@ -12092,12 +11396,6 @@
    "size": 48038256,
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Piranha%20Plant%20Briar/piranha-plant-briar_2.0.2.fantome",
-   "first_seen": "2026-09-29T22:40:18.761Z"
-  },
-  "RF_Storage1/Part1/Piranha Plant Briar/piranha-plant-briar_2.0.3.fantome": {
-   "size": 37380724,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Piranha%20Plant%20Briar/piranha-plant-briar_2.0.3.fantome",
    "first_seen": "2026-09-29T22:40:18.761Z"
   },
   "RF_Storage1/Part1/Pool Party Twitch/pool-party-twitch_1.0.0.fantome": {
@@ -14138,18 +13436,6 @@
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Prestige%20Firecracker%20Soraka/prestige-firecracker-soraka-v1-0-by-lordks-op.fantome"
   },
-  "RF_Storage1/Part1/Prestige Star Guardian Seraphine(FULL UPDATE SOON!)/prestige-star-guardian-seraphine-by-aster.fantome": {
-   "size": 30917613,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Prestige%20Star%20Guardian%20Seraphine(FULL%20UPDATE%20SOON!)/prestige-star-guardian-seraphine-by-aster.fantome",
-   "first_seen": "2026-09-29T22:46:03.463Z"
-  },
-  "RF_Storage1/Part1/Prestige Star Guardian Seraphine(FULL UPDATE SOON!)/prestige-star-guardian-seraphine_1.0.0.fantome": {
-   "size": 30944121,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Prestige%20Star%20Guardian%20Seraphine(FULL%20UPDATE%20SOON!)/prestige-star-guardian-seraphine_1.0.0.fantome",
-   "first_seen": "2026-09-29T22:46:03.463Z"
-  },
   "RF_Storage1/Part1/REMIX RUMBLE BGM (TFT set 10)/remix-rumble-bgm-tft-set-10_1.0.0.fantome": {
    "size": 51524458,
    "too_large": true,
@@ -14160,12 +13446,6 @@
    "size": 49837704,
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Real%20Minimap%20%5BSpirit%20Blossom%5D/real-minimap-spirit-blossom_161.1.0.fantome",
-   "first_seen": "2026-09-29T22:46:07.990Z"
-  },
-  "RF_Storage1/Part1/Recep İvedik Gragas/recep-ivedik-gragas-voice-2-0-0.fantome": {
-   "size": 33130643,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Recep%20%C4%B0vedik%20Gragas/recep-ivedik-gragas-voice-2-0-0.fantome",
    "first_seen": "2026-09-29T22:46:07.990Z"
   },
   "RF_Storage1/Part1/Recep İvedik Gragas/recep-ivedik-gragas_1.0.0.fantome": {
@@ -14179,12 +13459,6 @@
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Recep%20%C4%B0vedik%20Gragas/recepivedikgragas.fantome",
    "first_seen": "2026-09-29T22:46:08.264Z"
-  },
-  "RF_Storage1/Part1/Riven Zero Two V2/riven-zero-two-v2_1.0.1.fantome": {
-   "size": 28006600,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Riven%20Zero%20Two%20V2/riven-zero-two-v2_1.0.1.fantome",
-   "first_seen": "2026-09-29T22:46:11.297Z"
   },
   "RF_Storage1/Part1/Ruby Rose Kayn from RWBY/kayn-ruby-rose-from-rwby-v2-0-0-by-davex.fantome": {
    "size": 40823632,
@@ -14228,12 +13502,6 @@
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/SH3%20HEATHER%20MASON%20VAYNE/sh-3-heather-mason-vayne_2.0.0.fantome",
    "first_seen": "2026-09-29T22:46:14.391Z"
   },
-  "RF_Storage1/Part1/Sakura HUD [UwU]/sakura-hud-uw-u_2.2.5.fantome": {
-   "size": 37417151,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Sakura%20HUD%20%5BUwU%5D/sakura-hud-uw-u_2.2.5.fantome",
-   "first_seen": "2026-09-29T22:46:14.391Z"
-  },
   "RF_Storage1/Part1/Sakura HUD [UwU]/sakura-hud-uw-u_3.0.0.fantome": {
    "size": 38719524,
    "too_large": true,
@@ -14250,12 +13518,6 @@
    "size": 44319684,
    "too_large": true,
    "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Sakura%20HUD%20%5BUwU%5D/sakura-hud-v1-0-by-p1mek.fantome",
-   "first_seen": "2026-09-29T22:46:14.902Z"
-  },
-  "RF_Storage1/Part1/Sasuke Riven V2/sasuke-riven-v2_1.0.0.fantome": {
-   "size": 31001066,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Sasuke%20Riven%20V2/sasuke-riven-v2_1.0.0.fantome",
    "first_seen": "2026-09-29T22:46:14.902Z"
   },
   "RF_Storage1/Part1/Prestige Firecracker Soraka/prestige-firecracker-soraka-v1-2-by-lordks-op.fantome": {
@@ -15697,6 +14959,406 @@
    "first_seen": "2026-09-29T22:47:28.537Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Saul%20Goodman%20Ezreal/saul-goodman-ezreal_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/2B zaahen/2b-zaahen.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/2B zaahen/2b-zaahen.fantome",
+   "size": 26445995,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/2B%20zaahen/2b-zaahen.fantome"
+  },
+  "RF_Storage1/Part1/Allan Ivern (Smiling Friends)/allan-ivern-smiling-friends_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Allan Ivern (Smiling Friends)/allan-ivern-smiling-friends_1.0.0.fantome",
+   "size": 28957428,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Allan%20Ivern%20(Smiling%20Friends)/allan-ivern-smiling-friends_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Angela Soraka/angela-soraka-1-0-by-matthilobo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Angela Soraka/angela-soraka-1-0-by-matthilobo.fantome",
+   "size": 34156404,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Angela%20Soraka/angela-soraka-1-0-by-matthilobo.fantome"
+  },
+  "RF_Storage1/Part1/Anima Squad BGM - Swarm/anima-squad-bgm-swarm.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Anima Squad BGM - Swarm/anima-squad-bgm-swarm.fantome",
+   "size": 31128013,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Anima%20Squad%20BGM%20-%20Swarm/anima-squad-bgm-swarm.fantome"
+  },
+  "RF_Storage1/Part1/Anima Squad BGM - Swarm/anima-squad-bgm-swarm_1.1.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Anima Squad BGM - Swarm/anima-squad-bgm-swarm_1.1.1.fantome",
+   "size": 27443792,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Anima%20Squad%20BGM%20-%20Swarm/anima-squad-bgm-swarm_1.1.1.fantome"
+  },
+  "RF_Storage1/Part1/Anima Squad BGM - Swarm/anima-squad-bgm_1.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Anima Squad BGM - Swarm/anima-squad-bgm_1.1.0.fantome",
+   "size": 27782912,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Anima%20Squad%20BGM%20-%20Swarm/anima-squad-bgm_1.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_1.0.0.fantome",
+   "size": 27571021,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Anima%20Squad%20Swarm%20BGM/anima-squad-swarm-bgm_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_15.17.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_15.17.0.fantome",
+   "size": 31599727,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Anima%20Squad%20Swarm%20BGM/anima-squad-swarm-bgm_15.17.0.fantome"
+  },
+  "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_15.23.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_15.23.0.fantome",
+   "size": 31600165,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Anima%20Squad%20Swarm%20BGM/anima-squad-swarm-bgm_15.23.0.fantome"
+  },
+  "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_16.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Anima Squad Swarm BGM/anima-squad-swarm-bgm_16.1.0.fantome",
+   "size": 31600257,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Anima%20Squad%20Swarm%20BGM/anima-squad-swarm-bgm_16.1.0.fantome"
+  },
+  "RF_Storage1/Part1/AstroHUD/astro-hud-v1-0-by-p1mek.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/AstroHUD/astro-hud-v1-0-by-p1mek.fantome",
+   "size": 32515555,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/AstroHUD/astro-hud-v1-0-by-p1mek.fantome"
+  },
+  "RF_Storage1/Part1/AstroHUD/astro-hud_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/AstroHUD/astro-hud_1.0.0.fantome",
+   "size": 30687158,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/AstroHUD/astro-hud_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Bailu Yasuo/bailu-yasuo-v2-0-by-the-melancholy-of-slime.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Bailu Yasuo/bailu-yasuo-v2-0-by-the-melancholy-of-slime.fantome",
+   "size": 32137411,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Bailu%20Yasuo/bailu-yasuo-v2-0-by-the-melancholy-of-slime.fantome"
+  },
+  "RF_Storage1/Part1/Battle Academia Xayah chroma VFX/battle-academia-xayah-by-suriin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Battle Academia Xayah chroma VFX/battle-academia-xayah-by-suriin.fantome",
+   "size": 30655742,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Battle%20Academia%20Xayah%20chroma%20VFX/battle-academia-xayah-by-suriin.fantome"
+  },
+  "RF_Storage1/Part1/Butchers Bridge BGM for SR/butchers-bridge-bgm-for-sr_15.17.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Butchers Bridge BGM for SR/butchers-bridge-bgm-for-sr_15.17.0.fantome",
+   "size": 28955836,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Butchers%20Bridge%20BGM%20for%20SR/butchers-bridge-bgm-for-sr_15.17.0.fantome"
+  },
+  "RF_Storage1/Part1/Butchers Bridge BGM for SR/butchers-bridge-bgm-for-sr_15.23.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Butchers Bridge BGM for SR/butchers-bridge-bgm-for-sr_15.23.0.fantome",
+   "size": 28955971,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Butchers%20Bridge%20BGM%20for%20SR/butchers-bridge-bgm-for-sr_15.23.0.fantome"
+  },
+  "RF_Storage1/Part1/Butchers Bridge BGM for SR/butchers-bridge-bgm-for-sr_16.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Butchers Bridge BGM for SR/butchers-bridge-bgm-for-sr_16.1.0.fantome",
+   "size": 28956052,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Butchers%20Bridge%20BGM%20for%20SR/butchers-bridge-bgm-for-sr_16.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Cafe Cuties Lux/cafe-cuties-lux_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Cafe Cuties Lux/cafe-cuties-lux_1.0.0.fantome",
+   "size": 27639875,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Cafe%20Cuties%20Lux/cafe-cuties-lux_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v1-1-3-by-rorotea.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v1-1-3-by-rorotea.fantome",
+   "size": 28142736,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v1-1-3-by-rorotea.fantome"
+  },
+  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v1-2-0-by-rorotea.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v1-2-0-by-rorotea.fantome",
+   "size": 33510193,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v1-2-0-by-rorotea.fantome"
+  },
+  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v1-2-1-by-rorotea.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v1-2-1-by-rorotea.fantome",
+   "size": 34351601,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v1-2-1-by-rorotea.fantome"
+  },
+  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v2-0-1-by-rorotea.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v2-0-1-by-rorotea.fantome",
+   "size": 30841535,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v2-0-1-by-rorotea.fantome"
+  },
+  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v2-0-2-by-rorotea.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Castorice Kayn/castorice-kayn-v2-0-2-by-rorotea.fantome",
+   "size": 34182177,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn-v2-0-2-by-rorotea.fantome"
+  },
+  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn_1.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Castorice Kayn/castorice-kayn_1.1.0.fantome",
+   "size": 27967011,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn_1.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn_1.1.2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Castorice Kayn/castorice-kayn_1.1.2.fantome",
+   "size": 28143022,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn_1.1.2.fantome"
+  },
+  "RF_Storage1/Part1/Chen Qianyu Yone ( A9 Endfield )/chen-qianyu-yone-v1-0-by-konari-lab.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Chen Qianyu Yone ( A9 Endfield )/chen-qianyu-yone-v1-0-by-konari-lab.fantome",
+   "size": 28124806,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Chen%20Qianyu%20Yone%20(%20A9%20Endfield%20)/chen-qianyu-yone-v1-0-by-konari-lab.fantome"
+  },
+  "RF_Storage1/Part1/Chen Qianyu Yone ( A9 Endfield )/chen-qianyu-yone-v1-1-1-by-konari-lab.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Chen Qianyu Yone ( A9 Endfield )/chen-qianyu-yone-v1-1-1-by-konari-lab.fantome",
+   "size": 28131692,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Chen%20Qianyu%20Yone%20(%20A9%20Endfield%20)/chen-qianyu-yone-v1-1-1-by-konari-lab.fantome"
+  },
+  "RF_Storage1/Part1/Chen Qianyu Yone ( A9 Endfield )/chen-qianyu-yone-v1-1-by-konari-lab.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Chen Qianyu Yone ( A9 Endfield )/chen-qianyu-yone-v1-1-by-konari-lab.fantome",
+   "size": 28188580,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Chen%20Qianyu%20Yone%20(%20A9%20Endfield%20)/chen-qianyu-yone-v1-1-by-konari-lab.fantome"
+  },
+  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts-v16-2-1-22-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts-v16-2-1-22-0.fantome",
+   "size": 32677125,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts-v16-2-1-22-0.fantome"
+  },
+  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts-v16-2-1-24-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts-v16-2-1-24-0.fantome",
+   "size": 33550938,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts-v16-2-1-24-0.fantome"
+  },
+  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts-v16-3-1-25-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts-v16-3-1-25-0.fantome",
+   "size": 33556963,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts-v16-3-1-25-0.fantome"
+  },
+  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts_1523.1.19.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts_1523.1.19.fantome",
+   "size": 32672313,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts_1523.1.19.fantome"
+  },
+  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts_1524.1.20.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts_1524.1.20.fantome",
+   "size": 32673384,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts_1524.1.20.fantome"
+  },
+  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts_161.1.22.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/China Exclusive Chroma Splasharts/china-exclusive-chroma-splasharts_161.1.22.fantome",
+   "size": 32674562,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/china-exclusive-chroma-splasharts_161.1.22.fantome"
+  },
+  "RF_Storage1/Part1/Cinematic Accurate Foreseen Yasuo/better-foreseen-yasuo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Cinematic Accurate Foreseen Yasuo/better-foreseen-yasuo.fantome",
+   "size": 32714618,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Cinematic%20Accurate%20Foreseen%20Yasuo/better-foreseen-yasuo.fantome"
+  },
+  "RF_Storage1/Part1/Coven Mel/coven-mel_1.0.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Coven Mel/coven-mel_1.0.1.fantome",
+   "size": 31924671,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Coven%20Mel/coven-mel_1.0.1.fantome"
+  },
+  "RF_Storage1/Part1/Cyberpunk Urgot/cyberpunk-urgot_1.4.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Cyberpunk Urgot/cyberpunk-urgot_1.4.0.fantome",
+   "size": 30007058,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Cyberpunk%20Urgot/cyberpunk-urgot_1.4.0.fantome"
+  },
+  "RF_Storage1/Part1/DVa Lucian/dva-lucian-1-2-1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/DVa Lucian/dva-lucian-1-2-1.fantome",
+   "size": 36269570,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/DVa%20Lucian/dva-lucian-1-2-1.fantome"
+  },
+  "RF_Storage1/Part1/Darkrai (Lillia)/darkrai-lillia_1.3.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Darkrai (Lillia)/darkrai-lillia_1.3.1.fantome",
+   "size": 36565081,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Darkrai%20(Lillia)/darkrai-lillia_1.3.1.fantome"
+  },
+  "RF_Storage1/Part1/Darkrai (Lillia)/darkrai-lillia_1.4.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Darkrai (Lillia)/darkrai-lillia_1.4.0.fantome",
+   "size": 35064517,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Darkrai%20(Lillia)/darkrai-lillia_1.4.0.fantome"
+  },
+  "RF_Storage1/Part1/Darth Vader Yasuo/darth-vader-yasuo-2-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Darth Vader Yasuo/darth-vader-yasuo-2-0-0.fantome",
+   "size": 33944020,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Darth%20Vader%20Yasuo/darth-vader-yasuo-2-0-0.fantome"
+  },
+  "RF_Storage1/Part1/Default Map BGM/default-map-bgm_15.23.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Default Map BGM/default-map-bgm_15.23.0.fantome",
+   "size": 32350298,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Default%20Map%20BGM/default-map-bgm_15.23.0.fantome"
+  },
+  "RF_Storage1/Part1/Default Summoner Rift/default-rift-by-the-killerey.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Default Summoner Rift/default-rift-by-the-killerey.fantome",
+   "size": 32926409,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Default%20Summoner%20Rift/default-rift-by-the-killerey.fantome"
+  },
+  "RF_Storage1/Part1/Default Summoner Rift/default-summoner-rift_16.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Default Summoner Rift/default-summoner-rift_16.1.0.fantome",
+   "size": 31527897,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Default%20Summoner%20Rift/default-summoner-rift_16.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Default Summoner Rift/default-summoner-rift_16.1.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Default Summoner Rift/default-summoner-rift_16.1.1.fantome",
+   "size": 32443200,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Default%20Summoner%20Rift/default-summoner-rift_16.1.1.fantome"
+  },
+  "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-blue-v1-5-by-lordks-op.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-blue-v1-5-by-lordks-op.fantome",
+   "size": 31870586,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Divine%20Fox%20Ahri/divine-fox-ahri-blue-v1-5-by-lordks-op.fantome"
+  },
+  "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-emerald-green-v1-5-by-lordks-op.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-emerald-green-v1-5-by-lordks-op.fantome",
+   "size": 32150614,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Divine%20Fox%20Ahri/divine-fox-ahri-emerald-green-v1-5-by-lordks-op.fantome"
+  },
+  "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-purple-v1-5-by-lordks-op.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-purple-v1-5-by-lordks-op.fantome",
+   "size": 31913561,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Divine%20Fox%20Ahri/divine-fox-ahri-purple-v1-5-by-lordks-op.fantome"
+  },
+  "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-red-v1-5-by-lordks-op.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-red-v1-5-by-lordks-op.fantome",
+   "size": 32025540,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Divine%20Fox%20Ahri/divine-fox-ahri-red-v1-5-by-lordks-op.fantome"
+  },
+  "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-v1-5-by-lordks-op.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Divine Fox Ahri/divine-fox-ahri-v1-5-by-lordks-op.fantome",
+   "size": 34326302,
+   "first_seen": "2026-09-30T00:25:42.979Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Divine%20Fox%20Ahri/divine-fox-ahri-v1-5-by-lordks-op.fantome"
   }
  },
  "images": {
