@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-02T08:01:00.285Z",
+ "updated_at": "2026-10-02T08:01:30.676Z",
  "repo_bytes": {
-  "autrex-mods-1": 64436168251
+  "autrex-mods-1": 64273196509
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -60873,150 +60873,6 @@
    "first_seen": "2026-10-01T08:28:12.371Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Carmine%20Marauder%20%20Victorious%20Rengar/carmine-marauder-victorious.fantome"
-  },
-  "RF_Storage1/Part1/Old Minions - Day Version/old-minions-day-16-19-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Old Minions - Day Version/old-minions-day-16-19-0.fantome",
-   "size": 6384294,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Day%20Version/old-minions-day-16-19-0.fantome"
-  },
-  "RF_Storage1/Part1/Old Minions - Night Version/old-minions-night-16-19-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Old Minions - Night Version/old-minions-night-16-19-0.fantome",
-   "size": 6053154,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Minions%20-%20Night%20Version/old-minions-night-16-19-0.fantome"
-  },
-  "RF_Storage1/Part1/Winter Rift 2025 (Season 25 Version)/winter-rift2025-day-16-19-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Winter Rift 2025 (Season 25 Version)/winter-rift2025-day-16-19-1_large_file.txt",
-   "size": 361,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Winter%20Rift%202025%20(Season%2025%20Version)/winter-rift2025-day-16-19-1_large_file.txt"
-  },
-  "RF_Storage1/Part2/Navy Blue Odyssey Kayn/navy-blue-odyssey-kayn-v1-3-0-by-lkss.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part2/Navy Blue Odyssey Kayn/navy-blue-odyssey-kayn-v1-3-0-by-lkss.fantome",
-   "size": 863775,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Navy%20Blue%20Odyssey%20Kayn/navy-blue-odyssey-kayn-v1-3-0-by-lkss.fantome"
-  },
-  "RF_Storage1/Part4/Allie Zaahen/allie-zaahen-by-ascilia.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Allie Zaahen/allie-zaahen-by-ascilia.fantome",
-   "size": 26318739,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Allie%20Zaahen/allie-zaahen-by-ascilia.fantome"
-  },
-  "RF_Storage1/Part4/Aqua Diana/diana-aqua-update-v-1-2-2.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Aqua Diana/diana-aqua-update-v-1-2-2.fantome",
-   "size": 7510108,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Aqua%20Diana/diana-aqua-update-v-1-2-2.fantome"
-  },
-  "RF_Storage1/Part4/Classic Rift - Harrowing/classic-rift-harrowing-16-19-3_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Classic Rift - Harrowing/classic-rift-harrowing-16-19-3_large_file.txt",
-   "size": 358,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Classic%20Rift%20-%20Harrowing/classic-rift-harrowing-16-19-3_large_file.txt"
-  },
-  "RF_Storage1/Part4/Classic Rift - Harrowing/classic-rift-harrowing-16-19-4_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Classic Rift - Harrowing/classic-rift-harrowing-16-19-4_large_file.txt",
-   "size": 358,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Classic%20Rift%20-%20Harrowing/classic-rift-harrowing-16-19-4_large_file.txt"
-  },
-  "RF_Storage1/Part4/Comic Sans HUD/comic-sans-hud-0-2-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Comic Sans HUD/comic-sans-hud-0-2-0.fantome",
-   "size": 2039343,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Comic%20Sans%20HUD/comic-sans-hud-0-2-0.fantome"
-  },
-  "RF_Storage1/Part4/Demon Genesis BlueRed/demon-blues.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Demon Genesis BlueRed/demon-blues.fantome",
-   "size": 13774113,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Demon%20Genesis%20BlueRed/demon-blues.fantome"
-  },
-  "RF_Storage1/Part4/Demon Genesis BlueRed/demon-red.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Demon Genesis BlueRed/demon-red.fantome",
-   "size": 14996395,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Demon%20Genesis%20BlueRed/demon-red.fantome"
-  },
-  "RF_Storage1/Part4/Frostblade Talon - Enduring Sword Talon/frostbladetalon-1-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Frostblade Talon - Enduring Sword Talon/frostbladetalon-1-0-0.fantome",
-   "size": 8869210,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frostblade%20Talon%20-%20Enduring%20Sword%20Talon/frostbladetalon-1-0-0.fantome"
-  },
-  "RF_Storage1/Part4/Genesis Nightbringer Blue/genesis-nightbringer-genesis-nightbringer-chroma-1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Genesis Nightbringer Blue/genesis-nightbringer-genesis-nightbringer-chroma-1.fantome",
-   "size": 9099768,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Genesis%20Nightbringer%20Blue/genesis-nightbringer-genesis-nightbringer-chroma-1.fantome"
-  },
-  "RF_Storage1/Part4/Infernal Varus Blue/infernal-varus-blue-1-0-0-by-demon-1-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Infernal Varus Blue/infernal-varus-blue-1-0-0-by-demon-1-0-0.fantome",
-   "size": 14491401,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Infernal%20Varus%20Blue/infernal-varus-blue-1-0-0-by-demon-1-0-0.fantome"
-  },
-  "RF_Storage1/Part4/Nightbringer Blue/blue-nightbringer-blue-chroma-1-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Nightbringer Blue/blue-nightbringer-blue-chroma-1-0.fantome",
-   "size": 26516552,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nightbringer%20Blue/blue-nightbringer-blue-chroma-1-0.fantome"
-  },
-  "RF_Storage1/Part4/Project Yasuo Blue/blue-project-yasuo-blue-chroma-1-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Project Yasuo Blue/blue-project-yasuo-blue-chroma-1-0.fantome",
-   "size": 19293577,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Project%20Yasuo%20Blue/blue-project-yasuo-blue-chroma-1-0.fantome"
-  },
-  "RF_Storage1/Part4/Varus Blue Empyrean/blue-varus-legendary-1-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Varus Blue Empyrean/blue-varus-legendary-1-0.fantome",
-   "size": 6759881,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Varus%20Blue%20Empyrean/blue-varus-legendary-1-0.fantome"
-  },
-  "RF_Storage1/Part4/Winter Rift 2025 - Night/winter-rift2025-night-16-19-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Winter Rift 2025 - Night/winter-rift2025-night-16-19-1_large_file.txt",
-   "size": 355,
-   "first_seen": "2026-10-02T08:01:00.285Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Winter%20Rift%202025%20-%20Night/winter-rift2025-night-16-19-1_large_file.txt"
   }
  },
  "images": {
@@ -82604,21 +82460,21 @@
   "e1ee1b4d-3e22-4d70-bd49-637dbeac9062.webp": {
    "repo": "autrex-mods-1",
    "size": 184442,
-   "first_seen": "2026-10-02T08:00:20.737Z",
+   "first_seen": "2026-10-02T08:01:30.676Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/e1ee1b4d-3e22-4d70-bd49-637dbeac9062.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/e1ee1b4d-3e22-4d70-bd49-637dbeac9062.webp"
   },
   "4507e59b-fc74-4bfc-a76b-84757a1e67f3.webp": {
    "repo": "autrex-mods-1",
    "size": 55348,
-   "first_seen": "2026-10-02T08:00:20.737Z",
+   "first_seen": "2026-10-02T08:01:30.676Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/4507e59b-fc74-4bfc-a76b-84757a1e67f3.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/4507e59b-fc74-4bfc-a76b-84757a1e67f3.webp"
   },
   "24cb7723-d671-45cf-939b-4fb52f509f25.webp": {
    "repo": "autrex-mods-1",
    "size": 54316,
-   "first_seen": "2026-10-02T08:00:20.737Z",
+   "first_seen": "2026-10-02T08:01:30.676Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/24cb7723-d671-45cf-939b-4fb52f509f25.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/24cb7723-d671-45cf-939b-4fb52f509f25.webp"
   }
@@ -85701,5 +85557,5 @@
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
  ],
  "image_total": 3108,
- "images_crawled_at": "2026-10-02T07:59:55.371Z"
+ "images_crawled_at": "2026-10-02T08:01:27.896Z"
 }
