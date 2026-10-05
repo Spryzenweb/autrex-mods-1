@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-05T08:31:43.577Z",
+ "updated_at": "2026-10-05T08:32:17.939Z",
  "repo_bytes": {
-  "autrex-mods-1": 64769457224
+  "autrex-mods-1": 64856849525
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -61177,6 +61177,78 @@
    "first_seen": "2026-10-04T07:55:11.896Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Toadyr/toadyr-1-3-6.fantome"
+  },
+  "RF_Storage1/Part4/Captain Gaige Annie/annie-gaige-captain-1-0-3.fantome": {
+   "size": 44816352,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Captain%20Gaige%20Annie/annie-gaige-captain-1-0-3.fantome",
+   "first_seen": "2026-10-05T08:32:00.123Z"
+  },
+  "RF_Storage1/Part4/Captain Gaige Annie/annie-gaige-captain-1-0-4.fantome": {
+   "size": 45035504,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Captain%20Gaige%20Annie/annie-gaige-captain-1-0-4.fantome",
+   "first_seen": "2026-10-05T08:32:00.123Z"
+  },
+  "RF_Storage1/Part4/Gaige The Mechromancer  Annie/annie-gaige-base-1-0-3.fantome": {
+   "size": 46111796,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Gaige%20The%20Mechromancer%20%20Annie/annie-gaige-base-1-0-3.fantome",
+   "first_seen": "2026-10-05T08:32:00.123Z"
+  },
+  "RF_Storage1/Part4/Gaige The Mechromancer  Annie/annie-gaige-base-1-0-4.fantome": {
+   "size": 46330948,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Gaige%20The%20Mechromancer%20%20Annie/annie-gaige-base-1-0-4.fantome",
+   "first_seen": "2026-10-05T08:32:00.123Z"
+  },
+  "RF_Storage1/Part3/Rave Kassadin/kassadin-rave-v1-7-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Rave Kassadin/kassadin-rave-v1-7-0-by-aropatnik.fantome",
+   "size": 4341667,
+   "first_seen": "2026-10-05T08:32:17.939Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Rave%20Kassadin/kassadin-rave-v1-7-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part4/Glorious Crimson Draven/glorious-crimson-draven-1-0-0-by-valfren.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Glorious Crimson Draven/glorious-crimson-draven-1-0-0-by-valfren.fantome",
+   "size": 11258564,
+   "first_seen": "2026-10-05T08:32:17.939Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Glorious%20Crimson%20Draven/glorious-crimson-draven-1-0-0-by-valfren.fantome"
+  },
+  "RF_Storage1/Part4/Nightgown and Peaches Yunara/yunara-icons-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Nightgown and Peaches Yunara/yunara-icons-1-0-0.fantome",
+   "size": 33369507,
+   "first_seen": "2026-10-05T08:32:17.939Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nightgown%20and%20Peaches%20Yunara/yunara-icons-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Nightgown and Peaches Yunara/yunara-nightgown-voice-v11.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Nightgown and Peaches Yunara/yunara-nightgown-voice-v11.fantome",
+   "size": 8930678,
+   "first_seen": "2026-10-05T08:32:17.939Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nightgown%20and%20Peaches%20Yunara/yunara-nightgown-voice-v11.fantome"
+  },
+  "RF_Storage1/Part4/Nightgown and Peaches Yunara/yunara-nightgown-voice-v6d.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Nightgown and Peaches Yunara/yunara-nightgown-voice-v6d.fantome",
+   "size": 4741595,
+   "first_seen": "2026-10-05T08:32:17.939Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nightgown%20and%20Peaches%20Yunara/yunara-nightgown-voice-v6d.fantome"
+  },
+  "RF_Storage1/Part4/Toadyr/toadyr-1-3-7.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Toadyr/toadyr-1-3-7.fantome",
+   "size": 24750290,
+   "first_seen": "2026-10-05T08:32:17.939Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Toadyr/toadyr-1-3-7.fantome"
   }
  },
  "images": {
