@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-06T08:40:38.330Z",
+ "updated_at": "2026-10-06T08:41:13.098Z",
  "repo_bytes": {
-  "autrex-mods-1": 64858430152
+  "autrex-mods-1": 64941295569
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -61249,6 +61249,78 @@
    "first_seen": "2026-10-05T08:32:17.939Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Toadyr/toadyr-1-3-7.fantome"
+  },
+  "RF_Storage1/Part1/Mecha MINECRAFT Sion/mecha-sion-mc-v1-0-0-by-eikori-and-konradosj.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Mecha MINECRAFT Sion/mecha-sion-mc-v1-0-0-by-eikori-and-konradosj.fantome",
+   "size": 1307324,
+   "first_seen": "2026-10-06T08:41:13.098Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Mecha%20MINECRAFT%20Sion/mecha-sion-mc-v1-0-0-by-eikori-and-konradosj.fantome"
+  },
+  "RF_Storage1/Part1/Minecraft Skarner/mc-ska-skarner-v1-0-0-by-konradosj-and-eikori.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Minecraft Skarner/mc-ska-skarner-v1-0-0-by-konradosj-and-eikori.fantome",
+   "size": 1332750,
+   "first_seen": "2026-10-06T08:41:13.098Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Minecraft%20Skarner/mc-ska-skarner-v1-0-0-by-konradosj-and-eikori.fantome"
+  },
+  "RF_Storage1/Part1/Minecraft Twitch/mc-twitch-model-v1-0-3-by-konradosj-and-eikori.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Minecraft Twitch/mc-twitch-model-v1-0-3-by-konradosj-and-eikori.fantome",
+   "size": 324095,
+   "first_seen": "2026-10-06T08:41:13.098Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Minecraft%20Twitch/mc-twitch-model-v1-0-3-by-konradosj-and-eikori.fantome"
+  },
+  "RF_Storage1/Part1/Minecraft Twitch/mc-twitch-sfx-v1-0-3-by-konradosj-and-eikori.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Minecraft Twitch/mc-twitch-sfx-v1-0-3-by-konradosj-and-eikori.fantome",
+   "size": 927544,
+   "first_seen": "2026-10-06T08:41:13.098Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Minecraft%20Twitch/mc-twitch-sfx-v1-0-3-by-konradosj-and-eikori.fantome"
+  },
+  "RF_Storage1/Part1/ZoBee/zobee-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/ZoBee/zobee-1-0-0.fantome",
+   "size": 15390446,
+   "first_seen": "2026-10-06T08:41:13.098Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/ZoBee/zobee-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Classic Rift - Winter/classic-winter-rift-by-the-killerey_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Classic Rift - Winter/classic-winter-rift-by-the-killerey_large_file.txt",
+   "size": 370,
+   "first_seen": "2026-10-06T08:41:13.098Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Classic%20Rift%20-%20Winter/classic-winter-rift-by-the-killerey_large_file.txt"
+  },
+  "RF_Storage1/Part4/Glorious Crimson Draven Wild Rift/glorious-crimson-draven-1-0-0-by-valfren.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Glorious Crimson Draven Wild Rift/glorious-crimson-draven-1-0-0-by-valfren.fantome",
+   "size": 11258564,
+   "first_seen": "2026-10-06T08:41:13.098Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Glorious%20Crimson%20Draven%20Wild%20Rift/glorious-crimson-draven-1-0-0-by-valfren.fantome"
+  },
+  "RF_Storage1/Part4/Suoming Yasuo (Wuthering Waves)/suoming-yasuo-by-ascilia.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Suoming Yasuo (Wuthering Waves)/suoming-yasuo-by-ascilia.fantome",
+   "size": 24000115,
+   "first_seen": "2026-10-06T08:41:13.098Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Suoming%20Yasuo%20(Wuthering%20Waves)/suoming-yasuo-by-ascilia.fantome"
+  },
+  "RF_Storage1/Part4/Zaahen Final Form Sukuna/zaahen-sukuna-final-form.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Zaahen Final Form Sukuna/zaahen-sukuna-final-form.fantome",
+   "size": 28324209,
+   "first_seen": "2026-10-06T08:41:13.098Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Zaahen%20Final%20Form%20Sukuna/zaahen-sukuna-final-form.fantome"
   }
  },
  "images": {
