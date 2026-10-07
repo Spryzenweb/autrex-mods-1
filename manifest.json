@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-07T08:17:29.889Z",
+ "updated_at": "2026-10-07T08:18:14.238Z",
  "repo_bytes": {
-  "autrex-mods-1": 64974884950
+  "autrex-mods-1": 65187434308
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -61321,6 +61321,172 @@
    "first_seen": "2026-10-06T08:43:32.709Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Zaahen%20Final%20Form%20Sukuna/zaahen-sukuna-final-form.fantome"
+  },
+  "RF_Storage1/Part4/Hornet Silkbutt -- Silk Android Kai'sa/kaisa-hornet-voice-v3.fantome": {
+   "size": 43473610,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Hornet%20Silkbutt%20--%20Silk%20Android%20Kai'sa/kaisa-hornet-voice-v3.fantome",
+   "first_seen": "2026-10-07T08:17:47.953Z"
+  },
+  "RF_Storage1/Part1/Blood Moon Aatrox - Light Blue/blood-moon-aatrox-frosted-1-0-7.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Blood Moon Aatrox - Light Blue/blood-moon-aatrox-frosted-1-0-7.fantome",
+   "size": 14531086,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Blood%20Moon%20Aatrox%20-%20Light%20Blue/blood-moon-aatrox-frosted-1-0-7.fantome"
+  },
+  "RF_Storage1/Part2/Challenger Nidalee - Prestige Chroma/nidalee-challenger-prestige.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part2/Challenger Nidalee - Prestige Chroma/nidalee-challenger-prestige.fantome",
+   "size": 15052112,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Challenger%20Nidalee%20-%20Prestige%20Chroma/nidalee-challenger-prestige.fantome"
+  },
+  "RF_Storage1/Part2/Harbinger Kassadin Revamped/kassadin-better-harbinger-kassadin-chroma.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part2/Harbinger Kassadin Revamped/kassadin-better-harbinger-kassadin-chroma.fantome",
+   "size": 4808334,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Harbinger%20Kassadin%20Revamped/kassadin-better-harbinger-kassadin-chroma.fantome"
+  },
+  "RF_Storage1/Part2/Sun Eater Kayle - Light Blue/sun-eater-kayle-frosted.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part2/Sun Eater Kayle - Light Blue/sun-eater-kayle-frosted.fantome",
+   "size": 22138507,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Sun%20Eater%20Kayle%20-%20Light%20Blue/sun-eater-kayle-frosted.fantome"
+  },
+  "RF_Storage1/Part2/Truth Dragon Yasuo - Red/truth-dragon-yasuo-red.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part2/Truth Dragon Yasuo - Red/truth-dragon-yasuo-red.fantome",
+   "size": 13649076,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Truth%20Dragon%20Yasuo%20-%20Red/truth-dragon-yasuo-red.fantome"
+  },
+  "RF_Storage1/Part3/THE MSPAINT SPLASH PACK/ms-paint-splash-art-pack-1-0-1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/THE MSPAINT SPLASH PACK/ms-paint-splash-art-pack-1-0-1.fantome",
+   "size": 8024318,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/THE%20MSPAINT%20SPLASH%20PACK/ms-paint-splash-art-pack-1-0-1.fantome"
+  },
+  "RF_Storage1/Part4/Aurora without a hat/base-aurora-no-hat-1-0-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Aurora without a hat/base-aurora-no-hat-1-0-3.fantome",
+   "size": 13756466,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Aurora%20without%20a%20hat/base-aurora-no-hat-1-0-3.fantome"
+  },
+  "RF_Storage1/Part4/Braum Captain America/braum-captain-america.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Braum Captain America/braum-captain-america.fantome",
+   "size": 18451259,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Braum%20Captain%20America/braum-captain-america.fantome"
+  },
+  "RF_Storage1/Part4/Dark Cosmic Jhin - Red/jhin-dark-cosmic-red.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dark Cosmic Jhin - Red/jhin-dark-cosmic-red.fantome",
+   "size": 29746284,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dark%20Cosmic%20Jhin%20-%20Red/jhin-dark-cosmic-red.fantome"
+  },
+  "RF_Storage1/Part4/Frostblade Talon - Enduring Sword Talon/frostbladetalonv2-2-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frostblade Talon - Enduring Sword Talon/frostbladetalonv2-2-0-0.fantome",
+   "size": 11072279,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frostblade%20Talon%20-%20Enduring%20Sword%20Talon/frostbladetalonv2-2-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Hornet Silkbutt -- Silk Android Kai'sa/hornet-silkbutt-icons-1-0-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Hornet Silkbutt -- Silk Android Kai'sa/hornet-silkbutt-icons-1-0-0_large_file.txt",
+   "size": 363,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Hornet%20Silkbutt%20--%20Silk%20Android%20Kai'sa/hornet-silkbutt-icons-1-0-0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Hornet Silkbutt -- Silk Android Kai'sa/hornet-silkbutt.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Hornet Silkbutt -- Silk Android Kai'sa/hornet-silkbutt.fantome",
+   "size": 6150977,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Hornet%20Silkbutt%20--%20Silk%20Android%20Kai'sa/hornet-silkbutt.fantome"
+  },
+  "RF_Storage1/Part4/Jinx - Firecracker - Purple/firecracker-jinx-purple-1-0-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Jinx - Firecracker - Purple/firecracker-jinx-purple-1-0-3.fantome",
+   "size": 2842392,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Jinx%20-%20Firecracker%20-%20Purple/firecracker-jinx-purple-1-0-3.fantome"
+  },
+  "RF_Storage1/Part4/Odette Camille/odette-camille.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Odette Camille/odette-camille.fantome",
+   "size": 11358378,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Odette%20Camille/odette-camille.fantome"
+  },
+  "RF_Storage1/Part4/Song So Mi (SONGBIRD) Leblanc Skin/song-so-mi-icons-1-0-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Song So Mi (SONGBIRD) Leblanc Skin/song-so-mi-icons-1-0-0_large_file.txt",
+   "size": 344,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Song%20So%20Mi%20(SONGBIRD)%20Leblanc%20Skin/song-so-mi-icons-1-0-0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Song So Mi (SONGBIRD) Leblanc Skin/song-so-mi-leblanc.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Song So Mi (SONGBIRD) Leblanc Skin/song-so-mi-leblanc.fantome",
+   "size": 5105626,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Song%20So%20Mi%20(SONGBIRD)%20Leblanc%20Skin/song-so-mi-leblanc.fantome"
+  },
+  "RF_Storage1/Part4/Star Guardian Orianna - Chroma VFX/orianna-star-guardian-chroma-vfx.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Star Guardian Orianna - Chroma VFX/orianna-star-guardian-chroma-vfx.fantome",
+   "size": 12402752,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Star%20Guardian%20Orianna%20-%20Chroma%20VFX/orianna-star-guardian-chroma-vfx.fantome"
+  },
+  "RF_Storage1/Part4/Stinger Akali Yoruichi/akali-yoruichi-voice-v1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Stinger Akali Yoruichi/akali-yoruichi-voice-v1.fantome",
+   "size": 13563677,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Stinger%20Akali%20Yoruichi/akali-yoruichi-voice-v1.fantome"
+  },
+  "RF_Storage1/Part4/Stinger Akali Yoruichi/stinger-yoruichi-icons-1-0-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Stinger Akali Yoruichi/stinger-yoruichi-icons-1-0-0_large_file.txt",
+   "size": 350,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Stinger%20Akali%20Yoruichi/stinger-yoruichi-icons-1-0-0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Stinger Akali Yoruichi/yoruichi.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Stinger Akali Yoruichi/yoruichi.fantome",
+   "size": 9894778,
+   "first_seen": "2026-10-07T08:18:14.238Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Stinger%20Akali%20Yoruichi/yoruichi.fantome"
   }
  },
  "images": {
