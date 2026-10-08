@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-08T08:31:15.492Z",
+ "updated_at": "2026-10-08T08:31:54.212Z",
  "repo_bytes": {
-  "autrex-mods-1": 65203958162
+  "autrex-mods-1": 65306279255
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -61487,6 +61487,172 @@
    "first_seen": "2026-10-07T08:18:14.238Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Stinger%20Akali%20Yoruichi/yoruichi.fantome"
+  },
+  "RF_Storage1/Part4/Zanni Riven/zanni-riven-by-ascilia.fantome": {
+   "size": 38481764,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Zanni%20Riven/zanni-riven-by-ascilia.fantome",
+   "first_seen": "2026-10-08T08:31:44.527Z"
+  },
+  "RF_Storage1/Part1/Ascended Moon Deity Diana/ascended-moon-deity-diana-1-0-2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Ascended Moon Deity Diana/ascended-moon-deity-diana-1-0-2.fantome",
+   "size": 8113068,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Ascended%20Moon%20Deity%20Diana/ascended-moon-deity-diana-1-0-2.fantome"
+  },
+  "RF_Storage1/Part1/Black and White Rift/sr-black-and-white-rift-v26-20-0-by-aropatnik_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Black and White Rift/sr-black-and-white-rift-v26-20-0-by-aropatnik_large_file.txt",
+   "size": 399,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Black%20and%20White%20Rift/sr-black-and-white-rift-v26-20-0-by-aropatnik_large_file.txt"
+  },
+  "RF_Storage1/Part1/Cursed Rift/sr-cursed-rift-v26-20-0-by-aropatnik_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Cursed Rift/sr-cursed-rift-v26-20-0-by-aropatnik_large_file.txt",
+   "size": 363,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Cursed%20Rift/sr-cursed-rift-v26-20-0-by-aropatnik_large_file.txt"
+  },
+  "RF_Storage1/Part1/Hexed Rift/sr-hexed-rift-v26-20-0-by-aropatnik_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Hexed Rift/sr-hexed-rift-v26-20-0-by-aropatnik_large_file.txt",
+   "size": 359,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Hexed%20Rift/sr-hexed-rift-v26-20-0-by-aropatnik_large_file.txt"
+  },
+  "RF_Storage1/Part1/Low Res Rift Reborn/sr-128x128-low-res-rift-v26-20-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Low Res Rift Reborn/sr-128x128-low-res-rift-v26-20-0-by-aropatnik.fantome",
+   "size": 2629817,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Low%20Res%20Rift%20Reborn/sr-128x128-low-res-rift-v26-20-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Low Res Rift Reborn/sr-16x16-low-res-rift-v26-20-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Low Res Rift Reborn/sr-16x16-low-res-rift-v26-20-0-by-aropatnik.fantome",
+   "size": 104327,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Low%20Res%20Rift%20Reborn/sr-16x16-low-res-rift-v26-20-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Low Res Rift Reborn/sr-256x256-low-res-rift-v26-20-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Low Res Rift Reborn/sr-256x256-low-res-rift-v26-20-0-by-aropatnik.fantome",
+   "size": 8756281,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Low%20Res%20Rift%20Reborn/sr-256x256-low-res-rift-v26-20-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Low Res Rift Reborn/sr-32x32-low-res-rift-v26-20-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Low Res Rift Reborn/sr-32x32-low-res-rift-v26-20-0-by-aropatnik.fantome",
+   "size": 196679,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Low%20Res%20Rift%20Reborn/sr-32x32-low-res-rift-v26-20-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Low Res Rift Reborn/sr-4x4-low-res-rift-v26-20-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Low Res Rift Reborn/sr-4x4-low-res-rift-v26-20-0-by-aropatnik.fantome",
+   "size": 68824,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Low%20Res%20Rift%20Reborn/sr-4x4-low-res-rift-v26-20-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Low Res Rift Reborn/sr-64x64-low-res-rift-v26-20-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Low Res Rift Reborn/sr-64x64-low-res-rift-v26-20-0-by-aropatnik.fantome",
+   "size": 535775,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Low%20Res%20Rift%20Reborn/sr-64x64-low-res-rift-v26-20-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Low Res Rift Reborn/sr-8x8-low-res-rift-v26-20-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Low Res Rift Reborn/sr-8x8-low-res-rift-v26-20-0-by-aropatnik.fantome",
+   "size": 77162,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Low%20Res%20Rift%20Reborn/sr-8x8-low-res-rift-v26-20-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Nightscar Yone/nightscar-yone-2-1-4.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Nightscar Yone/nightscar-yone-2-1-4.fantome",
+   "size": 12406927,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Nightscar%20Yone/nightscar-yone-2-1-4.fantome"
+  },
+  "RF_Storage1/Part1/Riot Skin Disabler (NoSkin)/noskin-by-moga-v16-20-1-68-877.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Riot Skin Disabler (NoSkin)/noskin-by-moga-v16-20-1-68-877.fantome",
+   "size": 19149439,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Riot%20Skin%20Disabler%20(NoSkin)/noskin-by-moga-v16-20-1-68-877.fantome"
+  },
+  "RF_Storage1/Part1/Shrek Rift Reborn/SR Shrek Rift V26.20.0 by Aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Shrek Rift Reborn/SR Shrek Rift V26.20.0 by Aropatnik.fantome",
+   "size": 2352019,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shrek%20Rift%20Reborn/SR%20Shrek%20Rift%20V26.20.0%20by%20Aropatnik.fantome"
+  },
+  "RF_Storage1/Part1/Shrek Rift Reborn/sr-shrek-rift-v26-20-0-by-aropatnik_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Shrek Rift Reborn/sr-shrek-rift-v26-20-0-by-aropatnik_large_file.txt",
+   "size": 366,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Shrek%20Rift%20Reborn/sr-shrek-rift-v26-20-0-by-aropatnik_large_file.txt"
+  },
+  "RF_Storage1/Part1/Warm Rift/sr-warm-rift-v26-20-0-by-aropatnik_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Warm Rift/sr-warm-rift-v26-20-0-by-aropatnik_large_file.txt",
+   "size": 355,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Warm%20Rift/sr-warm-rift-v26-20-0-by-aropatnik_large_file.txt"
+  },
+  "RF_Storage1/Part4/Emilia Gwen/emilia-gwen-v1-0-3-by-paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Emilia Gwen/emilia-gwen-v1-0-3-by-paler.fantome",
+   "size": 8741646,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Emilia%20Gwen/emilia-gwen-v1-0-3-by-paler.fantome"
+  },
+  "RF_Storage1/Part4/Lee Sin Kiyotaka Ayanokoji/lee-sin-ayanokoji.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Lee Sin Kiyotaka Ayanokoji/lee-sin-ayanokoji.fantome",
+   "size": 26144563,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Lee%20Sin%20Kiyotaka%20Ayanokoji/lee-sin-ayanokoji.fantome"
+  },
+  "RF_Storage1/Part4/Song So Mi (SONGBIRD) Leblanc Skin/leblanc-songbird-voice-v3-2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Song So Mi (SONGBIRD) Leblanc Skin/leblanc-songbird-voice-v3-2_large_file.txt",
+   "size": 359,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Song%20So%20Mi%20(SONGBIRD)%20Leblanc%20Skin/leblanc-songbird-voice-v3-2_large_file.txt"
+  },
+  "RF_Storage1/Part4/T1 Talon - Faker/t1talon-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/T1 Talon - Faker/t1talon-1-0-0.fantome",
+   "size": 13042365,
+   "first_seen": "2026-10-08T08:31:54.212Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/T1%20Talon%20-%20Faker/t1talon-1-0-0.fantome"
   }
  },
  "images": {
