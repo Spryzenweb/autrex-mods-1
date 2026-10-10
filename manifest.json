@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-09T22:46:47.139Z",
+ "updated_at": "2026-10-10T08:11:07.338Z",
  "repo_bytes": {
-  "autrex-mods-1": 65492516864
+  "autrex-mods-1": 65610346987
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -61819,6 +61819,86 @@
    "first_seen": "2026-10-09T08:37:08.470Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Winter%20Rift%202025%20-%20Night/winter-rift2025-night-16-20-0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Eclipse Locke/eclipse-locke.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eclipse Locke/eclipse-locke.fantome",
+   "size": 8778406,
+   "first_seen": "2026-10-10T08:11:07.338Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eclipse%20Locke/eclipse-locke.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-main-v1-1-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-main-v1-1-3.fantome",
+   "size": 13341087,
+   "first_seen": "2026-10-10T08:11:07.338Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-main-v1-1-3.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-bg-no-font-v1-1-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-bg-no-font-v1-1-3.fantome",
+   "size": 8588996,
+   "first_seen": "2026-10-10T08:11:07.338Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-no-bg-no-font-v1-1-3.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-bg-v1-1-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-bg-v1-1-3.fantome",
+   "size": 9511302,
+   "first_seen": "2026-10-10T08:11:07.338Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-no-bg-v1-1-3.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-font-v1-1-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-font-v1-1-3.fantome",
+   "size": 12418775,
+   "first_seen": "2026-10-10T08:11:07.338Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-no-font-v1-1-3.fantome"
+  },
+  "RF_Storage1/Part4/LoL Spirit Blossom Cursor/spirit-blossom-cursor-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/LoL Spirit Blossom Cursor/spirit-blossom-cursor-1-0-0.fantome",
+   "size": 2630703,
+   "first_seen": "2026-10-10T08:11:07.338Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/LoL%20Spirit%20Blossom%20Cursor/spirit-blossom-cursor-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Master Yi Maki Zenin/master-yi-maki.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Yi Maki Zenin/master-yi-maki.fantome",
+   "size": 22925086,
+   "first_seen": "2026-10-10T08:11:07.338Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Yi%20Maki%20Zenin/master-yi-maki.fantome"
+  },
+  "RF_Storage1/Part4/Stinger Akali Yoruichi/stinger-yoruichi-voice-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Stinger Akali Yoruichi/stinger-yoruichi-voice-1-0-0.fantome",
+   "size": 29150352,
+   "first_seen": "2026-10-10T08:11:07.338Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Stinger%20Akali%20Yoruichi/stinger-yoruichi-voice-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/hollow knight silksong kindred hornet/hollow-knight-silksong-kindred.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/hollow knight silksong kindred hornet/hollow-knight-silksong-kindred.fantome",
+   "size": 10485057,
+   "first_seen": "2026-10-10T08:11:07.338Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/hollow%20knight%20silksong%20kindred%20hornet/hollow-knight-silksong-kindred.fantome"
+  },
+  "RF_Storage1/Part4/hollow knight silksong kindred hornet/hornet-kindred-icons-1-0-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/hollow knight silksong kindred hornet/hornet-kindred-icons-1-0-0_large_file.txt",
+   "size": 359,
+   "first_seen": "2026-10-10T08:11:07.338Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/hollow%20knight%20silksong%20kindred%20hornet/hornet-kindred-icons-1-0-0_large_file.txt"
   }
  },
  "images": {
@@ -83699,6 +83779,7 @@
   }
  },
  "image_keys": [
+  "e386e95b-f5e3-4571-b8f2-56c2804d13cd.jpg",
   "60682e80-b5ec-467d-a577-3b09bf8d98e5.png",
   "aa5e387a-4200-4081-9e2d-d7015380700c.png",
   "7437e546-153b-43a1-b597-cf415a8c0362.png",
@@ -84272,9 +84353,9 @@
   "bbfbde56-244b-45af-b54d-25b19f46c196.png",
   "cf07505c-529f-4716-a4d3-19e636feef63.jpg",
   "afcaacc5-d841-4fd2-1fe6-f544c372f500.webp",
+  "2fba7f4b-d65d-438d-94f5-57477e688bbf.png",
   "45610c62-7ec6-45df-b097-b56a66b4b54c.png",
   "a25ffef6-bcc6-428b-863d-402a52ff31b5.png",
-  "2fba7f4b-d65d-438d-94f5-57477e688bbf.png",
   "7e33af35-5c31-4a4b-a3f4-305450da9cd8.png",
   "fa00664c-af7c-44b4-91bf-c16436d610b8.png",
   "ae2ce536-924a-4dc4-9701-94519cdfa3e9.png",
@@ -84930,12 +85011,12 @@
   "25670384-239e-4e92-8be6-a14b58c2d895.jpg",
   "a9423e2e-e651-4c04-9603-865063ea3d9b.png",
   "46580eed-0af1-472b-9348-9effbd6ce379.png",
-  "904f3a12-32aa-46f2-a936-415ba987ad68.jpg",
-  "df685109-4f5f-4627-811a-d5616f385bab.jpg",
+  "45baa40d-fdbd-4451-8694-600b70317be6.png",
   "fc95a703-bd0c-43ee-aaeb-839eed7395e5.png",
+  "904f3a12-32aa-46f2-a936-415ba987ad68.jpg",
   "fb554527-820b-4b4c-9a7c-9ba835dc7c61.png",
   "e95e202e-b0f8-4985-9aea-0fcd998c220b.jpg",
-  "45baa40d-fdbd-4451-8694-600b70317be6.png",
+  "df685109-4f5f-4627-811a-d5616f385bab.jpg",
   "b5a9c2d2-ac19-4f31-a462-9faa75d2ce28.webp",
   "38939b71-f95c-44c2-b562-e4ef2c291ccc.png",
   "8663d3ba-3a85-40d2-9995-4da7b32fe9b0.png",
@@ -85030,8 +85111,8 @@
   "f76a9020-9173-4b9e-8253-7c56b21a7597.jpg",
   "6116567b-3152-45ce-8567-02680f2f4edb.jpg",
   "8fcb96c5-9973-4877-9ea1-a5d60bda8880.gif",
-  "5711a83b-d98a-44ae-826e-7b18c77fd598.gif",
   "790463f7-9d4f-48a7-959f-2125b23d9c85.gif",
+  "5711a83b-d98a-44ae-826e-7b18c77fd598.gif",
   "5d0f986c-1b83-4ff0-877c-74ed3899fb0c.gif",
   "6dd9ead4-c898-461b-3f77-006ed2349c00.webp",
   "3a8f50ab-a77a-419b-9879-ea579d8bdb3a.png",
@@ -85126,8 +85207,8 @@
   "c82f3fea-e75d-4b1f-a295-00c468eff3c9.jpg",
   "6c479aee-ea3b-419b-b661-fe441ee5752b.png",
   "7829bc2f-f41a-47b7-864d-0e60e6820b44.png",
-  "7c4d2367-df4a-40f0-79f9-5e6ed7179a00.png",
   "37198c0a-66ca-450e-f27e-291b1568c200.png",
+  "7c4d2367-df4a-40f0-79f9-5e6ed7179a00.png",
   "dc913dc6-305e-4cd3-e25c-588ec2238000.png",
   "0164fd24-8761-433a-8287-ab6354906621.png",
   "d9e37549-bc10-4b8e-b2de-d2991f96cec9.png",
@@ -86701,7 +86782,6 @@
   "3177b55e-e8e0-418f-a1ae-00543a5b0100.webp",
   "06006dec-5ca4-4394-f3c7-16c21a896000.webp",
   "7bee3e2e-bc37-4bc4-f587-69e937cfd600.webp",
-  "228be7f5-2368-4559-85ac-e8cc162a7f00.webp",
   "8af41e4a-d546-4374-e6b8-682a27513b00.webp",
   "cd55c173-fa86-4f0f-18e6-cf2fd7580900.webp",
   "f4b8013f-e2d7-4924-6662-e326ab5fb600.webp",
@@ -86807,5 +86887,5 @@
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
  ],
  "image_total": 3139,
- "images_crawled_at": "2026-10-09T22:25:43.167Z"
+ "images_crawled_at": "2026-10-10T08:09:47.344Z"
 }
