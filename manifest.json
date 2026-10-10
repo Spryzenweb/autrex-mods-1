@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-10T08:11:34.912Z",
+ "updated_at": "2026-10-10T08:12:08.786Z",
  "repo_bytes": {
-  "autrex-mods-1": 65492516864
+  "autrex-mods-1": 65610346987
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -61819,6 +61819,86 @@
    "first_seen": "2026-10-09T08:37:08.470Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Winter%20Rift%202025%20-%20Night/winter-rift2025-night-16-20-0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Eclipse Locke/eclipse-locke.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eclipse Locke/eclipse-locke.fantome",
+   "size": 8778406,
+   "first_seen": "2026-10-10T08:12:08.785Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eclipse%20Locke/eclipse-locke.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-main-v1-1-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-main-v1-1-3.fantome",
+   "size": 13341087,
+   "first_seen": "2026-10-10T08:12:08.785Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-main-v1-1-3.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-bg-no-font-v1-1-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-bg-no-font-v1-1-3.fantome",
+   "size": 8588996,
+   "first_seen": "2026-10-10T08:12:08.785Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-no-bg-no-font-v1-1-3.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-bg-v1-1-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-bg-v1-1-3.fantome",
+   "size": 9511302,
+   "first_seen": "2026-10-10T08:12:08.785Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-no-bg-v1-1-3.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-font-v1-1-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-font-v1-1-3.fantome",
+   "size": 12418775,
+   "first_seen": "2026-10-10T08:12:08.785Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-no-font-v1-1-3.fantome"
+  },
+  "RF_Storage1/Part4/LoL Spirit Blossom Cursor/spirit-blossom-cursor-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/LoL Spirit Blossom Cursor/spirit-blossom-cursor-1-0-0.fantome",
+   "size": 2630703,
+   "first_seen": "2026-10-10T08:12:08.785Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/LoL%20Spirit%20Blossom%20Cursor/spirit-blossom-cursor-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Master Yi Maki Zenin/master-yi-maki.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Yi Maki Zenin/master-yi-maki.fantome",
+   "size": 22925086,
+   "first_seen": "2026-10-10T08:12:08.785Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Yi%20Maki%20Zenin/master-yi-maki.fantome"
+  },
+  "RF_Storage1/Part4/Stinger Akali Yoruichi/stinger-yoruichi-voice-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Stinger Akali Yoruichi/stinger-yoruichi-voice-1-0-0.fantome",
+   "size": 29150352,
+   "first_seen": "2026-10-10T08:12:08.785Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Stinger%20Akali%20Yoruichi/stinger-yoruichi-voice-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/hollow knight silksong kindred hornet/hollow-knight-silksong-kindred.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/hollow knight silksong kindred hornet/hollow-knight-silksong-kindred.fantome",
+   "size": 10485057,
+   "first_seen": "2026-10-10T08:12:08.785Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/hollow%20knight%20silksong%20kindred%20hornet/hollow-knight-silksong-kindred.fantome"
+  },
+  "RF_Storage1/Part4/hollow knight silksong kindred hornet/hornet-kindred-icons-1-0-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/hollow knight silksong kindred hornet/hornet-kindred-icons-1-0-0_large_file.txt",
+   "size": 359,
+   "first_seen": "2026-10-10T08:12:08.785Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/hollow%20knight%20silksong%20kindred%20hornet/hornet-kindred-icons-1-0-0_large_file.txt"
   }
  },
  "images": {
