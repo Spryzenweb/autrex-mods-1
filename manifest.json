@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-11T08:25:14.734Z",
+ "updated_at": "2026-10-11T08:25:33.880Z",
  "repo_bytes": {
-  "autrex-mods-1": 65612517129
+  "autrex-mods-1": 65630140417
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -61899,6 +61899,46 @@
    "first_seen": "2026-10-10T08:14:14.390Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/hollow%20knight%20silksong%20kindred%20hornet/hornet-kindred-icons-1-0-0_large_file.txt"
+  },
+  "RF_Storage1/Part3/Garena Onmyoji VN Font/garena-onmyoji-vn-font.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Garena Onmyoji VN Font/garena-onmyoji-vn-font.fantome",
+   "size": 3384488,
+   "first_seen": "2026-10-11T08:25:33.880Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Garena%20Onmyoji%20VN%20Font/garena-onmyoji-vn-font.fantome"
+  },
+  "RF_Storage1/Part4/Illaoi SFX Fixes/illaoi-vfx-fixes-1-0-2_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Illaoi SFX Fixes/illaoi-vfx-fixes-1-0-2_large_file.txt",
+   "size": 326,
+   "first_seen": "2026-10-11T08:25:33.880Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Illaoi%20SFX%20Fixes/illaoi-vfx-fixes-1-0-2_large_file.txt"
+  },
+  "RF_Storage1/Part4/Killstreak - Digimon 02 DNA Evolution (GerJap)/killstreak-dna-digitation-german-1-0-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Killstreak - Digimon 02 DNA Evolution (GerJap)/killstreak-dna-digitation-german-1-0-3.fantome",
+   "size": 1826896,
+   "first_seen": "2026-10-11T08:25:33.880Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Killstreak%20-%20Digimon%2002%20DNA%20Evolution%20(GerJap)/killstreak-dna-digitation-german-1-0-3.fantome"
+  },
+  "RF_Storage1/Part4/Killstreak - Digimon 02 DNA Evolution (GerJap)/killstreak-dna-evolution-japanese-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Killstreak - Digimon 02 DNA Evolution (GerJap)/killstreak-dna-evolution-japanese-1-0-0.fantome",
+   "size": 1929306,
+   "first_seen": "2026-10-11T08:25:33.880Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Killstreak%20-%20Digimon%2002%20DNA%20Evolution%20(GerJap)/killstreak-dna-evolution-japanese-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/hollow knight silksong kindred hornet/hollow-knight-silksong.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/hollow knight silksong kindred hornet/hollow-knight-silksong.fantome",
+   "size": 10482272,
+   "first_seen": "2026-10-11T08:25:33.880Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/hollow%20knight%20silksong%20kindred%20hornet/hollow-knight-silksong.fantome"
   }
  },
  "images": {
