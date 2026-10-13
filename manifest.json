@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-12T20:05:52.666Z",
+ "updated_at": "2026-10-13T09:03:00.934Z",
  "repo_bytes": {
-  "autrex-mods-1": 65732272667
+  "autrex-mods-1": 65813109617
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -61987,6 +61987,86 @@
    "first_seen": "2026-10-12T08:47:16.471Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Gwen%20-%20Frederika%20Bernkastel/gwenbern-1-0-0.fantome"
+  },
+  "RF_Storage1/Part1/YiXuan (ZZZ) Lee Sin/yixuan.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/YiXuan (ZZZ) Lee Sin/yixuan.fantome",
+   "size": 30948342,
+   "first_seen": "2026-10-13T09:03:00.934Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/YiXuan%20(ZZZ)%20Lee%20Sin/yixuan.fantome"
+  },
+  "RF_Storage1/Part4/Aatrox Light Blue Chroma/aatrox-light-blue-by-dempsey20.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Aatrox Light Blue Chroma/aatrox-light-blue-by-dempsey20.fantome",
+   "size": 1408954,
+   "first_seen": "2026-10-13T09:03:00.934Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Aatrox%20Light%20Blue%20Chroma/aatrox-light-blue-by-dempsey20.fantome"
+  },
+  "RF_Storage1/Part4/Abyssal Bel'Veth/belveth-slaanesh-vo-v7b.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Abyssal Bel'Veth/belveth-slaanesh-vo-v7b.fantome",
+   "size": 10490509,
+   "first_seen": "2026-10-13T09:03:00.934Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Abyssal%20Bel'Veth/belveth-slaanesh-vo-v7b.fantome"
+  },
+  "RF_Storage1/Part4/Black & White Dragon Talon/blacknwhitedragontalon-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Black & White Dragon Talon/blacknwhitedragontalon-1-0-0.fantome",
+   "size": 13318583,
+   "first_seen": "2026-10-13T09:03:00.934Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Black%20%26%20White%20Dragon%20Talon/blacknwhitedragontalon-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Chen Lu Butterfly Lovers Zeri/chen-lu-butterfly-lovers-zeri.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Chen Lu Butterfly Lovers Zeri/chen-lu-butterfly-lovers-zeri.fantome",
+   "size": 4905398,
+   "first_seen": "2026-10-13T09:03:00.934Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Chen%20Lu%20Butterfly%20Lovers%20Zeri/chen-lu-butterfly-lovers-zeri.fantome"
+  },
+  "RF_Storage1/Part4/Crimson Volibear/volibear-crimson-by-dempsey20.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crimson Volibear/volibear-crimson-by-dempsey20.fantome",
+   "size": 2244410,
+   "first_seen": "2026-10-13T09:03:00.934Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crimson%20Volibear/volibear-crimson-by-dempsey20.fantome"
+  },
+  "RF_Storage1/Part4/Eula Gwen (from genshin)/eula-gwen-v1-0-0-by-paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Eula Gwen (from genshin)/eula-gwen-v1-0-0-by-paler.fantome",
+   "size": 8486466,
+   "first_seen": "2026-10-13T09:03:00.934Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Eula%20Gwen%20(from%20genshin)/eula-gwen-v1-0-0-by-paler.fantome"
+  },
+  "RF_Storage1/Part4/HEARSTEEL Kayn Twilight Nemesis/hearsteel-kayn-twilight-nemesis-v1-0-0-by-lkss.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/HEARSTEEL Kayn Twilight Nemesis/hearsteel-kayn-twilight-nemesis-v1-0-0-by-lkss.fantome",
+   "size": 4319078,
+   "first_seen": "2026-10-13T09:03:00.934Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/HEARSTEEL%20Kayn%20Twilight%20Nemesis/hearsteel-kayn-twilight-nemesis-v1-0-0-by-lkss.fantome"
+  },
+  "RF_Storage1/Part4/Minato Katarina/minato-katarina-1-0-0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Minato Katarina/minato-katarina-1-0-0_large_file.txt",
+   "size": 322,
+   "first_seen": "2026-10-13T09:03:00.934Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Minato%20Katarina/minato-katarina-1-0-0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Nightbringer Yasuo - Frosted/yasuo-nightbringer-frosted.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Nightbringer Yasuo - Frosted/yasuo-nightbringer-frosted.fantome",
+   "size": 4714888,
+   "first_seen": "2026-10-13T09:03:00.934Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nightbringer%20Yasuo%20-%20Frosted/yasuo-nightbringer-frosted.fantome"
   }
  },
  "images": {
@@ -83909,6 +83989,14 @@
   }
  },
  "image_keys": [
+  "ec934159-6a18-49ae-8406-a2563f05957a.png",
+  "75098e89-9533-4011-b934-25df241f0611.png",
+  "d33cab92-ffa8-4fad-b0b5-c13c359d617a.png",
+  "b508dc68-fb2d-45b1-bcfe-afa29a9b2cfb.png",
+  "f0249b68-5fdc-4267-9acc-447fe9366954.png",
+  "1106df86-1502-4d43-ad77-d1191c15fc49.png",
+  "f8417533-0c7a-4c72-bced-314e6f8b4ce0.png",
+  "6ea8c755-fc34-481e-44e2-968cdc57d600.png",
   "6a4999c5-96e5-4fa9-a3b6-1657cb2a48c1.png",
   "c21bd42c-a974-47ae-fc0c-32edb7303300.png",
   "9a892e66-90fd-42d7-906a-fdbd10d27a48.png",
@@ -84028,8 +84116,6 @@
   "03305b62-1142-4aee-8010-d0221bbaa21e.PNG",
   "11a95e3b-b78b-4db9-ca28-365eb0cfc900.gif",
   "58da5b26-4ed5-4e3f-a507-f5dbb4eed4c5.png",
-  "817d0d9f-7343-4ec0-b4b6-1e4b981e2d05.png",
-  "3ce80eaf-65b9-4e89-fd8f-d2e8698bc000.png",
   "e5d7141a-34c6-460e-b961-085ccbfadac1.jpg",
   "b1f5483a-d4ce-4b5e-b267-47460cdafea8.png",
   "671763be-42a6-46ce-a532-19dbb95ce10e.png",
@@ -84495,10 +84581,10 @@
   "cf07505c-529f-4716-a4d3-19e636feef63.jpg",
   "afcaacc5-d841-4fd2-1fe6-f544c372f500.webp",
   "45610c62-7ec6-45df-b097-b56a66b4b54c.png",
-  "2fba7f4b-d65d-438d-94f5-57477e688bbf.png",
-  "fa00664c-af7c-44b4-91bf-c16436d610b8.png",
   "a25ffef6-bcc6-428b-863d-402a52ff31b5.png",
   "7e33af35-5c31-4a4b-a3f4-305450da9cd8.png",
+  "2fba7f4b-d65d-438d-94f5-57477e688bbf.png",
+  "fa00664c-af7c-44b4-91bf-c16436d610b8.png",
   "ae2ce536-924a-4dc4-9701-94519cdfa3e9.png",
   "f6695c52-5f8c-4803-ce5c-77f8970cd400.webp",
   "4e177cb8-63d2-4aca-7f64-d48d117dd400.webp",
@@ -85150,11 +85236,11 @@
   "25670384-239e-4e92-8be6-a14b58c2d895.jpg",
   "a9423e2e-e651-4c04-9603-865063ea3d9b.png",
   "46580eed-0af1-472b-9348-9effbd6ce379.png",
-  "45baa40d-fdbd-4451-8694-600b70317be6.png",
-  "df685109-4f5f-4627-811a-d5616f385bab.jpg",
   "fc95a703-bd0c-43ee-aaeb-839eed7395e5.png",
-  "fb554527-820b-4b4c-9a7c-9ba835dc7c61.png",
   "e95e202e-b0f8-4985-9aea-0fcd998c220b.jpg",
+  "fb554527-820b-4b4c-9a7c-9ba835dc7c61.png",
+  "df685109-4f5f-4627-811a-d5616f385bab.jpg",
+  "45baa40d-fdbd-4451-8694-600b70317be6.png",
   "904f3a12-32aa-46f2-a936-415ba987ad68.jpg",
   "b5a9c2d2-ac19-4f31-a462-9faa75d2ce28.webp",
   "38939b71-f95c-44c2-b562-e4ef2c291ccc.png",
@@ -85249,9 +85335,9 @@
   "ab4a3ccd-8efd-4f53-9f19-fdb4cab0963b.jpg",
   "f76a9020-9173-4b9e-8253-7c56b21a7597.jpg",
   "6116567b-3152-45ce-8567-02680f2f4edb.jpg",
-  "790463f7-9d4f-48a7-959f-2125b23d9c85.gif",
   "8fcb96c5-9973-4877-9ea1-a5d60bda8880.gif",
   "5711a83b-d98a-44ae-826e-7b18c77fd598.gif",
+  "790463f7-9d4f-48a7-959f-2125b23d9c85.gif",
   "5d0f986c-1b83-4ff0-877c-74ed3899fb0c.gif",
   "6dd9ead4-c898-461b-3f77-006ed2349c00.webp",
   "3a8f50ab-a77a-419b-9879-ea579d8bdb3a.png",
@@ -87022,6 +87108,6 @@
   "3672d22d-3de0-453c-ba30-466d1fe32a00.jpg",
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
  ],
- "image_total": 3145,
- "images_crawled_at": "2026-10-12T19:39:40.798Z"
+ "image_total": 3151,
+ "images_crawled_at": "2026-10-13T09:01:39.927Z"
 }
