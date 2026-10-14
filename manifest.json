@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-14T07:12:24.116Z",
+ "updated_at": "2026-10-14T07:13:03.443Z",
  "repo_bytes": {
-  "autrex-mods-1": 65832811317
+  "autrex-mods-1": 65994555078
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -62067,6 +62067,198 @@
    "first_seen": "2026-10-13T09:06:25.887Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nightbringer%20Yasuo%20-%20Frosted/yasuo-nightbringer-frosted.fantome"
+  },
+  "RF_Storage1/Part1/Borderlands Bandit Graves/bandit-graves.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Borderlands Bandit Graves/bandit-graves.fantome",
+   "size": 926582,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Borderlands%20Bandit%20Graves/bandit-graves.fantome"
+  },
+  "RF_Storage1/Part1/Burger King Viego/burger-king-viego.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Burger King Viego/burger-king-viego.fantome",
+   "size": 721710,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Burger%20King%20Viego/burger-king-viego.fantome"
+  },
+  "RF_Storage1/Part1/Chuck E. Cheese Trundle/chuck-e-cheese-trundle.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Chuck E. Cheese Trundle/chuck-e-cheese-trundle.fantome",
+   "size": 518183,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Chuck%20E.%20Cheese%20Trundle/chuck-e-cheese-trundle.fantome"
+  },
+  "RF_Storage1/Part1/Crimson Lance Katarina/crimson-lance-katarina.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Crimson Lance Katarina/crimson-lance-katarina.fantome",
+   "size": 3814294,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Crimson%20Lance%20Katarina/crimson-lance-katarina.fantome"
+  },
+  "RF_Storage1/Part1/Doofenshmirtz Singed/doofen-singed.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Doofenshmirtz Singed/doofen-singed.fantome",
+   "size": 206395,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Doofenshmirtz%20Singed/doofen-singed.fantome"
+  },
+  "RF_Storage1/Part1/Killer Bean Lucian/killer-bean-lucian.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Killer Bean Lucian/killer-bean-lucian.fantome",
+   "size": 718041,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Killer%20Bean%20Lucian/killer-bean-lucian.fantome"
+  },
+  "RF_Storage1/Part1/NO FF (Automatic No Vote)/hide-ff-popup-by-moga-v16-20-1-29-327.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/NO FF (Automatic No Vote)/hide-ff-popup-by-moga-v16-20-1-29-327.fantome",
+   "size": 58968,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/NO%20FF%20(Automatic%20No%20Vote)/hide-ff-popup-by-moga-v16-20-1-29-327.fantome"
+  },
+  "RF_Storage1/Part1/Perry the Platypus Kennen/perry-kennen.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Perry the Platypus Kennen/perry-kennen.fantome",
+   "size": 295383,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Perry%20the%20Platypus%20Kennen/perry-kennen.fantome"
+  },
+  "RF_Storage1/Part1/Remove Tooltip Delay and Lockout/no-tooltip-delay-by-moga-v16-20-1-11-63.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Remove Tooltip Delay and Lockout/no-tooltip-delay-by-moga-v16-20-1-11-63.fantome",
+   "size": 1051520,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Remove%20Tooltip%20Delay%20and%20Lockout/no-tooltip-delay-by-moga-v16-20-1-11-63.fantome"
+  },
+  "RF_Storage1/Part3/Remy Azir/remy-azir.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Remy Azir/remy-azir.fantome",
+   "size": 2806835,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Remy%20Azir/remy-azir.fantome"
+  },
+  "RF_Storage1/Part4/Anti-Form Sora Briar/briar-anti-form-sora.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Anti-Form Sora Briar/briar-anti-form-sora.fantome",
+   "size": 25373555,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Anti-Form%20Sora%20Briar/briar-anti-form-sora.fantome"
+  },
+  "RF_Storage1/Part4/Chen Lu Butterfly Lovers Zeri/chen-lu-butterfly-lovers-zeri-3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Chen Lu Butterfly Lovers Zeri/chen-lu-butterfly-lovers-zeri-3.fantome",
+   "size": 9673006,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Chen%20Lu%20Butterfly%20Lovers%20Zeri/chen-lu-butterfly-lovers-zeri-3.fantome"
+  },
+  "RF_Storage1/Part4/Chen Lu Butterfly Lovers Zeri/zeri-skater-manual-skin40-v2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Chen Lu Butterfly Lovers Zeri/zeri-skater-manual-skin40-v2.fantome",
+   "size": 8472817,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Chen%20Lu%20Butterfly%20Lovers%20Zeri/zeri-skater-manual-skin40-v2.fantome"
+  },
+  "RF_Storage1/Part4/Crimson Gwen/gwen-crimson.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Crimson Gwen/gwen-crimson.fantome",
+   "size": 722983,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Crimson%20Gwen/gwen-crimson.fantome"
+  },
+  "RF_Storage1/Part4/Heartless Yuumi/yuumi-bookmaster-heartless.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Heartless Yuumi/yuumi-bookmaster-heartless.fantome",
+   "size": 24354735,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Heartless%20Yuumi/yuumi-bookmaster-heartless.fantome"
+  },
+  "RF_Storage1/Part4/PROJECT Ashe - Purple/ashe-project-purple.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/PROJECT Ashe - Purple/ashe-project-purple.fantome",
+   "size": 11387048,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/PROJECT%20Ashe%20-%20Purple/ashe-project-purple.fantome"
+  },
+  "RF_Storage1/Part4/PROJECT Ashe - Red/ashe-project-red.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/PROJECT Ashe - Red/ashe-project-red.fantome",
+   "size": 13762945,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/PROJECT%20Ashe%20-%20Red/ashe-project-red.fantome"
+  },
+  "RF_Storage1/Part4/PROJECT Katarina - Black&White/katarina-project-b-and-w.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/PROJECT Katarina - Black&White/katarina-project-b-and-w.fantome",
+   "size": 8574388,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/PROJECT%20Katarina%20-%20Black%26White/katarina-project-b-and-w.fantome"
+  },
+  "RF_Storage1/Part4/Samurai Akali - Classic/samurai-akali-black-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Samurai Akali - Classic/samurai-akali-black-classic.fantome",
+   "size": 11564453,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Samurai%20Akali%20-%20Classic/samurai-akali-black-classic.fantome"
+  },
+  "RF_Storage1/Part4/Samurai Akali - Classic/samurai-akali-green-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Samurai Akali - Classic/samurai-akali-green-classic.fantome",
+   "size": 11593916,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Samurai%20Akali%20-%20Classic/samurai-akali-green-classic.fantome"
+  },
+  "RF_Storage1/Part4/Samurai Akali - Classic/samurai-akali-red-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Samurai Akali - Classic/samurai-akali-red-classic.fantome",
+   "size": 11600624,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Samurai%20Akali%20-%20Classic/samurai-akali-red-classic.fantome"
+  },
+  "RF_Storage1/Part4/Sexy Patrick Camille/patrick-star-camille-1-0-0-valfren.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Sexy Patrick Camille/patrick-star-camille-1-0-0-valfren.fantome",
+   "size": 12309881,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Sexy%20Patrick%20Camille/patrick-star-camille-1-0-0-valfren.fantome"
+  },
+  "RF_Storage1/Part4/Spencer Sylas/spencer-sylas.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Spencer Sylas/spencer-sylas.fantome",
+   "size": 903782,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Spencer%20Sylas/spencer-sylas.fantome"
+  },
+  "RF_Storage1/Part4/Squidward Shaco/squidward-shaco.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Squidward Shaco/squidward-shaco.fantome",
+   "size": 331717,
+   "first_seen": "2026-10-14T07:13:03.443Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Squidward%20Shaco/squidward-shaco.fantome"
   }
  },
  "images": {
