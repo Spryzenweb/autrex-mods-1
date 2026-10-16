@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-16T20:36:03.259Z",
+ "updated_at": "2026-10-16T20:36:51.007Z",
  "repo_bytes": {
-  "autrex-mods-1": 66391304373
+  "autrex-mods-1": 66396840092
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -84856,6 +84856,34 @@
    "first_seen": "2026-10-16T14:38:24.889Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/bb723c4b-5a75-4a51-8e04-a2fd079fd82f.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/bb723c4b-5a75-4a51-8e04-a2fd079fd82f.jpg"
+  },
+  "08250c0a-043b-4513-856a-77f70404fa55.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 888311,
+   "first_seen": "2026-10-16T20:36:51.007Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/08250c0a-043b-4513-856a-77f70404fa55.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/08250c0a-043b-4513-856a-77f70404fa55.jpg"
+  },
+  "4fb9ca74-6a4f-4ec0-8208-c07787f3811d.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 1061905,
+   "first_seen": "2026-10-16T20:36:51.007Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/4fb9ca74-6a4f-4ec0-8208-c07787f3811d.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/4fb9ca74-6a4f-4ec0-8208-c07787f3811d.jpg"
+  },
+  "dbf21a53-d5be-4d34-8bc3-4c0d3dbabe0e.png": {
+   "repo": "autrex-mods-1",
+   "size": 2700089,
+   "first_seen": "2026-10-16T20:36:51.007Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/dbf21a53-d5be-4d34-8bc3-4c0d3dbabe0e.png",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/dbf21a53-d5be-4d34-8bc3-4c0d3dbabe0e.png"
+  },
+  "71e47e32-8ff9-4f64-a6f3-fde46c9352e7.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 885414,
+   "first_seen": "2026-10-16T20:36:51.007Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/71e47e32-8ff9-4f64-a6f3-fde46c9352e7.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/71e47e32-8ff9-4f64-a6f3-fde46c9352e7.jpg"
   }
  },
  "image_keys": [
@@ -88019,5 +88047,5 @@
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
  ],
  "image_total": 3191,
- "images_crawled_at": "2026-10-16T20:35:03.594Z"
+ "images_crawled_at": "2026-10-16T20:36:46.272Z"
 }
