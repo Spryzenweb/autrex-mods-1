@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-19T07:28:07.998Z",
+ "updated_at": "2026-10-19T07:28:27.863Z",
  "repo_bytes": {
-  "autrex-mods-1": 66643795549
+  "autrex-mods-1": 66686845264
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -62849,6 +62849,30 @@
    "first_seen": "2026-10-18T07:03:26.020Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Spiderman%20Amumu%20-%20Classic%20%26%20Modern/spiderman-amumu-classic.fantome"
+  },
+  "RF_Storage1/Part1/Riot Skin Disabler (NoSkin)/noskin-by-moga-v16-20-1-69-879.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Riot Skin Disabler (NoSkin)/noskin-by-moga-v16-20-1-69-879.fantome",
+   "size": 19167168,
+   "first_seen": "2026-10-19T07:28:27.863Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Riot%20Skin%20Disabler%20(NoSkin)/noskin-by-moga-v16-20-1-69-879.fantome"
+  },
+  "RF_Storage1/Part4/Lucas Amumu - Classic & Modern/lucas-amumu-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Lucas Amumu - Classic & Modern/lucas-amumu-classic.fantome",
+   "size": 10105141,
+   "first_seen": "2026-10-19T07:28:27.863Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Lucas%20Amumu%20-%20Classic%20%26%20Modern/lucas-amumu-classic.fantome"
+  },
+  "RF_Storage1/Part4/Pomumu Amumu - Classic & Modern/pomumu-amumu-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Pomumu Amumu - Classic & Modern/pomumu-amumu-classic.fantome",
+   "size": 13777406,
+   "first_seen": "2026-10-19T07:28:27.863Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Pomumu%20Amumu%20-%20Classic%20%26%20Modern/pomumu-amumu-classic.fantome"
   }
  },
  "images": {
