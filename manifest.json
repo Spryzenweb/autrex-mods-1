@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-21T07:10:57.499Z",
+ "updated_at": "2026-10-21T07:11:34.319Z",
  "repo_bytes": {
-  "autrex-mods-1": 66861753417
+  "autrex-mods-1": 67013031283
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -62993,6 +62993,94 @@
    "first_seen": "2026-10-20T07:19:27.190Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/X-Wing%20Pilot%20Corki%20-%20Classic%20%26%20Modern/x-wing-pilot-corki-classic.fantome"
+  },
+  "RF_Storage1/Part3/Herta Jayce/herta-jayce-1-3-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Herta Jayce/herta-jayce-1-3-0.fantome",
+   "size": 18974938,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Herta%20Jayce/herta-jayce-1-3-0.fantome"
+  },
+  "RF_Storage1/Part4/Arkham Asylum Joker Shaco - Classic & Modern/arkham-asylum-joker-shaco-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Arkham Asylum Joker Shaco - Classic & Modern/arkham-asylum-joker-shaco-classic.fantome",
+   "size": 4840282,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Arkham%20Asylum%20Joker%20Shaco%20-%20Classic%20%26%20Modern/arkham-asylum-joker-shaco-classic.fantome"
+  },
+  "RF_Storage1/Part4/Butterfly Belveth/butterfly-belveth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Butterfly Belveth/butterfly-belveth.fantome",
+   "size": 9840131,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Butterfly%20Belveth/butterfly-belveth.fantome"
+  },
+  "RF_Storage1/Part4/GHOST OF YOTEI ATSU YONE SPIDER LILY/atsu-sfw-spider-lily-animated-silent.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/GHOST OF YOTEI ATSU YONE SPIDER LILY/atsu-sfw-spider-lily-animated-silent.fantome",
+   "size": 9846783,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/GHOST%20OF%20YOTEI%20ATSU%20YONE%20SPIDER%20LILY/atsu-sfw-spider-lily-animated-silent.fantome"
+  },
+  "RF_Storage1/Part4/Half Life Scientist Singed - Classic & Modern/half-life-scientist-singed-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Half Life Scientist Singed - Classic & Modern/half-life-scientist-singed-classic.fantome",
+   "size": 25558562,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Half%20Life%20Scientist%20Singed%20-%20Classic%20%26%20Modern/half-life-scientist-singed-classic.fantome"
+  },
+  "RF_Storage1/Part4/Iron Patriot Jarvan IV - Classic & Modern/iron-patriot-jarvan-iv-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Iron Patriot Jarvan IV - Classic & Modern/iron-patriot-jarvan-iv-classic.fantome",
+   "size": 18079456,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Iron%20Patriot%20Jarvan%20IV%20-%20Classic%20%26%20Modern/iron-patriot-jarvan-iv-classic.fantome"
+  },
+  "RF_Storage1/Part4/Karma Freddy Sophie Rain/karma-freddy-sophie-rain.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Karma Freddy Sophie Rain/karma-freddy-sophie-rain.fantome",
+   "size": 28302519,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Karma%20Freddy%20Sophie%20Rain/karma-freddy-sophie-rain.fantome"
+  },
+  "RF_Storage1/Part4/Mr Meeseeks Shaco - Classic & Modern/mr-meeseeks-shaco-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Mr Meeseeks Shaco - Classic & Modern/mr-meeseeks-shaco-classic.fantome",
+   "size": 11390587,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Mr%20Meeseeks%20Shaco%20-%20Classic%20%26%20Modern/mr-meeseeks-shaco-classic.fantome"
+  },
+  "RF_Storage1/Part4/Nightbringer Yasuo - Black & White/nightbringer-yasuo-black-and-white-by-dempsey20.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Nightbringer Yasuo - Black & White/nightbringer-yasuo-black-and-white-by-dempsey20.fantome",
+   "size": 3034375,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nightbringer%20Yasuo%20-%20Black%20%26%20White/nightbringer-yasuo-black-and-white-by-dempsey20.fantome"
+  },
+  "RF_Storage1/Part4/Ronald McDonald Shaco - Classic & Modern/ronald-mc-donald-shaco-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Ronald McDonald Shaco - Classic & Modern/ronald-mc-donald-shaco-classic.fantome",
+   "size": 13038748,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Ronald%20McDonald%20Shaco%20-%20Classic%20%26%20Modern/ronald-mc-donald-shaco-classic.fantome"
+  },
+  "RF_Storage1/Part4/Verity Yuumi/verity-yuumi-0-1-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Verity Yuumi/verity-yuumi-0-1-0.fantome",
+   "size": 8371485,
+   "first_seen": "2026-10-21T07:11:34.319Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Verity%20Yuumi/verity-yuumi-0-1-0.fantome"
   }
  },
  "images": {
