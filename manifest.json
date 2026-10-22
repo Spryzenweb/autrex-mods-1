@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-22T07:13:11.340Z",
+ "updated_at": "2026-10-22T07:14:07.902Z",
  "repo_bytes": {
-  "autrex-mods-1": 67046183507
+  "autrex-mods-1": 67448333337
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -63081,6 +63081,358 @@
    "first_seen": "2026-10-21T07:14:09.526Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Verity%20Yuumi/verity-yuumi-0-1-0.fantome"
+  },
+  "RF_Storage1/Part1/Old Rengar Rebirth/v135-old-rengar-rebirth.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Old Rengar Rebirth/v135-old-rengar-rebirth.fantome",
+   "size": 13559892,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Rengar%20Rebirth/v135-old-rengar-rebirth.fantome"
+  },
+  "RF_Storage1/Part1/Xiangling zaahen/xiangling-zaahen-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Xiangling zaahen/xiangling-zaahen-1-0-0.fantome",
+   "size": 21942116,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Xiangling%20zaahen/xiangling-zaahen-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Anima Squad Rift Battle for Final City — Recreated/anima-squad-rift-v16-21-1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Anima Squad Rift Battle for Final City — Recreated/anima-squad-rift-v16-21-1_large_file.txt",
+   "size": 371,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Anima%20Squad%20Rift%20Battle%20for%20Final%20City%20%E2%80%94%20Recreated/anima-squad-rift-v16-21-1_large_file.txt"
+  },
+  "RF_Storage1/Part4/Batman Rengar [Rebirth]/v115-batman-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Batman Rengar [Rebirth]/v115-batman-rengar.fantome",
+   "size": 7085780,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Batman%20Rengar%20%5BRebirth%5D/v115-batman-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v115-cottontail-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cottontail Rengar [Rebirth]/v115-cottontail-rengar.fantome",
+   "size": 6257713,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cottontail%20Rengar%20%5BRebirth%5D/v115-cottontail-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v115-dragon-dagger-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dagger of the Dragon Rengar [Rebirth]/v115-dragon-dagger-rengar.fantome",
+   "size": 6946226,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dagger%20of%20the%20Dragon%20Rengar%20%5BRebirth%5D/v115-dragon-dagger-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Fnatic Rengar [Rebirth]/v115-fnatic-rengar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Fnatic Rengar [Rebirth]/v115-fnatic-rengar.fantome",
+   "size": 6793233,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Fnatic%20Rengar%20%5BRebirth%5D/v115-fnatic-rengar.fantome"
+  },
+  "RF_Storage1/Part4/Green Lantern Lucian - Classic & Modern/green-lantern-lucian-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Green Lantern Lucian - Classic & Modern/green-lantern-lucian-classic.fantome",
+   "size": 10367033,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Green%20Lantern%20Lucian%20-%20Classic%20%26%20Modern/green-lantern-lucian-classic.fantome"
+  },
+  "RF_Storage1/Part4/Hatsune Miku LeBlanc/miku-leblanc-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Hatsune Miku LeBlanc/miku-leblanc-1-0-0.fantome",
+   "size": 1681202,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Hatsune%20Miku%20LeBlanc/miku-leblanc-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-font-no-loading-screen.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-font-no-loading-screen.fantome",
+   "size": 8589612,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-no-font-no-loading-screen.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-font.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-font.fantome",
+   "size": 12419392,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-no-font.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-loading-screen.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud-no-loading-screen.fantome",
+   "size": 9512745,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud-no-loading-screen.fantome"
+  },
+  "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kingdom Hearts Shadow HUD/shadow-hud.fantome",
+   "size": 13342521,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kingdom%20Hearts%20Shadow%20HUD/shadow-hud.fantome"
+  },
+  "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-lavender-v1-0-1-by-paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-lavender-v1-0-1-by-paler.fantome",
+   "size": 2589375,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Lancer%20Zero%20Black%20%26%20White%20Hecarim%20(chroma)/lancer-zero-hecarim-bw-chroma-lavender-v1-0-1-by-paler.fantome"
+  },
+  "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-lavender-v1-0-2-by-paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-lavender-v1-0-2-by-paler.fantome",
+   "size": 6333208,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Lancer%20Zero%20Black%20%26%20White%20Hecarim%20(chroma)/lancer-zero-hecarim-bw-chroma-lavender-v1-0-2-by-paler.fantome"
+  },
+  "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-pearl-v1-0-1-by-paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-pearl-v1-0-1-by-paler.fantome",
+   "size": 2558980,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Lancer%20Zero%20Black%20%26%20White%20Hecarim%20(chroma)/lancer-zero-hecarim-bw-chroma-pearl-v1-0-1-by-paler.fantome"
+  },
+  "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-pearl-v1-0-2-by-paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-pearl-v1-0-2-by-paler.fantome",
+   "size": 6302521,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Lancer%20Zero%20Black%20%26%20White%20Hecarim%20(chroma)/lancer-zero-hecarim-bw-chroma-pearl-v1-0-2-by-paler.fantome"
+  },
+  "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-v1-0-1-by-paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-v1-0-1-by-paler.fantome",
+   "size": 2476868,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Lancer%20Zero%20Black%20%26%20White%20Hecarim%20(chroma)/lancer-zero-hecarim-bw-chroma-v1-0-1-by-paler.fantome"
+  },
+  "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-v1-0-2-by-paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Lancer Zero Black & White Hecarim (chroma)/lancer-zero-hecarim-bw-chroma-v1-0-2-by-paler.fantome",
+   "size": 6220014,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Lancer%20Zero%20Black%20%26%20White%20Hecarim%20(chroma)/lancer-zero-hecarim-bw-chroma-v1-0-2-by-paler.fantome"
+  },
+  "RF_Storage1/Part4/Lucy Gwen/lucy-gwen-v1-0-0-by-paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Lucy Gwen/lucy-gwen-v1-0-0-by-paler.fantome",
+   "size": 9448505,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Lucy%20Gwen/lucy-gwen-v1-0-0-by-paler.fantome"
+  },
+  "RF_Storage1/Part4/Makoto Yuki Master Yi/makoto-yi-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Makoto Yuki Master Yi/makoto-yi-1-0-0.fantome",
+   "size": 1524220,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Makoto%20Yuki%20Master%20Yi/makoto-yi-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-blue-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-blue-classic.fantome",
+   "size": 8560212,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-blue-classic.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-cyan-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-cyan-classic.fantome",
+   "size": 7602195,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-cyan-classic.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-dark-blue-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-dark-blue-classic.fantome",
+   "size": 7278868,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-dark-blue-classic.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-faded-purple-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-faded-purple-classic.fantome",
+   "size": 7526803,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-faded-purple-classic.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-green-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-green-classic.fantome",
+   "size": 6966630,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-green-classic.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-light-blue-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-light-blue-classic.fantome",
+   "size": 7944405,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-light-blue-classic.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-orange-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-orange-classic.fantome",
+   "size": 7848458,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-orange-classic.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-pink-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-pink-classic.fantome",
+   "size": 6095745,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-pink-classic.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-purple-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-purple-classic.fantome",
+   "size": 7607919,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-purple-classic.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-red-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-red-classic.fantome",
+   "size": 7556986,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-red-classic.fantome"
+  },
+  "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-white-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Master Chief Lucian - Classic & Modern/master-chief-lucian-white-classic.fantome",
+   "size": 7526432,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Chief%20Lucian%20-%20Classic%20%26%20Modern/master-chief-lucian-white-classic.fantome"
+  },
+  "RF_Storage1/Part4/Mel Bonnie Aishah Sofey/mel-bonny-aishah-sofey.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Mel Bonnie Aishah Sofey/mel-bonny-aishah-sofey.fantome",
+   "size": 27029773,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Mel%20Bonnie%20Aishah%20Sofey/mel-bonny-aishah-sofey.fantome"
+  },
+  "RF_Storage1/Part4/Nescient Hud/nescient-hud-no-font-no-loading-screen.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Nescient Hud/nescient-hud-no-font-no-loading-screen.fantome",
+   "size": 11481699,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nescient%20Hud/nescient-hud-no-font-no-loading-screen.fantome"
+  },
+  "RF_Storage1/Part4/Nescient Hud/nescient-hud-no-font.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Nescient Hud/nescient-hud-no-font.fantome",
+   "size": 12057421,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nescient%20Hud/nescient-hud-no-font.fantome"
+  },
+  "RF_Storage1/Part4/Nescient Hud/nescient-hud-no-loading-screen.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Nescient Hud/nescient-hud-no-loading-screen.fantome",
+   "size": 13212188,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nescient%20Hud/nescient-hud-no-loading-screen.fantome"
+  },
+  "RF_Storage1/Part4/Nescient Hud/nescient-hud.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Nescient Hud/nescient-hud.fantome",
+   "size": 13787905,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nescient%20Hud/nescient-hud.fantome"
+  },
+  "RF_Storage1/Part4/Smite’s Loki Shaco - Classic & Modern/smites-loki-shaco.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Smite’s Loki Shaco - Classic & Modern/smites-loki-shaco.fantome",
+   "size": 36836525,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Smite%E2%80%99s%20Loki%20Shaco%20-%20Classic%20%26%20Modern/smites-loki-shaco.fantome"
+  },
+  "RF_Storage1/Part4/TF2 Spy Shaco - Classic & Modern/tf-2-spy-shaco-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/TF2 Spy Shaco - Classic & Modern/tf-2-spy-shaco-classic.fantome",
+   "size": 26424544,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/TF2%20Spy%20Shaco%20-%20Classic%20%26%20Modern/tf-2-spy-shaco-classic.fantome"
+  },
+  "RF_Storage1/Part4/Xiangling Akshan/akshan-xiangling-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Xiangling Akshan/akshan-xiangling-1-0-0.fantome",
+   "size": 1100539,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Xiangling%20Akshan/akshan-xiangling-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Xiangling Katarina/katarina-xiagling-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Xiangling Katarina/katarina-xiagling-1-0-0.fantome",
+   "size": 1056456,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Xiangling%20Katarina/katarina-xiagling-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Yuji Itadori Sett/yuji-itadori-sett-1-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Yuji Itadori Sett/yuji-itadori-sett-1-0-0.fantome",
+   "size": 1580561,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yuji%20Itadori%20Sett/yuji-itadori-sett-1-0-0.fantome"
+  },
+  "RF_Storage1/Part4/Yuulaf (Yuumi as Olaf)/yuulaf-wo-vo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Yuulaf (Yuumi as Olaf)/yuulaf-wo-vo.fantome",
+   "size": 9662792,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yuulaf%20(Yuumi%20as%20Olaf)/yuulaf-wo-vo.fantome"
+  },
+  "RF_Storage1/Part4/Yuulaf (Yuumi as Olaf)/yuulaf.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Yuulaf (Yuumi as Olaf)/yuulaf.fantome",
+   "size": 9453247,
+   "first_seen": "2026-10-22T07:14:07.902Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yuulaf%20(Yuumi%20as%20Olaf)/yuulaf.fantome"
   }
  },
  "images": {
