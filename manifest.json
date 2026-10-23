@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-23T07:30:05.046Z",
+ "updated_at": "2026-10-23T14:43:17.803Z",
  "repo_bytes": {
-  "autrex-mods-1": 67534705465
+  "autrex-mods-1": 67534816891
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -86214,9 +86214,17 @@
    "first_seen": "2026-10-23T07:06:27.166Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/dcb6ae44-d26d-4f9f-8d15-9f6e1360a933.jpeg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/dcb6ae44-d26d-4f9f-8d15-9f6e1360a933.jpeg"
+  },
+  "d558174e-ccf2-4e51-a40b-a35e29463742.webp": {
+   "repo": "autrex-mods-1",
+   "size": 111426,
+   "first_seen": "2026-10-23T14:43:17.803Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d558174e-ccf2-4e51-a40b-a35e29463742.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d558174e-ccf2-4e51-a40b-a35e29463742.webp"
   }
  },
  "image_keys": [
+  "d558174e-ccf2-4e51-a40b-a35e29463742.webp",
   "dc9c110b-d676-40b6-82bf-4216bec4ff81.webp",
   "67445fb3-3920-4c9f-a720-a926fb6fa38c.png",
   "d019afac-a7e4-4991-a849-6c9005ce0697.png",
@@ -87557,9 +87565,9 @@
   "25670384-239e-4e92-8be6-a14b58c2d895.jpg",
   "a9423e2e-e651-4c04-9603-865063ea3d9b.png",
   "46580eed-0af1-472b-9348-9effbd6ce379.png",
+  "fb554527-820b-4b4c-9a7c-9ba835dc7c61.png",
   "45baa40d-fdbd-4451-8694-600b70317be6.png",
   "e95e202e-b0f8-4985-9aea-0fcd998c220b.jpg",
-  "fb554527-820b-4b4c-9a7c-9ba835dc7c61.png",
   "fc95a703-bd0c-43ee-aaeb-839eed7395e5.png",
   "df685109-4f5f-4627-811a-d5616f385bab.jpg",
   "904f3a12-32aa-46f2-a936-415ba987ad68.jpg",
@@ -89420,6 +89428,6 @@
   "3672d22d-3de0-453c-ba30-466d1fe32a00.jpg",
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
  ],
- "image_total": 3235,
- "images_crawled_at": "2026-10-23T07:06:22.659Z"
+ "image_total": 3236,
+ "images_crawled_at": "2026-10-23T14:42:31.827Z"
 }
