@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-23T07:05:42.236Z",
+ "updated_at": "2026-10-23T07:06:27.166Z",
  "repo_bytes": {
-  "autrex-mods-1": 67534705465
+  "autrex-mods-1": 67457251436
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -63433,126 +63433,6 @@
    "first_seen": "2026-10-22T07:16:15.525Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yuulaf%20(Yuumi%20as%20Olaf)/yuulaf.fantome"
-  },
-  "RF_Storage1/Part1/Map Forcer/map-forcer-16-21-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Map Forcer/map-forcer-16-21-0.fantome",
-   "size": 2089148,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Map%20Forcer/map-forcer-16-21-0.fantome"
-  },
-  "RF_Storage1/Part1/Winter Rift 2025 (Season 25 Version)/winter-rift2025-day-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Winter Rift 2025 (Season 25 Version)/winter-rift2025-day-16-21-0_large_file.txt",
-   "size": 361,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Winter%20Rift%202025%20(Season%2025%20Version)/winter-rift2025-day-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part1/Winter Rift 2025 - Season 5/winter-rift2025-season5-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Winter Rift 2025 - Season 5/winter-rift2025-season5-16-21-0_large_file.txt",
-   "size": 364,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Winter%20Rift%202025%20-%20Season%205/winter-rift2025-season5-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Akali Chica Ava Reyes/akali-chica-ava-reyes.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Akali Chica Ava Reyes/akali-chica-ava-reyes.fantome",
-   "size": 26247535,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Akali%20Chica%20Ava%20Reyes/akali-chica-ava-reyes.fantome"
-  },
-  "RF_Storage1/Part4/Classic Rift - Harrowing/classic-rift-harrowing-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Classic Rift - Harrowing/classic-rift-harrowing-16-21-0_large_file.txt",
-   "size": 358,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Classic%20Rift%20-%20Harrowing/classic-rift-harrowing-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Classic Rift - Winter/classic-rift-winter-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Classic Rift - Winter/classic-rift-winter-16-21-0_large_file.txt",
-   "size": 346,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Classic%20Rift%20-%20Winter/classic-rift-winter-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/d-edgerunners-2-soul-fighter-viego.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/d-edgerunners-2-soul-fighter-viego.fantome",
-   "size": 11844641,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego/d-edgerunners-2-soul-fighter-viego.fantome"
-  },
-  "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/viego-d-vo-v1-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/viego-d-vo-v1-0-0.fantome",
-   "size": 7262303,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego/viego-d-vo-v1-0-0.fantome"
-  },
-  "RF_Storage1/Part4/Deadpool Lucian - Classic & Modern/deadpool-lucian-classic.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Deadpool Lucian - Classic & Modern/deadpool-lucian-classic.fantome",
-   "size": 6729198,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Deadpool%20Lucian%20-%20Classic%20%26%20Modern/deadpool-lucian-classic.fantome"
-  },
-  "RF_Storage1/Part4/GN-0000 00 Gundam Raiser Lucian - Classic & Modern/gn-0000-00-gundam-raiser-lucian-classic.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/GN-0000 00 Gundam Raiser Lucian - Classic & Modern/gn-0000-00-gundam-raiser-lucian-classic.fantome",
-   "size": 5954687,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/GN-0000%2000%20Gundam%20Raiser%20Lucian%20-%20Classic%20%26%20Modern/gn-0000-00-gundam-raiser-lucian-classic.fantome"
-  },
-  "RF_Storage1/Part4/Kuki Shinobu Locke/locke-kuki-1-0-1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Kuki Shinobu Locke/locke-kuki-1-0-1.fantome",
-   "size": 1254339,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kuki%20Shinobu%20Locke/locke-kuki-1-0-1.fantome"
-  },
-  "RF_Storage1/Part4/Super Saiyan Vegeta Lucian - Classic & Modern/super-saiyan-vegeta-lucian-classic.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Super Saiyan Vegeta Lucian - Classic & Modern/super-saiyan-vegeta-lucian-classic.fantome",
-   "size": 3479563,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Super%20Saiyan%20Vegeta%20Lucian%20-%20Classic%20%26%20Modern/super-saiyan-vegeta-lucian-classic.fantome"
-  },
-  "RF_Storage1/Part4/Talia (EDGERUNNERS 2) TD KMN Akali/akali-talia-vo-v1-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Talia (EDGERUNNERS 2) TD KMN Akali/akali-talia-vo-v1-0-0.fantome",
-   "size": 2467241,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Talia%20(EDGERUNNERS%202)%20TD%20KMN%20Akali/akali-talia-vo-v1-0-0.fantome"
-  },
-  "RF_Storage1/Part4/Talia (EDGERUNNERS 2) TD KMN Akali/talia-edgerunners-2-td-kmn-akali-v1-0-0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Talia (EDGERUNNERS 2) TD KMN Akali/talia-edgerunners-2-td-kmn-akali-v1-0-0.fantome",
-   "size": 10123590,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Talia%20(EDGERUNNERS%202)%20TD%20KMN%20Akali/talia-edgerunners-2-td-kmn-akali-v1-0-0.fantome"
-  },
-  "RF_Storage1/Part4/Winter Rift 2025 - Night/winter-rift2025-night-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Winter Rift 2025 - Night/winter-rift2025-night-16-21-0_large_file.txt",
-   "size": 355,
-   "first_seen": "2026-10-23T07:05:42.236Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Winter%20Rift%202025%20-%20Night/winter-rift2025-night-16-21-0_large_file.txt"
   }
  },
  "images": {
@@ -86176,42 +86056,42 @@
   "dc9c110b-d676-40b6-82bf-4216bec4ff81.webp": {
    "repo": "autrex-mods-1",
    "size": 112992,
-   "first_seen": "2026-10-23T07:05:06.308Z",
+   "first_seen": "2026-10-23T07:06:27.166Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/dc9c110b-d676-40b6-82bf-4216bec4ff81.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/dc9c110b-d676-40b6-82bf-4216bec4ff81.webp"
   },
   "67445fb3-3920-4c9f-a720-a926fb6fa38c.png": {
    "repo": "autrex-mods-1",
    "size": 1463248,
-   "first_seen": "2026-10-23T07:05:06.308Z",
+   "first_seen": "2026-10-23T07:06:27.166Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/67445fb3-3920-4c9f-a720-a926fb6fa38c.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/67445fb3-3920-4c9f-a720-a926fb6fa38c.png"
   },
   "d019afac-a7e4-4991-a849-6c9005ce0697.png": {
    "repo": "autrex-mods-1",
    "size": 1672569,
-   "first_seen": "2026-10-23T07:05:06.308Z",
+   "first_seen": "2026-10-23T07:06:27.166Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d019afac-a7e4-4991-a849-6c9005ce0697.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d019afac-a7e4-4991-a849-6c9005ce0697.png"
   },
   "b4848cc6-eeb2-481e-addf-daa60e33f52d.png": {
    "repo": "autrex-mods-1",
    "size": 1283159,
-   "first_seen": "2026-10-23T07:05:06.308Z",
+   "first_seen": "2026-10-23T07:06:27.166Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/b4848cc6-eeb2-481e-addf-daa60e33f52d.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/b4848cc6-eeb2-481e-addf-daa60e33f52d.png"
   },
   "8e9f34d8-f2b4-48b0-bf14-5009a055a21d.png": {
    "repo": "autrex-mods-1",
    "size": 1335166,
-   "first_seen": "2026-10-23T07:05:06.308Z",
+   "first_seen": "2026-10-23T07:06:27.166Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/8e9f34d8-f2b4-48b0-bf14-5009a055a21d.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/8e9f34d8-f2b4-48b0-bf14-5009a055a21d.png"
   },
   "dcb6ae44-d26d-4f9f-8d15-9f6e1360a933.jpeg": {
    "repo": "autrex-mods-1",
    "size": 116330,
-   "first_seen": "2026-10-23T07:05:06.308Z",
+   "first_seen": "2026-10-23T07:06:27.166Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/dcb6ae44-d26d-4f9f-8d15-9f6e1360a933.jpeg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/dcb6ae44-d26d-4f9f-8d15-9f6e1360a933.jpeg"
   }
@@ -89421,5 +89301,5 @@
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
  ],
  "image_total": 3235,
- "images_crawled_at": "2026-10-23T07:05:02.212Z"
+ "images_crawled_at": "2026-10-23T07:06:22.659Z"
 }
