@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-24T07:00:03.213Z",
+ "updated_at": "2026-10-24T07:00:34.530Z",
  "repo_bytes": {
-  "autrex-mods-1": 67539261279
+  "autrex-mods-1": 67575852591
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -63553,6 +63553,82 @@
    "first_seen": "2026-10-23T07:07:15.108Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Winter%20Rift%202025%20-%20Night/winter-rift2025-night-16-21-0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Akali Gyutaro/akali-gyutaro.fantome": {
+   "size": 44564046,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Akali%20Gyutaro/akali-gyutaro.fantome",
+   "first_seen": "2026-10-24T07:00:18.650Z"
+  },
+  "RF_Storage1/Part4/Prestige Ocean Song Seraphine FIX/prestige-ocean-song-seraphine-fix-1-0-4.fantome": {
+   "size": 39432253,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Prestige%20Ocean%20Song%20Seraphine%20FIX/prestige-ocean-song-seraphine-fix-1-0-4.fantome",
+   "first_seen": "2026-10-24T07:00:30.746Z"
+  },
+  "RF_Storage1/Part1/NO FF (Automatic No Vote)/hide-ff-popup-by-moga-v16-21-1-30-328.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/NO FF (Automatic No Vote)/hide-ff-popup-by-moga-v16-21-1-30-328.fantome",
+   "size": 59730,
+   "first_seen": "2026-10-24T07:00:34.529Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/NO%20FF%20(Automatic%20No%20Vote)/hide-ff-popup-by-moga-v16-21-1-30-328.fantome"
+  },
+  "RF_Storage1/Part1/Remove Tooltip Delay and Lockout/no-tooltip-delay-by-moga-v16-21-1-12-64.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Remove Tooltip Delay and Lockout/no-tooltip-delay-by-moga-v16-21-1-12-64.fantome",
+   "size": 1050052,
+   "first_seen": "2026-10-24T07:00:34.529Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Remove%20Tooltip%20Delay%20and%20Lockout/no-tooltip-delay-by-moga-v16-21-1-12-64.fantome"
+  },
+  "RF_Storage1/Part2/Hwei Blank Canvas/hwei-blank-canvas-1-0-1-clean-paths-16-21.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part2/Hwei Blank Canvas/hwei-blank-canvas-1-0-1-clean-paths-16-21.fantome",
+   "size": 3949966,
+   "first_seen": "2026-10-24T07:00:34.529Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Hwei%20Blank%20Canvas/hwei-blank-canvas-1-0-1-clean-paths-16-21.fantome"
+  },
+  "RF_Storage1/Part4/Black & White Dragon Talon/blacknwhiteestalon-2-0-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Black & White Dragon Talon/blacknwhiteestalon-2-0-0.fantome",
+   "size": 12682934,
+   "first_seen": "2026-10-24T07:00:34.529Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Black%20%26%20White%20Dragon%20Talon/blacknwhiteestalon-2-0-0.fantome"
+  },
+  "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/d-capri-viego-v0-3-8-archivefix-1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/d-capri-viego-v0-3-8-archivefix-1.fantome",
+   "size": 11682996,
+   "first_seen": "2026-10-24T07:00:34.529Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego/d-capri-viego-v0-3-8-archivefix-1.fantome"
+  },
+  "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/viego-d-vo-v1-1-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/viego-d-vo-v1-1-0.fantome",
+   "size": 6623362,
+   "first_seen": "2026-10-24T07:00:34.529Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego/viego-d-vo-v1-1-0.fantome"
+  },
+  "RF_Storage1/Part4/Old Tiamat VFX/v100-old-tiamat-vfx.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Tiamat VFX/v100-old-tiamat-vfx.fantome",
+   "size": 271146,
+   "first_seen": "2026-10-24T07:00:34.529Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Tiamat%20VFX/v100-old-tiamat-vfx.fantome"
+  },
+  "RF_Storage1/Part4/Old Tiamat VFX/v100-x-old-tiamat-vfx.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Tiamat VFX/v100-x-old-tiamat-vfx.fantome",
+   "size": 271126,
+   "first_seen": "2026-10-24T07:00:34.529Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Tiamat%20VFX/v100-x-old-tiamat-vfx.fantome"
   }
  },
  "images": {
