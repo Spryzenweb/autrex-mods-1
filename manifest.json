@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-24T07:21:09.735Z",
+ "updated_at": "2026-10-24T13:52:29.178Z",
  "repo_bytes": {
-  "autrex-mods-1": 67575852591
+  "autrex-mods-1": 67579813434
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -86318,9 +86318,42 @@
    "first_seen": "2026-10-24T07:00:03.212Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/878c9388-0f7c-4f0c-99c4-fd1701f1ff6c.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/878c9388-0f7c-4f0c-99c4-fd1701f1ff6c.png"
+  },
+  "e76e1ebc-6a30-45b6-a0e8-cf2161ba7c2e.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 852137,
+   "first_seen": "2026-10-24T13:52:29.178Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/e76e1ebc-6a30-45b6-a0e8-cf2161ba7c2e.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/e76e1ebc-6a30-45b6-a0e8-cf2161ba7c2e.jpg"
+  },
+  "51b35bca-a417-426f-8bdb-8b9b1f75e50b.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 1022033,
+   "first_seen": "2026-10-24T13:52:29.178Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/51b35bca-a417-426f-8bdb-8b9b1f75e50b.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/51b35bca-a417-426f-8bdb-8b9b1f75e50b.jpg"
+  },
+  "e8d9a933-14cd-4f0f-947f-e1d3e98257a3.png": {
+   "repo": "autrex-mods-1",
+   "size": 1381456,
+   "first_seen": "2026-10-24T13:52:29.178Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/e8d9a933-14cd-4f0f-947f-e1d3e98257a3.png",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/e8d9a933-14cd-4f0f-947f-e1d3e98257a3.png"
+  },
+  "68319de1-c3bf-4eeb-a4a8-1f31c3d22260.png": {
+   "repo": "autrex-mods-1",
+   "size": 705217,
+   "first_seen": "2026-10-24T13:52:29.178Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/68319de1-c3bf-4eeb-a4a8-1f31c3d22260.png",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/68319de1-c3bf-4eeb-a4a8-1f31c3d22260.png"
   }
  },
  "image_keys": [
+  "59069d40-9d87-4e73-9f55-48316a3f0c2a.png",
+  "e76e1ebc-6a30-45b6-a0e8-cf2161ba7c2e.jpg",
+  "51b35bca-a417-426f-8bdb-8b9b1f75e50b.jpg",
+  "e8d9a933-14cd-4f0f-947f-e1d3e98257a3.png",
+  "68319de1-c3bf-4eeb-a4a8-1f31c3d22260.png",
   "baccc6bd-1c66-4e11-968a-d2cae544f232.png",
   "878c9388-0f7c-4f0c-99c4-fd1701f1ff6c.png",
   "75098e89-9533-4011-b934-25df241f0611.png",
@@ -87020,8 +87053,8 @@
   "bbfbde56-244b-45af-b54d-25b19f46c196.png",
   "cf07505c-529f-4716-a4d3-19e636feef63.jpg",
   "afcaacc5-d841-4fd2-1fe6-f544c372f500.webp",
-  "2fba7f4b-d65d-438d-94f5-57477e688bbf.png",
   "45610c62-7ec6-45df-b097-b56a66b4b54c.png",
+  "2fba7f4b-d65d-438d-94f5-57477e688bbf.png",
   "ae2ce536-924a-4dc4-9701-94519cdfa3e9.png",
   "f6695c52-5f8c-4803-ce5c-77f8970cd400.webp",
   "4e177cb8-63d2-4aca-7f64-d48d117dd400.webp",
@@ -87763,10 +87796,10 @@
   "ab4a3ccd-8efd-4f53-9f19-fdb4cab0963b.jpg",
   "f76a9020-9173-4b9e-8253-7c56b21a7597.jpg",
   "6116567b-3152-45ce-8567-02680f2f4edb.jpg",
+  "8fcb96c5-9973-4877-9ea1-a5d60bda8880.gif",
   "5d0f986c-1b83-4ff0-877c-74ed3899fb0c.gif",
   "790463f7-9d4f-48a7-959f-2125b23d9c85.gif",
   "5711a83b-d98a-44ae-826e-7b18c77fd598.gif",
-  "8fcb96c5-9973-4877-9ea1-a5d60bda8880.gif",
   "6dd9ead4-c898-461b-3f77-006ed2349c00.webp",
   "3a8f50ab-a77a-419b-9879-ea579d8bdb3a.png",
   "5b095c85-7f03-4aff-8545-9e94a5e9104d.png",
@@ -87860,8 +87893,8 @@
   "c82f3fea-e75d-4b1f-a295-00c468eff3c9.jpg",
   "6c479aee-ea3b-419b-b661-fe441ee5752b.png",
   "7829bc2f-f41a-47b7-864d-0e60e6820b44.png",
-  "37198c0a-66ca-450e-f27e-291b1568c200.png",
   "7c4d2367-df4a-40f0-79f9-5e6ed7179a00.png",
+  "37198c0a-66ca-450e-f27e-291b1568c200.png",
   "dc913dc6-305e-4cd3-e25c-588ec2238000.png",
   "0164fd24-8761-433a-8287-ab6354906621.png",
   "d9e37549-bc10-4b8e-b2de-d2991f96cec9.png",
@@ -89527,6 +89560,6 @@
   "3672d22d-3de0-453c-ba30-466d1fe32a00.jpg",
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
  ],
- "image_total": 3238,
- "images_crawled_at": "2026-10-24T07:00:00.375Z"
+ "image_total": 3243,
+ "images_crawled_at": "2026-10-24T13:52:20.029Z"
 }
