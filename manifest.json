@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-24T20:46:45.528Z",
+ "updated_at": "2026-10-25T07:21:35.025Z",
  "repo_bytes": {
-  "autrex-mods-1": 67585423407
+  "autrex-mods-1": 67909358656
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -63629,6 +63629,422 @@
    "first_seen": "2026-10-24T07:00:34.529Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Tiamat%20VFX/v100-x-old-tiamat-vfx.fantome"
+  },
+  "RF_Storage1/Part3/Tahm Kench Hat Edition/tahm-kench-hat-edition-v1-1-0-by-aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Tahm Kench Hat Edition/tahm-kench-hat-edition-v1-1-0-by-aropatnik.fantome",
+   "size": 26266,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Tahm%20Kench%20Hat%20Edition/tahm-kench-hat-edition-v1-1-0-by-aropatnik.fantome"
+  },
+  "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/d-capri-viego-v0-3-9-r-isolation.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/d-capri-viego-v0-3-9-r-isolation.fantome",
+   "size": 11684560,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego/d-capri-viego-v0-3-9-r-isolation.fantome"
+  },
+  "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/d-capri-viego-v0-4-0-hd-1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/d-capri-viego-v0-4-0-hd-1.fantome",
+   "size": 12593953,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego/d-capri-viego-v0-4-0-hd-1.fantome"
+  },
+  "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/viego-d-vo-v1-2-0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/viego-d-vo-v1-2-0.fantome",
+   "size": 10069782,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego/viego-d-vo-v1-2-0.fantome"
+  },
+  "RF_Storage1/Part4/Exalted Lara Croft Miss Fortune/exalted-lara-croft-miss-fortune-v1-0-by-lordks-op_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Exalted Lara Croft Miss Fortune/exalted-lara-croft-miss-fortune-v1-0-by-lordks-op_large_file.txt",
+   "size": 422,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Exalted%20Lara%20Croft%20Miss%20Fortune/exalted-lara-croft-miss-fortune-v1-0-by-lordks-op_large_file.txt"
+  },
+  "RF_Storage1/Part4/FF XIII-2 Serah Farron Beachwear Lux - Classic & Modern/ff-xiii-2-serah-farron-beachwear-lux-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/FF XIII-2 Serah Farron Beachwear Lux - Classic & Modern/ff-xiii-2-serah-farron-beachwear-lux-classic.fantome",
+   "size": 10787571,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/FF%20XIII-2%20Serah%20Farron%20Beachwear%20Lux%20-%20Classic%20%26%20Modern/ff-xiii-2-serah-farron-beachwear-lux-classic.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-copper-brown.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-copper-brown.fantome",
+   "size": 1211326,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-copper-brown.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-graphite-black.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-graphite-black.fantome",
+   "size": 1633017,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-graphite-black.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-green.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-green.fantome",
+   "size": 1220512,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-green.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-lime.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-lime.fantome",
+   "size": 1223866,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-lime.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-magenta.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-magenta.fantome",
+   "size": 1230541,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-magenta.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-orange.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-orange.fantome",
+   "size": 1224682,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-orange.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-pink.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-pink.fantome",
+   "size": 1226116,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-pink.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-purple.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-purple.fantome",
+   "size": 1227530,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-purple.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-red.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-red.fantome",
+   "size": 1190101,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-red.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-silver.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-silver.fantome",
+   "size": 1679803,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-silver.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-soft-red.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-soft-red.fantome",
+   "size": 1224232,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-soft-red.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-white.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-white.fantome",
+   "size": 1709797,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-white.fantome"
+  },
+  "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-yellow.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Frosted Ezreal 12 Colors Chromas/frosted-ezreal-yellow.fantome",
+   "size": 1224943,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frosted%20Ezreal%2012%20Colors%20Chromas/frosted-ezreal-yellow.fantome"
+  },
+  "RF_Storage1/Part4/Headless Briar/headless-briar.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Headless Briar/headless-briar.fantome",
+   "size": 7228093,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Headless%20Briar/headless-briar.fantome"
+  },
+  "RF_Storage1/Part4/Hide KDA/hide-kda.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Hide KDA/hide-kda.fantome",
+   "size": 1340,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Hide%20KDA/hide-kda.fantome"
+  },
+  "RF_Storage1/Part4/Kafka Gwen/kafka-gwen-v1-0-0-by-paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kafka Gwen/kafka-gwen-v1-0-0-by-paler.fantome",
+   "size": 8608602,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kafka%20Gwen/kafka-gwen-v1-0-0-by-paler.fantome"
+  },
+  "RF_Storage1/Part4/Kuki Shinobu Locke/locke-kuki-by-kassalich.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Kuki Shinobu Locke/locke-kuki-by-kassalich.fantome",
+   "size": 16107285,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kuki%20Shinobu%20Locke/locke-kuki-by-kassalich.fantome"
+  },
+  "RF_Storage1/Part4/MINECRAFT Ghast/minecraft-ghast-v1-0-0-by-arkera.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/MINECRAFT Ghast/minecraft-ghast-v1-0-0-by-arkera.fantome",
+   "size": 9827715,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/MINECRAFT%20Ghast/minecraft-ghast-v1-0-0-by-arkera.fantome"
+  },
+  "RF_Storage1/Part4/Makoto Yuki Master Yi/makoto-yi-by-kassalich.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Makoto Yuki Master Yi/makoto-yi-by-kassalich.fantome",
+   "size": 12943248,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Makoto%20Yuki%20Master%20Yi/makoto-yi-by-kassalich.fantome"
+  },
+  "RF_Storage1/Part4/Malenia Peacemaker Yone/malenia-blade-of-miquella-wip-preview.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Malenia Peacemaker Yone/malenia-blade-of-miquella-wip-preview.fantome",
+   "size": 11255698,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Malenia%20Peacemaker%20Yone/malenia-blade-of-miquella-wip-preview.fantome"
+  },
+  "RF_Storage1/Part4/Malenia Peacemaker Yone/malenia-blade-of-miquella-wip-with-vo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Malenia Peacemaker Yone/malenia-blade-of-miquella-wip-with-vo.fantome",
+   "size": 18479764,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Malenia%20Peacemaker%20Yone/malenia-blade-of-miquella-wip-with-vo.fantome"
+  },
+  "RF_Storage1/Part4/Moltres Anivia - Classic & Modern/moltres-anivia-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Moltres Anivia - Classic & Modern/moltres-anivia-classic.fantome",
+   "size": 12212459,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Moltres%20Anivia%20-%20Classic%20%26%20Modern/moltres-anivia-classic.fantome"
+  },
+  "RF_Storage1/Part4/Moltres Anivia - Classic & Modern/moltres-anivia-no-vfx-classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Moltres Anivia - Classic & Modern/moltres-anivia-no-vfx-classic.fantome",
+   "size": 3731303,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Moltres%20Anivia%20-%20Classic%20%26%20Modern/moltres-anivia-no-vfx-classic.fantome"
+  },
+  "RF_Storage1/Part4/Old Tiamat VFX/v100x-old-tiamat-vfx.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Tiamat VFX/v100x-old-tiamat-vfx.fantome",
+   "size": 274651,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Tiamat%20VFX/v100x-old-tiamat-vfx.fantome"
+  },
+  "RF_Storage1/Part4/Seina Aatrox (Stella Sora)/seina-aatrox-by-ascilia.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Seina Aatrox (Stella Sora)/seina-aatrox-by-ascilia.fantome",
+   "size": 33355202,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Seina%20Aatrox%20(Stella%20Sora)/seina-aatrox-by-ascilia.fantome"
+  },
+  "RF_Storage1/Part4/Sparxie Mel/sparxie-mel-by-kassalich.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Sparxie Mel/sparxie-mel-by-kassalich.fantome",
+   "size": 19220703,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Sparxie%20Mel/sparxie-mel-by-kassalich.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-copper-brown.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-copper-brown.fantome",
+   "size": 1559671,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-copper-brown.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-dark-blue.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-dark-blue.fantome",
+   "size": 1562393,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-dark-blue.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-graphite-black.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-graphite-black.fantome",
+   "size": 2032874,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-graphite-black.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-green.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-green.fantome",
+   "size": 1582780,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-green.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-light-blue.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-light-blue.fantome",
+   "size": 1586399,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-light-blue.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-lime.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-lime.fantome",
+   "size": 1588355,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-lime.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-magenta.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-magenta.fantome",
+   "size": 1578521,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-magenta.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-orange.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-orange.fantome",
+   "size": 1586777,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-orange.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-pink.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-pink.fantome",
+   "size": 1597481,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-pink.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-purple.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-purple.fantome",
+   "size": 1575112,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-purple.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-red.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-red.fantome",
+   "size": 1488625,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-red.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-silver.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-silver.fantome",
+   "size": 2090503,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-silver.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-soft-red.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-soft-red.fantome",
+   "size": 1588842,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-soft-red.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-turquoise.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-turquoise.fantome",
+   "size": 1578723,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-turquoise.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-white.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-white.fantome",
+   "size": 2119936,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-white.fantome"
+  },
+  "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-yellow.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Striker Ezreal 15 Colors Chromas/striker-ezreal-yellow.fantome",
+   "size": 1598747,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Striker%20Ezreal%2015%20Colors%20Chromas/striker-ezreal-yellow.fantome"
+  },
+  "RF_Storage1/Part4/Xiangling and Guoba Viego/xiangling-and-guoba-viego-by-kassalich.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Xiangling and Guoba Viego/xiangling-and-guoba-viego-by-kassalich.fantome",
+   "size": 22820734,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Xiangling%20and%20Guoba%20Viego/xiangling-and-guoba-viego-by-kassalich.fantome"
+  },
+  "RF_Storage1/Part4/Yuji Itadori Sett/yuji-itadori-sett-by-kassalich.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Yuji Itadori Sett/yuji-itadori-sett-by-kassalich.fantome",
+   "size": 15969126,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yuji%20Itadori%20Sett/yuji-itadori-sett-by-kassalich.fantome"
+  },
+  "RF_Storage1/Part4/yett (Yuumi as Sett)/yett-wo-vo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/yett (Yuumi as Sett)/yett-wo-vo.fantome",
+   "size": 21821074,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/yett%20(Yuumi%20as%20Sett)/yett-wo-vo.fantome"
+  },
+  "RF_Storage1/Part4/yett (Yuumi as Sett)/yett.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/yett (Yuumi as Sett)/yett.fantome",
+   "size": 20973493,
+   "first_seen": "2026-10-25T07:21:35.025Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/yett%20(Yuumi%20as%20Sett)/yett.fantome"
   }
  },
  "images": {
@@ -86377,6 +86793,8 @@
   }
  },
  "image_keys": [
+  "f0249b68-5fdc-4267-9acc-447fe9366954.png",
+  "1106df86-1502-4d43-ad77-d1191c15fc49.png",
   "f8417533-0c7a-4c72-bced-314e6f8b4ce0.png",
   "6a4999c5-96e5-4fa9-a3b6-1657cb2a48c1.png",
   "2ad71fa1-a5c5-4ed9-affc-e87909c7bfb6.jpg",
@@ -87087,8 +87505,8 @@
   "bbfbde56-244b-45af-b54d-25b19f46c196.png",
   "cf07505c-529f-4716-a4d3-19e636feef63.jpg",
   "afcaacc5-d841-4fd2-1fe6-f544c372f500.webp",
-  "45610c62-7ec6-45df-b097-b56a66b4b54c.png",
   "2fba7f4b-d65d-438d-94f5-57477e688bbf.png",
+  "45610c62-7ec6-45df-b097-b56a66b4b54c.png",
   "ae2ce536-924a-4dc4-9701-94519cdfa3e9.png",
   "f6695c52-5f8c-4803-ce5c-77f8970cd400.webp",
   "4e177cb8-63d2-4aca-7f64-d48d117dd400.webp",
@@ -87732,12 +88150,12 @@
   "25670384-239e-4e92-8be6-a14b58c2d895.jpg",
   "a9423e2e-e651-4c04-9603-865063ea3d9b.png",
   "46580eed-0af1-472b-9348-9effbd6ce379.png",
-  "e95e202e-b0f8-4985-9aea-0fcd998c220b.jpg",
+  "904f3a12-32aa-46f2-a936-415ba987ad68.jpg",
+  "fc95a703-bd0c-43ee-aaeb-839eed7395e5.png",
   "fb554527-820b-4b4c-9a7c-9ba835dc7c61.png",
   "45baa40d-fdbd-4451-8694-600b70317be6.png",
-  "fc95a703-bd0c-43ee-aaeb-839eed7395e5.png",
   "df685109-4f5f-4627-811a-d5616f385bab.jpg",
-  "904f3a12-32aa-46f2-a936-415ba987ad68.jpg",
+  "e95e202e-b0f8-4985-9aea-0fcd998c220b.jpg",
   "b5a9c2d2-ac19-4f31-a462-9faa75d2ce28.webp",
   "38939b71-f95c-44c2-b562-e4ef2c291ccc.png",
   "8663d3ba-3a85-40d2-9995-4da7b32fe9b0.png",
@@ -87830,10 +88248,10 @@
   "ab4a3ccd-8efd-4f53-9f19-fdb4cab0963b.jpg",
   "f76a9020-9173-4b9e-8253-7c56b21a7597.jpg",
   "6116567b-3152-45ce-8567-02680f2f4edb.jpg",
-  "5711a83b-d98a-44ae-826e-7b18c77fd598.gif",
   "8fcb96c5-9973-4877-9ea1-a5d60bda8880.gif",
-  "790463f7-9d4f-48a7-959f-2125b23d9c85.gif",
   "5d0f986c-1b83-4ff0-877c-74ed3899fb0c.gif",
+  "790463f7-9d4f-48a7-959f-2125b23d9c85.gif",
+  "5711a83b-d98a-44ae-826e-7b18c77fd598.gif",
   "6dd9ead4-c898-461b-3f77-006ed2349c00.webp",
   "3a8f50ab-a77a-419b-9879-ea579d8bdb3a.png",
   "5b095c85-7f03-4aff-8545-9e94a5e9104d.png",
@@ -89593,6 +90011,6 @@
   "3672d22d-3de0-453c-ba30-466d1fe32a00.jpg",
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
  ],
- "image_total": 3248,
- "images_crawled_at": "2026-10-24T20:24:10.188Z"
+ "image_total": 3250,
+ "images_crawled_at": "2026-10-25T07:19:54.685Z"
 }
