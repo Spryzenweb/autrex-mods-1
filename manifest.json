@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-26T07:29:50.992Z",
+ "updated_at": "2026-10-26T07:30:29.174Z",
  "repo_bytes": {
-  "autrex-mods-1": 68046085183
+  "autrex-mods-1": 67926460575
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -64045,308 +64045,6 @@
    "first_seen": "2026-10-25T07:24:44.555Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/yett%20(Yuumi%20as%20Sett)/yett.fantome"
-  },
-  "RF_Storage1/Part4/High Noon Ezreal/high-noon-ezreal-1-0-0.fantome": {
-   "size": 39304595,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/High%20Noon%20Ezreal/high-noon-ezreal-1-0-0.fantome",
-   "first_seen": "2026-10-26T07:29:30.808Z"
-  },
-  "RF_Storage1/Part1/Windblume Festival HUD/windblume-festival-hud-v2-3-1-by-reinforced-soul-and-slime.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Windblume Festival HUD/windblume-festival-hud-v2-3-1-by-reinforced-soul-and-slime.fantome",
-   "size": 8036828,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Windblume%20Festival%20HUD/windblume-festival-hud-v2-3-1-by-reinforced-soul-and-slime.fantome"
-  },
-  "RF_Storage1/Part2/Ruined Kayn/ruined-kayn.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part2/Ruined Kayn/ruined-kayn.fantome",
-   "size": 3817217,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Ruined%20Kayn/ruined-kayn.fantome"
-  },
-  "RF_Storage1/Part2/Spirit Blossom Kayn/spirit-blossom-kayn.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part2/Spirit Blossom Kayn/spirit-blossom-kayn.fantome",
-   "size": 22644016,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Spirit%20Blossom%20Kayn/spirit-blossom-kayn.fantome"
-  },
-  "RF_Storage1/Part4/Astra Yao Ahri/astra-yao-by-kassalich.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Astra Yao Ahri/astra-yao-by-kassalich.fantome",
-   "size": 16595833,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Astra%20Yao%20Ahri/astra-yao-by-kassalich.fantome"
-  },
-  "RF_Storage1/Part4/Classic Rift - Harrowing/classic-rift-harrowing-16-21-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Classic Rift - Harrowing/classic-rift-harrowing-16-21-1_large_file.txt",
-   "size": 358,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Classic%20Rift%20-%20Harrowing/classic-rift-harrowing-16-21-1_large_file.txt"
-  },
-  "RF_Storage1/Part4/Classic Rift - Winter/classic-rift-winter-16-21-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Classic Rift - Winter/classic-rift-winter-16-21-1_large_file.txt",
-   "size": 346,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Classic%20Rift%20-%20Winter/classic-rift-winter-16-21-1_large_file.txt"
-  },
-  "RF_Storage1/Part4/Frieza (Quinn)/frieza.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Frieza (Quinn)/frieza.fantome",
-   "size": 25215057,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Frieza%20(Quinn)/frieza.fantome"
-  },
-  "RF_Storage1/Part4/Guardian of the Night Lux - Classic & Modern/guardian-of-the-night-lux-classic.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Guardian of the Night Lux - Classic & Modern/guardian-of-the-night-lux-classic.fantome",
-   "size": 11627288,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Guardian%20of%20the%20Night%20Lux%20-%20Classic%20%26%20Modern/guardian-of-the-night-lux-classic.fantome"
-  },
-  "RF_Storage1/Part4/Halloween Lux - Classic & Modern/halloween-lux-classic.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Halloween Lux - Classic & Modern/halloween-lux-classic.fantome",
-   "size": 15542812,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Halloween%20Lux%20-%20Classic%20%26%20Modern/halloween-lux-classic.fantome"
-  },
-  "RF_Storage1/Part4/Kitty Cat Lux - Classic & Modern/kitty-cat-lux-classic.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Kitty Cat Lux - Classic & Modern/kitty-cat-lux-classic.fantome",
-   "size": 11441602,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Kitty%20Cat%20Lux%20-%20Classic%20%26%20Modern/kitty-cat-lux-classic.fantome"
-  },
-  "RF_Storage1/Part4/Krieg The Psycho Dr.Mundo/mundo-krieg-v-1-2-8_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Krieg The Psycho Dr.Mundo/mundo-krieg-v-1-2-8_large_file.txt",
-   "size": 326,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Krieg%20The%20Psycho%20Dr.Mundo/mundo-krieg-v-1-2-8_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Janna ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/janna-base-tempest-hextech-old-ui.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Janna ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/janna-base-tempest-hextech-old-ui.fantome",
-   "size": 4693928,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Janna%20(%20from%20league%20classic%20)%20ONLY%20FOR%20LIVE%20LEAGUE%20DOSNT%20WORK%20IN%20CLASSIC/janna-base-tempest-hextech-old-ui.fantome"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Beach/old-sr-v2-beach-16-18-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Beach/old-sr-v2-beach-16-18-0_large_file.txt",
-   "size": 342,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Beach/old-sr-v2-beach-16-18-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Beach/old-sr-v2-beach-16-18-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Beach/old-sr-v2-beach-16-18-1_large_file.txt",
-   "size": 342,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Beach/old-sr-v2-beach-16-18-1_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Beach/old-sr-v3-beach-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Beach/old-sr-v3-beach-16-21-0_large_file.txt",
-   "size": 342,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Beach/old-sr-v3-beach-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Beach/old-summoners-rift-v2-beach-day-by-the-killerey-x-yurixy_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Beach/old-summoners-rift-v2-beach-day-by-the-killerey-x-yurixy_large_file.txt",
-   "size": 441,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Beach/old-summoners-rift-v2-beach-day-by-the-killerey-x-yurixy_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Cursed/old-sr-v2-cursed-16-18-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Cursed/old-sr-v2-cursed-16-18-0_large_file.txt",
-   "size": 346,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Cursed/old-sr-v2-cursed-16-18-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Cursed/old-sr-v2-cursed-16-18-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Cursed/old-sr-v2-cursed-16-18-1_large_file.txt",
-   "size": 346,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Cursed/old-sr-v2-cursed-16-18-1_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Cursed/old-sr-v3-cursed-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Cursed/old-sr-v3-cursed-16-21-0_large_file.txt",
-   "size": 346,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Cursed/old-sr-v3-cursed-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Cursed/old-summoners-rift-v2-cursed-rift-night-version-by-the-killerey_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Cursed/old-summoners-rift-v2-cursed-rift-night-version-by-the-killerey_large_file.txt",
-   "size": 463,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Cursed/old-summoners-rift-v2-cursed-rift-night-version-by-the-killerey_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Day/old-sr-v2-day-16-18-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Day/old-sr-v2-day-16-18-0_large_file.txt",
-   "size": 334,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Day/old-sr-v2-day-16-18-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Day/old-sr-v2-day-16-18-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Day/old-sr-v2-day-16-18-1_large_file.txt",
-   "size": 334,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Day/old-sr-v2-day-16-18-1_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Day/old-sr-v3-day-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Day/old-sr-v3-day-16-21-0_large_file.txt",
-   "size": 334,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Day/old-sr-v3-day-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Day/old-summoners-rift-v2-by-the-killerey_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Day/old-summoners-rift-v2-by-the-killerey_large_file.txt",
-   "size": 382,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Day/old-summoners-rift-v2-by-the-killerey_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Harrowing/old-sr-v3-harrowing-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Harrowing/old-sr-v3-harrowing-16-21-0_large_file.txt",
-   "size": 358,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Harrowing/old-sr-v3-harrowing-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Night/old-sr-v2-night-16-18-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Night/old-sr-v2-night-16-18-0_large_file.txt",
-   "size": 342,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Night/old-sr-v2-night-16-18-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Night/old-sr-v2-night-16-18-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Night/old-sr-v2-night-16-18-1_large_file.txt",
-   "size": 342,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Night/old-sr-v2-night-16-18-1_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Night/old-sr-v3-night-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Night/old-sr-v3-night-16-21-0_large_file.txt",
-   "size": 342,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Night/old-sr-v3-night-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Night/old-summoners-rift-v2-night-by-the-killerey_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Night/old-summoners-rift-v2-night-by-the-killerey_large_file.txt",
-   "size": 402,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Night/old-summoners-rift-v2-night-by-the-killerey_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Unbound/old-rift-of-the-unbound-by-the-killerey_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Unbound/old-rift-of-the-unbound-by-the-killerey_large_file.txt",
-   "size": 392,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Unbound/old-rift-of-the-unbound-by-the-killerey_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Unbound/old-sr-v2-unbound-16-18-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Unbound/old-sr-v2-unbound-16-18-0_large_file.txt",
-   "size": 350,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Unbound/old-sr-v2-unbound-16-18-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Unbound/old-sr-v2-unbound-16-18-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Unbound/old-sr-v2-unbound-16-18-1_large_file.txt",
-   "size": 350,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Unbound/old-sr-v2-unbound-16-18-1_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Unbound/old-sr-v3-unbound-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Unbound/old-sr-v3-unbound-16-21-0_large_file.txt",
-   "size": 350,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Unbound/old-sr-v3-unbound-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Winter/old-sr-v2-winter-16-18-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Winter/old-sr-v2-winter-16-18-0_large_file.txt",
-   "size": 346,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Winter/old-sr-v2-winter-16-18-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Winter/old-sr-v2-winter-16-18-1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Winter/old-sr-v2-winter-16-18-1_large_file.txt",
-   "size": 346,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Winter/old-sr-v2-winter-16-18-1_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Winter/old-sr-v3-winter-16-21-0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Winter/old-sr-v3-winter-16-21-0_large_file.txt",
-   "size": 346,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Winter/old-sr-v3-winter-16-21-0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Old Summoners Rift V3 - Winter/old-winters-rift-v2-by-the-killerey_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Winter/old-winters-rift-v2-by-the-killerey_large_file.txt",
-   "size": 379,
-   "first_seen": "2026-10-26T07:29:50.992Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Winter/old-winters-rift-v2-by-the-killerey_large_file.txt"
   }
  },
  "images": {
@@ -87145,49 +86843,49 @@
   "256d9905-83cd-42e3-83f8-9df40c3130fd.png": {
    "repo": "autrex-mods-1",
    "size": 1772950,
-   "first_seen": "2026-10-26T07:29:14.459Z",
+   "first_seen": "2026-10-26T07:30:29.174Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/256d9905-83cd-42e3-83f8-9df40c3130fd.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/256d9905-83cd-42e3-83f8-9df40c3130fd.png"
   },
   "bd28f76c-6cf2-4cc2-8cb0-593835920aa5.jpg": {
    "repo": "autrex-mods-1",
    "size": 749852,
-   "first_seen": "2026-10-26T07:29:14.459Z",
+   "first_seen": "2026-10-26T07:30:29.174Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/bd28f76c-6cf2-4cc2-8cb0-593835920aa5.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/bd28f76c-6cf2-4cc2-8cb0-593835920aa5.jpg"
   },
   "0b684024-73e8-4527-a450-04079d194313.webp": {
    "repo": "autrex-mods-1",
    "size": 237714,
-   "first_seen": "2026-10-26T07:29:14.459Z",
+   "first_seen": "2026-10-26T07:30:29.174Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/0b684024-73e8-4527-a450-04079d194313.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/0b684024-73e8-4527-a450-04079d194313.webp"
   },
   "9032652a-9e52-4914-906c-d5207a69dafa.png": {
    "repo": "autrex-mods-1",
    "size": 1733749,
-   "first_seen": "2026-10-26T07:29:14.459Z",
+   "first_seen": "2026-10-26T07:30:29.174Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9032652a-9e52-4914-906c-d5207a69dafa.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9032652a-9e52-4914-906c-d5207a69dafa.png"
   },
   "e1c9d051-da46-46d7-9630-07a3d666ebfe.png": {
    "repo": "autrex-mods-1",
    "size": 1734156,
-   "first_seen": "2026-10-26T07:29:14.459Z",
+   "first_seen": "2026-10-26T07:30:29.174Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/e1c9d051-da46-46d7-9630-07a3d666ebfe.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/e1c9d051-da46-46d7-9630-07a3d666ebfe.png"
   },
   "34e1d9f1-ee29-46c1-abba-30eaa3ba476f.png": {
    "repo": "autrex-mods-1",
    "size": 2608048,
-   "first_seen": "2026-10-26T07:29:14.459Z",
+   "first_seen": "2026-10-26T07:30:29.174Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/34e1d9f1-ee29-46c1-abba-30eaa3ba476f.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/34e1d9f1-ee29-46c1-abba-30eaa3ba476f.png"
   },
   "3cbbb942-8d11-4b4c-8a9f-ad0c33daff67.webp": {
    "repo": "autrex-mods-1",
    "size": 15526,
-   "first_seen": "2026-10-26T07:29:14.459Z",
+   "first_seen": "2026-10-26T07:30:29.174Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/3cbbb942-8d11-4b4c-8a9f-ad0c33daff67.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/3cbbb942-8d11-4b4c-8a9f-ad0c33daff67.webp"
   }
@@ -90421,5 +90119,5 @@
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
  ],
  "image_total": 3259,
- "images_crawled_at": "2026-10-26T07:28:44.634Z"
+ "images_crawled_at": "2026-10-26T07:30:24.675Z"
 }
