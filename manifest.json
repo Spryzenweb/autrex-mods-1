@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-10-30T22:23:55.996Z",
+ "updated_at": "2026-10-31T08:02:52.607Z",
  "repo_bytes": {
-  "autrex-mods-1": 68288064967
+  "autrex-mods-1": 68289105168
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -87809,9 +87809,25 @@
    "first_seen": "2026-10-30T22:03:16.098Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/67501030-15b6-4bc8-a090-030eed265a24.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/67501030-15b6-4bc8-a090-030eed265a24.jpg"
+  },
+  "4e47a79b-80f6-4988-84b3-710887363de7.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 117895,
+   "first_seen": "2026-10-31T08:02:52.607Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/4e47a79b-80f6-4988-84b3-710887363de7.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/4e47a79b-80f6-4988-84b3-710887363de7.jpg"
+  },
+  "bfc46508-36f6-4fdf-b0f5-c1393ed58ed1.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 922306,
+   "first_seen": "2026-10-31T08:02:52.607Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/bfc46508-36f6-4fdf-b0f5-c1393ed58ed1.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/bfc46508-36f6-4fdf-b0f5-c1393ed58ed1.jpg"
   }
  },
  "image_keys": [
+  "4e47a79b-80f6-4988-84b3-710887363de7.jpg",
+  "bfc46508-36f6-4fdf-b0f5-c1393ed58ed1.jpg",
   "5d8321da-7b1c-4cce-81c7-6e3a6e9c7e2d.png",
   "67501030-15b6-4bc8-a090-030eed265a24.jpg",
   "dbec3eab-bce7-420d-b60b-e28dbb08d2ce.jpg",
@@ -91089,6 +91105,6 @@
   "3672d22d-3de0-453c-ba30-466d1fe32a00.jpg",
   "9dee21a2-280d-426d-4945-1bbde48c3700.jpg"
  ],
- "image_total": 3309,
- "images_crawled_at": "2026-10-30T22:03:12.838Z"
+ "image_total": 3311,
+ "images_crawled_at": "2026-10-31T08:02:33.429Z"
 }
