@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-02T09:19:50.576Z",
+ "updated_at": "2026-11-02T19:59:55.800Z",
  "repo_bytes": {
-  "autrex-mods-1": 75161373710
+  "autrex-mods-1": 75165151189
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -95742,9 +95742,74 @@
    "first_seen": "2026-11-02T08:56:15.947Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/be02e071-c022-45c5-a401-f068d5d0af3b.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/be02e071-c022-45c5-a401-f068d5d0af3b.png"
+  },
+  "733eb11f-0706-4559-8b88-34c084c3ee61.png": {
+   "repo": "autrex-mods-1",
+   "size": 3253095,
+   "first_seen": "2026-11-02T19:59:55.800Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/733eb11f-0706-4559-8b88-34c084c3ee61.png",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/733eb11f-0706-4559-8b88-34c084c3ee61.png"
+  },
+  "2fb49f3f-10d2-4ac6-9b17-0e7bdfedfc79.webp": {
+   "repo": "autrex-mods-1",
+   "size": 168550,
+   "first_seen": "2026-11-02T19:59:55.800Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/2fb49f3f-10d2-4ac6-9b17-0e7bdfedfc79.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/2fb49f3f-10d2-4ac6-9b17-0e7bdfedfc79.webp"
+  },
+  "30dfb757-f0b5-4314-9a14-e641ca5010cb.webp": {
+   "repo": "autrex-mods-1",
+   "size": 15526,
+   "first_seen": "2026-11-02T19:59:55.800Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/30dfb757-f0b5-4314-9a14-e641ca5010cb.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/30dfb757-f0b5-4314-9a14-e641ca5010cb.webp"
+  },
+  "8e361b28-16ed-416a-be8f-8f9d0d8a0441.webp": {
+   "repo": "autrex-mods-1",
+   "size": 53520,
+   "first_seen": "2026-11-02T19:59:55.800Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/8e361b28-16ed-416a-be8f-8f9d0d8a0441.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/8e361b28-16ed-416a-be8f-8f9d0d8a0441.webp"
+  },
+  "bac43388-8264-4de3-ae7c-2879bc9d9d68.webp": {
+   "repo": "autrex-mods-1",
+   "size": 55348,
+   "first_seen": "2026-11-02T19:59:55.800Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/bac43388-8264-4de3-ae7c-2879bc9d9d68.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/bac43388-8264-4de3-ae7c-2879bc9d9d68.webp"
+  },
+  "c068d7db-3da6-4d41-b0a1-64813d85fa22.webp": {
+   "repo": "autrex-mods-1",
+   "size": 54316,
+   "first_seen": "2026-11-02T19:59:55.800Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/c068d7db-3da6-4d41-b0a1-64813d85fa22.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/c068d7db-3da6-4d41-b0a1-64813d85fa22.webp"
+  },
+  "c7104b62-24b4-4b19-9020-459ca5e1b0c2.webp": {
+   "repo": "autrex-mods-1",
+   "size": 58192,
+   "first_seen": "2026-11-02T19:59:55.800Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/c7104b62-24b4-4b19-9020-459ca5e1b0c2.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/c7104b62-24b4-4b19-9020-459ca5e1b0c2.webp"
+  },
+  "9b0d5ab2-2f77-4b1f-b568-047519df1f6d.webp": {
+   "repo": "autrex-mods-1",
+   "size": 49496,
+   "first_seen": "2026-11-02T19:59:55.800Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/9b0d5ab2-2f77-4b1f-b568-047519df1f6d.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/9b0d5ab2-2f77-4b1f-b568-047519df1f6d.webp"
+  },
+  "a37a3be7-6863-4487-b12e-1440f5b8dea1.webp": {
+   "repo": "autrex-mods-1",
+   "size": 69436,
+   "first_seen": "2026-11-02T19:59:55.800Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/a37a3be7-6863-4487-b12e-1440f5b8dea1.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/a37a3be7-6863-4487-b12e-1440f5b8dea1.webp"
   }
  },
  "image_keys": [
+  "733eb11f-0706-4559-8b88-34c084c3ee61.png",
+  "2fb49f3f-10d2-4ac6-9b17-0e7bdfedfc79.webp",
   "1812be78-4122-44fc-9e8c-0d22852479e6.webp",
   "fcb983b5-9eac-4c37-b8d7-c39574117324.webp",
   "770cbe35-6062-4db9-a300-440e65b81314.png",
@@ -95809,13 +95874,13 @@
   "3fa3005c-f40b-46c7-ba8d-91a1c329e800.png",
   "7f1473fc-fe7e-49bf-a165-ac60909d6c20.jpg",
   "d27b61a3-4063-473f-ae48-58f03c1e228e.jpg",
-  "3cbbb942-8d11-4b4c-8a9f-ad0c33daff67.webp",
-  "73e819c7-fca3-4bda-a0d2-4c11a24843f2.png",
-  "4507e59b-fc74-4bfc-a76b-84757a1e67f3.webp",
-  "24cb7723-d671-45cf-939b-4fb52f509f25.webp",
-  "27eda6f9-0d29-4cd8-80bc-e86924c61eb7.webp",
-  "aa8d4f40-61a9-4015-90f7-7c2e2df15afd.webp",
-  "87e96b25-1378-49ab-9627-ad5b719fb7b1.webp",
+  "30dfb757-f0b5-4314-9a14-e641ca5010cb.webp",
+  "8e361b28-16ed-416a-be8f-8f9d0d8a0441.webp",
+  "bac43388-8264-4de3-ae7c-2879bc9d9d68.webp",
+  "c068d7db-3da6-4d41-b0a1-64813d85fa22.webp",
+  "c7104b62-24b4-4b19-9020-459ca5e1b0c2.webp",
+  "9b0d5ab2-2f77-4b1f-b568-047519df1f6d.webp",
+  "a37a3be7-6863-4487-b12e-1440f5b8dea1.webp",
   "d9053cfe-e90a-4b5c-874e-887f2458ab60.jpg",
   "dd9677f3-2214-421f-8264-b65394c2b79d.png",
   "139055e6-2115-4d0c-1890-74fb7e6e7000.webp",
@@ -96104,7 +96169,6 @@
   "5172e43c-d4b9-424f-aaad-a7b292ad583a.png",
   "42b6d685-e51c-4dee-8cad-7117cc86d24e.png",
   "dbc20dac-1ff1-4df8-8b5b-e141d4acb875.png",
-  "cfbead7f-f98b-4a7f-8d79-88e6539e6c9f.jpg",
   "cdc5fab1-d529-46ca-b5fe-8d1d4ca17c4d.png",
   "1ee7b507-83e4-46dc-960b-ec841e49cc00.png",
   "4a8a8f0f-c1b6-49cd-1bc9-434d467d9000.png",
@@ -96223,9 +96287,8 @@
   "e18f34c7-e091-4f01-bf11-80ec2b74c6b4.png",
   "de9dd73e-a35e-4723-83bf-14899cb9c4df.png",
   "9fb82964-feaf-4bc7-9321-fdce0c13100e.png",
-  "671ae205-7b99-4edc-817d-97c33c0d4995.png",
-  "0ec773e6-4b97-41bc-a9a0-48f8728ffa01.png"
+  "671ae205-7b99-4edc-817d-97c33c0d4995.png"
  ],
  "image_total": 3311,
- "images_crawled_at": "2026-11-02T08:56:07.867Z"
+ "images_crawled_at": "2026-11-02T19:59:23.102Z"
 }
