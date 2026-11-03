@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-03T09:05:34.519Z",
+ "updated_at": "2026-11-03T09:05:47.399Z",
  "repo_bytes": {
-  "autrex-mods-1": 75190723099
+  "autrex-mods-1": 75167852150
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -72465,46 +72465,6 @@
    "first_seen": "2026-10-31T16:07:20.925Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/yassified%20killstreak%20sounds/killstreak-mod_1.0.0_%5B6.7.0%5D.fantome"
-  },
-  "RF_Storage1/Part1/Map Forcer/Map Forcer_Main.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Map Forcer/Map Forcer_Main.fantome",
-   "size": 2089148,
-   "first_seen": "2026-11-03T09:05:34.519Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Map%20Forcer/Map%20Forcer_Main.fantome"
-  },
-  "RF_Storage1/Part1/Stark Darius/Stark Darius_Main.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Stark Darius/Stark Darius_Main.fantome",
-   "size": 1821240,
-   "first_seen": "2026-11-03T09:05:34.519Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Stark%20Darius/Stark%20Darius_Main.fantome"
-  },
-  "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/D (EDGERUNNERS 2) Soul Fighter Viego_D-Capri-Viego-v0.4.0-HD.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/D (EDGERUNNERS 2) Soul Fighter Viego_D-Capri-Viego-v0.4.0-HD.1.fantome",
-   "size": 12593953,
-   "first_seen": "2026-11-03T09:05:34.519Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego_D-Capri-Viego-v0.4.0-HD.1.fantome"
-  },
-  "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/D (EDGERUNNERS 2) Soul Fighter Viego_Viego-D-VO-v1.3.0-official-Wwise.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/D (EDGERUNNERS 2) Soul Fighter Viego/D (EDGERUNNERS 2) Soul Fighter Viego_Viego-D-VO-v1.3.0-official-Wwise.fantome",
-   "size": 6366273,
-   "first_seen": "2026-11-03T09:05:34.519Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego/D%20(EDGERUNNERS%202)%20Soul%20Fighter%20Viego_Viego-D-VO-v1.3.0-official-Wwise.fantome"
-  },
-  "RF_Storage1/Part4/Spirit Blossom Rift/Spirit Blossom Rift_Main_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Spirit Blossom Rift/Spirit Blossom Rift_Main_large_file.txt",
-   "size": 335,
-   "first_seen": "2026-11-03T09:05:34.519Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Spirit%20Blossom%20Rift/Spirit%20Blossom%20Rift_Main_large_file.txt"
   }
  },
  "images": {
@@ -95849,21 +95809,21 @@
   "c1384fd1-ceed-407d-b2a1-867da88e9dcd.jpg": {
    "repo": "autrex-mods-1",
    "size": 972463,
-   "first_seen": "2026-11-03T09:05:15.478Z",
+   "first_seen": "2026-11-03T09:05:47.399Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/c1384fd1-ceed-407d-b2a1-867da88e9dcd.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/c1384fd1-ceed-407d-b2a1-867da88e9dcd.jpg"
   },
   "f66280b7-a449-44a8-ba38-0d782e79dcd8.jpg": {
    "repo": "autrex-mods-1",
    "size": 961669,
-   "first_seen": "2026-11-03T09:05:15.478Z",
+   "first_seen": "2026-11-03T09:05:47.399Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/f66280b7-a449-44a8-ba38-0d782e79dcd8.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/f66280b7-a449-44a8-ba38-0d782e79dcd8.jpg"
   },
   "6b2fdcf4-2188-4c8d-b6e3-609f124b18ec.jpg": {
    "repo": "autrex-mods-1",
    "size": 766829,
-   "first_seen": "2026-11-03T09:05:15.478Z",
+   "first_seen": "2026-11-03T09:05:47.399Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/6b2fdcf4-2188-4c8d-b6e3-609f124b18ec.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/6b2fdcf4-2188-4c8d-b6e3-609f124b18ec.jpg"
   }
@@ -96351,5 +96311,5 @@
   "de9dd73e-a35e-4723-83bf-14899cb9c4df.png"
  ],
  "image_total": 3313,
- "images_crawled_at": "2026-11-03T09:05:12.491Z"
+ "images_crawled_at": "2026-11-03T09:05:44.388Z"
 }
