@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-05T09:01:28.969Z",
+ "updated_at": "2026-11-05T09:02:17.174Z",
  "repo_bytes": {
-  "autrex-mods-1": 75576966230
+  "autrex-mods-1": 75926842097
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -72809,6 +72809,210 @@
    "first_seen": "2026-11-04T08:42:42.734Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Pool%20Party%20Sivir%20-%20Classic%20%26%20Modern/Pool%20Party%20Sivir%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Denia Leblanc (Wuthering Waves)/Denia Leblanc V1.0.0 by ascila.modpkg": {
+   "size": 48271066,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Denia%20Leblanc%20(Wuthering%20Waves)/Denia%20Leblanc%20V1.0.0%20by%20ascila.modpkg",
+   "first_seen": "2026-11-05T09:01:44.880Z"
+  },
+  "RF_Storage1/Part4/High Noon Ezreal/High Noon Ezreal V1.0.0 by @mattgicien.modpkg": {
+   "size": 38205803,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/High%20Noon%20Ezreal/High%20Noon%20Ezreal%20V1.0.0%20by%20%40mattgicien.modpkg",
+   "first_seen": "2026-11-05T09:01:47.273Z"
+  },
+  "RF_Storage1/Part2/Kafka Samira/Kafka Samira.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part2/Kafka Samira/Kafka Samira.fantome",
+   "size": 5034195,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Kafka%20Samira/Kafka%20Samira.fantome"
+  },
+  "RF_Storage1/Part4/Captain Cyrus Caitlyn/phobos-captain-cyrus-caitlyn_1.0.0.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Captain Cyrus Caitlyn/phobos-captain-cyrus-caitlyn_1.0.0.modpkg",
+   "size": 17391468,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Captain%20Cyrus%20Caitlyn/phobos-captain-cyrus-caitlyn_1.0.0.modpkg"
+  },
+  "RF_Storage1/Part4/Chaos Garen - Classic & Modern/Chaos Garen - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Chaos Garen - Classic & Modern/Chaos Garen - Classic.fantome",
+   "size": 20074084,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Chaos%20Garen%20-%20Classic%20%26%20Modern/Chaos%20Garen%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Chaos Garen - Classic & Modern/Chaos Garen - Classic_[v1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Chaos Garen - Classic & Modern/Chaos Garen - Classic_[v1.1.0].fantome",
+   "size": 11925216,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Chaos%20Garen%20-%20Classic%20%26%20Modern/Chaos%20Garen%20-%20Classic_%5Bv1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Dan Heng PT Zaahen/Dan Heng PT Zaahen V1.0.0.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Dan Heng PT Zaahen/Dan Heng PT Zaahen V1.0.0.modpkg",
+   "size": 25223314,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Dan%20Heng%20PT%20Zaahen/Dan%20Heng%20PT%20Zaahen%20V1.0.0.modpkg"
+  },
+  "RF_Storage1/Part4/Doritios Sivir - Classic & Modern/Doritos Sivir - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Doritios Sivir - Classic & Modern/Doritos Sivir - Classic.fantome",
+   "size": 16471382,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Doritios%20Sivir%20-%20Classic%20%26%20Modern/Doritos%20Sivir%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/EDG Viego - Crimson/EDG Viego - Crimson by Dempsey20.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/EDG Viego - Crimson/EDG Viego - Crimson by Dempsey20.fantome",
+   "size": 1690155,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/EDG%20Viego%20-%20Crimson/EDG%20Viego%20-%20Crimson%20by%20Dempsey20.fantome"
+  },
+  "RF_Storage1/Part4/Fallen Seraphim Kayn/Fallen Seraphim Kayn v1.0.0.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Fallen Seraphim Kayn/Fallen Seraphim Kayn v1.0.0.modpkg",
+   "size": 12918380,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Fallen%20Seraphim%20Kayn/Fallen%20Seraphim%20Kayn%20v1.0.0.modpkg"
+  },
+  "RF_Storage1/Part4/Flora Twisted Fate/Flora Twisted Fate V1.0.0 by acila.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Flora Twisted Fate/Flora Twisted Fate V1.0.0 by acila.modpkg",
+   "size": 18800125,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Flora%20Twisted%20Fate/Flora%20Twisted%20Fate%20V1.0.0%20by%20acila.modpkg"
+  },
+  "RF_Storage1/Part4/Fright Night Varus/Fright Night Varus.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Fright Night Varus/Fright Night Varus.fantome",
+   "size": 13184196,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Fright%20Night%20Varus/Fright%20Night%20Varus.fantome"
+  },
+  "RF_Storage1/Part4/GN-0000 00 Gundam Raiser Lucian - Classic & Modern/GN-0000 00 Gundam Raiser Lucian - Classic_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/GN-0000 00 Gundam Raiser Lucian - Classic & Modern/GN-0000 00 Gundam Raiser Lucian - Classic_[1.1.0].fantome",
+   "size": 5954687,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/GN-0000%2000%20Gundam%20Raiser%20Lucian%20-%20Classic%20%26%20Modern/GN-0000%2000%20Gundam%20Raiser%20Lucian%20-%20Classic_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Janitor Jax - Classic & Modern/Janitor Jax - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Janitor Jax - Classic & Modern/Janitor Jax - Classic.fantome",
+   "size": 18271500,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Janitor%20Jax%20-%20Classic%20%26%20Modern/Janitor%20Jax%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Knight Leona - Classic & Modern/Knight Leona - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Knight Leona - Classic & Modern/Knight Leona - Classic.fantome",
+   "size": 15991330,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Knight%20Leona%20-%20Classic%20%26%20Modern/Knight%20Leona%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/LeBlanc Witch Miku Nakano/LeBlanc Witch Miku Nakano.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/LeBlanc Witch Miku Nakano/LeBlanc Witch Miku Nakano.modpkg",
+   "size": 20117184,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/LeBlanc%20Witch%20Miku%20Nakano/LeBlanc%20Witch%20Miku%20Nakano.modpkg"
+  },
+  "RF_Storage1/Part4/Locke Joker/Locke Joker V1.0.0.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Locke Joker/Locke Joker V1.0.0.modpkg",
+   "size": 20613906,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Locke%20Joker/Locke%20Joker%20V1.0.0.modpkg"
+  },
+  "RF_Storage1/Part4/Meisho Doto [Dot-O'-Lantern] Vayne/Meisho Doto [Dot-O-Lantern] Vayne V1.0.0 by Goro.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Meisho Doto [Dot-O'-Lantern] Vayne/Meisho Doto [Dot-O-Lantern] Vayne V1.0.0 by Goro.modpkg",
+   "size": 6956491,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Meisho%20Doto%20%5BDot-O'-Lantern%5D%20Vayne/Meisho%20Doto%20%5BDot-O-Lantern%5D%20Vayne%20V1.0.0%20by%20Goro.modpkg"
+  },
+  "RF_Storage1/Part4/Necron Chronomancer Karthus/necron-chronomancer-karthus_1.0.0.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Necron Chronomancer Karthus/necron-chronomancer-karthus_1.0.0.modpkg",
+   "size": 18303495,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Necron%20Chronomancer%20Karthus/necron-chronomancer-karthus_1.0.0.modpkg"
+  },
+  "RF_Storage1/Part4/Pimp Jax - Classic & Modern/Pimp Jax - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Pimp Jax - Classic & Modern/Pimp Jax - Classic.fantome",
+   "size": 20036526,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Pimp%20Jax%20-%20Classic%20%26%20Modern/Pimp%20Jax%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Pimp Jax - Classic & Modern/Pimp Jax - Classic_[v1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Pimp Jax - Classic & Modern/Pimp Jax - Classic_[v1.1.0].fantome",
+   "size": 20028901,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Pimp%20Jax%20-%20Classic%20%26%20Modern/Pimp%20Jax%20-%20Classic_%5Bv1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Popstar Leona - Classic & Modern/Popstar Leona - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Popstar Leona - Classic & Modern/Popstar Leona - Classic.fantome",
+   "size": 14729453,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Popstar%20Leona%20-%20Classic%20%26%20Modern/Popstar%20Leona%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Rengar Tiamat FIx/v100-rengar-tiamat-fix.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Rengar Tiamat FIx/v100-rengar-tiamat-fix.modpkg",
+   "size": 630884,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Rengar%20Tiamat%20FIx/v100-rengar-tiamat-fix.modpkg"
+  },
+  "RF_Storage1/Part4/Soulhunter Jax - Classic & Modern/Soulhunter Jax - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Soulhunter Jax - Classic & Modern/Soulhunter Jax - Classic.fantome",
+   "size": 29217697,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Soulhunter%20Jax%20-%20Classic%20%26%20Modern/Soulhunter%20Jax%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Yone Brasil/Yone_Brazil_1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Yone Brasil/Yone_Brazil_1.0.fantome",
+   "size": 6698011,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yone%20Brasil/Yone_Brazil_1.0.fantome"
+  },
+  "RF_Storage1/Part4/flop announcer/flop-announcer_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/flop announcer/flop-announcer_1.0.0.fantome",
+   "size": 9613287,
+   "first_seen": "2026-11-05T09:02:17.174Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/flop%20announcer/flop-announcer_1.0.0.fantome"
   }
  },
  "images": {
