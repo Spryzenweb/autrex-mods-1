@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-05T18:17:57.195Z",
+ "updated_at": "2026-11-05T23:19:34.338Z",
  "repo_bytes": {
-  "autrex-mods-1": 75927869964
+  "autrex-mods-1": 75932254336
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -96549,9 +96549,26 @@
    "first_seen": "2026-11-05T17:56:59.731Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/f46e229f-b2d8-4a34-976d-05e9f883a88d.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/f46e229f-b2d8-4a34-976d-05e9f883a88d.png"
+  },
+  "23cf5147-e056-46fb-afb3-689de0431900.webp": {
+   "repo": "autrex-mods-1",
+   "size": 1659938,
+   "first_seen": "2026-11-05T23:19:34.338Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/23cf5147-e056-46fb-afb3-689de0431900.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/23cf5147-e056-46fb-afb3-689de0431900.webp"
+  },
+  "17be53ff-4ab9-44f9-af6b-fbed0a103607.webp": {
+   "repo": "autrex-mods-1",
+   "size": 2724434,
+   "first_seen": "2026-11-05T23:19:34.338Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/17be53ff-4ab9-44f9-af6b-fbed0a103607.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/17be53ff-4ab9-44f9-af6b-fbed0a103607.webp"
   }
  },
  "image_keys": [
+  "2ad71fa1-a5c5-4ed9-affc-e87909c7bfb6.jpg",
+  "23cf5147-e056-46fb-afb3-689de0431900.webp",
+  "17be53ff-4ab9-44f9-af6b-fbed0a103607.webp",
   "bd28f76c-6cf2-4cc2-8cb0-593835920aa5.jpg",
   "3c8217ea-caa7-4d0d-81be-efe937d72a80.webp",
   "95fa326a-1a5d-492b-b4ab-793bad624361.png",
@@ -97028,11 +97045,8 @@
   "5e42fd19-3889-414f-88df-79a23501ef3d.png",
   "83c406a6-cf7a-40d0-8a00-8966e703af05.png",
   "6c1f476b-80ec-4bbf-b736-0977da205524.png",
-  "3cf501cc-cc11-4593-a508-6507a5c8d9c0.png",
-  "a093f17c-48fc-4604-9016-ab81e84f72fe.PNG",
-  "0dfbaba4-2bdc-40c6-98df-6272bc81c633.png",
-  "5fc63664-620b-4179-bda6-6eb1b0ebb45d.png"
+  "3cf501cc-cc11-4593-a508-6507a5c8d9c0.png"
  ],
- "image_total": 3328,
- "images_crawled_at": "2026-11-05T17:56:56.461Z"
+ "image_total": 3331,
+ "images_crawled_at": "2026-11-05T23:19:25.848Z"
 }
