@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-06T08:58:11.558Z",
+ "updated_at": "2026-11-06T08:59:26.629Z",
  "repo_bytes": {
-  "autrex-mods-1": 75932254336
+  "autrex-mods-1": 76223991113
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -73013,6 +73013,310 @@
    "first_seen": "2026-11-05T09:06:09.613Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/flop%20announcer/flop-announcer_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Castorice Kayn/castorice-kayn_2.0.3.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Castorice Kayn/castorice-kayn_2.0.3.modpkg",
+   "size": 34537041,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Castorice%20Kayn/castorice-kayn_2.0.3.modpkg"
+  },
+  "RF_Storage1/Part2/Spirit Blossom Ahri Darius/Spirit Blossom Ahri Darius V1.0.0_[v3.0.0].modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part2/Spirit Blossom Ahri Darius/Spirit Blossom Ahri Darius V1.0.0_[v3.0.0].modpkg",
+   "size": 22555691,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Spirit%20Blossom%20Ahri%20Darius/Spirit%20Blossom%20Ahri%20Darius%20V1.0.0_%5Bv3.0.0%5D.modpkg"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/Old_storm_dragon_only_1.0.0_[1.2.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/Old_storm_dragon_only_1.0.0_[1.2.0].fantome",
+   "size": 23601309,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/Old_storm_dragon_only_1.0.0_%5B1.2.0%5D.fantome"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/Old_storm_dragon_only_1.0.1_[1.2.1].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/Old_storm_dragon_only_1.0.1_[1.2.1].fantome",
+   "size": 23601309,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/Old_storm_dragon_only_1.0.1_%5B1.2.1%5D.fantome"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-2018_1.1.1_[1.0.1]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-2018_1.1.1_[1.0.1]_large_file.txt",
+   "size": 341,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-2018_1.1.1_%5B1.0.1%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-2018_1.1.2_[1.0.2]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-2018_1.1.2_[1.0.2]_large_file.txt",
+   "size": 341,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-2018_1.1.2_%5B1.0.2%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-2018_1.1.3_[1.1.3]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-2018_1.1.3_[1.1.3]_large_file.txt",
+   "size": 341,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-2018_1.1.3_%5B1.1.3%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-2018_1.2.0_[1.2.0]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-2018_1.2.0_[1.2.0]_large_file.txt",
+   "size": 341,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-2018_1.2.0_%5B1.2.0%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-2018_1.2.1_[1.2.1]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-2018_1.2.1_[1.2.1]_large_file.txt",
+   "size": 341,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-2018_1.2.1_%5B1.2.1%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-muhfack-edit_1.1.1_[1.0.1]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-muhfack-edit_1.1.1_[1.0.1]_large_file.txt",
+   "size": 365,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-muhfack-edit_1.1.1_%5B1.0.1%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-muhfack-edit_1.1.2_[1.0.2]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-muhfack-edit_1.1.2_[1.0.2]_large_file.txt",
+   "size": 365,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-muhfack-edit_1.1.2_%5B1.0.2%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-muhfack-edit_1.1.3_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-muhfack-edit_1.1.3_large_file.txt",
+   "size": 342,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-muhfack-edit_1.1.3_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-muhfack-edit_1.2.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-muhfack-edit_1.2.0_large_file.txt",
+   "size": 342,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-muhfack-edit_1.2.0_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-muhfack-edit_1.2.1_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-muhfack-edit_1.2.1_large_file.txt",
+   "size": 342,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-muhfack-edit_1.2.1_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-old-old-s1-s8_1.1.1_[1.0.1]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-old-old-s1-s8_1.1.1_[1.0.1]_large_file.txt",
+   "size": 368,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-old-old-s1-s8_1.1.1_%5B1.0.1%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-old-old-s1-s8_1.1.2_[1.0.2]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-old-old-s1-s8_1.1.2_[1.0.2]_large_file.txt",
+   "size": 368,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-old-old-s1-s8_1.1.2_%5B1.0.2%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-old-old-s1-s8_1.1.3_[1.1.3]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-old-old-s1-s8_1.1.3_[1.1.3]_large_file.txt",
+   "size": 368,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-old-old-s1-s8_1.1.3_%5B1.1.3%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-old-old-s1-s8_1.2.0_[1.2.0]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-old-old-s1-s8_1.2.0_[1.2.0]_large_file.txt",
+   "size": 368,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-old-old-s1-s8_1.2.0_%5B1.2.0%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-leesin-old-old-s1-s8_1.2.1_[1.2.1]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-leesin-old-old-s1-s8_1.2.1_[1.2.1]_large_file.txt",
+   "size": 368,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-leesin-old-old-s1-s8_1.2.1_%5B1.2.1%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old-muay-thai_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old-muay-thai_1.0.0.fantome",
+   "size": 146,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old-muay-thai_1.0.0.fantome"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old_god_fist_only_1.0.0_[1.2.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old_god_fist_only_1.0.0_[1.2.0].fantome",
+   "size": 12923960,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old_god_fist_only_1.0.0_%5B1.2.0%5D.fantome"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/old_god_fist_only_1.0.0_[1.2.1].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/old_god_fist_only_1.0.0_[1.2.1].fantome",
+   "size": 12923960,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/old_god_fist_only_1.0.0_%5B1.2.1%5D.fantome"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/oldmodelonly_muhfack_1.1.3.1_[1.2.0]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/oldmodelonly_muhfack_1.1.3.1_[1.2.0]_large_file.txt",
+   "size": 362,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/oldmodelonly_muhfack_1.1.3.1_%5B1.2.0%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/oldmodelonly_muhfack_1.1.3.1_[1.2.1]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/oldmodelonly_muhfack_1.1.3.1_[1.2.1]_large_file.txt",
+   "size": 362,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/oldmodelonly_muhfack_1.1.3.1_%5B1.2.1%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/oldmodelonly_muhfack_1.1.3_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/oldmodelonly_muhfack_1.1.3_large_file.txt",
+   "size": 333,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/oldmodelonly_muhfack_1.1.3_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/oldmodelonly_muhfack_[1.0.1]_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/oldmodelonly_muhfack_[1.0.1]_large_file.txt",
+   "size": 338,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/oldmodelonly_muhfack_%5B1.0.1%5D_large_file.txt"
+  },
+  "RF_Storage1/Part3/Old Lee Sin/oldmodelonly_muhfack_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Old Lee Sin/oldmodelonly_muhfack_large_file.txt",
+   "size": 315,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Old%20Lee%20Sin/oldmodelonly_muhfack_large_file.txt"
+  },
+  "RF_Storage1/Part4/Atsu Forseen Yasuo/Yasuo-Atsu-Ghost-of-Yotei-v1.0.2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Atsu Forseen Yasuo/Yasuo-Atsu-Ghost-of-Yotei-v1.0.2.fantome",
+   "size": 10255638,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Atsu%20Forseen%20Yasuo/Yasuo-Atsu-Ghost-of-Yotei-v1.0.2.fantome"
+  },
+  "RF_Storage1/Part4/Bel'Veth - Subnautica CrimsonGhost Rays/Belveth_Subnautica_Rays_v1.0.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Bel'Veth - Subnautica CrimsonGhost Rays/Belveth_Subnautica_Rays_v1.0.modpkg",
+   "size": 365,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Bel'Veth%20-%20Subnautica%20CrimsonGhost%20Rays/Belveth_Subnautica_Rays_v1.0.modpkg"
+  },
+  "RF_Storage1/Part4/Carl Johnson Tryndamere/Carl Johnson Tryndamere V1.0.0 by Yigit Vercetti.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Carl Johnson Tryndamere/Carl Johnson Tryndamere V1.0.0 by Yigit Vercetti.modpkg",
+   "size": 7715684,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Carl%20Johnson%20Tryndamere/Carl%20Johnson%20Tryndamere%20V1.0.0%20by%20Yigit%20Vercetti.modpkg"
+  },
+  "RF_Storage1/Part4/Jinx - Battle Cat - Chroma VFX/Jinx - Battle Cat - Chroma VFX V1.0.0 by 1gem1rachel.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Jinx - Battle Cat - Chroma VFX/Jinx - Battle Cat - Chroma VFX V1.0.0 by 1gem1rachel.modpkg",
+   "size": 23042737,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Jinx%20-%20Battle%20Cat%20-%20Chroma%20VFX/Jinx%20-%20Battle%20Cat%20-%20Chroma%20VFX%20V1.0.0%20by%201gem1rachel.modpkg"
+  },
+  "RF_Storage1/Part4/Molten Glass Rek'Sai/MoltenGlass_RekSai_v1.0.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Molten Glass Rek'Sai/MoltenGlass_RekSai_v1.0.modpkg",
+   "size": 331,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Molten%20Glass%20Rek'Sai/MoltenGlass_RekSai_v1.0.modpkg"
+  },
+  "RF_Storage1/Part4/Star Guardian Seraphine FIX/star-guardian-seraphine-fix_2.0.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Star Guardian Seraphine FIX/star-guardian-seraphine-fix_2.0.0_large_file.txt",
+   "size": 370,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Star%20Guardian%20Seraphine%20FIX/star-guardian-seraphine-fix_2.0.0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Yuulaf (Yuumi as Olaf)/Yuulaf_[v0.1.1].modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Yuulaf (Yuumi as Olaf)/Yuulaf_[v0.1.1].modpkg",
+   "size": 9583773,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yuulaf%20(Yuumi%20as%20Olaf)/Yuulaf_%5Bv0.1.1%5D.modpkg"
+  },
+  "RF_Storage1/Part4/Yuuliyah (Yuumi as Taliyah)/Yuuliyah.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Yuuliyah (Yuumi as Taliyah)/Yuuliyah.modpkg",
+   "size": 32260307,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yuuliyah%20(Yuumi%20as%20Taliyah)/Yuuliyah.modpkg"
+  },
+  "RF_Storage1/Part4/Yuuliyah (Yuumi as Taliyah)/Yuuliyah_[v0.1.0].modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Yuuliyah (Yuumi as Taliyah)/Yuuliyah_[v0.1.0].modpkg",
+   "size": 26105702,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yuuliyah%20(Yuumi%20as%20Taliyah)/Yuuliyah_%5Bv0.1.0%5D.modpkg"
+  },
+  "RF_Storage1/Part4/yett (Yuumi as Sett)/Yett_[v0.1.1].modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/yett (Yuumi as Sett)/Yett_[v0.1.1].modpkg",
+   "size": 24250128,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/yett%20(Yuumi%20as%20Sett)/Yett_%5Bv0.1.1%5D.modpkg"
+  },
+  "RF_Storage1/Part4/yett (Yuumi as Sett)/Yett_[v0.1.2].modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/yett (Yuumi as Sett)/Yett_[v0.1.2].modpkg",
+   "size": 28371315,
+   "first_seen": "2026-11-06T08:59:26.628Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/yett%20(Yuumi%20as%20Sett)/Yett_%5Bv0.1.2%5D.modpkg"
   }
  },
  "images": {
