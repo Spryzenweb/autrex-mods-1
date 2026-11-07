@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-07T16:32:18.819Z",
+ "updated_at": "2026-11-07T21:30:32.224Z",
  "repo_bytes": {
-  "autrex-mods-1": 76290405618
+  "autrex-mods-1": 76292584749
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -96924,9 +96924,25 @@
    "first_seen": "2026-11-07T16:12:29.078Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/8733aa39-0888-4557-aa5e-975453fef51b.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/8733aa39-0888-4557-aa5e-975453fef51b.jpg"
+  },
+  "335c91c4-1afb-461b-830d-c4f51d6efbab.webp": {
+   "repo": "autrex-mods-1",
+   "size": 1233984,
+   "first_seen": "2026-11-07T21:30:32.224Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/335c91c4-1afb-461b-830d-c4f51d6efbab.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/335c91c4-1afb-461b-830d-c4f51d6efbab.webp"
+  },
+  "b3ca7d19-eae3-4a28-ba8f-6de457d51459.png": {
+   "repo": "autrex-mods-1",
+   "size": 945147,
+   "first_seen": "2026-11-07T21:30:32.224Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/b3ca7d19-eae3-4a28-ba8f-6de457d51459.png",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/b3ca7d19-eae3-4a28-ba8f-6de457d51459.png"
   }
  },
  "image_keys": [
+  "335c91c4-1afb-461b-830d-c4f51d6efbab.webp",
+  "b3ca7d19-eae3-4a28-ba8f-6de457d51459.png",
   "8733aa39-0888-4557-aa5e-975453fef51b.jpg",
   "e1c9d051-da46-46d7-9630-07a3d666ebfe.png",
   "9032652a-9e52-4914-906c-d5207a69dafa.png",
@@ -96940,7 +96956,6 @@
   "5678a6da-1663-46d4-e299-40fcc50bea00.png",
   "3fa3005c-f40b-46c7-ba8d-91a1c329e800.png",
   "7f1473fc-fe7e-49bf-a165-ac60909d6c20.jpg",
-  "6a4999c5-96e5-4fa9-a3b6-1657cb2a48c1.png",
   "2ad71fa1-a5c5-4ed9-affc-e87909c7bfb6.jpg",
   "23cf5147-e056-46fb-afb3-689de0431900.webp",
   "17be53ff-4ab9-44f9-af6b-fbed0a103607.webp",
@@ -97405,9 +97420,8 @@
   "44da2109-8945-4552-a3d3-94db7ecd3aa6.png",
   "d22ca177-2fb8-4c20-8371-9cc866fe18d9.png",
   "fab4a1ca-37b6-4ef6-8151-6384b423fb5a.png",
-  "4a80e6d1-b493-411f-afef-807407b57437.png",
-  "9abbc58e-af9f-46bd-896a-7bd30c6e3f9d.png"
+  "4a80e6d1-b493-411f-afef-807407b57437.png"
  ],
  "image_total": 3341,
- "images_crawled_at": "2026-11-07T16:12:25.914Z"
+ "images_crawled_at": "2026-11-07T21:30:00.532Z"
 }
