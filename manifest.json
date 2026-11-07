@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-07T08:29:14.069Z",
+ "updated_at": "2026-11-07T08:29:34.277Z",
  "repo_bytes": {
-  "autrex-mods-1": 76227127739
+  "autrex-mods-1": 76289590293
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -73317,6 +73317,42 @@
    "first_seen": "2026-11-06T09:03:24.926Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/yett%20(Yuumi%20as%20Sett)/Yett_%5Bv0.1.2%5D.modpkg"
+  },
+  "RF_Storage1/Part4/Deff Dread Cho'Gath/deff-dread-chogath_0.1.0.modpkg": {
+   "size": 40849125,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Deff%20Dread%20Cho'Gath/deff-dread-chogath_0.1.0.modpkg",
+   "first_seen": "2026-11-07T08:29:29.472Z"
+  },
+  "RF_Storage1/Part4/Locke Gambit/Locke Gambit.modpkg": {
+   "size": 39232372,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Locke%20Gambit/Locke%20Gambit.modpkg",
+   "first_seen": "2026-11-07T08:29:29.472Z"
+  },
+  "RF_Storage1/Part4/Goku Brand - Classic & Modern/Goku Brand - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Goku Brand - Classic & Modern/Goku Brand - Classic.fantome",
+   "size": 13304520,
+   "first_seen": "2026-11-07T08:29:34.277Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Goku%20Brand%20-%20Classic%20%26%20Modern/Goku%20Brand%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Snoop Dogg Nasus - Classic & Modern/Snoop Dogg Nasus - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Snoop Dogg Nasus - Classic & Modern/Snoop Dogg Nasus - Classic.fantome",
+   "size": 28149673,
+   "first_seen": "2026-11-07T08:29:34.277Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Snoop%20Dogg%20Nasus%20-%20Classic%20%26%20Modern/Snoop%20Dogg%20Nasus%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Snoop Dogg Nasus - Classic & Modern/SnoopDoggNasus.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Snoop Dogg Nasus - Classic & Modern/SnoopDoggNasus.fantome",
+   "size": 21008361,
+   "first_seen": "2026-11-07T08:29:34.277Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Snoop%20Dogg%20Nasus%20-%20Classic%20%26%20Modern/SnoopDoggNasus.fantome"
   }
  },
  "images": {
