@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-08T08:42:26.409Z",
+ "updated_at": "2026-11-08T08:42:38.133Z",
  "repo_bytes": {
-  "autrex-mods-1": 76319457926
+  "autrex-mods-1": 76294081617
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -73353,38 +73353,6 @@
    "first_seen": "2026-11-07T08:29:34.277Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Snoop%20Dogg%20Nasus%20-%20Classic%20%26%20Modern/SnoopDoggNasus.fantome"
-  },
-  "RF_Storage1/Part4/Bloodmoon Faerie Court Gwen (chroma)/Bloodmoon Faerie V1.0.0 by Paler.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Bloodmoon Faerie Court Gwen (chroma)/Bloodmoon Faerie V1.0.0 by Paler.fantome",
-   "size": 3865908,
-   "first_seen": "2026-11-08T08:42:26.409Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Bloodmoon%20Faerie%20Court%20Gwen%20(chroma)/Bloodmoon%20Faerie%20V1.0.0%20by%20Paler.fantome"
-  },
-  "RF_Storage1/Part4/Gwen Rouge Faerie/Rouge Faerie V2.0.2 by Paler.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Gwen Rouge Faerie/Rouge Faerie V2.0.2 by Paler.fantome",
-   "size": 5002148,
-   "first_seen": "2026-11-08T08:42:26.409Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Gwen%20Rouge%20Faerie/Rouge%20Faerie%20V2.0.2%20by%20Paler.fantome"
-  },
-  "RF_Storage1/Part4/Lego Blue Stud pick-up sound for Hearthsteel/blue-stud-sound-hearthsteel.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Lego Blue Stud pick-up sound for Hearthsteel/blue-stud-sound-hearthsteel.fantome",
-   "size": 13921473,
-   "first_seen": "2026-11-08T08:42:26.409Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Lego%20Blue%20Stud%20pick-up%20sound%20for%20Hearthsteel/blue-stud-sound-hearthsteel.fantome"
-  },
-  "RF_Storage1/Part4/Old Championship Riven (16.21)/old-championship-riven-16-21_16.21.3_[v16.21.3].modpkg": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Championship Riven (16.21)/old-championship-riven-16-21_16.21.3_[v16.21.3].modpkg",
-   "size": 2586780,
-   "first_seen": "2026-11-08T08:42:26.409Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Championship%20Riven%20(16.21)/old-championship-riven-16-21_16.21.3_%5Bv16.21.3%5D.modpkg"
   }
  },
  "images": {
@@ -96974,7 +96942,7 @@
   "257a1946-ee95-4b6d-a553-766d2032a100.webp": {
    "repo": "autrex-mods-1",
    "size": 1496868,
-   "first_seen": "2026-11-08T08:42:04.536Z",
+   "first_seen": "2026-11-08T08:42:38.133Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/257a1946-ee95-4b6d-a553-766d2032a100.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/257a1946-ee95-4b6d-a553-766d2032a100.webp"
   }
@@ -97462,5 +97430,5 @@
   "44da2109-8945-4552-a3d3-94db7ecd3aa6.png"
  ],
  "image_total": 3343,
- "images_crawled_at": "2026-11-08T08:42:02.005Z"
+ "images_crawled_at": "2026-11-08T08:42:35.810Z"
 }
