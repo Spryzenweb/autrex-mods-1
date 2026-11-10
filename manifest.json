@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-10T09:21:47.443Z",
+ "updated_at": "2026-11-10T09:22:20.425Z",
  "repo_bytes": {
-  "autrex-mods-1": 76335633223
+  "autrex-mods-1": 76368759932
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -73393,6 +73393,94 @@
    "first_seen": "2026-11-09T09:15:49.234Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/L9%20Vladimir/l9-vlad_1.0.0.fantome"
+  },
+  "RF_Storage1/Part4/5pb. Jinx/5pb-jinx_2.0.0.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/5pb. Jinx/5pb-jinx_2.0.0.modpkg",
+   "size": 2230424,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/5pb.%20Jinx/5pb-jinx_2.0.0.modpkg"
+  },
+  "RF_Storage1/Part4/Classic Rift - Winter/ClassicRiftWinter_16.22.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Classic Rift - Winter/ClassicRiftWinter_16.22.0_large_file.txt",
+   "size": 340,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Classic%20Rift%20-%20Winter/ClassicRiftWinter_16.22.0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Exalted Lara Croft Miss Fortune/Exalted Lara Croft Miss Fortune V1.2 by LordksOP_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Exalted Lara Croft Miss Fortune/Exalted Lara Croft Miss Fortune V1.2 by LordksOP_large_file.txt",
+   "size": 419,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Exalted%20Lara%20Croft%20Miss%20Fortune/Exalted%20Lara%20Croft%20Miss%20Fortune%20V1.2%20by%20LordksOP_large_file.txt"
+  },
+  "RF_Storage1/Part4/Fallen Seraphim Hecarim/Fallen Seraphim Hecarim By Rez.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Fallen Seraphim Hecarim/Fallen Seraphim Hecarim By Rez.modpkg",
+   "size": 15663044,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Fallen%20Seraphim%20Hecarim/Fallen%20Seraphim%20Hecarim%20By%20Rez.modpkg"
+  },
+  "RF_Storage1/Part4/Mel as Ram/Mel as Ram_Main.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Mel as Ram/Mel as Ram_Main.fantome",
+   "size": 15230416,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Mel%20as%20Ram/Mel%20as%20Ram_Main.fantome"
+  },
+  "RF_Storage1/Part4/Old Summoners Rift V3 - Beach/OldSR_V3_Beach_16.22.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Beach/OldSR_V3_Beach_16.22.0_large_file.txt",
+   "size": 339,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Beach/OldSR_V3_Beach_16.22.0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Old Summoners Rift V3 - Cursed/OldSR_V3_Cursed_16.22.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Cursed/OldSR_V3_Cursed_16.22.0_large_file.txt",
+   "size": 343,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Cursed/OldSR_V3_Cursed_16.22.0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Old Summoners Rift V3 - Harrowing/OldSR_V3_Harrowing_16.22.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Harrowing/OldSR_V3_Harrowing_16.22.0_large_file.txt",
+   "size": 355,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Harrowing/OldSR_V3_Harrowing_16.22.0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Old Summoners Rift V3 - Night/OldSR_V3_Night_16.22.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Night/OldSR_V3_Night_16.22.0_large_file.txt",
+   "size": 339,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Night/OldSR_V3_Night_16.22.0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Old Summoners Rift V3 - Unbound/OldSR_V3_Unbound_16.22.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Unbound/OldSR_V3_Unbound_16.22.0_large_file.txt",
+   "size": 347,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Unbound/OldSR_V3_Unbound_16.22.0_large_file.txt"
+  },
+  "RF_Storage1/Part4/Old Summoners Rift V3 - Winter/OldSR_V3_Winter_16.22.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Summoners Rift V3 - Winter/OldSR_V3_Winter_16.22.0_large_file.txt",
+   "size": 343,
+   "first_seen": "2026-11-10T09:22:20.424Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Summoners%20Rift%20V3%20-%20Winter/OldSR_V3_Winter_16.22.0_large_file.txt"
   }
  },
  "images": {
