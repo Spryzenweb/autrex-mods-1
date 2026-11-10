@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-10T17:54:58.830Z",
+ "updated_at": "2026-11-10T22:54:27.882Z",
  "repo_bytes": {
-  "autrex-mods-1": 76375164241
+  "autrex-mods-1": 76390808063
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -97150,9 +97150,98 @@
    "first_seen": "2026-11-10T17:35:11.611Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/11da6c27-e86e-486e-92a4-297e278d5124.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/11da6c27-e86e-486e-92a4-297e278d5124.png"
+  },
+  "accd125f-bf62-4ac4-9dea-41f98f20f612.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 905188,
+   "first_seen": "2026-11-10T22:54:27.881Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/accd125f-bf62-4ac4-9dea-41f98f20f612.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/accd125f-bf62-4ac4-9dea-41f98f20f612.jpg"
+  },
+  "86c17e8c-2d28-43d6-87bc-fa6311262731.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 903774,
+   "first_seen": "2026-11-10T22:54:27.881Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/86c17e8c-2d28-43d6-87bc-fa6311262731.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/86c17e8c-2d28-43d6-87bc-fa6311262731.jpg"
+  },
+  "12a2fe26-8e75-492d-b6dc-e10575c0d495.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 955579,
+   "first_seen": "2026-11-10T22:54:27.881Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/12a2fe26-8e75-492d-b6dc-e10575c0d495.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/12a2fe26-8e75-492d-b6dc-e10575c0d495.jpg"
+  },
+  "cdbb6c9f-6268-47a8-a970-cd2a2c2496f0.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 881312,
+   "first_seen": "2026-11-10T22:54:27.881Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/cdbb6c9f-6268-47a8-a970-cd2a2c2496f0.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/cdbb6c9f-6268-47a8-a970-cd2a2c2496f0.jpg"
+  },
+  "bbc4037c-dc08-4072-9924-3c93ffeeb97b.png": {
+   "repo": "autrex-mods-1",
+   "size": 2489967,
+   "first_seen": "2026-11-10T22:54:27.881Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/bbc4037c-dc08-4072-9924-3c93ffeeb97b.png",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/bbc4037c-dc08-4072-9924-3c93ffeeb97b.png"
+  },
+  "017ee73e-e1e2-4cbe-84a0-6524032b76d3.png": {
+   "repo": "autrex-mods-1",
+   "size": 368058,
+   "first_seen": "2026-11-10T22:54:27.881Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/017ee73e-e1e2-4cbe-84a0-6524032b76d3.png",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/017ee73e-e1e2-4cbe-84a0-6524032b76d3.png"
+  },
+  "5e55c09c-4a90-4934-b672-4df7640fc333.jpg": {
+   "repo": "autrex-mods-1",
+   "size": 892821,
+   "first_seen": "2026-11-10T22:54:27.881Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/5e55c09c-4a90-4934-b672-4df7640fc333.jpg",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/5e55c09c-4a90-4934-b672-4df7640fc333.jpg"
+  },
+  "5389467d-38dd-4279-a9eb-e566854e9647.png": {
+   "repo": "autrex-mods-1",
+   "size": 2564189,
+   "first_seen": "2026-11-10T22:54:27.881Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/5389467d-38dd-4279-a9eb-e566854e9647.png",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/5389467d-38dd-4279-a9eb-e566854e9647.png"
+  },
+  "5c2e8a65-363d-4f9d-8c5a-d78afc8079a1.png": {
+   "repo": "autrex-mods-1",
+   "size": 1995121,
+   "first_seen": "2026-11-10T22:54:27.881Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/5c2e8a65-363d-4f9d-8c5a-d78afc8079a1.png",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/5c2e8a65-363d-4f9d-8c5a-d78afc8079a1.png"
+  },
+  "d4798d41-9686-495e-8e5a-9ccb40a16423.png": {
+   "repo": "autrex-mods-1",
+   "size": 3687813,
+   "first_seen": "2026-11-10T22:54:27.881Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/d4798d41-9686-495e-8e5a-9ccb40a16423.png",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/d4798d41-9686-495e-8e5a-9ccb40a16423.png"
   }
  },
  "image_keys": [
+  "accd125f-bf62-4ac4-9dea-41f98f20f612.jpg",
+  "03fe8623-9da9-46bc-a9f9-64367c624e09.png",
+  "701e4586-d55f-42e1-a82d-29ad93c7f9e4.png",
+  "c1c66030-5d67-49c4-85dd-fee11b83d5f5.png",
+  "bff4b4b4-53b5-4a11-826d-9f125e995312.png",
+  "b3b3f3b2-3415-47aa-a8d5-d8719bc0eb59.png",
+  "86c17e8c-2d28-43d6-87bc-fa6311262731.jpg",
+  "12a2fe26-8e75-492d-b6dc-e10575c0d495.jpg",
+  "cdbb6c9f-6268-47a8-a970-cd2a2c2496f0.jpg",
+  "bbc4037c-dc08-4072-9924-3c93ffeeb97b.png",
+  "bcb4e313-84b4-45b7-2ae5-31554a7c5700.png",
+  "017ee73e-e1e2-4cbe-84a0-6524032b76d3.png",
+  "5e55c09c-4a90-4934-b672-4df7640fc333.jpg",
+  "28c0d791-6c2f-490c-95df-de6fb33f864b.png",
+  "5389467d-38dd-4279-a9eb-e566854e9647.png",
+  "5c2e8a65-363d-4f9d-8c5a-d78afc8079a1.png",
+  "e07a9c34-fba1-453e-a288-5b7b5a75f51f.png",
+  "6a4999c5-96e5-4fa9-a3b6-1657cb2a48c1.png",
+  "d4798d41-9686-495e-8e5a-9ccb40a16423.png",
   "0ac194f0-ea2a-491c-8f24-5caa28361443.png",
   "a39c50cd-e356-430a-a8de-b378a8acc1a2.jpg",
   "11da6c27-e86e-486e-92a4-297e278d5124.png",
@@ -97298,7 +97387,6 @@
   "240217c4-35c1-42da-b3d9-f41b9013f164.jpg",
   "d9f5dec5-7334-46a2-9f61-5078d4d973ab.png",
   "07fc1673-d15a-4bfb-ac86-18605fe3eba2.jpg",
-  "d122bf31-31ab-4202-a1e4-296254863386.jpg",
   "9d5b784f-9078-4990-1f22-574b17755f00.jpg",
   "0b684024-73e8-4527-a450-04079d194313.webp",
   "34e1d9f1-ee29-46c1-abba-30eaa3ba476f.png",
@@ -97318,7 +97406,6 @@
   "620ca303-57c8-4bbf-b4d2-8278d47594b6.jpg",
   "59069d40-9d87-4e73-9f55-48316a3f0c2a.png",
   "e76e1ebc-6a30-45b6-a0e8-cf2161ba7c2e.jpg",
-  "51b35bca-a417-426f-8bdb-8b9b1f75e50b.jpg",
   "68319de1-c3bf-4eeb-a4a8-1f31c3d22260.png",
   "baccc6bd-1c66-4e11-968a-d2cae544f232.png",
   "878c9388-0f7c-4f0c-99c4-fd1701f1ff6c.png",
@@ -97353,9 +97440,7 @@
   "9a4d1371-2560-4047-8983-8276857f734c.png",
   "ceeab89d-ec7f-4361-93b8-b48769c52410.jpg",
   "d1de0e7f-fcc6-4297-8fca-3fa6fcfe9390.jpg",
-  "5dc799ff-95c4-4156-8743-b10ac9dca176.jpg",
   "0d1b53c9-0f68-4b2d-84cc-c4f1e5067564.png",
-  "30037ae3-482c-490d-9cae-4624f1598e54.jpg",
   "49859e9f-d958-49c2-a568-75674b3ff605.jpg",
   "d6aac222-75d1-425d-baf1-c7f331541e21.jpg",
   "07c456e9-ac7d-48de-8d41-15431ec44056.jpg",
@@ -97373,14 +97458,11 @@
   "c6fd0174-186b-402c-9c39-23b57a1ea45e.png",
   "28620e73-0728-483c-8be4-1f70b3582e88.jpg",
   "76b17fb8-daa9-42de-bbcf-e1ffa9516395.jpg",
-  "4e5466da-29e4-413d-8f96-3648e72f4c99.jpg",
   "f65bbc98-d665-4a42-8694-79635b528fc2.jpg",
   "e16ad878-497a-4c7f-88c9-0f760fb9e77f.jpg",
   "523926f2-902c-4a78-9a30-1a9f8bd1d2ea.jpg",
   "c919455e-8e70-4237-9e1d-2d2182589590.jpg",
   "97096a7c-d311-4147-bddf-2ae8558af446.jpg",
-  "31372989-ba79-4893-821a-20014821ea71.jpg",
-  "9b1bc391-0105-4b25-bf9b-f041e0e4dc7d.jpg",
   "0020fb03-73ee-4147-92a3-450e40f99cfc.png",
   "253bae6d-7201-46ce-9f14-bf70c2b0f63a.jpg",
   "79bf6fe2-cff0-44df-8573-26fefa040a11.png",
@@ -97393,19 +97475,13 @@
   "aaaa1cdd-2936-493e-8b08-7f009c0d7a2a.png",
   "07c8453e-08e6-43b4-8a73-4f1348c9f785.png",
   "94750f6c-47d9-41da-bf59-5fdba5cc0d0e.jpg",
-  "f7395cea-c2bc-4d24-afe8-dc436bb49fac.jpg",
   "455e12ab-f1cc-4773-b7a8-9e19fc8737e0.png",
   "af6d61fe-062d-47bb-9ee0-c65bafec4fc0.png",
   "5b530125-0243-4c24-8621-99fba7e40290.png",
-  "c4f21d53-dc5d-40cc-ad9b-69cfd66bd579.jpg",
-  "7fce68e8-73d0-46d6-9f9b-52a9591468da.jpg",
-  "adc3689e-6cc0-42c9-b4d1-2b99ccac686b.jpg",
   "6d0cca9a-9320-4166-8543-06300e682568.png",
   "df0e91fe-d8ed-41ff-86df-14dbdec52837.jpg",
   "bff11f89-346e-47e9-8467-6718cff9fe11.png",
-  "44b76ea1-1d06-4db2-be92-cea6eb3f2728.jpg",
   "c8920d0b-321c-4e80-822b-71dd96d847a0.png",
-  "1d28f66d-5970-430f-8804-8e07dbf2577b.jpg",
   "50528d8d-217d-4b55-a47b-7c1c694a3f1a.png",
   "16e83e4c-8704-4548-ba01-1921572197ea.png",
   "fac1f1c1-f84e-47ed-eb4e-f5ef8b0f5400.png",
@@ -97626,14 +97702,8 @@
   "6722c132-1766-4d1d-8a20-6694be607361.png",
   "51315c49-1bf5-46d3-8254-20d676a9b2b2.png",
   "1ff70dcf-e1c1-45ad-a2cc-9af38facd2a1.png",
-  "60f216c6-b3ad-41ad-bbbd-1cc7bc6d3c83.png",
-  "abfbfeef-e733-4640-8a20-fbabf9afbd75.png",
-  "b76870db-8f7d-4866-8a45-655e87d9a26d.png",
-  "519b1f10-c560-474c-a2b4-3db92280861e.png",
-  "9e259dde-b16a-46ff-8441-473c46234058.png",
-  "38827cc0-9174-4e2b-947e-05d58df5f542.png",
-  "8caa4151-aae2-4b6f-9eff-632ceae712f8.png"
+  "60f216c6-b3ad-41ad-bbbd-1cc7bc6d3c83.png"
  ],
- "image_total": 3338,
- "images_crawled_at": "2026-11-10T17:35:07.745Z"
+ "image_total": 3344,
+ "images_crawled_at": "2026-11-10T22:53:52.838Z"
 }
