@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-12T09:50:17.345Z",
+ "updated_at": "2026-11-12T17:56:56.893Z",
  "repo_bytes": {
-  "autrex-mods-1": 76880233011
+  "autrex-mods-1": 76882559493
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -97948,9 +97948,18 @@
    "first_seen": "2026-11-12T09:27:01.372Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/7b13a1ab-f0c7-4bc5-b66d-fd6deece28d8.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/7b13a1ab-f0c7-4bc5-b66d-fd6deece28d8.jpg"
+  },
+  "307b4411-9ec6-44e6-b536-4a6c7ec944b0.webp": {
+   "repo": "autrex-mods-1",
+   "size": 2326482,
+   "first_seen": "2026-11-12T17:56:56.893Z",
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/307b4411-9ec6-44e6-b536-4a6c7ec944b0.webp",
+   "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/307b4411-9ec6-44e6-b536-4a6c7ec944b0.webp"
   }
  },
  "image_keys": [
+  "7fce68e8-73d0-46d6-9f9b-52a9591468da.jpg",
+  "307b4411-9ec6-44e6-b536-4a6c7ec944b0.webp",
   "b68389c7-5766-46a7-9a04-9e7e9ff31faf.webp",
   "51b35bca-a417-426f-8bdb-8b9b1f75e50b.jpg",
   "6e1a9e71-783d-4ac1-afbb-16c73fa09e6a.png",
@@ -97987,7 +97996,6 @@
   "3858e2e7-3a98-47a0-8262-fc52818d722e.png",
   "5ba11b07-f0e9-4285-a3de-840e04e9eb40.webp",
   "ebfa4d86-60c3-40fe-a4bf-927935b95cfb.jpg",
-  "6bd02acf-07f5-42ce-adf0-3811030aad1a.png",
   "d14a52eb-1acd-4d5d-8b2e-af937d72343a.jpg",
   "ad559a12-c88f-4466-8cb8-ee4de3fb08d1.jpg",
   "0980311c-06ca-40c2-919c-489426c84ad2.jpg",
@@ -98429,9 +98437,8 @@
   "e7da3d01-e169-490d-897e-6991f23c0432.png",
   "c3055ced-7f82-44f1-b251-ec4d3b0714c4.png",
   "6722c132-1766-4d1d-8a20-6694be607361.png",
-  "51315c49-1bf5-46d3-8254-20d676a9b2b2.png",
-  "1ff70dcf-e1c1-45ad-a2cc-9af38facd2a1.png"
+  "51315c49-1bf5-46d3-8254-20d676a9b2b2.png"
  ],
- "image_total": 3344,
- "images_crawled_at": "2026-11-12T09:26:56.259Z"
+ "image_total": 3345,
+ "images_crawled_at": "2026-11-12T17:56:29.137Z"
 }
