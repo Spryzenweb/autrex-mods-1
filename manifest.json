@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-12T09:23:49.160Z",
+ "updated_at": "2026-11-12T09:24:06.482Z",
  "repo_bytes": {
-  "autrex-mods-1": 76880233011
+  "autrex-mods-1": 76773618504
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -74045,100 +74045,6 @@
    "first_seen": "2026-11-11T08:59:41.147Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Winter%20Rift%202025%20-%20Night/WinterRift2025_Night_16.22.0_large_file.txt"
-  },
-  "RF_Storage1/Part4/C9 Shaco - Classic & Modern/C9 Shaco - Classic.fantome": {
-   "size": 51136267,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/C9%20Shaco%20-%20Classic%20%26%20Modern/C9%20Shaco%20-%20Classic.fantome",
-   "first_seen": "2026-11-12T09:23:29.880Z"
-  },
-  "RF_Storage1/Part1/China Exclusive Chroma Splasharts/China_Exclusive_Chroma_Splasharts_v16.21.1.39.0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/China Exclusive Chroma Splasharts/China_Exclusive_Chroma_Splasharts_v16.21.1.39.0_large_file.txt",
-   "size": 418,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/China%20Exclusive%20Chroma%20Splasharts/China_Exclusive_Chroma_Splasharts_v16.21.1.39.0_large_file.txt"
-  },
-  "RF_Storage1/Part3/Naoya Zen'in Hecarim (Bubble Pop Electric)/naoya-zen-in-hecarim_1.0.0_[v1.0.1]_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part3/Naoya Zen'in Hecarim (Bubble Pop Electric)/naoya-zen-in-hecarim_1.0.0_[v1.0.1]_large_file.txt",
-   "size": 390,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Naoya%20Zen'in%20Hecarim%20(Bubble%20Pop%20Electric)/naoya-zen-in-hecarim_1.0.0_%5Bv1.0.1%5D_large_file.txt"
-  },
-  "RF_Storage1/Part4/Classic Rift - Harrowing/ClassicRiftHarrowing_16.22.0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Classic Rift - Harrowing/ClassicRiftHarrowing_16.22.0_large_file.txt",
-   "size": 352,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Classic%20Rift%20-%20Harrowing/ClassicRiftHarrowing_16.22.0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Classic Rift - Harrowing/ClassicRiftHarrowing_16.22.1_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Classic Rift - Harrowing/ClassicRiftHarrowing_16.22.1_large_file.txt",
-   "size": 352,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Classic%20Rift%20-%20Harrowing/ClassicRiftHarrowing_16.22.1_large_file.txt"
-  },
-  "RF_Storage1/Part4/Elsa Frozen Lux/elsa-lux_0.1.0_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Elsa Frozen Lux/elsa-lux_0.1.0_large_file.txt",
-   "size": 301,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Elsa%20Frozen%20Lux/elsa-lux_0.1.0_large_file.txt"
-  },
-  "RF_Storage1/Part4/Master Yi Shadow/Master Yi Shadow.modpkg": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Master Yi Shadow/Master Yi Shadow.modpkg",
-   "size": 29081920,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Yi%20Shadow/Master%20Yi%20Shadow.modpkg"
-  },
-  "RF_Storage1/Part4/Nanally Sett/nanally-sett_1.0.4.modpkg": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Nanally Sett/nanally-sett_1.0.4.modpkg",
-   "size": 23598800,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Nanally%20Sett/nanally-sett_1.0.4.modpkg"
-  },
-  "RF_Storage1/Part4/Old Lux ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/Lux_Classic.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Lux ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/Lux_Classic.fantome",
-   "size": 5076602,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Lux%20(%20from%20league%20classic%20)%20ONLY%20FOR%20LIVE%20LEAGUE%20DOSNT%20WORK%20IN%20CLASSIC/Lux_Classic.fantome"
-  },
-  "RF_Storage1/Part4/Old Miss Fortune (from Classic)/old-miss-fortune_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Old Miss Fortune (from Classic)/old-miss-fortune_1.0.0.fantome",
-   "size": 14707923,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Miss%20Fortune%20(from%20Classic)/old-miss-fortune_1.0.0.fantome"
-  },
-  "RF_Storage1/Part4/Radiant Moonstone  High Noon Yone/Radiant Moonstone - High Noon (1).fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Radiant Moonstone  High Noon Yone/Radiant Moonstone - High Noon (1).fantome",
-   "size": 5794695,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Radiant%20Moonstone%20%20High%20Noon%20Yone/Radiant%20Moonstone%20-%20High%20Noon%20(1).fantome"
-  },
-  "RF_Storage1/Part4/Space Groove Samira Chroma VFX/space-groove-samira-chroma-vfx_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Space Groove Samira Chroma VFX/space-groove-samira-chroma-vfx_1.0.0.fantome",
-   "size": 28352754,
-   "first_seen": "2026-11-12T09:23:49.160Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Space%20Groove%20Samira%20Chroma%20VFX/space-groove-samira-chroma-vfx_1.0.0.fantome"
   }
  },
  "images": {
@@ -97896,56 +97802,56 @@
   "b68389c7-5766-46a7-9a04-9e7e9ff31faf.webp": {
    "repo": "autrex-mods-1",
    "size": 1627882,
-   "first_seen": "2026-11-12T09:23:13.822Z",
+   "first_seen": "2026-11-12T09:24:06.482Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/b68389c7-5766-46a7-9a04-9e7e9ff31faf.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/b68389c7-5766-46a7-9a04-9e7e9ff31faf.webp"
   },
   "6e1a9e71-783d-4ac1-afbb-16c73fa09e6a.png": {
    "repo": "autrex-mods-1",
    "size": 2831863,
-   "first_seen": "2026-11-12T09:23:13.822Z",
+   "first_seen": "2026-11-12T09:24:06.482Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/6e1a9e71-783d-4ac1-afbb-16c73fa09e6a.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/6e1a9e71-783d-4ac1-afbb-16c73fa09e6a.png"
   },
   "566ad90c-0a5a-43b1-bd00-753345434ad9.png": {
    "repo": "autrex-mods-1",
    "size": 2367994,
-   "first_seen": "2026-11-12T09:23:13.822Z",
+   "first_seen": "2026-11-12T09:24:06.482Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/566ad90c-0a5a-43b1-bd00-753345434ad9.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/566ad90c-0a5a-43b1-bd00-753345434ad9.png"
   },
   "082fe79b-7328-471d-9e90-9aa405477099.webp": {
    "repo": "autrex-mods-1",
    "size": 2306394,
-   "first_seen": "2026-11-12T09:23:13.822Z",
+   "first_seen": "2026-11-12T09:24:06.482Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/082fe79b-7328-471d-9e90-9aa405477099.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/082fe79b-7328-471d-9e90-9aa405477099.webp"
   },
   "1ca75a21-b426-4a6b-a79a-9b4721013c3c.jpg": {
    "repo": "autrex-mods-1",
    "size": 819999,
-   "first_seen": "2026-11-12T09:23:13.822Z",
+   "first_seen": "2026-11-12T09:24:06.482Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/1ca75a21-b426-4a6b-a79a-9b4721013c3c.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/1ca75a21-b426-4a6b-a79a-9b4721013c3c.jpg"
   },
   "3077378f-f9fc-43f3-8478-2af5c20028e0.png": {
    "repo": "autrex-mods-1",
    "size": 424284,
-   "first_seen": "2026-11-12T09:23:13.822Z",
+   "first_seen": "2026-11-12T09:24:06.482Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/3077378f-f9fc-43f3-8478-2af5c20028e0.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/3077378f-f9fc-43f3-8478-2af5c20028e0.png"
   },
   "2a259b01-0e23-4ac6-a737-ebf849b32de9.jpg": {
    "repo": "autrex-mods-1",
    "size": 887717,
-   "first_seen": "2026-11-12T09:23:13.822Z",
+   "first_seen": "2026-11-12T09:24:06.482Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/2a259b01-0e23-4ac6-a737-ebf849b32de9.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/2a259b01-0e23-4ac6-a737-ebf849b32de9.jpg"
   },
   "7b13a1ab-f0c7-4bc5-b66d-fd6deece28d8.jpg": {
    "repo": "autrex-mods-1",
    "size": 871882,
-   "first_seen": "2026-11-12T09:23:13.822Z",
+   "first_seen": "2026-11-12T09:24:06.482Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/7b13a1ab-f0c7-4bc5-b66d-fd6deece28d8.jpg",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/7b13a1ab-f0c7-4bc5-b66d-fd6deece28d8.jpg"
   }
@@ -98433,5 +98339,5 @@
   "1ff70dcf-e1c1-45ad-a2cc-9af38facd2a1.png"
  ],
  "image_total": 3344,
- "images_crawled_at": "2026-11-12T09:23:07.805Z"
+ "images_crawled_at": "2026-11-12T09:24:01.856Z"
 }
