@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-13T09:13:53.701Z",
+ "updated_at": "2026-11-13T09:14:18.241Z",
  "repo_bytes": {
-  "autrex-mods-1": 76883323115
+  "autrex-mods-1": 76999181042
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -74139,6 +74139,62 @@
    "first_seen": "2026-11-12T09:27:40.643Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Space%20Groove%20Samira%20Chroma%20VFX/space-groove-samira-chroma-vfx_1.0.0.fantome"
+  },
+  "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa_1.4.4.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Firefly Kaisa/firefly-kaisa_1.4.4.modpkg",
+   "size": 32195450,
+   "first_seen": "2026-11-13T09:14:18.241Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Firefly%20Kaisa/firefly-kaisa_1.4.4.modpkg"
+  },
+  "RF_Storage1/Part4/Date Night Elise - Classic & Modern/Date Night Elise - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Date Night Elise - Classic & Modern/Date Night Elise - Classic.fantome",
+   "size": 23522931,
+   "first_seen": "2026-11-13T09:14:18.241Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Date%20Night%20Elise%20-%20Classic%20%26%20Modern/Date%20Night%20Elise%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Galatic Rammus - Classic & Modern/Galactic Rammus - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Galatic Rammus - Classic & Modern/Galactic Rammus - Classic.fantome",
+   "size": 9911236,
+   "first_seen": "2026-11-13T09:14:18.241Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Galatic%20Rammus%20-%20Classic%20%26%20Modern/Galactic%20Rammus%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Hachiware - Teemo/hachiware-teemo_1.0.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Hachiware - Teemo/hachiware-teemo_1.0.0_large_file.txt",
+   "size": 324,
+   "first_seen": "2026-11-13T09:14:18.241Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Hachiware%20-%20Teemo/hachiware-teemo_1.0.0_large_file.txt"
+  },
+  "RF_Storage1/Part4/LeBlanc Fern/LeBlanc Fern.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/LeBlanc Fern/LeBlanc Fern.modpkg",
+   "size": 19163269,
+   "first_seen": "2026-11-13T09:14:18.241Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/LeBlanc%20Fern/LeBlanc%20Fern.modpkg"
+  },
+  "RF_Storage1/Part4/Yoshi Kog'Maw - Classic & Modern/Yoshi Kog'Maw - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Yoshi Kog'Maw - Classic & Modern/Yoshi Kog'Maw - Classic.fantome",
+   "size": 15491724,
+   "first_seen": "2026-11-13T09:14:18.241Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yoshi%20Kog'Maw%20-%20Classic%20%26%20Modern/Yoshi%20Kog'Maw%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Yoshi Kog'Maw - Classic & Modern/Yoshi Kog'Maw - Classic_[v1.3.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Yoshi Kog'Maw - Classic & Modern/Yoshi Kog'Maw - Classic_[v1.3.0].fantome",
+   "size": 15572993,
+   "first_seen": "2026-11-13T09:14:18.241Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yoshi%20Kog'Maw%20-%20Classic%20%26%20Modern/Yoshi%20Kog'Maw%20-%20Classic_%5Bv1.3.0%5D.fantome"
   }
  },
  "images": {
