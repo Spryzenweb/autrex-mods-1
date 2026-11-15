@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-15T08:56:45.523Z",
+ "updated_at": "2026-11-15T08:57:27.530Z",
  "repo_bytes": {
-  "autrex-mods-1": 77000080130
+  "autrex-mods-1": 77170229203
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -74195,6 +74195,108 @@
    "first_seen": "2026-11-13T09:10:35.458Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Yoshi%20Kog'Maw%20-%20Classic%20%26%20Modern/Yoshi%20Kog'Maw%20-%20Classic_%5Bv1.3.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Pool Party Tryndamere - Classic & Modern/Pool Party Tryndamere - Classic.fantome": {
+   "size": 38128522,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Pool%20Party%20Tryndamere%20-%20Classic%20%26%20Modern/Pool%20Party%20Tryndamere%20-%20Classic.fantome",
+   "first_seen": "2026-11-15T08:57:14.690Z"
+  },
+  "RF_Storage1/Part4/Advent Children Cloud Tryndamere  - Classic & Modern/Advent Children Cloud Tryndamere - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Advent Children Cloud Tryndamere  - Classic & Modern/Advent Children Cloud Tryndamere - Classic.fantome",
+   "size": 18579302,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Advent%20Children%20Cloud%20Tryndamere%20%20-%20Classic%20%26%20Modern/Advent%20Children%20Cloud%20Tryndamere%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Cloud Tryndamere with Wing - Classic & Modern/Cloud Tryndamere no Wing - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cloud Tryndamere with Wing - Classic & Modern/Cloud Tryndamere no Wing - Classic.fantome",
+   "size": 20645878,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cloud%20Tryndamere%20with%20Wing%20-%20Classic%20%26%20Modern/Cloud%20Tryndamere%20no%20Wing%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Cloud Tryndamere with Wing - Classic & Modern/Cloud Tryndamere with Wing - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Cloud Tryndamere with Wing - Classic & Modern/Cloud Tryndamere with Wing - Classic.fantome",
+   "size": 20444904,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Cloud%20Tryndamere%20with%20Wing%20-%20Classic%20%26%20Modern/Cloud%20Tryndamere%20with%20Wing%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Deadpool Lucian - Classic & Modern/Deadpool Lucian - Classic & Modern_Deadpool Lucian - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Deadpool Lucian - Classic & Modern/Deadpool Lucian - Classic & Modern_Deadpool Lucian - Classic.fantome",
+   "size": 6729198,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Deadpool%20Lucian%20-%20Classic%20%26%20Modern/Deadpool%20Lucian%20-%20Classic%20%26%20Modern_Deadpool%20Lucian%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Ike Tryndamere - Classic & Modern/Ike Tryndamere - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Ike Tryndamere - Classic & Modern/Ike Tryndamere - Classic.fantome",
+   "size": 18235672,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Ike%20Tryndamere%20-%20Classic%20%26%20Modern/Ike%20Tryndamere%20-%20Classic.fantome"
+  },
+  "RF_Storage1/Part4/Old Karthus ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/League classic old karthus v1.1.1 by Muhfack.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Karthus ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/League classic old karthus v1.1.1 by Muhfack.fantome",
+   "size": 13098771,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Karthus%20(%20from%20league%20classic%20)%20ONLY%20FOR%20LIVE%20LEAGUE%20DOSNT%20WORK%20IN%20CLASSIC/League%20classic%20old%20karthus%20v1.1.1%20by%20Muhfack.fantome"
+  },
+  "RF_Storage1/Part4/Old Morgana ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/League classic old morgana v1.0.1 by Muhfack.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old Morgana ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/League classic old morgana v1.0.1 by Muhfack.fantome",
+   "size": 9054206,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20Morgana%20(%20from%20league%20classic%20)%20ONLY%20FOR%20LIVE%20LEAGUE%20DOSNT%20WORK%20IN%20CLASSIC/League%20classic%20old%20morgana%20v1.0.1%20by%20Muhfack.fantome"
+  },
+  "RF_Storage1/Part4/Old ahri ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/League classic old ahri v1.0.2 by Muhfack.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old ahri ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/League classic old ahri v1.0.2 by Muhfack.fantome",
+   "size": 7880922,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20ahri%20(%20from%20league%20classic%20)%20ONLY%20FOR%20LIVE%20LEAGUE%20DOSNT%20WORK%20IN%20CLASSIC/League%20classic%20old%20ahri%20v1.0.2%20by%20Muhfack.fantome"
+  },
+  "RF_Storage1/Part4/Old ahri ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/League_classic_ahri_v1_0_1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old ahri ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/League_classic_ahri_v1_0_1.fantome",
+   "size": 10964080,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20ahri%20(%20from%20league%20classic%20)%20ONLY%20FOR%20LIVE%20LEAGUE%20DOSNT%20WORK%20IN%20CLASSIC/League_classic_ahri_v1_0_1.fantome"
+  },
+  "RF_Storage1/Part4/Old ezreal Old pulsefire soon/League classic old ezreal v1.0.1 by Muhfack_[v1.0.2].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old ezreal Old pulsefire soon/League classic old ezreal v1.0.1 by Muhfack_[v1.0.2].fantome",
+   "size": 10842075,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20ezreal%20Old%20pulsefire%20soon/League%20classic%20old%20ezreal%20v1.0.1%20by%20Muhfack_%5Bv1.0.2%5D.fantome"
+  },
+  "RF_Storage1/Part4/Old jax ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/League classic old jax v1.0.1 by Muhfack.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Old jax ( from league classic ) ONLY FOR LIVE LEAGUE DOSNT WORK IN CLASSIC/League classic old jax v1.0.1 by Muhfack.fantome",
+   "size": 9463988,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Old%20jax%20(%20from%20league%20classic%20)%20ONLY%20FOR%20LIVE%20LEAGUE%20DOSNT%20WORK%20IN%20CLASSIC/League%20classic%20old%20jax%20v1.0.1%20by%20Muhfack.fantome"
+  },
+  "RF_Storage1/Part4/Trunks Tryndamere - Classic & Modern/Trunks Tryndamere - Classic.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Trunks Tryndamere - Classic & Modern/Trunks Tryndamere - Classic.fantome",
+   "size": 24210077,
+   "first_seen": "2026-11-15T08:57:27.530Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Trunks%20Tryndamere%20-%20Classic%20%26%20Modern/Trunks%20Tryndamere%20-%20Classic.fantome"
   }
  },
  "images": {
