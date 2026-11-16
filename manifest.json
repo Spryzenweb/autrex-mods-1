@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-16T09:07:09.185Z",
+ "updated_at": "2026-11-16T09:07:20.532Z",
  "repo_bytes": {
-  "autrex-mods-1": 77224702080
+  "autrex-mods-1": 77175958608
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -74297,36 +74297,6 @@
    "first_seen": "2026-11-15T08:54:46.658Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Trunks%20Tryndamere%20-%20Classic%20%26%20Modern/Trunks%20Tryndamere%20-%20Classic.fantome"
-  },
-  "RF_Storage1/Part4/Hashirama Senju - Maokai/hashirama-senju-maokai_1.0.0.fantome": {
-   "size": 43321214,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part4/Hashirama%20Senju%20-%20Maokai/hashirama-senju-maokai_1.0.0.fantome",
-   "first_seen": "2026-11-16T09:07:04.448Z"
-  },
-  "RF_Storage1/Part4/Master Yi Kakashi/Master Yi Kakashi.modpkg": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Master Yi Kakashi/Master Yi Kakashi.modpkg",
-   "size": 15215140,
-   "first_seen": "2026-11-16T09:07:09.185Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Master%20Yi%20Kakashi/Master%20Yi%20Kakashi.modpkg"
-  },
-  "RF_Storage1/Part4/True Damage Senna - Pink/Senna - True Damage - Pink V1.0.0 by 1gem1rachel.modpkg": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/True Damage Senna - Pink/Senna - True Damage - Pink V1.0.0 by 1gem1rachel.modpkg",
-   "size": 16915502,
-   "first_seen": "2026-11-16T09:07:09.185Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/True%20Damage%20Senna%20-%20Pink/Senna%20-%20True%20Damage%20-%20Pink%20V1.0.0%20by%201gem1rachel.modpkg"
-  },
-  "RF_Storage1/Part4/Uchiha Hidan Tryndamere - Classic & Modern/Uchiha Hidan Tryndamere - Classic.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part4/Uchiha Hidan Tryndamere - Classic & Modern/Uchiha Hidan Tryndamere - Classic.fantome",
-   "size": 16612830,
-   "first_seen": "2026-11-16T09:07:09.185Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Uchiha%20Hidan%20Tryndamere%20-%20Classic%20%26%20Modern/Uchiha%20Hidan%20Tryndamere%20-%20Classic.fantome"
   }
  },
  "images": {
@@ -98663,5 +98633,5 @@
   "55f184de-30d3-416d-a0ea-45784f491f8c.png"
  ],
  "image_total": 3357,
- "images_crawled_at": "2026-11-16T09:06:48.749Z"
+ "images_crawled_at": "2026-11-16T09:07:20.531Z"
 }
