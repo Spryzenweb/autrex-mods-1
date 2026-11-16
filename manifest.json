@@ -1,7 +1,7 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-15T22:56:51.973Z",
+ "updated_at": "2026-11-16T09:03:49.212Z",
  "repo_bytes": {
   "autrex-mods-1": 77175958608
  },
@@ -98151,6 +98151,8 @@
   }
  },
  "image_keys": [
+  "7322dd40-3a87-4fa4-a777-b51dfde02d34.png",
+  "0ec5cffa-c6c7-4437-ae6f-2d8d7d016cdf.png",
   "fc3d676f-9543-481a-b81b-a98f3a17c9c6.png",
   "1e4587c2-30c0-4d22-b7a9-f5841dd78a59.png",
   "5df004aa-8d4a-444e-a0b8-61bc9b17c536.png",
@@ -98628,10 +98630,8 @@
   "dfda10cd-f37e-4c57-9c1f-b3ff7d1e5823.png",
   "22719850-f751-4b6c-99c8-a2232352ddb4.png",
   "375c496e-d538-4584-b02b-bf03a772287e.png",
-  "55f184de-30d3-416d-a0ea-45784f491f8c.png",
-  "4259e9c8-5095-41d0-a5e0-1914c799128c.png",
-  "6f90cd5a-3027-4b21-9c7e-c137840e5091.png"
+  "55f184de-30d3-416d-a0ea-45784f491f8c.png"
  ],
- "image_total": 3355,
- "images_crawled_at": "2026-11-15T22:36:43.042Z"
+ "image_total": 3357,
+ "images_crawled_at": "2026-11-16T09:03:49.210Z"
 }
