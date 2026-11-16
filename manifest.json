@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-16T20:09:32.250Z",
+ "updated_at": "2026-11-16T20:09:39.434Z",
  "repo_bytes": {
-  "autrex-mods-1": 78536021882
+  "autrex-mods-1": 78527934533
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -75633,22 +75633,6 @@
    "first_seen": "2026-11-16T20:08:35.597Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Yoko%20Littner%20Gurren%20Lagann%20Caitlyn%20-%20Classic%20%26%20Modern/Yoko%20Littner%20Gurren%20Lagann%20Caitlyn%20-%20Classic_%5B1.1.0%5D.fantome"
-  },
-  "RF_Storage1/Part5/jurassic'sai - Rek'Sai custom skin/jurassic-sai_1.0.0.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part5/jurassic'sai - Rek'Sai custom skin/jurassic-sai_1.0.0.fantome",
-   "size": 5318435,
-   "first_seen": "2026-11-16T20:09:32.250Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/jurassic'sai%20-%20Rek'Sai%20custom%20skin/jurassic-sai_1.0.0.fantome"
-  },
-  "RF_Storage1/Part5/jurassic'sai - Rek'Sai custom skin/jurassic-sai_1.0.0_[v1.0.0].modpkg": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part5/jurassic'sai - Rek'Sai custom skin/jurassic-sai_1.0.0_[v1.0.0].modpkg",
-   "size": 2768914,
-   "first_seen": "2026-11-16T20:09:32.250Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/jurassic'sai%20-%20Rek'Sai%20custom%20skin/jurassic-sai_1.0.0_%5Bv1.0.0%5D.modpkg"
   }
  },
  "images": {
