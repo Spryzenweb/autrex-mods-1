@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-17T10:31:31.612Z",
+ "updated_at": "2026-11-17T10:32:14.829Z",
  "repo_bytes": {
-  "autrex-mods-1": 79509530985
+  "autrex-mods-1": 80081466183
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -76359,6 +76359,456 @@
    "first_seen": "2026-11-17T10:22:10.197Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/ulquiorra(cosmic)cifer%20-%20Yasuo%20custom%20skin/cosmicifer_1.0.0.fantome"
+  },
+  "RF_Storage1/Part5/KO Coliseum BGM - TFT set 15 - Summoner's Rift mod/KO Coliseum BGM - TFT set 15.fantome": {
+   "size": 38232226,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/KO%20Coliseum%20BGM%20-%20TFT%20set%2015%20-%20Summoner's%20Rift%20mod/KO%20Coliseum%20BGM%20-%20TFT%20set%2015.fantome",
+   "first_seen": "2026-11-17T10:31:48.664Z"
+  },
+  "RF_Storage1/Part5/KO Coliseum BGM - TFT set 15 - Summoner's Rift mod/KO Coliseum BGM - TFT set 15_[16.1.1].fantome": {
+   "size": 38232283,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/KO%20Coliseum%20BGM%20-%20TFT%20set%2015%20-%20Summoner's%20Rift%20mod/KO%20Coliseum%20BGM%20-%20TFT%20set%2015_%5B16.1.1%5D.fantome",
+   "first_seen": "2026-11-17T10:31:48.664Z"
+  },
+  "RF_Storage1/Part5/KO Coliseum BGM - TFT set 15 - Summoner's Rift mod/ko-coliseum-bgm-tft-set-15_1.0.0_[1.0.0].fantome": {
+   "size": 39946726,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/KO%20Coliseum%20BGM%20-%20TFT%20set%2015%20-%20Summoner's%20Rift%20mod/ko-coliseum-bgm-tft-set-15_1.0.0_%5B1.0.0%5D.fantome",
+   "first_seen": "2026-11-17T10:31:48.664Z"
+  },
+  "RF_Storage1/Part5/KO Coliseum BGM - TFT set 15 - Summoner's Rift mod/ko-coliseum-bgm-tft-set-15_16.1.0_[16.1.0].fantome": {
+   "size": 38232277,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/KO%20Coliseum%20BGM%20-%20TFT%20set%2015%20-%20Summoner's%20Rift%20mod/ko-coliseum-bgm-tft-set-15_16.1.0_%5B16.1.0%5D.fantome",
+   "first_seen": "2026-11-17T10:31:49.501Z"
+  },
+  "RF_Storage1/Part5/KO Coliseum BGM - TFT set 15 - Summoner's Rift mod/ko-coliseum-bgm-tft-set-15_2.0.0_[2.0.0].fantome": {
+   "size": 38232226,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/KO%20Coliseum%20BGM%20-%20TFT%20set%2015%20-%20Summoner's%20Rift%20mod/ko-coliseum-bgm-tft-set-15_2.0.0_%5B2.0.0%5D.fantome",
+   "first_seen": "2026-11-17T10:31:49.501Z"
+  },
+  "RF_Storage1/Part5/KO Coliseum BGM - TFT set 15 - Summoner's Rift mod/ko-coliseum-bgm-tft-set-15_3.0.0_[3.0.0].fantome": {
+   "size": 38232267,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/KO%20Coliseum%20BGM%20-%20TFT%20set%2015%20-%20Summoner's%20Rift%20mod/ko-coliseum-bgm-tft-set-15_3.0.0_%5B3.0.0%5D.fantome",
+   "first_seen": "2026-11-17T10:31:49.501Z"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Invasion - Summoner's Rift mod/Star Guardian BGM - Invasion.fantome": {
+   "size": 41310164,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Invasion%20-%20Summoner's%20Rift%20mod/Star%20Guardian%20BGM%20-%20Invasion.fantome",
+   "first_seen": "2026-11-17T10:31:51.184Z"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Invasion - Summoner's Rift mod/star-guardian-bgm-invasion_16.1.0.fantome": {
+   "size": 41310164,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Invasion%20-%20Summoner's%20Rift%20mod/star-guardian-bgm-invasion_16.1.0.fantome",
+   "first_seen": "2026-11-17T10:31:51.184Z"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Invasion - Summoner's Rift mod/star-guardian-bgm-invasion_2.0.0.fantome": {
+   "size": 41310164,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Invasion%20-%20Summoner's%20Rift%20mod/star-guardian-bgm-invasion_2.0.0.fantome",
+   "first_seen": "2026-11-17T10:31:51.184Z"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Vocals - Summoner's Rift mod/Star Guardian BGM - Vocals V2.0.1 by MatthewChasm.fantome": {
+   "size": 38639610,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Vocals%20-%20Summoner's%20Rift%20mod/Star%20Guardian%20BGM%20-%20Vocals%20V2.0.1%20by%20MatthewChasm.fantome",
+   "first_seen": "2026-11-17T10:31:51.184Z"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Vocals - Summoner's Rift mod/Star Guardian BGM - Vocals V2.0.1 by MatthewChasm_[26.11.1].fantome": {
+   "size": 38627995,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Vocals%20-%20Summoner's%20Rift%20mod/Star%20Guardian%20BGM%20-%20Vocals%20V2.0.1%20by%20MatthewChasm_%5B26.11.1%5D.fantome",
+   "first_seen": "2026-11-17T10:31:51.184Z"
+  },
+  "RF_Storage1/Part5/(FIXED) Shadow & Delta - nunu skin - Nunu & Willump custom skin/shadow-and-delta_1.0.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/(FIXED) Shadow & Delta - nunu skin - Nunu & Willump custom skin/shadow-and-delta_1.0.0_large_file.txt",
+   "size": 373,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/(FIXED)%20Shadow%20%26%20Delta%20-%20nunu%20skin%20-%20Nunu%20%26%20Willump%20custom%20skin/shadow-and-delta_1.0.0_large_file.txt"
+  },
+  "RF_Storage1/Part5/(FIXED) Shadow & Delta - nunu skin - Nunu & Willump custom skin/shadowanddelta_1.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/(FIXED) Shadow & Delta - nunu skin - Nunu & Willump custom skin/shadowanddelta_1.1.0.fantome",
+   "size": 33042340,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/(FIXED)%20Shadow%20%26%20Delta%20-%20nunu%20skin%20-%20Nunu%20%26%20Willump%20custom%20skin/shadowanddelta_1.1.0.fantome"
+  },
+  "RF_Storage1/Part5/Blackfrost Reksai Chroma VFX - Rek'Sai mod/Blackfrost Reksai Chroma VFX.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Blackfrost Reksai Chroma VFX - Rek'Sai mod/Blackfrost Reksai Chroma VFX.fantome",
+   "size": 18087038,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Blackfrost%20Reksai%20Chroma%20VFX%20-%20Rek'Sai%20mod/Blackfrost%20Reksai%20Chroma%20VFX.fantome"
+  },
+  "RF_Storage1/Part5/Blackfrost Reksai Chroma VFX - Rek'Sai mod/Blackfrost Reksai Chroma VFX_[1.0.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Blackfrost Reksai Chroma VFX - Rek'Sai mod/Blackfrost Reksai Chroma VFX_[1.0.0].fantome",
+   "size": 12259738,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Blackfrost%20Reksai%20Chroma%20VFX%20-%20Rek'Sai%20mod/Blackfrost%20Reksai%20Chroma%20VFX_%5B1.0.0%5D.fantome"
+  },
+  "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Carbgot Gold and black chroma V1.0.0 by Raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Carbgot Gold and black chroma V1.0.0 by Raka.fantome",
+   "size": 1185678,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Crabgot%20%20chromas%20-%20Urgot%20custom%20skin/Carbgot%20Gold%20and%20black%20chroma%20V1.0.0%20by%20Raka.fantome"
+  },
+  "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Crabfor Scuttlecrab Chroma V1.0.0 by Raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Crabfor Scuttlecrab Chroma V1.0.0 by Raka.fantome",
+   "size": 1119218,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Crabgot%20%20chromas%20-%20Urgot%20custom%20skin/Crabfor%20Scuttlecrab%20Chroma%20V1.0.0%20by%20Raka.fantome"
+  },
+  "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Crabgot Pearl Chroma V1.0.0 by Raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Crabgot Pearl Chroma V1.0.0 by Raka.fantome",
+   "size": 1574013,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Crabgot%20%20chromas%20-%20Urgot%20custom%20skin/Crabgot%20Pearl%20Chroma%20V1.0.0%20by%20Raka.fantome"
+  },
+  "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Crabgot Riftherald Chroma V1.0.0 by Raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Crabgot Riftherald Chroma V1.0.0 by Raka.fantome",
+   "size": 1128661,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Crabgot%20%20chromas%20-%20Urgot%20custom%20skin/Crabgot%20Riftherald%20Chroma%20V1.0.0%20by%20Raka.fantome"
+  },
+  "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Crabgot RoseQuartz V1.0.0 by Raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Crabgot RoseQuartz V1.0.0 by Raka.fantome",
+   "size": 1422064,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Crabgot%20%20chromas%20-%20Urgot%20custom%20skin/Crabgot%20RoseQuartz%20V1.0.0%20by%20Raka.fantome"
+  },
+  "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Urgot Serraphine V1.0.0 by Raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Crabgot  chromas - Urgot custom skin/Urgot Serraphine V1.0.0 by Raka.fantome",
+   "size": 1155607,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Crabgot%20%20chromas%20-%20Urgot%20custom%20skin/Urgot%20Serraphine%20V1.0.0%20by%20Raka.fantome"
+  },
+  "RF_Storage1/Part5/Crimson Locke - Summoner's Rift custom skin/Crimson Locke.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Crimson Locke - Summoner's Rift custom skin/Crimson Locke.fantome",
+   "size": 4054771,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Crimson%20Locke%20-%20Summoner's%20Rift%20custom%20skin/Crimson%20Locke.fantome"
+  },
+  "RF_Storage1/Part5/Cubic Derby minions (wuthering waves) - Summoner's Rift mod/Cubic Derby minions by ass ill ya.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Cubic Derby minions (wuthering waves) - Summoner's Rift mod/Cubic Derby minions by ass ill ya.fantome",
+   "size": 19243753,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Cubic%20Derby%20minions%20(wuthering%20waves)%20-%20Summoner's%20Rift%20mod/Cubic%20Derby%20minions%20by%20ass%20ill%20ya.fantome"
+  },
+  "RF_Storage1/Part5/Dreamybull Announcer - Summoner's Rift announcer mod/dreamybull announcer V1.5 by haigblo.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Dreamybull Announcer - Summoner's Rift announcer mod/dreamybull announcer V1.5 by haigblo.fantome",
+   "size": 9273942,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Dreamybull%20Announcer%20-%20Summoner's%20Rift%20announcer%20mod/dreamybull%20announcer%20V1.5%20by%20haigblo.fantome"
+  },
+  "RF_Storage1/Part5/Futaba Sakura Announcer Mod SR - Summoner's Rift announcer mod/Futaba Announcer Pack.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Futaba Sakura Announcer Mod SR - Summoner's Rift announcer mod/Futaba Announcer Pack.fantome",
+   "size": 5108248,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Futaba%20Sakura%20Announcer%20Mod%20SR%20-%20Summoner's%20Rift%20announcer%20mod/Futaba%20Announcer%20Pack.fantome"
+  },
+  "RF_Storage1/Part5/GLaDOS Announcer - Summoner's Rift announcer mod/GLaDOS Announcer 1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/GLaDOS Announcer - Summoner's Rift announcer mod/GLaDOS Announcer 1.0.fantome",
+   "size": 4153649,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/GLaDOS%20Announcer%20-%20Summoner's%20Rift%20announcer%20mod/GLaDOS%20Announcer%201.0.fantome"
+  },
+  "RF_Storage1/Part5/Hanazono Yurine Mundo - Dr. Mundo custom skin/Hanazono Yurine Mundo V1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Hanazono Yurine Mundo - Dr. Mundo custom skin/Hanazono Yurine Mundo V1.0.0.fantome",
+   "size": 17311646,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Hanazono%20Yurine%20Mundo%20-%20Dr.%20Mundo%20custom%20skin/Hanazono%20Yurine%20Mundo%20V1.0.0.fantome"
+  },
+  "RF_Storage1/Part5/Hanazono Yurine Mundo - Dr. Mundo custom skin/Hanazono Yurine Mundo V1.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Hanazono Yurine Mundo - Dr. Mundo custom skin/Hanazono Yurine Mundo V1.1.0.fantome",
+   "size": 17311602,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Hanazono%20Yurine%20Mundo%20-%20Dr.%20Mundo%20custom%20skin/Hanazono%20Yurine%20Mundo%20V1.1.0.fantome"
+  },
+  "RF_Storage1/Part5/Iso Mordekaise - Mordekaiser custom skin/Iso Mordekaise V1.1.0 by rorotea.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Iso Mordekaise - Mordekaiser custom skin/Iso Mordekaise V1.1.0 by rorotea.fantome",
+   "size": 9812678,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Iso%20Mordekaise%20-%20Mordekaiser%20custom%20skin/Iso%20Mordekaise%20V1.1.0%20by%20rorotea.fantome"
+  },
+  "RF_Storage1/Part5/Iso Mordekaise - Mordekaiser custom skin/iso-mordekaise_1.0.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Iso Mordekaise - Mordekaiser custom skin/iso-mordekaise_1.0.1.fantome",
+   "size": 1915400,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Iso%20Mordekaise%20-%20Mordekaiser%20custom%20skin/iso-mordekaise_1.0.1.fantome"
+  },
+  "RF_Storage1/Part5/Iso Mordekaise - Mordekaiser custom skin/iso-mordekaise_1.0.2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Iso Mordekaise - Mordekaiser custom skin/iso-mordekaise_1.0.2.fantome",
+   "size": 1910097,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Iso%20Mordekaise%20-%20Mordekaiser%20custom%20skin/iso-mordekaise_1.0.2.fantome"
+  },
+  "RF_Storage1/Part5/Iso Mordekaise - Mordekaiser custom skin/iso-mordekaise_1.0.3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Iso Mordekaise - Mordekaiser custom skin/iso-mordekaise_1.0.3.fantome",
+   "size": 1904704,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Iso%20Mordekaise%20-%20Mordekaiser%20custom%20skin/iso-mordekaise_1.0.3.fantome"
+  },
+  "RF_Storage1/Part5/Jinwoo Battle Queen Kata - Katarina custom skin/Jinwoo Battle Queen Kata_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Jinwoo Battle Queen Kata - Katarina custom skin/Jinwoo Battle Queen Kata_large_file.txt",
+   "size": 363,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Jinwoo%20Battle%20Queen%20Kata%20-%20Katarina%20custom%20skin/Jinwoo%20Battle%20Queen%20Kata_large_file.txt"
+  },
+  "RF_Storage1/Part5/Jonkler HUD + Animated Loadscreen - Common UI mod/Jonkler HUD + Loadscreen V3.0.0 by AleXD_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Jonkler HUD + Animated Loadscreen - Common UI mod/Jonkler HUD + Loadscreen V3.0.0 by AleXD_large_file.txt",
+   "size": 411,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Jonkler%20HUD%20%2B%20Animated%20Loadscreen%20-%20Common%20UI%20mod/Jonkler%20HUD%20%2B%20Loadscreen%20V3.0.0%20by%20AleXD_large_file.txt"
+  },
+  "RF_Storage1/Part5/Jonkler HUD + Animated Loadscreen - Common UI mod/jonkler-hud-animated-loadscreen_1.0.0_large_file.txt": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Jonkler HUD + Animated Loadscreen - Common UI mod/jonkler-hud-animated-loadscreen_1.0.0_large_file.txt",
+   "size": 404,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Jonkler%20HUD%20%2B%20Animated%20Loadscreen%20-%20Common%20UI%20mod/jonkler-hud-animated-loadscreen_1.0.0_large_file.txt"
+  },
+  "RF_Storage1/Part5/Kaisa Wild Rift - Kai'Sa custom skin/Kaisa Base Wild Rift V1.0.0 by Raka.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Kaisa Wild Rift - Kai'Sa custom skin/Kaisa Base Wild Rift V1.0.0 by Raka.fantome",
+   "size": 4436749,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Kaisa%20Wild%20Rift%20-%20Kai'Sa%20custom%20skin/Kaisa%20Base%20Wild%20Rift%20V1.0.0%20by%20Raka.fantome"
+  },
+  "RF_Storage1/Part5/Kratos K Sante - K'Sante custom skin/Kratos K Sante.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Kratos K Sante - K'Sante custom skin/Kratos K Sante.fantome",
+   "size": 5527701,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Kratos%20K%20Sante%20-%20K'Sante%20custom%20skin/Kratos%20K%20Sante.fantome"
+  },
+  "RF_Storage1/Part5/Lina Announcer Expanded - Summoner's Rift announcer mod/Lina Announcer Expanded V1.0.0 by Dear_Agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Lina Announcer Expanded - Summoner's Rift announcer mod/Lina Announcer Expanded V1.0.0 by Dear_Agony.fantome",
+   "size": 6745616,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Lina%20Announcer%20Expanded%20-%20Summoner's%20Rift%20announcer%20mod/Lina%20Announcer%20Expanded%20V1.0.0%20by%20Dear_Agony.fantome"
+  },
+  "RF_Storage1/Part5/Lina Announcer Expanded - Summoner's Rift announcer mod/Lina Announcer Expanded V2.0.0 by Dear_Agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Lina Announcer Expanded - Summoner's Rift announcer mod/Lina Announcer Expanded V2.0.0 by Dear_Agony.fantome",
+   "size": 6695414,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Lina%20Announcer%20Expanded%20-%20Summoner's%20Rift%20announcer%20mod/Lina%20Announcer%20Expanded%20V2.0.0%20by%20Dear_Agony.fantome"
+  },
+  "RF_Storage1/Part5/Lupa Jarvan wip (Wuthering Waves) - Jarvan IV custom skin/Lupa Jarvan WIP by acrylis.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Lupa Jarvan wip (Wuthering Waves) - Jarvan IV custom skin/Lupa Jarvan WIP by acrylis.fantome",
+   "size": 26685293,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Lupa%20Jarvan%20wip%20(Wuthering%20Waves)%20-%20Jarvan%20IV%20custom%20skin/Lupa%20Jarvan%20WIP%20by%20acrylis.fantome"
+  },
+  "RF_Storage1/Part5/Lupa Jarvan wip (Wuthering Waves) - Jarvan IV custom skin/Lupa Jarvan WIP by acrylis_[1.0.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Lupa Jarvan wip (Wuthering Waves) - Jarvan IV custom skin/Lupa Jarvan WIP by acrylis_[1.0.0].fantome",
+   "size": 22660976,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Lupa%20Jarvan%20wip%20(Wuthering%20Waves)%20-%20Jarvan%20IV%20custom%20skin/Lupa%20Jarvan%20WIP%20by%20acrylis_%5B1.0.0%5D.fantome"
+  },
+  "RF_Storage1/Part5/Lupa Jarvan wip (Wuthering Waves) - Jarvan IV custom skin/Lupa Jarvan WIP v2 by acrylis.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Lupa Jarvan wip (Wuthering Waves) - Jarvan IV custom skin/Lupa Jarvan WIP v2 by acrylis.fantome",
+   "size": 30316220,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Lupa%20Jarvan%20wip%20(Wuthering%20Waves)%20-%20Jarvan%20IV%20custom%20skin/Lupa%20Jarvan%20WIP%20v2%20by%20acrylis.fantome"
+  },
+  "RF_Storage1/Part5/Lupa Jarvan wip (Wuthering Waves) - Jarvan IV custom skin/Lupa Jarvan WIP v2 by acrylis_[1.0.2].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Lupa Jarvan wip (Wuthering Waves) - Jarvan IV custom skin/Lupa Jarvan WIP v2 by acrylis_[1.0.2].fantome",
+   "size": 30374182,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Lupa%20Jarvan%20wip%20(Wuthering%20Waves)%20-%20Jarvan%20IV%20custom%20skin/Lupa%20Jarvan%20WIP%20v2%20by%20acrylis_%5B1.0.2%5D.fantome"
+  },
+  "RF_Storage1/Part5/Lupa Jarvan wip (Wuthering Waves) - Jarvan IV custom skin/Lupa Jarvan WIP v3 by acrylis.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Lupa Jarvan wip (Wuthering Waves) - Jarvan IV custom skin/Lupa Jarvan WIP v3 by acrylis.fantome",
+   "size": 32243102,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Lupa%20Jarvan%20wip%20(Wuthering%20Waves)%20-%20Jarvan%20IV%20custom%20skin/Lupa%20Jarvan%20WIP%20v3%20by%20acrylis.fantome"
+  },
+  "RF_Storage1/Part5/No Clash Banners - Summoner's Rift mod/No_Clash_Banners_by_Moga_v16.10.1.0.7.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/No Clash Banners - Summoner's Rift mod/No_Clash_Banners_by_Moga_v16.10.1.0.7.fantome",
+   "size": 2776940,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/No%20Clash%20Banners%20-%20Summoner's%20Rift%20mod/No_Clash_Banners_by_Moga_v16.10.1.0.7.fantome"
+  },
+  "RF_Storage1/Part5/Queen of Pain Announcer × Dota 2 Killstreaks - Summoner's Rift announcer mod/Queen of Pain Announcer x Dota 2 Killstreaks V1.0.0 by Dear_Agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Queen of Pain Announcer × Dota 2 Killstreaks - Summoner's Rift announcer mod/Queen of Pain Announcer x Dota 2 Killstreaks V1.0.0 by Dear_Agony.fantome",
+   "size": 8649967,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Queen%20of%20Pain%20Announcer%20%C3%97%20Dota%202%20Killstreaks%20-%20Summoner's%20Rift%20announcer%20mod/Queen%20of%20Pain%20Announcer%20x%20Dota%202%20Killstreaks%20V1.0.0%20by%20Dear_Agony.fantome"
+  },
+  "RF_Storage1/Part5/Queen of Pain Announcer × Dota 2 Killstreaks - Summoner's Rift announcer mod/Queen of Pain Announcer x Dota 2 Killstreaks V2.0.0 by Dear_Agony.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Queen of Pain Announcer × Dota 2 Killstreaks - Summoner's Rift announcer mod/Queen of Pain Announcer x Dota 2 Killstreaks V2.0.0 by Dear_Agony.fantome",
+   "size": 8583367,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Queen%20of%20Pain%20Announcer%20%C3%97%20Dota%202%20Killstreaks%20-%20Summoner's%20Rift%20announcer%20mod/Queen%20of%20Pain%20Announcer%20x%20Dota%202%20Killstreaks%20V2.0.0%20by%20Dear_Agony.fantome"
+  },
+  "RF_Storage1/Part5/SimplifyMinimap - Summoner's Rift UI mod/simplify-minimap-mod-removes-border-and-buttons_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/SimplifyMinimap - Summoner's Rift UI mod/simplify-minimap-mod-removes-border-and-buttons_1.0.0.fantome",
+   "size": 82380,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/SimplifyMinimap%20-%20Summoner's%20Rift%20UI%20mod/simplify-minimap-mod-removes-border-and-buttons_1.0.0.fantome"
+  },
+  "RF_Storage1/Part5/SimplifyMinimap - Summoner's Rift UI mod/simplify-minimap-removes-border-and-buttons_1.0.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/SimplifyMinimap - Summoner's Rift UI mod/simplify-minimap-removes-border-and-buttons_1.0.1.fantome",
+   "size": 13729,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/SimplifyMinimap%20-%20Summoner's%20Rift%20UI%20mod/simplify-minimap-removes-border-and-buttons_1.0.1.fantome"
+  },
+  "RF_Storage1/Part5/SimplifyMinimap - Summoner's Rift UI mod/simplify-minimap_1.0.2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/SimplifyMinimap - Summoner's Rift UI mod/simplify-minimap_1.0.2.fantome",
+   "size": 2945,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/SimplifyMinimap%20-%20Summoner's%20Rift%20UI%20mod/simplify-minimap_1.0.2.fantome"
+  },
+  "RF_Storage1/Part5/SimplifyMinimap - Summoner's Rift UI mod/simplify-minimap_16_9_0_[16.9.1].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/SimplifyMinimap - Summoner's Rift UI mod/simplify-minimap_16_9_0_[16.9.1].fantome",
+   "size": 3781,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/SimplifyMinimap%20-%20Summoner's%20Rift%20UI%20mod/simplify-minimap_16_9_0_%5B16.9.1%5D.fantome"
+  },
+  "RF_Storage1/Part5/Soy una gargolaaa - Galio sound mod/Soy una gargola.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Soy una gargolaaa - Galio sound mod/Soy una gargola.fantome",
+   "size": 1291271,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Soy%20una%20gargolaaa%20-%20Galio%20sound%20mod/Soy%20una%20gargola.fantome"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Invasion - Summoner's Rift mod/Star Guardian BGM - Invasion_[16.1.1].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Star Guardian BGM - Invasion - Summoner's Rift mod/Star Guardian BGM - Invasion_[16.1.1].fantome",
+   "size": 35869956,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Invasion%20-%20Summoner's%20Rift%20mod/Star%20Guardian%20BGM%20-%20Invasion_%5B16.1.1%5D.fantome"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Invasion - Summoner's Rift mod/star-guardian-bgm-invasion_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Star Guardian BGM - Invasion - Summoner's Rift mod/star-guardian-bgm-invasion_1.0.0.fantome",
+   "size": 31485626,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Invasion%20-%20Summoner's%20Rift%20mod/star-guardian-bgm-invasion_1.0.0.fantome"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Invasion - Summoner's Rift mod/star-guardian-bgm-invasion_3.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Star Guardian BGM - Invasion - Summoner's Rift mod/star-guardian-bgm-invasion_3.0.0.fantome",
+   "size": 32635633,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Invasion%20-%20Summoner's%20Rift%20mod/star-guardian-bgm-invasion_3.0.0.fantome"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Vocals - Summoner's Rift mod/Star Guardian BGM - Vocal V2.0.0 by MatthewChasm.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Star Guardian BGM - Vocals - Summoner's Rift mod/Star Guardian BGM - Vocal V2.0.0 by MatthewChasm.fantome",
+   "size": 35928998,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Vocals%20-%20Summoner's%20Rift%20mod/Star%20Guardian%20BGM%20-%20Vocal%20V2.0.0%20by%20MatthewChasm.fantome"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Vocals - Summoner's Rift mod/Star Guardian BGM - Vocals V2.0.0 by MatthewChasm_[26.11.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Star Guardian BGM - Vocals - Summoner's Rift mod/Star Guardian BGM - Vocals V2.0.0 by MatthewChasm_[26.11.0].fantome",
+   "size": 35917384,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Vocals%20-%20Summoner's%20Rift%20mod/Star%20Guardian%20BGM%20-%20Vocals%20V2.0.0%20by%20MatthewChasm_%5B26.11.0%5D.fantome"
+  },
+  "RF_Storage1/Part5/Star Guardian BGM - Vocals - Summoner's Rift mod/star-guardian-bgm-vocals_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Star Guardian BGM - Vocals - Summoner's Rift mod/star-guardian-bgm-vocals_1.0.0.fantome",
+   "size": 35309108,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Star%20Guardian%20BGM%20-%20Vocals%20-%20Summoner's%20Rift%20mod/star-guardian-bgm-vocals_1.0.0.fantome"
+  },
+  "RF_Storage1/Part5/Woof and Lamb Chroma VFX - Kindred mod/Woof and Lamb Chroma VFX.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Woof and Lamb Chroma VFX - Kindred mod/Woof and Lamb Chroma VFX.fantome",
+   "size": 14722462,
+   "first_seen": "2026-11-17T10:32:14.828Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Woof%20and%20Lamb%20Chroma%20VFX%20-%20Kindred%20mod/Woof%20and%20Lamb%20Chroma%20VFX.fantome"
   }
  },
  "images": {
