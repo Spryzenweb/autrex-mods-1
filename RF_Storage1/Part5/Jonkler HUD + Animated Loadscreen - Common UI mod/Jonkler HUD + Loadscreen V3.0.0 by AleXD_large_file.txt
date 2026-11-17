@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Jonkler HUD + Loadscreen V3.0.0 by AleXD.fantome
+Mod      : Jonkler HUD + Animated Loadscreen - Common UI mod
+Source   : https://runeforge.dev/mods/f648e3dc-e4aa-46fd-bd87-5a6f14668854
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Jonkler_HUD___Loadscreen_V3.0.0_by_AleXD/Jonkler.HUD.Loadscreen.V3.0.0.by.AleXD.fantome
