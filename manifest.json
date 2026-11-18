@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-18T18:42:21.279Z",
+ "updated_at": "2026-11-18T18:42:39.909Z",
  "repo_bytes": {
-  "autrex-mods-1": 80356497107
+  "autrex-mods-1": 80331701031
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -77259,30 +77259,6 @@
    "first_seen": "2026-11-18T09:48:31.929Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/jurassic'sai/jurassic-sai_1.0.0_%5Bv1.0.0%5D.modpkg"
-  },
-  "RF_Storage1/Part2/Utaha Heimerdinger (Blue Archive)/Utaha Heimerdinger (Blue Archive)_Main.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part2/Utaha Heimerdinger (Blue Archive)/Utaha Heimerdinger (Blue Archive)_Main.fantome",
-   "size": 6206221,
-   "first_seen": "2026-11-18T18:40:56.019Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Utaha%20Heimerdinger%20(Blue%20Archive)/Utaha%20Heimerdinger%20(Blue%20Archive)_Main.fantome"
-  },
-  "RF_Storage1/Part3/Shock blade talon/shock blade talon1 need skin.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part3/Shock blade talon/shock blade talon1 need skin.fantome",
-   "size": 10631253,
-   "first_seen": "2026-11-18T18:40:56.019Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Shock%20blade%20talon/shock%20blade%20talon1%20need%20skin.fantome"
-  },
-  "RF_Storage1/Part3/Talon plum blossom/pbt talon need skin.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part3/Talon plum blossom/pbt talon need skin.fantome",
-   "size": 7958602,
-   "first_seen": "2026-11-18T18:40:56.019Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Talon%20plum%20blossom/pbt%20talon%20need%20skin.fantome"
   }
  },
  "images": {
@@ -101201,49 +101177,49 @@
   "71c3696c-49e8-491f-96b1-a92b5890e394.png": {
    "repo": "autrex-mods-1",
    "size": 2426239,
-   "first_seen": "2026-11-18T18:40:34.923Z",
+   "first_seen": "2026-11-18T18:42:39.909Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/71c3696c-49e8-491f-96b1-a92b5890e394.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/71c3696c-49e8-491f-96b1-a92b5890e394.png"
   },
   "2749547e-9bc2-4544-b819-36c869262d38.webp": {
    "repo": "autrex-mods-1",
    "size": 235886,
-   "first_seen": "2026-11-18T18:40:34.923Z",
+   "first_seen": "2026-11-18T18:42:39.909Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/2749547e-9bc2-4544-b819-36c869262d38.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/2749547e-9bc2-4544-b819-36c869262d38.webp"
   },
   "813d6fed-350e-467a-9b99-026f097e05ac.png": {
    "repo": "autrex-mods-1",
    "size": 3195343,
-   "first_seen": "2026-11-18T18:40:34.923Z",
+   "first_seen": "2026-11-18T18:42:39.909Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/813d6fed-350e-467a-9b99-026f097e05ac.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/813d6fed-350e-467a-9b99-026f097e05ac.png"
   },
   "87dcbe7c-d80c-4a51-b549-ff990ccd4bea.png": {
    "repo": "autrex-mods-1",
    "size": 241207,
-   "first_seen": "2026-11-18T18:40:34.923Z",
+   "first_seen": "2026-11-18T18:42:39.909Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/87dcbe7c-d80c-4a51-b549-ff990ccd4bea.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/87dcbe7c-d80c-4a51-b549-ff990ccd4bea.png"
   },
   "a8b38ab1-0994-4eba-8de3-07d9d714b080.webp": {
    "repo": "autrex-mods-1",
    "size": 2384598,
-   "first_seen": "2026-11-18T18:40:34.923Z",
+   "first_seen": "2026-11-18T18:42:39.909Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/a8b38ab1-0994-4eba-8de3-07d9d714b080.webp",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/a8b38ab1-0994-4eba-8de3-07d9d714b080.webp"
   },
   "cf69ad0b-bc1c-4069-bd93-0cceb9fdea84.png": {
    "repo": "autrex-mods-1",
    "size": 2135459,
-   "first_seen": "2026-11-18T18:40:34.923Z",
+   "first_seen": "2026-11-18T18:42:39.909Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/cf69ad0b-bc1c-4069-bd93-0cceb9fdea84.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/cf69ad0b-bc1c-4069-bd93-0cceb9fdea84.png"
   },
   "a68ad284-dc5d-406a-a437-580370047804.png": {
    "repo": "autrex-mods-1",
    "size": 2097896,
-   "first_seen": "2026-11-18T18:40:34.923Z",
+   "first_seen": "2026-11-18T18:42:39.909Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/a68ad284-dc5d-406a-a437-580370047804.png",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/a68ad284-dc5d-406a-a437-580370047804.png"
   }
@@ -101731,5 +101707,5 @@
   "86ab7fa7-a5b7-49d4-b253-80d6957d1b58.png"
  ],
  "image_total": 3359,
- "images_crawled_at": "2026-11-18T18:40:18.475Z"
+ "images_crawled_at": "2026-11-18T18:42:35.187Z"
 }
