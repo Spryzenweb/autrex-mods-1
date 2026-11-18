@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-18T18:42:39.909Z",
+ "updated_at": "2026-11-18T18:42:59.770Z",
  "repo_bytes": {
-  "autrex-mods-1": 80331701031
+  "autrex-mods-1": 80356497107
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -77259,6 +77259,30 @@
    "first_seen": "2026-11-18T09:48:31.929Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/jurassic'sai/jurassic-sai_1.0.0_%5Bv1.0.0%5D.modpkg"
+  },
+  "RF_Storage1/Part2/Utaha Heimerdinger (Blue Archive)/Utaha Heimerdinger (Blue Archive)_Main.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part2/Utaha Heimerdinger (Blue Archive)/Utaha Heimerdinger (Blue Archive)_Main.fantome",
+   "size": 6206221,
+   "first_seen": "2026-11-18T18:42:59.770Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/Utaha%20Heimerdinger%20(Blue%20Archive)/Utaha%20Heimerdinger%20(Blue%20Archive)_Main.fantome"
+  },
+  "RF_Storage1/Part3/Shock blade talon/shock blade talon1 need skin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Shock blade talon/shock blade talon1 need skin.fantome",
+   "size": 10631253,
+   "first_seen": "2026-11-18T18:42:59.770Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Shock%20blade%20talon/shock%20blade%20talon1%20need%20skin.fantome"
+  },
+  "RF_Storage1/Part3/Talon plum blossom/pbt talon need skin.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Talon plum blossom/pbt talon need skin.fantome",
+   "size": 7958602,
+   "first_seen": "2026-11-18T18:42:59.770Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Talon%20plum%20blossom/pbt%20talon%20need%20skin.fantome"
   }
  },
  "images": {
