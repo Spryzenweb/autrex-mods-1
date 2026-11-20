@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-20T18:23:23.881Z",
+ "updated_at": "2026-11-20T18:23:45.191Z",
  "repo_bytes": {
-  "autrex-mods-1": 80509055960
+  "autrex-mods-1": 80525384220
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -77831,6 +77831,50 @@
    "first_seen": "2026-11-19T18:59:50.583Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Old%20Mastery%20Icons/Old%20Mastery%20Emotes%201.0.2.fantome"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/Old Spirit Guard Udyr 2.0.0.fantome": {
+   "size": 46860715,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/Old%20Spirit%20Guard%20Udyr%202.0.0.fantome",
+   "first_seen": "2026-11-20T18:23:40.301Z"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/Old Spirit Guard Udyr 2.0.1.fantome": {
+   "size": 46861111,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/Old%20Spirit%20Guard%20Udyr%202.0.1.fantome",
+   "first_seen": "2026-11-20T18:23:40.301Z"
+  },
+  "RF_Storage1/Part1/Black and White items/Items Black and White V26.23.0 by Aropatnik.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Black and White items/Items Black and White V26.23.0 by Aropatnik.fantome",
+   "size": 6296226,
+   "first_seen": "2026-11-20T18:23:45.191Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Black%20and%20White%20items/Items%20Black%20and%20White%20V26.23.0%20by%20Aropatnik.fantome"
+  },
+  "RF_Storage1/Part5/Jayuumi (Yuumi as Jayce)/Jayuumi.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Jayuumi (Yuumi as Jayce)/Jayuumi.modpkg",
+   "size": 8135911,
+   "first_seen": "2026-11-20T18:23:45.191Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Jayuumi%20(Yuumi%20as%20Jayce)/Jayuumi.modpkg"
+  },
+  "RF_Storage1/Part5/Old Mastery VFX&SFX/Old Mastery Emotes 1.0.2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Old Mastery VFX&SFX/Old Mastery Emotes 1.0.2.fantome",
+   "size": 1654120,
+   "first_seen": "2026-11-20T18:23:45.191Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Old%20Mastery%20VFX%26SFX/Old%20Mastery%20Emotes%201.0.2.fantome"
+  },
+  "RF_Storage1/Part5/Pink Bow Gold Icon/PinkBowGoldIcon.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Pink Bow Gold Icon/PinkBowGoldIcon.fantome",
+   "size": 242003,
+   "first_seen": "2026-11-20T18:23:45.191Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Pink%20Bow%20Gold%20Icon/PinkBowGoldIcon.fantome"
   }
  },
  "images": {
