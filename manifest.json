@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-21T17:10:32.941Z",
+ "updated_at": "2026-11-21T17:10:48.753Z",
  "repo_bytes": {
-  "autrex-mods-1": 80568872971
+  "autrex-mods-1": 80525515731
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -77875,90 +77875,6 @@
    "first_seen": "2026-11-20T18:22:40.822Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Pink%20Bow%20Gold%20Icon/PinkBowGoldIcon.fantome"
-  },
-  "RF_Storage1/Part5/Demonblade Draven/demonblade-draven_1.2.0.modpkg": {
-   "size": 42182480,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/Demonblade%20Draven/demonblade-draven_1.2.0.modpkg",
-   "first_seen": "2026-11-21T17:10:26.050Z"
-  },
-  "RF_Storage1/Part5/Vanilla Ice - Kassadin/vanilla-ice-kassadin_1.0.0.fantome": {
-   "size": 40428564,
-   "too_large": true,
-   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part5/Vanilla%20Ice%20-%20Kassadin/vanilla-ice-kassadin_1.0.0.fantome",
-   "first_seen": "2026-11-21T17:10:26.333Z"
-  },
-  "RF_Storage1/Part1/All Old Health Bars/All_Old_Health_Bars_ALT_by_Moga_v16.23.0.42.1055.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/All Old Health Bars/All_Old_Health_Bars_ALT_by_Moga_v16.23.0.42.1055.fantome",
-   "size": 1549671,
-   "first_seen": "2026-11-21T17:10:32.941Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/All%20Old%20Health%20Bars/All_Old_Health_Bars_ALT_by_Moga_v16.23.0.42.1055.fantome"
-  },
-  "RF_Storage1/Part1/Default Summoner Rift/DefaultSummonerRift_16.23.2.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Default Summoner Rift/DefaultSummonerRift_16.23.2.fantome",
-   "size": 1078834,
-   "first_seen": "2026-11-21T17:10:32.941Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Default%20Summoner%20Rift/DefaultSummonerRift_16.23.2.fantome"
-  },
-  "RF_Storage1/Part1/NO FF (Automatic No Vote)/Hide_FF_Popup_by_Moga_v16.23.1.31.334.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/NO FF (Automatic No Vote)/Hide_FF_Popup_by_Moga_v16.23.1.31.334.fantome",
-   "size": 458368,
-   "first_seen": "2026-11-21T17:10:32.941Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/NO%20FF%20(Automatic%20No%20Vote)/Hide_FF_Popup_by_Moga_v16.23.1.31.334.fantome"
-  },
-  "RF_Storage1/Part1/Old Red Blue Indicators/Old Red Blue Indicators 3.2.1.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Old Red Blue Indicators/Old Red Blue Indicators 3.2.1.fantome",
-   "size": 4487445,
-   "first_seen": "2026-11-21T17:10:32.941Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Old%20Red%20Blue%20Indicators/Old%20Red%20Blue%20Indicators%203.2.1.fantome"
-  },
-  "RF_Storage1/Part1/Remove Tooltip Delay and Lockout/No_Tooltip_Delay_by_Moga_v16.23.1.13.66.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part1/Remove Tooltip Delay and Lockout/No_Tooltip_Delay_by_Moga_v16.23.1.13.66.fantome",
-   "size": 1051926,
-   "first_seen": "2026-11-21T17:10:32.941Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Remove%20Tooltip%20Delay%20and%20Lockout/No_Tooltip_Delay_by_Moga_v16.23.1.13.66.fantome"
-  },
-  "RF_Storage1/Part3/Gangplank Announcer/gangplank-announcer_1.0.4.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part3/Gangplank Announcer/gangplank-announcer_1.0.4.fantome",
-   "size": 25959266,
-   "first_seen": "2026-11-21T17:10:32.941Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Gangplank%20Announcer/gangplank-announcer_1.0.4.fantome"
-  },
-  "RF_Storage1/Part5/LUIGI DEALER TF FIXED (original from notCZ)/LUIGI DEALER TF FIXED_notCZ.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part5/LUIGI DEALER TF FIXED (original from notCZ)/LUIGI DEALER TF FIXED_notCZ.fantome",
-   "size": 184632,
-   "first_seen": "2026-11-21T17:10:32.941Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/LUIGI%20DEALER%20TF%20FIXED%20(original%20from%20notCZ)/LUIGI%20DEALER%20TF%20FIXED_notCZ.fantome"
-  },
-  "RF_Storage1/Part5/Main/Main.fantome": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part5/Main/Main.fantome",
-   "size": 8586739,
-   "first_seen": "2026-11-21T17:10:32.941Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Main/Main.fantome"
-  },
-  "RF_Storage1/Part5/Old Udyr, Black Belt, Primal, Definitely Not, & Dragon Oracle/Old Udyr All Skins_large_file.txt": {
-   "repo": "autrex-mods-1",
-   "path": "RF_Storage1/Part5/Old Udyr, Black Belt, Primal, Definitely Not, & Dragon Oracle/Old Udyr All Skins_large_file.txt",
-   "size": 359,
-   "first_seen": "2026-11-21T17:10:32.941Z",
-   "gone_from_source": false,
-   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Old%20Udyr%2C%20Black%20Belt%2C%20Primal%2C%20Definitely%20Not%2C%20%26%20Dragon%20Oracle/Old%20Udyr%20All%20Skins_large_file.txt"
   }
  },
  "images": {
@@ -101982,7 +101898,7 @@
   "5e4285e3-8e82-478e-9b66-d3d66454c53b.jfif": {
    "repo": "autrex-mods-1",
    "size": 17492,
-   "first_seen": "2026-11-21T17:10:10.379Z",
+   "first_seen": "2026-11-21T17:10:48.753Z",
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/images/5e4285e3-8e82-478e-9b66-d3d66454c53b.jfif",
    "cdn_url": "https://cdn.jsdelivr.net/gh/Spryzenweb/autrex-mods-1@main/images/5e4285e3-8e82-478e-9b66-d3d66454c53b.jfif"
   }
@@ -102470,5 +102386,5 @@
   "68021fc5-38e3-48f3-95dc-13e0a457d60d.png"
  ],
  "image_total": 3370,
- "images_crawled_at": "2026-11-21T17:10:07.337Z"
+ "images_crawled_at": "2026-11-21T17:10:45.592Z"
 }
