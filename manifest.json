@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-22T17:41:10.330Z",
+ "updated_at": "2026-11-22T17:41:50.043Z",
  "repo_bytes": {
-  "autrex-mods-1": 80570680582
+  "autrex-mods-1": 80764672006
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -77959,6 +77959,122 @@
    "first_seen": "2026-11-21T17:13:44.520Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Old%20Udyr%2C%20Black%20Belt%2C%20Primal%2C%20Definitely%20Not%2C%20%26%20Dragon%20Oracle/Old%20Udyr%20All%20Skins_large_file.txt"
+  },
+  "RF_Storage1/Part1/Star Guardian BGM - Vocals/Star Guardian BGM - Vocals V2.1.0.fantome": {
+   "size": 42414056,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Star%20Guardian%20BGM%20-%20Vocals/Star%20Guardian%20BGM%20-%20Vocals%20V2.1.0.fantome",
+   "first_seen": "2026-11-22T17:41:26.916Z"
+  },
+  "RF_Storage1/Part1/Star Guardian BGM - Vocals/Star Guardian BGM - Vocals V2.1.1.fantome": {
+   "size": 45022119,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Star%20Guardian%20BGM%20-%20Vocals/Star%20Guardian%20BGM%20-%20Vocals%20V2.1.1.fantome",
+   "first_seen": "2026-11-22T17:41:26.916Z"
+  },
+  "RF_Storage1/Part1/Anima Squad BGM - Swarm/Anima Squad Bgm - Swarm V2.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Anima Squad BGM - Swarm/Anima Squad Bgm - Swarm V2.1.0.fantome",
+   "size": 34529719,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Anima%20Squad%20BGM%20-%20Swarm/Anima%20Squad%20Bgm%20-%20Swarm%20V2.1.0.fantome"
+  },
+  "RF_Storage1/Part1/GIGACHAD MUNDO/GIGAMUNDO V1.1.0 by Chammad_[1.2.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/GIGACHAD MUNDO/GIGAMUNDO V1.1.0 by Chammad_[1.2.0].fantome",
+   "size": 3214810,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/GIGACHAD%20MUNDO/GIGAMUNDO%20V1.1.0%20by%20Chammad_%5B1.2.0%5D.fantome"
+  },
+  "RF_Storage1/Part1/KO Coliseum BGM - TFT set 15/KO Coliseum BGM - TFT set 15 V2.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/KO Coliseum BGM - TFT set 15/KO Coliseum BGM - TFT set 15 V2.1.0.fantome",
+   "size": 37722763,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/KO%20Coliseum%20BGM%20-%20TFT%20set%2015/KO%20Coliseum%20BGM%20-%20TFT%20set%2015%20V2.1.0.fantome"
+  },
+  "RF_Storage1/Part1/Star Guardian BGM - Invasion/Star Guardian BGM - Invasion V2.1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part1/Star Guardian BGM - Invasion/Star Guardian BGM - Invasion V2.1.0.fantome",
+   "size": 32394404,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part1/Star%20Guardian%20BGM%20-%20Invasion/Star%20Guardian%20BGM%20-%20Invasion%20V2.1.0.fantome"
+  },
+  "RF_Storage1/Part3/Spirit Blossom Janna - Akana/spirit-blossom-janna-akana_1.0.2.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Spirit Blossom Janna - Akana/spirit-blossom-janna-akana_1.0.2.modpkg",
+   "size": 8486493,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Spirit%20Blossom%20Janna%20-%20Akana/spirit-blossom-janna-akana_1.0.2.modpkg"
+  },
+  "RF_Storage1/Part3/Spirit Blossom Janna - Kanmei/spirit-blossom-janna-kanmei_1.0.2.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part3/Spirit Blossom Janna - Kanmei/spirit-blossom-janna-kanmei_1.0.2.modpkg",
+   "size": 8837146,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part3/Spirit%20Blossom%20Janna%20-%20Kanmei/spirit-blossom-janna-kanmei_1.0.2.modpkg"
+  },
+  "RF_Storage1/Part5/Hornet (Silksong) Gwen Remodel/Gwen-Hornet-v1.2.2.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Hornet (Silksong) Gwen Remodel/Gwen-Hornet-v1.2.2.fantome",
+   "size": 12403936,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Hornet%20(Silksong)%20Gwen%20Remodel/Gwen-Hornet-v1.2.2.fantome"
+  },
+  "RF_Storage1/Part5/Hornet (Silksong) Gwen Remodel/Gwen-Hornet-v1.3.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Hornet (Silksong) Gwen Remodel/Gwen-Hornet-v1.3.0.fantome",
+   "size": 12664341,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Hornet%20(Silksong)%20Gwen%20Remodel/Gwen-Hornet-v1.3.0.fantome"
+  },
+  "RF_Storage1/Part5/Hornet (Silksong) Gwen Remodel/Gwen-Hornet-v2.3.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Hornet (Silksong) Gwen Remodel/Gwen-Hornet-v2.3.0.fantome",
+   "size": 13299365,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Hornet%20(Silksong)%20Gwen%20Remodel/Gwen-Hornet-v2.3.0.fantome"
+  },
+  "RF_Storage1/Part5/Johnny Cage fan/johnny-cage-lee-sin-vo_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Johnny Cage fan/johnny-cage-lee-sin-vo_1.0.0.fantome",
+   "size": 4276340,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Johnny%20Cage%20fan/johnny-cage-lee-sin-vo_1.0.0.fantome"
+  },
+  "RF_Storage1/Part5/Johnny Cage fan/johnny-cage-lee-sin_1.2.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Johnny Cage fan/johnny-cage-lee-sin_1.2.0.fantome",
+   "size": 3162638,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Johnny%20Cage%20fan/johnny-cage-lee-sin_1.2.0.fantome"
+  },
+  "RF_Storage1/Part5/Spirit Blossom Talon - Pink/spiritblossom-talon-by-perseus_1.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Spirit Blossom Talon - Pink/spiritblossom-talon-by-perseus_1.0.0.fantome",
+   "size": 11377851,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Spirit%20Blossom%20Talon%20-%20Pink/spiritblossom-talon-by-perseus_1.0.0.fantome"
+  },
+  "RF_Storage1/Part5/Spirit Blossom Talon - Pink/spiritblossom-talonv2-by-perseus_2.0.0_[v1.0.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Spirit Blossom Talon - Pink/spiritblossom-talonv2-by-perseus_2.0.0_[v1.0.0].fantome",
+   "size": 11621618,
+   "first_seen": "2026-11-22T17:41:50.043Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Spirit%20Blossom%20Talon%20-%20Pink/spiritblossom-talonv2-by-perseus_2.0.0_%5Bv1.0.0%5D.fantome"
   }
  },
  "images": {
