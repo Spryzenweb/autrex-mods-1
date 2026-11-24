@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-24T20:30:52.909Z",
+ "updated_at": "2026-11-24T20:31:48.390Z",
  "repo_bytes": {
-  "autrex-mods-1": 80777519017
+  "autrex-mods-1": 81085241790
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -78097,6 +78097,140 @@
    "first_seen": "2026-11-24T03:52:55.108Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Spirit%20Blossom%20but%20Night%20Version/Spirit%20Blossom%20Rift%20Night.modpkg"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/Old Spirit Guard Udyr 3.1.0.fantome": {
+   "size": 44777910,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/Old%20Spirit%20Guard%20Udyr%203.1.0.fantome",
+   "first_seen": "2026-11-24T20:31:10.977Z"
+  },
+  "RF_Storage1/Part2/SimplifyMinimap/Simplify_Minimap_16.23.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part2/SimplifyMinimap/Simplify_Minimap_16.23.1.fantome",
+   "size": 906902,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part2/SimplifyMinimap/Simplify_Minimap_16.23.1.fantome"
+  },
+  "RF_Storage1/Part4/Alphonse Malphite - Classic & Modern/Alphonse Malphite - Classic_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Alphonse Malphite - Classic & Modern/Alphonse Malphite - Classic_[1.1.0].fantome",
+   "size": 9391393,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Alphonse%20Malphite%20-%20Classic%20%26%20Modern/Alphonse%20Malphite%20-%20Classic_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic - KO VFX_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic - KO VFX_[1.1.0].fantome",
+   "size": 27733782,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Bruce%20Lee%20Sin%20-%20Classic/Bruce%20LeeSin%20Classic%20-%20KO%20VFX_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic - Shirt & KO VFX_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic - Shirt & KO VFX_[1.1.0].fantome",
+   "size": 27665870,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Bruce%20Lee%20Sin%20-%20Classic/Bruce%20LeeSin%20Classic%20-%20Shirt%20%26%20KO%20VFX_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic - Shirt & Sunglasses VFX_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic - Shirt & Sunglasses VFX_[1.1.0].fantome",
+   "size": 27663283,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Bruce%20Lee%20Sin%20-%20Classic/Bruce%20LeeSin%20Classic%20-%20Shirt%20%26%20Sunglasses%20VFX_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic - Shirt_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic - Shirt_[1.1.0].fantome",
+   "size": 26230749,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Bruce%20Lee%20Sin%20-%20Classic/Bruce%20LeeSin%20Classic%20-%20Shirt_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic - Sunglasses VFX_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic - Sunglasses VFX_[1.1.0].fantome",
+   "size": 27745967,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Bruce%20Lee%20Sin%20-%20Classic/Bruce%20LeeSin%20Classic%20-%20Sunglasses%20VFX_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Bruce Lee Sin - Classic/Bruce LeeSin Classic_[1.1.0].fantome",
+   "size": 26298658,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Bruce%20Lee%20Sin%20-%20Classic/Bruce%20LeeSin%20Classic_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/GTA CJ Lee Sin - Classic/GTA CJ LeeSin Classic_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/GTA CJ Lee Sin - Classic/GTA CJ LeeSin Classic_[1.1.0].fantome",
+   "size": 28372728,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/GTA%20CJ%20Lee%20Sin%20-%20Classic/GTA%20CJ%20LeeSin%20Classic_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Ninja Lee Sin - Classic/Ninja LeeSin Classic - Red_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Ninja Lee Sin - Classic/Ninja LeeSin Classic - Red_[1.1.0].fantome",
+   "size": 26055157,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Ninja%20Lee%20Sin%20-%20Classic/Ninja%20LeeSin%20Classic%20-%20Red_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Ninja Lee Sin - Classic/Ninja LeeSin Classic - White_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Ninja Lee Sin - Classic/Ninja LeeSin Classic - White_[1.1.0].fantome",
+   "size": 24356579,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Ninja%20Lee%20Sin%20-%20Classic/Ninja%20LeeSin%20Classic%20-%20White_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Spider-Man Lee Sin - Classic/Spider-Man LeeSin Classic_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Spider-Man Lee Sin - Classic/Spider-Man LeeSin Classic_[1.1.0].fantome",
+   "size": 24569021,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Spider-Man%20Lee%20Sin%20-%20Classic/Spider-Man%20LeeSin%20Classic_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part4/Street Fighter Ryu Lee Sin - Classic/Street Fighter RYU LeeSin Classic_[1.1.0].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Street Fighter Ryu Lee Sin - Classic/Street Fighter RYU LeeSin Classic_[1.1.0].fantome",
+   "size": 29206524,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Street%20Fighter%20Ryu%20Lee%20Sin%20-%20Classic/Street%20Fighter%20RYU%20LeeSin%20Classic_%5B1.1.0%5D.fantome"
+  },
+  "RF_Storage1/Part5/KillFeed2TheLeft(x1.5 available)/Kill_Feed_2_The_Left_1.5x_16.23.1_[v16.23.1].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/KillFeed2TheLeft(x1.5 available)/Kill_Feed_2_The_Left_1.5x_16.23.1_[v16.23.1].fantome",
+   "size": 763832,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/KillFeed2TheLeft(x1.5%20available)/Kill_Feed_2_The_Left_1.5x_16.23.1_%5Bv16.23.1%5D.fantome"
+  },
+  "RF_Storage1/Part5/KillFeed2TheLeft(x1.5 available)/Kill_Feed_2_The_Left_16.23.1.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/KillFeed2TheLeft(x1.5 available)/Kill_Feed_2_The_Left_16.23.1.fantome",
+   "size": 748511,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/KillFeed2TheLeft(x1.5%20available)/Kill_Feed_2_The_Left_16.23.1.fantome"
+  },
+  "RF_Storage1/Part5/KillFeed2TheLeft(x1.5 available)/kill-feed2-the-left_0.0.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/KillFeed2TheLeft(x1.5 available)/kill-feed2-the-left_0.0.0.fantome",
+   "size": 13817,
+   "first_seen": "2026-11-24T20:31:48.390Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/KillFeed2TheLeft(x1.5%20available)/kill-feed2-the-left_0.0.0.fantome"
   }
  },
  "images": {
