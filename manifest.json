@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-24T03:53:31.626Z",
+ "updated_at": "2026-11-24T03:53:52.178Z",
  "repo_bytes": {
-  "autrex-mods-1": 80764908899
+  "autrex-mods-1": 80775340750
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -78075,6 +78075,28 @@
    "first_seen": "2026-11-22T17:45:12.870Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Spirit%20Blossom%20Talon%20-%20Pink/spiritblossom-talonv2-by-perseus_2.0.0_%5Bv1.0.0%5D.fantome"
+  },
+  "RF_Storage1/Part1/Old Spirit Guard Udyr/Old Spirit Guard Udyr 3.0.0.fantome": {
+   "size": 48441597,
+   "too_large": true,
+   "source_url": "https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/RF_Storage1/Part1/Old%20Spirit%20Guard%20Udyr/Old%20Spirit%20Guard%20Udyr%203.0.0.fantome",
+   "first_seen": "2026-11-24T03:53:48.106Z"
+  },
+  "RF_Storage1/Part4/Marin Kitagawa Gwen/Marin Kitagawa Gwen V1.0.1 by Paler.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part4/Marin Kitagawa Gwen/Marin Kitagawa Gwen V1.0.1 by Paler.fantome",
+   "size": 10431502,
+   "first_seen": "2026-11-24T03:53:52.178Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part4/Marin%20Kitagawa%20Gwen/Marin%20Kitagawa%20Gwen%20V1.0.1%20by%20Paler.fantome"
+  },
+  "RF_Storage1/Part5/Spirit Blossom but Night Version/Spirit Blossom Rift Night.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Spirit Blossom but Night Version/Spirit Blossom Rift Night.modpkg",
+   "size": 349,
+   "first_seen": "2026-11-24T03:53:52.178Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Spirit%20Blossom%20but%20Night%20Version/Spirit%20Blossom%20Rift%20Night.modpkg"
   }
  },
  "images": {
