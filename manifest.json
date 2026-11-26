@@ -1,9 +1,9 @@
 {
  "version": 1,
  "source": "MelancholySlime/RuneForge-Mod-Storage",
- "updated_at": "2026-11-26T01:39:10.298Z",
+ "updated_at": "2026-11-26T01:39:33.891Z",
  "repo_bytes": {
-  "autrex-mods-1": 81085241790
+  "autrex-mods-1": 81138897103
  },
  "files": {
   "RF_Storage1/Part1/Abyssal Buccaneer Kled/abyssal-kled-repathed.fantome": {
@@ -78231,6 +78231,38 @@
    "first_seen": "2026-11-24T20:35:15.048Z",
    "gone_from_source": false,
    "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/KillFeed2TheLeft(x1.5%20available)/kill-feed2-the-left_0.0.0.fantome"
+  },
+  "RF_Storage1/Part5/Kayn Maka Albarn/Kayn Maka.modpkg": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Kayn Maka Albarn/Kayn Maka.modpkg",
+   "size": 29844548,
+   "first_seen": "2026-11-26T01:39:33.891Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Kayn%20Maka%20Albarn/Kayn%20Maka.modpkg"
+  },
+  "RF_Storage1/Part5/KillFeedXL x1.5/Bigger_Kill_Feed_1.5x_16.23.1_[v16.23.1].fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/KillFeedXL x1.5/Bigger_Kill_Feed_1.5x_16.23.1_[v16.23.1].fantome",
+   "size": 472633,
+   "first_seen": "2026-11-26T01:39:33.891Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/KillFeedXL%20x1.5/Bigger_Kill_Feed_1.5x_16.23.1_%5Bv16.23.1%5D.fantome"
+  },
+  "RF_Storage1/Part5/Old SmiteItems VFX/Old Smite_Items VFX 1.0.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/Old SmiteItems VFX/Old Smite_Items VFX 1.0.fantome",
+   "size": 18444818,
+   "first_seen": "2026-11-26T01:39:33.891Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/Old%20SmiteItems%20VFX/Old%20Smite_Items%20VFX%201.0.fantome"
+  },
+  "RF_Storage1/Part5/transparant hud/transparant_hud_16.23.3.fantome": {
+   "repo": "autrex-mods-1",
+   "path": "RF_Storage1/Part5/transparant hud/transparant_hud_16.23.3.fantome",
+   "size": 4893314,
+   "first_seen": "2026-11-26T01:39:33.891Z",
+   "gone_from_source": false,
+   "raw_url": "https://raw.githubusercontent.com/Spryzenweb/autrex-mods-1/main/RF_Storage1/Part5/transparant%20hud/transparant_hud_16.23.3.fantome"
   }
  },
  "images": {
